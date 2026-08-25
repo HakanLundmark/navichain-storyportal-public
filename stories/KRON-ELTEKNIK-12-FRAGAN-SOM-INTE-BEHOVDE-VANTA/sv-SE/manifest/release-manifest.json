@@ -1,0 +1,49 @@
+{
+  "story_id": "KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA",
+  "locale": "sv-SE",
+  "output_order": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "images": [
+    {"asset":"cover_00","file":"images/cover_00.png","size":[1024,1536],"sha256":"aeb94195f7f56b5681bd9e4ff585625e95c47d1417a52e637a8a50a47a8740cd"},
+    {"asset":"panel_01","file":"images/panel_01.png","size":[1024,1536],"sha256":"34f8888873110a7dddd924376097d1d0ab62f0d7b27bd95a8c064762975da4a8"},
+    {"asset":"panel_02","file":"images/panel_02.png","size":[1024,1536],"sha256":"2bd37eb2184090f3c01e892c6642bfbdad40783dc0266f59098e9cd9a19f473f"},
+    {"asset":"panel_03","file":"images/panel_03.png","size":[1024,1536],"sha256":"f280410c462d590e7d1152613569d8b66bed8a63f8cea24a2f213ca7cd9bd9b3"},
+    {"asset":"panel_04","file":"images/panel_04.png","size":[1024,1536],"sha256":"73719a83a6b37116e8b36b1707d595ab14e34e8895cf6da11fc3434774ede144"},
+    {"asset":"panel_05","file":"images/panel_05.png","size":[1024,1536],"sha256":"a4f10ff9867c47bfebc60ae50297d3a32f71c46312b7045e5ba4973610cfc26b"},
+    {"asset":"panel_06","file":"images/panel_06.png","size":[1024,1536],"sha256":"fff8b786b46d06516128dc4541a15f9935b5326c4a607d9c7eeb527faa1e8910"},
+    {"asset":"panel_07","file":"images/panel_07.png","size":[1024,1536],"sha256":"2c0b235872d3acc4d093136c8a8ae024cd67f66617232cac3a655192a7e0c2e4"},
+    {"asset":"panel_08","file":"images/panel_08.png","size":[1024,1536],"sha256":"2a4127c344d522b85e1b8ffe3ffe548e1386ea899b003a3a27f3628ed05219bd"},
+    {"asset":"panel_09","file":"images/panel_09.png","size":[1024,1536],"sha256":"e749b22a50eccaaa3d03c622e4f51ec686ba120e37f169687efef604b08146e0"},
+    {"asset":"panel_10","file":"images/panel_10.png","size":[1024,1536],"sha256":"14cb6431476f72209f6a57e03b0eb1d62ed390472a4e813f687db096d002656c"},
+    {"asset":"panel_11","file":"images/panel_11.png","size":[1024,1536],"sha256":"b0671212e6abe72fda3c4bd10530a8efa16cb1cf34e128648aea2adfe7042acb"},
+    {"asset":"panel_12","file":"images/panel_12.png","size":[1024,1536],"sha256":"a43aa96c83fec5110d62b6c3296ac02419af14ebc3545cbf6c0f7e853e811365"},
+    {"asset":"cta_13","file":"images/cta_13.png","size":[1024,1536],"sha256":"e672ada79a7b6bd197616f81ecf8ee1d06223582e4e75697589c48c666274bce"}
+  ],
+  "pdf": {
+    "file": "carousel/fragan_som_inte_behovde_vanta_sv-SE.pdf",
+    "sha256": "bc9893d690ca7bf79c6fe0062646f942f49d2919870161256d8dab1dadccfcf2"
+  },
+  "qr": {
+    "payload": "https://navichain.se/signup",
+    "cleartext": "navichain.se/signup"
+  },
+  "release_status": "APPROVED_FOR_RELEASE",
+  "manual_approval": {
+    "cta_13": true,
+    "approval_basis": "explicit_user_approval"
+  }
+}

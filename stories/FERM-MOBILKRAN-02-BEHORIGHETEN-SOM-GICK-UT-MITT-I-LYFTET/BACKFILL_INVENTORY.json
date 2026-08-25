@@ -1,0 +1,32 @@
+{
+  "storyId": "FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET",
+  "title": "Behörigheten som gick ut mitt i lyftet",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "inventory": {
+    "originalStory": "EXISTS_AND_EXPORTABLE",
+    "cover_00": "EXISTS_AND_EXPORTABLE",
+    "panel_01": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_02": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_03": "EXISTS_AND_EXPORTABLE",
+    "panel_04": "EXISTS_AND_EXPORTABLE",
+    "panel_05": "EXISTS_AND_EXPORTABLE",
+    "panel_06": "EXISTS_AND_EXPORTABLE",
+    "panel_07": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_08": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_09": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_10": "EXISTS_AND_EXPORTABLE",
+    "panel_11": "EXISTS_AND_EXPORTABLE",
+    "panel_12": "EXISTS_AND_EXPORTABLE",
+    "cta_13": "EXISTS_AND_EXPORTABLE_BUT_NOT_APPROVED",
+    "pdf": "EXISTS_AND_EXPORTABLE_BUT_STALE",
+    "social": "MISSING",
+    "qa": "EXISTS_AND_EXPORTABLE",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": "EXISTS_AND_EXPORTABLE_LOCALLY",
+    "releaseZip": "MISSING_NOT_CREATED_FOR_INCOMPLETE_LOCALE"
+  },
+  "existsButNotExportable": [],
+  "localesActuallyCreated": ["sv-SE"]
+}

@@ -1,0 +1,70 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS",
+  "title": "ANTECKNINGEN SOM ALDRIG SKREVS",
+  "checkedAt": "2026-08-24T19:09:00+02:00",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "qaStatus": "UNLOCKED_ORIGINAL_WITH_PREFLIGHT_CORRECTIONS_NOT_MERGED",
+    "size": 10508,
+    "sha256": "10a90668e12537cb477289aba4689f7e89bb6c7d9fad759b2cb0f60be9698e27",
+    "storyLockStatus": "NOT_EXECUTED"
+  },
+  "englishStory": {
+    "path": "stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "10a90668e12537cb477289aba4689f7e89bb6c7d9fad759b2cb0f60be9698e27",
+    "size": 10602,
+    "sha256": "0978cde1980d3556774c49516fa32780d04c06e3c48e64893f7d752fef8354f3"
+  },
+  "canonicalVisuals": [
+    {"assetId":"cover_00","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"löftet_som_blev_spårbart.png","size":3164638,"width":1055,"height":1491,"sha256":"6bb0a3bb88077c8e8b0aa6fe13bdc47d3dbff10ab6df9f0f7c60e339fe4ff8de","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/cover_00.png","githubPublished":false},
+    {"assetId":"panel_01","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"a_comic_illustration_style_panel_vintage_ligne_cl.png","size":2799074,"width":1122,"height":1402,"sha256":"63e03d39949d1269ab1464a8b4168193234f02ee31ef5ded0269fe48ed99e94b","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_01.png","githubPublished":false},
+    {"assetId":"panel_02","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"a_comic_book_style_illustration_with_an_interior_c.png","size":2792420,"width":1122,"height":1402,"sha256":"f3469abdd494eaf265606e74edfeec7591d32059b878bedc21a02ee18c8253ec","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_02.png","githubPublished":false},
+    {"assetId":"panel_03","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_comic_book_style_illustration_panel_overall_s.png","size":2709582,"width":1122,"height":1402,"sha256":"f72639c25866459e794a129b0c2fb068e17136f0b6d91c963d64f41ace2e3a78","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_03.png","githubPublished":false},
+    {"assetId":"panel_04","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_retro_comic_panel_illustration_of_a_busy_office.png","size":2868816,"width":1122,"height":1402,"sha256":"7f68eec4dd8cefae3a7f404f631e50810d9c500f3e2936bfb887d5a53b2622f2","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_04.png","githubPublished":false},
+    {"assetId":"panel_05","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_comic_illustration_style_office_scene_in_a_vinta.png","size":2853380,"width":1122,"height":1402,"sha256":"cbb94aece64773523332cad51c2a7b01d716b3e9ed84d4b84e27208a7bac4d4f","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_05.png","githubPublished":false},
+    {"assetId":"panel_06","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"kontorspanik_bland_bortglömda_anteckningar.png","size":3101438,"width":1122,"height":1402,"sha256":"4db839c9f9f5e79a6ef9739f68680bb6165fcb0a1f9b2dec2255217f10261ae5","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_06.png","githubPublished":false},
+    {"assetId":"panel_07","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"a_comic_style_illustration_panel_cartoon_graphic.png","size":2935618,"width":1122,"height":1402,"sha256":"a61584dbd262e3d148ae3c726fe3c9aaef7dc9eaf4c65576c00551ee889a75e4","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_07.png","githubPublished":false},
+    {"assetId":"panel_08","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_detailed_comic_book_workplace_illustration_in_a.png","size":2949423,"width":1122,"height":1402,"sha256":"c8d02391b4dff665699751807e347529086694226af0dc66a9345cb79cd3bdf8","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_08.png","githubPublished":false},
+    {"assetId":"panel_09","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_detailed_comic_graphic_novel_style_illustration.png","size":2967385,"width":1122,"height":1402,"sha256":"a1ee69af7a25f2f9ab432a60685a7abfb44715fb65ce7d89c1e243839c14b252","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_09.png","githubPublished":false},
+    {"assetId":"panel_10","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_detailed_illustrated_comic_style_office_scene_in.png","size":2836355,"width":1123,"height":1400,"sha256":"b980a38ed903d7c7ee2a3b335b3f8679baa1e12b8e4c1cd2190c0c53b8e3d9e0","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_10.png","githubPublished":false},
+    {"assetId":"panel_11","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_comic_book_illustration_style_advertising_comic.png","size":2816443,"width":1122,"height":1402,"sha256":"a6f724fea613dab6e98df76735ce92ad746fad869c082320a2e4d8ed4c998cbf","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_11.png","githubPublished":false},
+    {"assetId":"panel_12","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"ordning_ger_flyt_på_tavlan.png","size":3441751,"width":1024,"height":1536,"sha256":"1d884870052aa766c7875ad74630efd5304f6aef1d017f8b71189c2045fb99e6","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/panel_12.png","githubPublished":false},
+    {"assetId":"cta_13","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_full_page_comic_style_marketing_poster_illust.png","size":3204930,"width":1065,"height":1477,"sha256":"ea14f8e9b96ed3deb3fc2801bbca9d1396c99b0c224819a636957a88e78d8d79","intendedPath":"stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/sv-SE/images/cta_13.png","githubPublished":false}
+  ],
+  "historicalVisualAlternates": {
+    "count": 10,
+    "sourceClass": "EXACT_ORIGINAL",
+    "qaStatus": "REBUILD_REQUIRED_OR_REJECTED",
+    "note": "Preserved in the local retro package; no candidate was promoted to PASS/LOCKED."
+  },
+  "derivedRelease": {"pdf":"NOT_CREATED","social":"NOT_CREATED","releaseManifest":"NOT_CREATED","releaseQa":"NOT_CREATED"},
+  "transport": {
+    "automaticChainRequested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "automaticChainStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "chromeDownloadActionAvailableInThisRuntime": false,
+    "nextcloudActionAvailableInThisRuntime": false,
+    "publisherActionAvailableInThisRuntime": false,
+    "githubTextWriteAvailable": true,
+    "githubMountedLocalBinaryWriteAvailable": false,
+    "canonicalGithubBinaryAssetsVerified": 0,
+    "result": "PARTIAL_BACKFILL"
+  },
+  "localPackages": {
+    "sv-SE": {"file":"KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS-sv-SE-retro-backfill-v2.zip","size":159176997,"sha256":"be188742428dacd784f01f26a13ca18d6faf1b389ce6e1f40f0beb91e62e0bfc"},
+    "sv-SEPublishRequest": {"file":"KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS-sv-SE.publish.json","size":15639,"sha256":"09c466d8fbad7818b5c0cabe04e7296fd9302a6274eb5abb54fd7fbcaa0a46fe"},
+    "sv-SEPublishWrapper": {"file":"KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS-sv-SE.publish.zip","size":3691,"sha256":"5d253f3fec538b52bff40149b26a607707932b7a4afe3b7c133ed2d409f2f291"},
+    "en-GB": {"file":"KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS-en-GB-retro-backfill-v2.zip","size":10746,"sha256":"e9da7a0aab46015386697be2af54da3ad45527e26f2a682c5397138859aad9dc"},
+    "en-GBPublishRequest": {"file":"KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS-en-GB.publish.json","size":797,"sha256":"9258584f3ec153dadbcc4c2766d1d1845e7bc6ce9ed19e0b8e28d488ee012c05"},
+    "en-GBPublishWrapper": {"file":"KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS-en-GB.publish.zip","size":674,"sha256":"7bdac0fcc53a074888c2856cd4ac4cd0f0c0eec97c6b9f396be258ac35f14981"}
+  }
+}

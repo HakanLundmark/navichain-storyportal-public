@@ -1,0 +1,157 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "ut-ur-svarta-ladan",
+  "storyIdAuthority": "existing historical canonical story ID from this chat and prior Git history",
+  "title": "Ut ur svarta lådan — Torbjörn tar tillbaka kontrollen över logistiken",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "source": "retro_backfill_v2_2026-08-24",
+  "originalStory": "ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/ut-ur-svarta-ladan/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 10376,
+    "sha256": "a7d3efcdefa34af22d951b44357cd4e3429bd699720a2b58390ea1887be1e466",
+    "gitBlobSha1": "3da4343bd9fa4077281732273b7f5d11ca944093",
+    "readBackVerified": true
+  },
+  "englishOriginalStory": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "path": "stories/ut-ur-svarta-ladan/source/original-story-en-GB.md",
+    "metadataPath": "stories/ut-ur-svarta-ladan/source/original-story-en-GB.meta.json",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceStorySha256": "a7d3efcdefa34af22d951b44357cd4e3429bd699720a2b58390ea1887be1e466",
+    "sha256": "76ac78541b85ff396a8383eed1ad4fa8797eea04c827bd6cfe470c1c17939468",
+    "size": 10497,
+    "readBackVerified": true
+  },
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:21:00+02:00",
+  "inventory": {
+    "runtimeExactOriginalVisualFiles": {"sv-SE": 30, "en-GB": 10, "de-DE": 4},
+    "runtimeUnambiguousCanonicalVisualFiles": {"sv-SE": 7, "en-GB": 6, "de-DE": 4},
+    "runtimeExactOriginalPdfFiles": 2,
+    "runtimeExactSourceReferenceBinaries": 5,
+    "historicalRejectedCompositeFiles": 3,
+    "localInventorySha256": "5167606ab5706024925ca762d341cc9df07c1a9e43ef3f2b28f5b486ceaffac7"
+  },
+  "githubPublishedBinaryAssets": 0,
+  "githubVerifiedBinaryAssets": 0,
+  "githubPublishedTextArtifacts": [
+    "stories/ut-ur-svarta-ladan/ORIGINAL_STORY.md",
+    "stories/ut-ur-svarta-ladan/source/narrative-master.meta.json",
+    "stories/ut-ur-svarta-ladan/source/original-story-en-GB.md",
+    "stories/ut-ur-svarta-ladan/source/original-story-en-GB.meta.json",
+    "stories/ut-ur-svarta-ladan/qa/retro-backfill-v2-qa.md",
+    "stories/ut-ur-svarta-ladan/retro-backfill/v2/status.json",
+    "stories/ut-ur-svarta-ladan/sources/source-reference-hashes.json"
+  ],
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryBackfillReason": "Exact historical binary bytes are directly accessible in the current runtime and unchanged local publish packages have been built. This chat has no controllable Chrome download surface and no connected Nextcloud/WebDAV write surface; the connected GitHub write actions accept text/blob content but do not accept a local binary path. Large original binaries therefore cannot be fed to the installed binary assembler without an unsupported manual transport workaround. No image or PDF is claimed as GitHub-published or synced.",
+  "transport": {
+    "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "chromeDownloadControlAvailable": false,
+    "nextcloudWriteSurfaceAvailable": false,
+    "automaticChainInvoked": false,
+    "githubTextWritesAvailable": true,
+    "githubBinaryLocalPathWriteAvailable": false
+  },
+  "localExportPackages": {
+    "sv-SE": {
+      "filename": "ut-ur-svarta-ladan-sv-SE-retro-backfill-v2.zip",
+      "size": 98460564,
+      "sha256": "2328bf7a110a3db52e599572a89de59fda6fb05aa0d272f98d2955a8f24d8304",
+      "publishRequest": "ut-ur-svarta-ladan-sv-SE.publish.json",
+      "publishRequestSha256": "97f9e4a5a504c0bd1300f23e52f7a8786146965b914a86afb8d0638b6cfaf33a",
+      "publishRequestWrapper": "ut-ur-svarta-ladan-sv-SE.publish.zip",
+      "publishRequestWrapperSha256": "0a330712d6a6a4a7d03aa0469ca540eb8f4ddc00881ee9709fb49b296d521f1b"
+    },
+    "en-GB": {
+      "filename": "ut-ur-svarta-ladan-en-GB-retro-backfill-v2.zip",
+      "size": 85317264,
+      "sha256": "99feed0a472e28ffd1d49ff9ce8fb79a41b626d3997d3479d96508c3e82b2ba7",
+      "publishRequest": "ut-ur-svarta-ladan-en-GB.publish.json",
+      "publishRequestSha256": "9d74d6ead1bfaffba05111f8dd3afa69ff155a8562d4d71e6641afe963d36dee",
+      "publishRequestWrapper": "ut-ur-svarta-ladan-en-GB.publish.zip",
+      "publishRequestWrapperSha256": "5b39ec3ec197722641cf6443be3a3ff2da4b564e333ff9fcd72e70366e723c79"
+    },
+    "de-DE": {
+      "filename": "ut-ur-svarta-ladan-de-DE-retro-backfill-v2.zip",
+      "size": 14077020,
+      "sha256": "9e345ec39dc9d1522d5471bc5a15cbb3a67bc1d0f2b3257ca9579458c4bef889",
+      "publishRequest": "ut-ur-svarta-ladan-de-DE.publish.json",
+      "publishRequestSha256": "f3ee0dc83e0570a1ae912fe7c73da439d4069adbdf6f4b80674078a14479d351",
+      "publishRequestWrapper": "ut-ur-svarta-ladan-de-DE.publish.zip",
+      "publishRequestWrapperSha256": "23d07795c98f8f8b5fd73f15936de1fb1da72080437940b7b07e393764848b5d"
+    },
+    "sourceReferences": {
+      "filename": "ut-ur-svarta-ladan-source-references-retro-backfill-v2.zip",
+      "size": 11177571,
+      "sha256": "b8912b00f13ccd832b39b2f61f0dcd3349814c5d5c1341cbb37e63bf1b839deb"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "narrativeMaster": true,
+      "canonicalAssetSlots": 14,
+      "unambiguousExactOriginalCanonicalAssets": ["cover_00","panel_02","panel_03","panel_05","panel_06","panel_07","panel_10"],
+      "canonicalSourceNotExportableOrAmbiguous": ["panel_01","panel_04","panel_08","panel_09","panel_11","panel_12","cta_13"],
+      "historicalCandidateFilesPreservedLocally": 20,
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "EXACT_ORIGINAL_LOCAL_NOT_GITHUB_PUBLISHED",
+      "social": "SOURCE_NOT_EXPORTABLE",
+      "releaseZip": "SOURCE_NOT_EXPORTABLE"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "narrativeMaster": false,
+      "textArtifactPublished": true,
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "unambiguousExactOriginalCanonicalAssets": ["cover_00","panel_05","panel_07","panel_09","panel_10","cta_13"],
+      "canonicalSourceNotExportableOrAmbiguous": ["panel_01","panel_02","panel_03","panel_04","panel_06","panel_08","panel_11","panel_12"],
+      "historicalCandidateFilesPreservedLocally": 3,
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "EXACT_ORIGINAL_LOCAL_NOT_GITHUB_PUBLISHED",
+      "social": "SOURCE_NOT_EXPORTABLE",
+      "releaseZip": "SOURCE_NOT_EXPORTABLE"
+    },
+    "de-DE": {
+      "status": "INCOMPLETE",
+      "narrativeMaster": false,
+      "unambiguousExactOriginalCanonicalAssets": ["cover_00","panel_01","panel_02","panel_03"],
+      "notCreated": ["panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "releaseZip": "NOT_CREATED"
+    }
+  },
+  "qa": {
+    "retroBackfill": "stories/ut-ur-svarta-ladan/qa/retro-backfill-v2-qa.md",
+    "provenanceSeparateFromQa": true,
+    "releaseStatus": "INCOMPLETE"
+  },
+  "historicalExactTextBlobs": {
+    "originalStory": "3da4343bd9fa4077281732273b7f5d11ca944093",
+    "backfillV1Inventory": "93314d95e9b7ad9c2bd505fdc92603fe44401469",
+    "backfillV1CurrentChatQa": "10a099b9bdaa019438d1d588b463610c6fed606b",
+    "backfillV1SourceLinks": "97d8d978fc27fc9097905450146354be254488ff",
+    "backfillV1StoryJson": "ddc4f3ba75d8f47a5cf8ffbd058b13c5b2104040"
+  },
+  "notes": [
+    "No rerender, reconstruction, crop, restyle, generative fill or replacement was performed.",
+    "Provenance and QA remain independent; publication never upgrades QA.",
+    "Historical candidates and rejected composites are preserved locally without being silently promoted to canonical release assets.",
+    "The sv-SE Narrative Master was byte-verified against its Git blob SHA-1 and read back from GitHub main.",
+    "The en-GB text was read back from GitHub main and its metadata confirms DERIVED_TRANSLATION, faithful, narrativeMaster=false.",
+    "Historical PDFs are archived locally as exact outputs and are not used to reconstruct missing image originals."
+  ],
+  "backfilledAt": "2026-08-24T22:21:00+02:00"
+}

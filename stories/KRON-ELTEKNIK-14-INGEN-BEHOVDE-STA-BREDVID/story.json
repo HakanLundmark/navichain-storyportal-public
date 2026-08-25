@@ -1,0 +1,70 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-14-and-canonical-title",
+  "title": "INGEN BEHÖVDE STÅ BREDVID",
+  "subtitle": "En navichain story — Nadja, Yvonne och den första dagen som inte blev som väntat",
+  "series": "Kron Elteknik",
+  "episode": 14,
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionNote": "No explicit LOCK STORY/master version was produced in this chat.",
+  "originalStory": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "path": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "c03e64a46901922839a8fdcd2c82b80bef1e205116cf2403441d25b26809022b",
+    "githubReadBack": "VERIFIED"
+  },
+  "englishStory": {
+    "path": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/original-story-en-GB.md",
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "sha256": "316753099e20651e5ff8c24cd304ce537781471bd8c76f90e2fed08431c6edd7",
+    "sourceStorySha256": "c03e64a46901922839a8fdcd2c82b80bef1e205116cf2403441d25b26809022b",
+    "githubReadBack": "VERIFIED"
+  },
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "sourceStatus": "INCOMPLETE",
+      "githubStatus": "PARTIAL_BACKFILL",
+      "currentRuntimeExactCanonicalAssetCount": 2,
+      "githubPublishedBinaryAssets": 0,
+      "canonicalExactRuntimeAssets": ["cover_00", "panel_01"],
+      "sourceNotExportable": ["panel_02", "panel_07"],
+      "notCreated": ["panel_03", "panel_04", "panel_05", "panel_06", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "qaStatusOfCurrentExactVisuals": "UNKNOWN",
+      "path": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/sv-SE/"
+    }
+  },
+  "inventory": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/retro-backfill-v2-inventory.json",
+  "qa": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/qa/retro-backfill-v2-export-qa.md",
+  "release": {},
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "backfillAt": "2026-08-24T22:07:00+02:00",
+    "narrativeMasterReadBack": "VERIFIED",
+    "englishStoryReadBack": "VERIFIED",
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryFailureReason": "Two exact current runtime PNG originals are locally exportable, but the intended Chrome/local-capture/Nextcloud/hardened-router/publisher path is not available as an invokable/observable tool in this runtime, and the connected GitHub binary actions do not accept a local-file path. No substitute bytes were used.",
+    "automaticTransport": {
+      "chromeDownload": "UNAVAILABLE_AS_INVOKABLE_TOOL",
+      "localCapture": "UNAVAILABLE_AS_INVOKABLE_TOOL",
+      "nextcloudArchive": "UNAVAILABLE_AS_INVOKABLE_TOOL",
+      "hardenedRouter": "UNAVAILABLE_AS_INVOKABLE_TOOL",
+      "publisher": "UNAVAILABLE_AS_INVOKABLE_TOOL"
+    },
+    "localArchive": {
+      "filename": "KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID-retro-backfill-v2-20260824-2207.zip",
+      "size": 17569378,
+      "sha256": "7f9877bf25274b3c50f01058d0fa3105c858739d21a4912ece2eaf6c9607df6a",
+      "zipValidation": "PASS"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema": "navichain-story-translation-v1",
+  "storyId": "SAMMA-STRACKA-SAMMA-SVAR",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/SAMMA-STRACKA-SAMMA-SVAR/ORIGINAL_STORY.md",
+  "sourceStorySha256": "9103e944c6511e69979aa90065f3ea62aea18bea960b4961fee43a3385ce00c3",
+  "translationPath": "stories/SAMMA-STRACKA-SAMMA-SVAR/source/original-story-en-GB.md",
+  "translationSha256": "0e36bd634cabd942b1f384c182b4d18f54034840fc603aa4433bfe91e937ca71",
+  "createdAt": "2026-08-24T19:36:00+02:00",
+  "constraints": [
+    "no plot changes",
+    "no chronology changes",
+    "no protagonist/cast/company changes",
+    "no capability changes",
+    "no added claims",
+    "direct from sv-SE"
+  ]
+}

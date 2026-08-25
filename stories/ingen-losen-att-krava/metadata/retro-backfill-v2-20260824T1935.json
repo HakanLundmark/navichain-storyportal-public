@@ -1,0 +1,115 @@
+{
+  "schema": "navichain-retro-backfill-run-v2",
+  "storyId": "ingen-losen-att-krava",
+  "sourceManifestStoryId": "INGEN-LOSEN-ATT-KRAVA",
+  "title": "INGEN LÖSEN ATT KRÄVA",
+  "checkedAt": "2026-08-24T19:35:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "narrative": {
+    "sv-SE": {
+      "path": "stories/ingen-losen-att-krava/sources/original-story-sv-SE.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "28f056cf5f84d2984b2c02ef5f571cd6440f0f63c476b200ee89c7930aba7ea1",
+      "gitBlobSha": "dcf23961cc4092421fa764996f730536df6327ea",
+      "readBack": "PASS",
+      "narrativeMaster": true
+    },
+    "en-GB": {
+      "path": "stories/ingen-losen-att-krava/sources/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "narrativeMaster": false,
+      "sourceStorySha256": "28f056cf5f84d2984b2c02ef5f571cd6440f0f63c476b200ee89c7930aba7ea1",
+      "sha256": "da2d1f90097cc056217b48aa228dbd4b97b35566e584392d7f01fb6535d01e8d",
+      "gitBlobSha": "21892a3f372df1d7bfa30b56b92a3cf8e0ffc64d",
+      "readBack": "PASS"
+    }
+  },
+  "canonicalSvSeRelease": {
+    "historicallyEvidencedAssets": 14,
+    "dimensions": [1055, 1491],
+    "historicalQa": "PASS",
+    "githubPublishedBinaryAssets": 0,
+    "currentRecoveryResult": "SOURCE_NOT_EXPORTABLE",
+    "reason": "The final canonical 1055x1491 raster bytes and directly visible final renders are not available in the current runtime. Older exact candidates are preserved separately and are not substituted for the final release assets.",
+    "pdf": {
+      "pages": 14,
+      "sha256": "5726383cca9b3d9dcc2448cc6d37bf017c26c5514667a3d00b3f3fd4655b012b",
+      "historicalQa": "PASS",
+      "currentRecoveryResult": "SOURCE_NOT_EXPORTABLE"
+    },
+    "releaseZip": {
+      "size": 98564643,
+      "sha256": "354d78ae9212482a610d2f60d083aec028d135481f3e290ea459a7c27dfb583f",
+      "currentRecoveryResult": "SOURCE_NOT_EXPORTABLE"
+    }
+  },
+  "currentExactHistoricalCandidates": [
+    {
+      "locale": "sv-SE",
+      "assetId": "cover_00",
+      "canonicalReleaseAsset": false,
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "NOT_RELEASE_READY",
+      "runtimePath": "/mnt/data/a_detailed_comic_illustration_cover_scene_in_a_ret.png",
+      "size": 3138039,
+      "dimensions": [1536, 1024],
+      "sha256": "c605efb4dc8b0fd9a491edf1f980e16357c2fe2ec9fc0ea7b9890c2164a6022a",
+      "intendedHistoricalPath": "stories/ingen-losen-att-krava/sv-SE/historical-candidates/cover_00-c605efb4.png",
+      "githubPublished": false
+    },
+    {
+      "locale": "sv-SE",
+      "assetId": "panel_01",
+      "canonicalReleaseAsset": false,
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "NOT_RELEASE_READY",
+      "runtimePath": "/mnt/data/a_comic_book_style_scene_with_a_clean_illustrated.png",
+      "size": 2667367,
+      "dimensions": [1087, 1447],
+      "sha256": "e905c60258b3d46608434edbd4eff3fa11906afa1d62bf7bc60944cbcbffc070",
+      "intendedHistoricalPath": "stories/ingen-losen-att-krava/sv-SE/historical-candidates/panel_01-e905c602.png",
+      "githubPublished": false
+    }
+  ],
+  "enGbVisualHistory": {
+    "sourceNotExportable": [
+      {"assetId":"cover_00","qaStatus":"REJECTED","size":2794651,"sha256":"22e50c1a1c1e9410c956a57c80c233c1a100516b2e2247a3226cd6f1afaa1f4f"},
+      {"assetId":"panel_01","qaStatus":"REBUILD_REQUIRED","size":3093002,"sha256":"8198edbbbcb6ee744dea827baa4fbbe2ae827a6d23c33ec11aec8cecfd87478c"}
+    ],
+    "notCreated": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "referenceSourcesCurrentlyExact": {
+    "NAVICHAIN-OFFICIAL-LOGO.png": {"size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db"},
+    "Korrekt QR kod till signup.png": {"size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e"},
+    "VISUAL-REFERENCE-01-CTA.png": {"size":3273662,"sha256":"68d91301106055b9afa171004f6f921cb47f695adbbf86507ab5d12bdcb50556"},
+    "VISUAL-REFERENCE-02-PANELS.png": {"size":3941179,"sha256":"04e1929de17d9484db59b061a4d1d3c8db8e691faf566a89d56438427fbcc0a2"},
+    "VISUAL-REFERENCE-03-COVER.png": {"size":3810846,"sha256":"4616a57e7a08113d7451c744d2c526cc5f00f6ec7ad457ba435864f8fc13742e"},
+    "NAVICHAIN-PRODUCT-TRUTH.md": {"size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    "Navichain_Market_Truth_MASTER_v1.0.md": {"size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"}
+  },
+  "localPackages": {
+    "archive": {"filename":"ingen-losen-att-krava-retro-v2-archive-20260824T1935.zip","size":16965743,"sha256":"c018b3aaa6ac5c1bb78336ab8853b07e91bc983b0427f031ed9bee0d0b28b816"},
+    "publishPackage": {"filename":"ingen-losen-att-krava-sv-SE-retro-v2-publish-package-20260824T1935.zip","size":6115824,"sha256":"c77d69dfcb5b2c8bbb6f26cda32d1a955fe6c46363d2928e2db86328c5d1e2b6"},
+    "publishRequest": {"filename":"ingen-losen-att-krava-sv-SE.publish.json","size":1779,"sha256":"70eb1f91230546565a03b106b3d8c0fe98cb901beeed7c2b4b3470f8d34fc339"},
+    "publishRequestZip": {"filename":"ingen-losen-att-krava-sv-SE.publish.zip","size":861,"sha256":"cab7844002a89dff10a5cc598f0194e93646d57b08a84b4d9e182b656576e750"}
+  },
+  "transport": {
+    "requested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "automaticChainCallable": false,
+    "nextcloudVerified": false,
+    "failurePoint": "ChatGPT runtime exposes no Chrome download/local-capture/Nextcloud/router/publisher connector.",
+    "githubDirectConnectorAvailable": true
+  },
+  "githubBinaryAttempt": {
+    "exactLogoQueueManifest": "backfill-binary-queue/ingen-losen-att-krava-sv-SE-logo-retro-v2-20260824T1935.json",
+    "queueCommitSha": "819252f4d80322f580404ea25d6995cdb2b62136",
+    "queueReadBack": "PASS",
+    "assemblerResult": "NOT_PROCESSED",
+    "targetReadBack": "404_NOT_FOUND",
+    "status": "GITHUB_PUBLISH_FAILED"
+  }
+}

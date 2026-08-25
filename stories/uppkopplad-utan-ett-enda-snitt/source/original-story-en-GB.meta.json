@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "uppkopplad-utan-ett-enda-snitt",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sha256": "6f1b98e5ba18907c8a971555af50c25596fcdc0368bac7a571186df2c4f66a63",
+  "size": 8634,
+  "sourceStorySha256": "f95f183e2e02fd3346f6f8f6f016a85f58b2db8f9fcda89136f4b3519d17e3ba",
+  "path": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-en-GB.md",
+  "note": "Faithful text-only translation created for Retro Backfill v2 directly from the sv-SE Narrative Master. No en-GB image locale was generated and this file is not the Narrative Master."
+}

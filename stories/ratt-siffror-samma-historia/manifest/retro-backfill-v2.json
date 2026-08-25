@@ -1,0 +1,57 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "ratt-siffror-samma-historia",
+  "title": "RÄTT SIFFROR, SAMMA HISTORIA",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "checkedAt": "2026-08-24T17:28:00+02:00",
+  "narrativeMaster": {
+    "path": "stories/ratt-siffror-samma-historia/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "a0fe449e6afe0cb99960cb4f256ef19cd7c80b5343729ccdf6a4bb55f9fc083b",
+    "githubReadBack": "PASS"
+  },
+  "originalUserBrief": {
+    "path": "stories/ratt-siffror-samma-historia/source/original-user-brief-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "f1a6eb3fe38ebe26fc76fd40ba152287e31d7aaf0a97b86fdbbb0fe48a5b53a3",
+    "githubReadBack": "PASS"
+  },
+  "enGB": {
+    "path": "stories/ratt-siffror-samma-historia/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sha256": "62c572c55b08e133334db5920048106d0667a34b670b6b7bc1c83ef9ad7376ce",
+    "githubReadBack": "PASS"
+  },
+  "visualHistory": {
+    "canonicalExactOriginalAssets": 14,
+    "additionalExactOriginalRenderAttempts": 35,
+    "githubPublishedCanonicalBinaryAssets": 0,
+    "githubPublishedAdditionalHistoricalBinaries": 0,
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "releaseStatus": "INCOMPLETE"
+  },
+  "derivedHistoricalReleaseAssets": {
+    "pdf": "NOT_CREATED",
+    "linkedinSocial": "NOT_CREATED",
+    "socialImages": "NOT_CREATED",
+    "thumbnails": "NOT_CREATED"
+  },
+  "transport": {
+    "chromeDownload": "NOT_EXECUTED_UNAVAILABLE_FROM_CURRENT_RUNTIME",
+    "nextcloudArchive": "NOT_EXECUTED_UNAVAILABLE_FROM_CURRENT_RUNTIME",
+    "hardenedRouterPublisher": "NOT_EXECUTED_UNAVAILABLE_FROM_CURRENT_RUNTIME"
+  },
+  "metadata": {
+    "storyJson": "PUBLISHED_AND_READ_BACK_VERIFIED",
+    "storiesIndexJson": "METADATA_VERIFY_FAILED_STALE_ROW_REMAINS"
+  },
+  "commits": {
+    "sourceTextMerge": "b56d982dcbbc47b6b1f1c8dfe4e4d18f6a04d93c",
+    "storyMetadata": "0347a276e7b616b923e2b88c95627406e2eb93b8"
+  }
+}

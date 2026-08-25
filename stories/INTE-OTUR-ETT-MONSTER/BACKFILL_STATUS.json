@@ -1,0 +1,18 @@
+{
+  "storyId": "INTE-OTUR-ETT-MONSTER",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "classification": "INCOMPLETE",
+  "expectedImageAssets": 14,
+  "existsAndExportableImageAssets": 10,
+  "missingImageAssets": ["panel_04.png", "panel_05.png", "panel_08.png", "panel_10.png"],
+  "existsButNotExportableImageAssets": [],
+  "githubPublication": {
+    "textAndMetadataPublished": true,
+    "binaryImageAssetsPublished": false,
+    "binaryPublishNote": "The connected GitHub write actions available in this session do not expose a local-file parameter for repository binary writes. No image was reconstructed, substituted, or converted to text to bypass this constraint. Because the locale is incomplete, it is not published as a complete release."
+  },
+  "releaseZipCreated": false,
+  "existingLocalPartialPackage": "INTE-OTUR-ETT-MONSTER-sv-SE-package.zip",
+  "existingLocalPartialPackageIsRelease": false
+}

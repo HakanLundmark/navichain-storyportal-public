@@ -1,0 +1,24 @@
+{
+  "schema": "navichain-narrative-master-v1",
+  "storyId": "ingen-losen-att-krava",
+  "locale": "sv-SE",
+  "sourceLocale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "qaStatus": "CANONICAL_SOURCE_TEXT_NO_IMAGE_QA_STATE",
+  "sourceCanonicalPath": "stories/ingen-losen-att-krava/ORIGINAL_STORY.md",
+  "filename": "original-story-sv-SE.md",
+  "size": 12272,
+  "sha256": "28f056cf5f84d2984b2c02ef5f571cd6440f0f63c476b200ee89c7930aba7ea1",
+  "gitBlobSha": "dcf23961cc4092421fa764996f730536df6327ea",
+  "byteIdentityEvidence": "GitHub blob SHA is identical to the pre-existing canonical ORIGINAL_STORY.md blob SHA.",
+  "provenance": "Exact byte-preserving copy of the already-published canonical sv-SE Narrative Master.",
+  "publicationState": "GITHUB_VERIFIED",
+  "intendedRepoPath": "stories/ingen-losen-att-krava/sources/original-story-sv-SE.md",
+  "publishedPath": "stories/ingen-losen-att-krava/sources/original-story-sv-SE.md",
+  "transport": {
+    "requestedPipeline": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "actual": "DIRECT_GITHUB_CONNECTOR_FALLBACK",
+    "reason": "No callable Chrome/local-capture/Nextcloud/router/publisher connector is exposed in this chat runtime. GitHub publication and read-back are available directly."
+  }
+}

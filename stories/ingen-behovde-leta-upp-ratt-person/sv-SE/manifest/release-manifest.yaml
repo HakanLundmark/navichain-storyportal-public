@@ -1,0 +1,35 @@
+storyId: ingen-behovde-leta-upp-ratt-person
+masterVersion: 1.0.0
+locale: sv-SE
+createdAt: '2026-08-17T16:46:11.362442+00:00'
+brandAsset: NAVICHAIN-OFFICIAL-LOGO.png
+outputs:
+  images:
+  - images/cover_00.png
+  - images/panel_01.png
+  - images/panel_02.png
+  - images/panel_03.png
+  - images/panel_04.png
+  - images/panel_05.png
+  - images/panel_06.png
+  - images/panel_07.png
+  - images/panel_08.png
+  - images/panel_09.png
+  - images/panel_10.png
+  - images/panel_11.png
+  - images/panel_12.png
+  - images/cta_13.png
+  pdf: carousel/ingen-behovde-leta-upp-ratt-person-sv-SE.pdf
+  linkedin: social/linkedin-sv-SE.txt
+  pdfSha256: b40052d8b7b1df11ede536f740479703bd188f6d85c3bf031bdb7ae78d70e393
+qr:
+  payload: https://navichain.se/signup
+  rasterDecode: PASS
+  pdfDecode: PASS
+qa:
+  raster: PASS
+  pdf: PASS
+  release: PASS
+backfillClassification:
+  localeStatus: INCOMPLETE
+  reason: panel_01 and panel_03 originals are not directly exportable; accessible package files are documented reconstructions.

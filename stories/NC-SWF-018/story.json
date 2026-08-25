@@ -1,0 +1,61 @@
+{
+  "storyId": "NC-SWF-018",
+  "storyIdAuthority": "chat-story-lock-candidate",
+  "title": "INGEN PÅ PLATS, ÄNDÅ EN PLAN",
+  "subtitle": "Kalle, Erik och leveransen som fick en tydlig väg vidare",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "INCOMPLETE"
+  },
+  "originalStoryPath": "stories/NC-SWF-018/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/NC-SWF-018/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 11226,
+    "sha256": "4bf105a72408585b0ab8962705a06d04afe005252f387bdfd78fc15042111f58",
+    "githubReadBackVerified": true
+  },
+  "translations": {
+    "en-GB": {
+      "path": "stories/NC-SWF-018/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "size": 11122,
+      "sha256": "f47cb47668502689cb3450b63fd758c16ac5746c7ff354edb9f8103d36d4dcff",
+      "githubReadBackVerified": true
+    }
+  },
+  "sourceAssetArchive": "stories/NC-SWF-018/sv-SE/source/current-assets.zip",
+  "sourceAssetCount": 13,
+  "exactOriginalCanonicalAssetsAccessible": 13,
+  "githubPublishedBinaryAssets": 0,
+  "canonicalSourceNotExportable": [
+    "panel_04"
+  ],
+  "releaseValidCanonicalAssets": 8,
+  "missingOrInvalidRequiredAssets": [
+    "panel_04",
+    "panel_06",
+    "panel_07",
+    "panel_10",
+    "panel_11",
+    "panel_12"
+  ],
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "summaryPath": "stories/NC-SWF-018/RETRO_BACKFILL_V2.json",
+    "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryFailureReason": "Exact historical bytes are locally available, but the available assistant tool surface cannot invoke the ChatGPT-to-Chrome local capture/Nextcloud/router/publisher chain and cannot stream local binary file paths into the GitHub blob connector. No rerendering or reconstruction was used.",
+    "nextcloudArchiveStatus": "UNVERIFIED",
+    "nextcloudReason": "No connected Nextcloud/Chrome local-capture publisher tool is available in this chat runtime.",
+    "textMetadataGitHubReadBack": "PASS",
+    "updatedAt": "2026-08-24T19:34:00+02:00"
+  },
+  "backfilledAt": "2026-08-24T19:34:00+02:00"
+}

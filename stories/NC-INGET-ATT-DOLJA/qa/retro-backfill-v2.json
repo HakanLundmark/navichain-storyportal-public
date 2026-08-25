@@ -1,0 +1,136 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "NC-INGET-ATT-DOLJA",
+  "title": "INGET ATT DÖLJA — Åsa & kundportalen",
+  "masterVersion": "v1.0",
+  "masterLocale": "sv-SE",
+  "checkedAt": "2026-08-24T22:21:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "policy": {
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedFromPdf": false,
+    "provenanceQaSeparated": true,
+    "chatVisualRecoveryUsed": false,
+    "reasonChatVisualRecoveryNotUsed": "No installed CHAT-VISUAL-RECOVERY procedure was found that would authorize conversion of visible historical renderings into replacement bytes; directly accessible original bytes were preferred."
+  },
+  "narrative": {
+    "master": {
+      "locale": "sv-SE",
+      "path": "stories/NC-INGET-ATT-DOLJA/source/original-story-sv-SE.md",
+      "legacyCanonicalPath": "stories/NC-INGET-ATT-DOLJA/ORIGINAL_STORY.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 7469,
+      "sha256": "7c121a6ee26d4d870dd468cc9f8bd7d18a8befc512db5af47540915a1d7abc96",
+      "narrativeMaster": true,
+      "byteIdentityEvidence": "The runtime serialization was SHA-256 identical to the already published canonical GitHub ORIGINAL_STORY.md export."
+    },
+    "enGB": {
+      "locale": "en-GB",
+      "path": "stories/NC-INGET-ATT-DOLJA/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "sourceStorySha256": "7c121a6ee26d4d870dd468cc9f8bd7d18a8befc512db5af47540915a1d7abc96",
+      "size": 8037,
+      "sha256": "c79ce996890bafcd0dc01f6aff71d2aa7dcc1cbdf042e1f3e551915ad021ee10",
+      "narrativeMaster": false
+    },
+    "preflightStoryLockUnderlag": {
+      "sourceClass": "CHAT_RECOVERABLE",
+      "qaStatus": "N/A",
+      "localPackagePath": "source/preflight-story-lock-underlag.md",
+      "comment": "Historical preflight/Story Lock text is directly recoverable from chat but no original standalone file bytes existed."
+    },
+    "standaloneNotCreated": [
+      "story-dna.yaml",
+      "continuity.yaml",
+      "cast-lock",
+      "character-lock",
+      "vehicle-environment-lock",
+      "story-lock standalone file",
+      "reality-validation standalone file",
+      "correction-log standalone file",
+      "localization-notes standalone file"
+    ]
+  },
+  "canonicalVisuals": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableExactOriginalCount": 13,
+      "githubPublishedBinaryAssets": 0,
+      "sourceNotExportable": ["cta_13"],
+      "assets": {
+        "cover_00": {"size":3512127,"dimensions":[1536,1024],"sha256":"574f856bda8ac9d83a06f40a70a371f2fdc342c4b606637d0e5a077e893a239f","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_01": {"size":3118893,"dimensions":[1402,1122],"sha256":"1ff4a7f4bde985fa2492d622fce3d71404be8fe57f269e96b3c22aba569c569f","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_02": {"size":2996822,"dimensions":[1448,1086],"sha256":"8b3e72af9b619e3485f49d649909b2cd99b8548a779ae127e8d8d42738b4e592","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_03": {"size":3151088,"dimensions":[1402,1122],"sha256":"08f7140da55c5657187cbfd5661ebce7b56379d78aac0a600b6f3590a3749751","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_04": {"size":3084551,"dimensions":[1402,1122],"sha256":"8e952bc1f281e0393de3cbbf721f69ee7a95681d2d988e50e4a01dc19dcf5527","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_05": {"size":3097590,"dimensions":[1402,1122],"sha256":"b0f4b6f3af52dc980e047b28db6199522cc7ce6247434194d735052975c19589","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_06": {"size":3098310,"dimensions":[1122,1402],"sha256":"a3b9831f56c58d3c3d1554d3f08c717e165aa1221f1b568a5432e4ad27fa2354","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_07": {"size":3108689,"dimensions":[1122,1402],"sha256":"5195930a8024a6041e8a1652c23688c6b68557cc7cf72e8df129cae74decb942","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_08": {"size":3050163,"dimensions":[1122,1402],"sha256":"af1667b11f8863f5b23633ff9139f129ca77628807aab2459b8e68ff79f9d8d8","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_09": {"size":3032396,"dimensions":[1023,1537],"sha256":"2e3172f9236eec5031f8fbaebafcb744a543047aeaed15f9105f3de00d6e07ad","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_10": {"size":3080939,"dimensions":[1123,1401],"sha256":"69513e1d30191ba63eef4c8c5e999b63f72d55ad29f60ff070059e973f837d56","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_11": {"size":2965982,"dimensions":[1123,1400],"sha256":"ac5853eb96680a25b5a54e8693f7443f8704960d36a60d4064f964c2b26970b0","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "panel_12": {"size":3349575,"dimensions":[1024,1536],"sha256":"55a1ff62179c497a71f70cfd2e10a1794f076eed6bdf02f8d1df4672c7960045","sourceClass":"EXACT_ORIGINAL","qaStatus":"REVIEW_REQUIRED"},
+        "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"HISTORICAL_BUILD_PASS","comment":"Final deterministic CTA was created, its QR decoded correctly, and it was used in the carousel; the final original binary is no longer present. No reconstruction/PDF extraction performed."}
+      }
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "exportableExactOriginalCount": 3,
+      "githubPublishedBinaryAssets": 0,
+      "notCreated": ["panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "assets": {
+        "cover_00": {"size":1785260,"dimensions":[1536,1024],"sha256":"1cd2705db67c2f623f1228be81490679a0b87c48e67b101871df766da2640c6f","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_01": {"size":2742317,"dimensions":[1402,1122],"sha256":"ed661529b99a135e7bf008fefd528dd8135524ce7a8ffce682b1d88d2f75a631","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_02": {"size":3135365,"dimensions":[1122,1402],"sha256":"6c160ad34e468935b4e98134b96af4aa334da2ccc0f1122375915f85a294b16d","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"}
+      }
+    }
+  },
+  "historicalVisuals": {
+    "sv-SEExactOriginalCount": 12,
+    "en-GBExactOriginalCount": 17,
+    "svSEExplicitRebuildRequiredCount": 6,
+    "enGBExplicitRebuildRequiredCount": 15,
+    "comment": "Exact rejected, superseded, collage-failure and unclassified historical render bytes are present in the local retro package. They are not promoted to canonical assets."
+  },
+  "derived": {
+    "svSEPdf": [
+      {"filename":"inget_att_dolja_sv-SE_pdf_karusell.pdf","size":16039302,"pages":14,"sha256":"1e29a3f2f0af513c9ab31f22239b7d3909a82ab71cb321ecf09d87bf78aa3613","sourceClass":"EXACT_ORIGINAL","qaStatus":"PARTIAL_QA_VERIFIED"},
+      {"filename":"inget_att_dolja_sv-SE-package-carousel.pdf","size":55876498,"pages":14,"sha256":"2821539570adc203056315a5c480d682c3d9d1be09cd61b17bb9aba579bed2ee","sourceClass":"EXACT_ORIGINAL","qaStatus":"PARTIAL_QA_VERIFIED"}
+    ],
+    "svSELinkedIn": {"path":"stories/NC-INGET-ATT-DOLJA/sv-SE/social/linkedin-sv-SE.txt","size":1784,"sha256":"c536b86a07e1118e68b44ad69f95e87f716018743e7c4f381197e12443a4b855","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+    "enGBPdf": {"sourceClass":"NOT_CREATED"},
+    "enGBSocial": {"sourceClass":"NOT_CREATED"},
+    "historicalReleaseZip": {"sourceClass":"SOURCE_NOT_EXPORTABLE","filename":"NC-INGET-ATT-DOLJA-v1.0-sv-SE-package.zip"}
+  },
+  "localPackages": {
+    "sv-SE": {"filename":"NC-INGET-ATT-DOLJA-v1.0-sv-SE-retro-backfill-v2.zip","size":147542812,"sha256":"1861e162a225e0448ef2c03436c61037ad8d6d56c3dd91cbb1a12c904a4382eb","files":53},
+    "en-GB": {"filename":"NC-INGET-ATT-DOLJA-v1.0-en-GB-retro-backfill-v2.zip","size":57211337,"sha256":"0a9c3141e7b50baa4ba6c0930a1c9d9a0e75760ea3d4cb650ac972ec4df7fa51","files":26},
+    "completeHistoricalExport": {"filename":"NC-INGET-ATT-DOLJA-v1.0-retro-backfill-v2-complete-historical-export.zip","size":204742938,"sha256":"b9feae53cb3d3a85f54fb4764e844571f671cc477938e2891834174088330a21","files":73},
+    "publishRequests": ["NC-INGET-ATT-DOLJA-sv-SE.publish.json","NC-INGET-ATT-DOLJA-sv-SE.publish.zip","NC-INGET-ATT-DOLJA-en-GB.publish.json","NC-INGET-ATT-DOLJA-en-GB.publish.zip"]
+  },
+  "transport": {
+    "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "chromeDownloadBridge": "UNAVAILABLE_IN_CURRENT_TOOL_SURFACE",
+    "nextcloudArchive": "GITHUB_PUBLISH_FAILED_DEPENDENCY / NO_CONNECTED_WRITE_SURFACE",
+    "pluginDiscovery": "No Nextcloud write plugin was available; StorageChain result was read-only and not installed.",
+    "directGitHubTextFallback": "IN_PROGRESS",
+    "binaryGitHubPublication": "BLOCKED_NO_FILE_UPLOAD_ARGUMENT_IN_GITHUB_CONNECTOR",
+    "binaryAssemblerFound": true,
+    "binaryAssemblerPath": ".github/workflows/binary-backfill-assembler.yml",
+    "binaryAssemblerConstraint": "Requires pre-created Git blob SHA chunks. The available GitHub connector cannot ingest local binary files as a file parameter, and the container has no external network/DNS access, so exact local bytes cannot be pushed into Git blobs from this runtime without an unsupported transformation path."
+  },
+  "totals": {
+    "inventoryItems": 92,
+    "EXACT_ORIGINAL": 65,
+    "CHAT_RECOVERABLE": 2,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 2,
+    "NOT_CREATED": 22
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

@@ -1,0 +1,11 @@
+{
+  "storyId": "ut-ur-svarta-ladan",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sourceGitBlobSha1": "3da4343bd9fa4077281732273b7f5d11ca944093",
+  "size": 10376,
+  "sha256": "a7d3efcdefa34af22d951b44357cd4e3429bd699720a2b58390ea1887be1e466",
+  "masterVersion": "1.0",
+  "note": "Bytes verified locally by reproducing Git blob SHA1 3da4343bd9fa4077281732273b7f5d11ca944093."
+}

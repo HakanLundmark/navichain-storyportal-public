@@ -1,0 +1,76 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "INTE-OTUR-ETT-MONSTER",
+  "title": "INTE OTUR. ETT MÖNSTER.",
+  "checkedAt": "2026-08-24T22:05:00+02:00",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/INTE-OTUR-ETT-MONSTER/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "f1cc6739aff8a4881656aff0067e355dc8bf44ee02f509dc3253497b6fccc685",
+    "githubReadback": "PASS"
+  },
+  "enGB": {
+    "path": "stories/INTE-OTUR-ETT-MONSTER/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "ec38afc2f8d2b297cf905f869933920aba95dadfae631e59a09ab76cbe8eba7c",
+    "githubReadback": "PASS"
+  },
+  "svSEVisuals": {
+    "expected": 14,
+    "exactOriginalDirectBytes": 10,
+    "sourceNotExportable": ["panel_04", "panel_05", "panel_08", "panel_10"],
+    "historicalAlternateExactOriginal": 7,
+    "githubPublishedCanonicalBinaries": 0,
+    "githubBinaryReadback": "NOT_PERFORMED"
+  },
+  "derivedOutputs": {
+    "pdf": "NOT_CREATED",
+    "social": "NOT_CREATED",
+    "enGBImageLocale": "NOT_CREATED"
+  },
+  "packages": {
+    "INTE-OTUR-ETT-MONSTER-retro-v2-20260824.zip": {
+      "size": 62631161,
+      "sha256": "4598c5a7775a0edb19fa54d29228238496208f1f82be01816d5bfc1608870b64",
+      "entries": 34
+    },
+    "INTE-OTUR-ETT-MONSTER-sv-SE-retro-v2.publish-package.zip": {
+      "size": 62611114,
+      "sha256": "c4cd5f7bcf92eef16221caa856e86ad04c5f5014d2c92d024a0bfe9276ba9090",
+      "entries": 24
+    },
+    "INTE-OTUR-ETT-MONSTER-en-GB-retro-v2.publish-package.zip": {
+      "size": 4534,
+      "sha256": "fb076c91a188bb496f3364b3bffabec01faf37b452887f55c983dc04828dc0b0",
+      "entries": 1
+    },
+    "INTE-OTUR-ETT-MONSTER-sv-SE.publish.zip": {
+      "size": 2177,
+      "sha256": "2f75bfcf0b01c48900c3bb4309eed800242ce953343e13ed49e497556a818f34",
+      "entries": 1
+    },
+    "INTE-OTUR-ETT-MONSTER-en-GB.publish.zip": {
+      "size": 601,
+      "sha256": "94fd71b40baab56192ae1b58750b4a1418f251f1df439244475e216ce75e3e57",
+      "entries": 1
+    }
+  },
+  "automaticTransport": {
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "chromeDownload": "NOT_EXECUTED_NO_BROWSER_CONTROL",
+    "localCapture": "NOT_VERIFIED",
+    "nextcloudArchive": "NOT_VERIFIED_FROM_THIS_RUNTIME",
+    "hardenedRouter": "NOT_VERIFIED",
+    "publisher": "NOT_VERIFIED",
+    "reason": "This ChatGPT runtime exposes no Chrome download bridge or connected Nextcloud read/write surface. Packages were created as downloadable files but cannot be clicked through the requested local automation chain from this runtime."
+  },
+  "githubTextMetadata": "WRITTEN",
+  "releaseEligible": false,
+  "completeSynced": false,
+  "notes": "Historical provenance is kept separate from QA. No missing image was rerendered, reconstructed, cropped, screenshotted, or substituted."
+}

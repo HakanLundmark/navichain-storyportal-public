@@ -1,0 +1,31 @@
+{
+  "storyId": "ingen-ringde-anda-visste-han",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "classification": "INCOMPLETE",
+  "assets": {
+    "cover_00": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"ingen_ringde_ändå_visste_han.png"},
+    "panel_01": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"regnig_leverans_brådskande_kundsamtal.png"},
+    "panel_02": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"regnig_lastbilsfärd_med_ett_viktigt_samtal.png"},
+    "panel_03": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"a_full_color_comic_book_style_illustration_panel_p.png"},
+    "panel_04": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"regn_låst_grind_och_försenad_leverans.png"},
+    "panel_05": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"gunilla_läser_framtidens_förarapp.png"},
+    "panel_06": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"verkstadsinstallation_av_fmc650_telematikbox.png"},
+    "panel_07": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"från_regn_till_trygg_gps_överblick.png"},
+    "panel_08": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"kontrollrummet_i_regnet.png"},
+    "panel_09": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"regnig_arbetsdag_på_åhmans_åkeri.png"},
+    "panel_10": {"status":"EXISTS_BUT_NOT_EXPORTABLE","reason":"Original image was rendered and shown earlier in chat, but its original binary is not directly accessible in the active file environment."},
+    "panel_11": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"leverans_vid_öppen_grind.png"},
+    "panel_12": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"lugn_överblick_på_åhmans_kontor.png"},
+    "cta_13": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"imagegen.png"}
+  },
+  "other": {
+    "ORIGINAL_STORY.md":"EXISTS_AND_EXPORTABLE",
+    "pdfCarousel":"EXISTS_AND_EXPORTABLE",
+    "linkedinSocialCopy":"MISSING",
+    "qaMaterial":"MISSING",
+    "releaseManifest":"MISSING",
+    "storySpecificSources":"MISSING",
+    "releaseZip":"NOT_BUILT_LOCALE_INCOMPLETE"
+  }
+}

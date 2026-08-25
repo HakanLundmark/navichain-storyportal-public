@@ -1,0 +1,78 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "title": "MANNEN SOM SKULLE VARA PÅ TVÅ STÄLLEN",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "checkedAt": "2026-08-24T19:55:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "acd66f041f370043b8b694facc747e9355546a3e46e9672f9d865ed11614e558",
+    "size": 9846,
+    "narrativeMaster": true
+  },
+  "englishStory": {
+    "path": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "sha256": "3c747df90f39404842430891cef2e0cb22e60b14c073609ffcc1fed491acc3d5",
+    "size": 10094,
+    "narrativeMaster": false
+  },
+  "canonicalSvSeAssets": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2997911,"sha256":"bb783f91178ea86fc2f6e773fea902921223545689fe355cb50ea6fcbd7728dd","sourceFilename":"cover_00_mannen_som_skulle_vara_pa_tva_stallen_correct_logo.png"},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_NOT_FORMALLY_LOCKED","size":3192659,"sha256":"5db22d3e1b40fd7c201152c6bed5686e0a74857e4bf293be81b7e739597f886b","sourceFilename":"yvonne_samordnar_dagens_akuta_jobb.png"},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2942113,"sha256":"c511a14ddac7960d343fd097923bf3433d1fb15d86cf1a80ae817c21734581a3","sourceFilename":"a_full_color_comic_illustration_style_panel_retro.png"},
+    "panel_03": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3473766,"sha256":"3689f8d22fb930caddf2f92e534a0db61cb2bcce22386f9e1a290db57178ef98","sourceFilename":"klockan_tickar_i_elrummet.png"},
+    "panel_04": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2956567,"sha256":"7df513411cbb2ef155054694d29302f7a32680fa074c99acbad1b06381ec917e","sourceFilename":"a_comic_book_bande_dessinée_style_illustration.png"},
+    "panel_05": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_NOT_FORMALLY_LOCKED","size":3013459,"sha256":"c0b042a83859db73ac76edf38fa13eb22eb2a97df40deb6de69fee34a7b445dd","sourceFilename":"a_comic_book_style_office_scene_in_a_retro_tintin.png"},
+    "panel_06": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3041721,"sha256":"f94e1f0252da3ba29e95c192022a5d043bec97ade14dbf4dcea86171bd94c89b","sourceFilename":"a_vintage_comic_book_graphic_novel_style_poster.png"},
+    "panel_07": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_NOT_FORMALLY_LOCKED","size":3071747,"sha256":"9e70c5d088803fbc71403569a6c61f06f2a0ec08e656b75535fb94d1e3f89e4a","sourceFilename":"smart_resursplanering_på_kontoret.png"},
+    "panel_08": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2995651,"sha256":"28756eb7c2d055d53a1db535e8508146d08f1555923cd723380fb904051e9f34","sourceFilename":"a_full_color_illustrated_comic_style_panel_scene.png"},
+    "panel_09": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3036752,"sha256":"721460e61857b1f0c35fd4c96c46c5c269d0931bc0735e463042eea7601c8774","sourceFilename":"a_vertical_comic_illustration_style_panel_of_a_log.png"},
+    "panel_10": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3155211,"sha256":"6644e5fd727281d0e0f0484c31addbad66ce9d5bf1b91de61e4487d393662af4","sourceFilename":"kundservice_vid_rätt_tid.png"},
+    "panel_11": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2733083,"sha256":"83a907f3056a2a097c67596af494d4e5642987ed71b9e90cbc5772ec4eaae03a","sourceFilename":"a_stylized_illustrated_comic_infographic_panel_sce.png"},
+    "panel_12": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2729281,"sha256":"8b6e35ab0a31f0ec4511174deae4665e5b0fa7d0e849d06b7854e79ae88e40ac","sourceFilename":"a_comic_illustration_style_poster_page_scene_over.png"},
+    "cta_13": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":1483111,"sha256":"d5562799e70040254e435b616a174a5e766c69865ee68353597a50bdb7968d49","sourceFilename":"cta_13_mannen_som_skulle_vara_pa_tva_stallen_cover_dna.png"}
+  },
+  "historicalExactOriginalRenderFilesAccessible": 44,
+  "historicalPdfOutputs": [
+    {"size":63123624,"sha256":"cebdb8f3f50ff0ba36f3e867f6a41186c7c1dc77f5db28d7c7dd64426afa967f","qaStatus":"HISTORICAL_OUTPUT_NOT_RELEASE_LOCKED"},
+    {"size":57951626,"sha256":"4617c68001df31546f9c6de89bf5d76f9f70c199b6b96b7527737389813e5910","qaStatus":"HISTORICAL_OUTPUT_NOT_RELEASE_LOCKED"},
+    {"size":62910845,"sha256":"8c92fa72ddea76284e91cb9ce35ebf72389ded98db496b2ad35f257a4cd3140c","qaStatus":"HISTORICAL_OUTPUT_NOT_RELEASE_LOCKED"},
+    {"size":62894389,"sha256":"5f52f5c9874bcf9b7508553f2936708108fa211e0159e204da4c3ef021b6920e","qaStatus":"HISTORICAL_OUTPUT_NOT_RELEASE_LOCKED"}
+  ],
+  "historicalSocialOutputs": {
+    "uniqueExactOriginalRevisions": 3,
+    "publishedTextPaths": [
+      "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/sv-SE/social/linkedin-sv-SE.txt",
+      "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/history/social/linkedin-sv-SE-rev1.txt",
+      "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/history/social/linkedin-sv-SE-rev2.txt"
+    ]
+  },
+  "historicalArchivePackagesAccessible": 6,
+  "archiveExtractedTextMetadataMembers": 24,
+  "localRetroPackage": {
+    "filename": "KRON-ELTEKNIK-04-retro-backfill-v2.zip",
+    "size": 1111823779,
+    "sha256": "96a1d9100cb3271b644759eb0a32e3e6df4972887e48333222d5c03f88aef0f1",
+    "baseInventoryItems": 87,
+    "exactOriginalItems": 86,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "additionalArchiveExtractedTextMetadataMembers": 24
+  },
+  "binaryPublication": {
+    "githubPublishedCanonicalImages": 0,
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "The connected GitHub write surface accepts binary data only as content payloads/Git blobs; the accessible historical image/PDF/archive set is too large for reliable transfer through the available conversation tool surface, and the requested Chrome/local-capture/Nextcloud publisher chain is not exposed as an invokable connected tool in this chat. No byte identity was fabricated."
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "releaseStatus": "INCOMPLETE",
+  "releaseReason": "Historical publication does not upgrade QA. A verified 14/14 PASS/LOCKED visual master is not established."
+}

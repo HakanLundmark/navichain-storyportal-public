@@ -1,0 +1,82 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "sex-manader-pa-fem-dagar",
+  "title": "Sex månader på fem dagar",
+  "checkedAt": "2026-08-24T19:09:00+02:00",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrative": {
+    "master": {
+      "path": "stories/sex-manader-pa-fem-dagar/ORIGINAL_STORY.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 6941,
+      "sha256": "1a08df79840f506cc7e9eec7ba878d424841f65d75201bfdc6bdf24a57e1e6af",
+      "gitBlobSha": "98abc96233ac012c33e3867e9457a6596094b601",
+      "narrativeMaster": true
+    },
+    "enGB": {
+      "path": "stories/sex-manader-pa-fem-dagar/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "narrativeMaster": false,
+      "sha256": "1a49e7560f26fa00ad661e8095c6a47a50e3861dbf9d115f0d49e64e9e4bc86d",
+      "gitBlobSha": "123dd5b9de67c578e104640a37fa3c8a85b2483e"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalExactOriginalsAccessible": 13,
+      "canonicalSourceNotExportable": ["cta_13"],
+      "chatRecovered": 0,
+      "pdfsAccessible": ["sex_manader_pa_fem_dagar_sv-SE_pdf_karusell.pdf"],
+      "historicalRejectedVisualsAccessible": 12,
+      "githubPublishedCanonicalBinaryAssetsAtCheck": 0,
+      "releaseEligible": false,
+      "qaNote": "Historical release remained blocked; provenance publication must not upgrade visual QA."
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "canonicalExactOriginalsAccessible": 12,
+      "canonicalSourceNotExportable": ["panel_03", "cta_13"],
+      "chatRecovered": 0,
+      "pdfsAccessible": ["six_months_in_five_days_en-GB_carousel_validated.pdf", "six_months_in_five_days_en-GB_carousel.pdf"],
+      "historicalRejectedVisualsAccessible": 4,
+      "githubPublishedCanonicalBinaryAssetsAtCheck": 0,
+      "releaseEligible": false,
+      "qaNote": "Validated PDF is a derived output; it is not used to reconstruct missing panel_03 or cta_13."
+    }
+  },
+  "localPackages": {
+    "sv-SE": {
+      "file": "sex-manader-pa-fem-dagar-sv-SE-retro-v2.zip",
+      "size": 160393274,
+      "sha256": "4e158cd9efde695c2d94ef24260469667eb5132ced6291e263f03c8663428710",
+      "publishRequest": "sex-manader-pa-fem-dagar-sv-SE.publish.json",
+      "publishFileCount": 31
+    },
+    "en-GB": {
+      "file": "sex-manader-pa-fem-dagar-en-GB-retro-v2.zip",
+      "size": 199456006,
+      "sha256": "01fcbe6e893f8a38286778a2b36337737e169dfcda48d586e9e298938481bdfd",
+      "publishRequest": "sex-manader-pa-fem-dagar-en-GB.publish.json",
+      "publishFileCount": 21
+    }
+  },
+  "transport": {
+    "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "packageAndPublishRequestsCreated": true,
+    "chromeDownloadObserved": false,
+    "nextcloudArchiveObserved": false,
+    "publisherObserved": false,
+    "githubBinaryReadbackObserved": false,
+    "status": "PARTIAL_BACKFILL"
+  },
+  "rules": {
+    "rerendered": false,
+    "reconstructedVisuals": false,
+    "pdfExtractionUsedAsImageReplacement": false,
+    "qaAndProvenanceKeptSeparate": true
+  }
+}

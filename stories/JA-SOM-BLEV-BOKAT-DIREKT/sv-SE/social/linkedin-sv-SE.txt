@@ -1,0 +1,11 @@
+Ett kund-ja ska inte skapa ett nytt administrativt jobb.
+
+I "JA SOM BLEV BOKAT, DIREKT" följer vi Susanne Dahl på Björklunda Åkeri AB från fristående offert och dubbelregistrering till ett sammanhängande offertflöde.
+
+Susanne skapar och skickar offerten. Kunden kan begära ändring eller bekräfta online. När kunden bekräftar skapar Navichain bokningen automatiskt med samma underlag - utan att Susanne behöver skriva in allt igen.
+
+Och om en redan bekräftad offert senare avbryts, följer den kopplade bokningen med.
+
+Människan fattar besluten. Navichain håller ihop det som redan har bestämts.
+
+Skapa konto: https://navichain.se/signup

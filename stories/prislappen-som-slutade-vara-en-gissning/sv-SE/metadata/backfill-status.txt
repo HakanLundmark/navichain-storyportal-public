@@ -1,0 +1,27 @@
+BACKFILL SOURCE STATUS
+Story: Prislappen som slutade vara en gissning
+Story ID: prislappen-som-slutade-vara-en-gissning
+Locale: sv-SE
+Master version: not explicitly locked / null
+Classification: INCOMPLETE
+
+EXISTS_AND_EXPORTABLE:
+- ORIGINAL_STORY.md from the current chat source text
+- 14 canonical original PNG assets in the working package
+- 14-page PDF carousel
+- working-package QA report
+- working-package manifest
+- working-package ZIP
+- Product Truth, Market Truth, official logo and QR reference source files
+- additional rejected/unassigned render outputs listed in source-inventory.json
+
+MISSING:
+- LinkedIn/social copy
+
+RELEASE BLOCKS:
+- existing QA report says FAIL / REBUILD_REQUIRED
+- later panels/CTA drift from ACTIVE STORY
+- brand-critical official logo not deterministically composited on cover/CTA
+
+GITHUB CONNECTOR LIMITATION:
+The available GitHub write actions accept UTF-8 text or inline blob content. They do not expose a local-file upload parameter. The directly accessible binary PNG/PDF/ZIP originals are therefore not reconstructed, re-encoded into guessed replacements, or substituted. Textual backfill metadata and the canonical story source are published; binary publication is reported as failed.

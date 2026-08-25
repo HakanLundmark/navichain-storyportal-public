@@ -1,0 +1,24 @@
+{
+  "storyId": "LISTAN-SOM-VISAR-SINA-SKAL",
+  "locale": "sv-SE",
+  "masterVersion": "v1.0",
+  "assets": {
+    "cover_00": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","reason":"Multiple exact historical cover candidates exist, but the final correct-logo cover cannot be uniquely selected without guessing."},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"fullbokad_dispatch_med_tickande_klocka.png"},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"kontorsbeslut_med_tolv_transportörer.png"},
+    "panel_03": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"vanans_val_på_transportkontoret.png"},
+    "panel_04": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Only divergent/rejected exact historical candidates are directly accessible; no uniquely identifiable correct final candidate."},
+    "panel_05": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Only divergent/rejected exact historical candidates are directly accessible; no uniquely identifiable correct final candidate."},
+    "panel_06": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"rätt_transportör_från_början.png"},
+    "panel_07": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"sara_väljer_med_insikt.png"},
+    "panel_08": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"tjugominutersvalet_på_transportkontoret.png"},
+    "panel_09": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"sara_räknar_kostnaden.png"},
+    "panel_10": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"adr_kontroll_före_lastning.png"},
+    "panel_11": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Visible historical attempts diverged from the locked story; no uniquely identifiable correct final candidate is directly exportable."},
+    "panel_12": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"lugnt_beslut_på_björklunda_åkeri.png"},
+    "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"The later validated CTA raster was produced historically but is no longer directly accessible; the accessible earlier CTA candidate has a non-decodable QR and is preserved only in history."}
+  },
+  "canonicalExactOriginalCount": 9,
+  "canonicalSourceNotExportableCount": 5,
+  "releaseStatus": "INCOMPLETE"
+}

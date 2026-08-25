@@ -1,0 +1,18 @@
+{
+  "storyId": "aldrig-tom-pa-vag-hem",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "requiredCanonicalAssetCount": 14,
+  "exportableCanonicalAssetCount": 12,
+  "canonicalAssetOrder": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "missingCanonicalAssets": ["panel_03", "cta_13"],
+  "releaseGate": "BLOCKED",
+  "reason": "A COMPLETE locale requires all 14 original canonical images. panel_03 and cta_13 are not directly exportable as current canonical originals.",
+  "historicalPdf": {
+    "present": true,
+    "exportable": true,
+    "releaseAuthority": "historical/incomplete only; must not be used to replace missing original image assets"
+  },
+  "noSyntheticReplacementUsed": true
+}

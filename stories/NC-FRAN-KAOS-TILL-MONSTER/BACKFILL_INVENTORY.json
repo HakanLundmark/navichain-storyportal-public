@@ -1,0 +1,45 @@
+{
+  "schema": "navichain-chat-binary-retry-inventory-v1",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "masterVersion": "1.0",
+  "masterLocale": "sv-SE",
+  "inventoryScope": "this_chat_current_runtime_only",
+  "checkedAt": "2026-08-23T23:29:00+02:00",
+  "result": "SOURCE_NOT_EXPORTABLE",
+  "currentRuntime": {
+    "canonicalImageHashMatches": 0,
+    "canonicalPdfHashMatches": 0,
+    "searchedRoots": ["/mnt/data", "/home/oai/share"],
+    "rawMultiAssetRenderArtifactsAccessible": 4,
+    "rawMultiAssetRenderArtifactsCanonical": false
+  },
+  "locales": {
+    "sv-SE": {
+      "historicalVerifiedOriginalAssets": 14,
+      "currentDirectlyAccessibleOriginalAssets": 0,
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "historicalPdf": "EXISTS_AND_EXPORTABLE_AT_PRIOR_BACKFILL",
+      "currentPdf": "SOURCE_NOT_EXPORTABLE"
+    },
+    "en-GB": {
+      "historicalVerifiedOriginalAssets": 13,
+      "historicalExistsButNotExportable": ["panel_05"],
+      "currentDirectlyAccessibleOriginalAssets": 0,
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "historicalPdf": "EXISTS_AND_EXPORTABLE_AT_PRIOR_BACKFILL",
+      "currentPdf": "SOURCE_NOT_EXPORTABLE"
+    }
+  },
+  "github": {
+    "queueManifestsCreated": 0,
+    "assemblerRunsTriggered": 0,
+    "publishedCanonicalImageBinaries": 0,
+    "readBackVerified": true
+  },
+  "notes": [
+    "Prior backfill statuses and hashes were used only as recovery hints.",
+    "A fresh SHA-256 scan found no exact historical canonical image or PDF bytes in the current runtime.",
+    "Four directly accessible image-generation files are multi-panel/multi-asset raw renders and are not canonical release assets, so they were not queued as cover/panel/CTA substitutes.",
+    "No rerendering, reconstruction, cropping, substitution or fabrication was performed."
+  ]
+}

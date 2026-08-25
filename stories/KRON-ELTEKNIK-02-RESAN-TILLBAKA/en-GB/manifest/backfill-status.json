@@ -1,0 +1,53 @@
+{
+  "storyId": "KRON-ELTEKNIK-02-RESAN-TILLBAKA",
+  "locale": "en-GB",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrative": {
+    "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "localSha256": "ee31cb45df7792f64cfcabaf2eac0e6fd9a440a9cf57d545f16ecc48a5bcc07b",
+    "githubPublished": true
+  },
+  "verifiedExportableAssets": 2,
+  "assets": {
+    "cover_00": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "sourceFile": "a_detailed_comic_book_illustration_cover_scene_in.png",
+      "dimensions": [1024,1536],
+      "size": 3621797,
+      "sha256": "4c93c32e498d0c7cc15a80f5fb66fae24a611a8c336887b1b80468d7a0a81ab4",
+      "qaStatus": "REJECTED/INCOMPLETE_LOCALE_SOURCE"
+    },
+    "panel_01": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "sourceFile": "a_detailed_comic_book_illustration_style_scene_li.png",
+      "dimensions": [1024,1536],
+      "size": 3607545,
+      "sha256": "3dcd302feacb6e75f51eff594e615966e1bf7c1068876b9368dac71bf385d1eb",
+      "qaStatus": "REJECTED",
+      "reason": "Rendered text is Swedish and the scene drifts from the active Parts story; this is not a valid en-GB release panel."
+    }
+  },
+  "notCreatedAssetIds": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "pdf": false,
+  "social": false,
+  "formalReleaseQa": false,
+  "releaseManifest": false,
+  "githubBinaryPublish": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "publishedBinaryCountThisBackfill": 0,
+    "reason": "Exact binary sources remain locally accessible, but the required Chrome/local-capture/Nextcloud/router automatic transport cannot be invoked from the current ChatGPT tool surface. The GitHub connector can create explicit base64 blobs, but transferring the multi-megabyte historical binaries this way would require impractically large tool payloads. No rerendering, reconstruction or substitution was used."
+  },
+  "retroBackfillV2": {
+    "result": "PARTIAL_BACKFILL",
+    "exactOriginalVisuals": 2,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "sourceNotExportableVisuals": 0,
+    "notCreatedVisuals": 12
+  }
+}

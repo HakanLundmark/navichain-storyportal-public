@@ -1,0 +1,69 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+  "storyIdAuthority": "explicit story ID established in this chat",
+  "title": "Fem minuter till gränsen",
+  "subtitle": "Karin, Robban och larmet som kom i tid",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrative": {
+    "rawOriginalBrief": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-sv-SE.md",
+    "narrativeMaster": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/narrative-master-sv-SE.md",
+    "narrativeMasterSourceClass": "CHAT_RECOVERED",
+    "narrativeMasterSha256": "4ca3491e89e83f5436eea3d58052994105c9761caaff0418a70e7f38141ba850",
+    "enGbStory": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-en-GB.md",
+    "enGbSourceClass": "DERIVED_TRANSLATION",
+    "enGbTranslationType": "faithful",
+    "enGbNarrativeMaster": false,
+    "enGbSha256": "9badacda3f19eaec0df9f5580b1febd80b2651aafd428a07154e3e90753baff6"
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalVisualAssets": 14,
+      "exportableHistoricalVisualAssets": 13,
+      "sourceNotExportable": ["cover_00"],
+      "githubPublishedBinaryAssets": 0,
+      "historicalPdfs": 2,
+      "social": "stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/social/linkedin-sv-SE.txt",
+      "backfillStatus": "stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/BACKFILL_STATUS.json"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalVisualAssets": 14,
+      "exportableHistoricalVisualAssets": 12,
+      "sourceNotExportable": ["panel_04", "panel_07"],
+      "notCreated": ["social/linkedin-en-GB.txt"],
+      "githubPublishedBinaryAssets": 0,
+      "historicalPdfs": 1,
+      "backfillStatus": "stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/BACKFILL_STATUS.json"
+    }
+  },
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "checkedAt": "2026-08-24T22:21:00+02:00",
+    "inventory": {
+      "totalFound": 92,
+      "exactOriginal": 76,
+      "chatRecovered": 2,
+      "derivedTranslation": 1,
+      "sourceNotExportable": 12,
+      "notCreated": 1
+    },
+    "canonicalHistoricalVisuals": {
+      "sv-SE": {"exportable":13,"required":14,"missingOrNotExportable":["cover_00"]},
+      "en-GB": {"exportable":12,"required":14,"missingOrNotExportable":["panel_04","panel_07"]}
+    },
+    "manifest": "stories/NC-FEM-MINUTER-TILL-GRANSEN/manifest/retro-backfill-v2-current-chat.json",
+    "historicalRenderInventory": "stories/NC-FEM-MINUTER-TILL-GRANSEN/manifest/historical-render-inventory-current-chat.json",
+    "qa": "stories/NC-FEM-MINUTER-TILL-GRANSEN/qa/retro-backfill-v2-current-chat.md",
+    "githubPublishedBinaryAssets": 0,
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_CALLABLE_SURFACE",
+    "nextcloudArchiveStatus": "UNVERIFIED_TOOL_UNAVAILABLE",
+    "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "releaseEligible": false,
+  "completeSynced": false,
+  "path": "stories/NC-FEM-MINUTER-TILL-GRANSEN/story.json"
+}

@@ -1,0 +1,97 @@
+{
+  "storyId": "LISTAN-SOM-VISAR-SINA-SKAL",
+  "storyIdAuthority": "active story title and prior story-specific backfill identifier in this source chat",
+  "title": "LISTAN SOM VISAR SINA SKÄL",
+  "subtitle": "Sara och matchningen som förklarar sig själv",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "narrativeMaster": "sv-SE",
+  "status": "INCOMPLETE",
+  "storyLock": "HISTORICAL_NARRATIVE_MASTER_PRESERVED",
+  "productTruthStatus": "SUPPORTED_WITH_HISTORICAL_WORDING_PRESERVED",
+  "canonicalOriginalStory": "ORIGINAL_STORY.md",
+  "narrativeMasterPath": "stories/LISTAN-SOM-VISAR-SINA-SKAL/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "440f76af5554f6471e198487d871c95948877d1ab0ee3582da20fe0137430d8c",
+  "narrativeMasterSize": 10352,
+  "enGbStoryPath": "stories/LISTAN-SOM-VISAR-SINA-SKAL/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "9824fdad6ad7449966219111eff85b56e01598891a20e696a87851811ec23785",
+  "enGbStorySize": 10356,
+  "svSeSocialPath": "stories/LISTAN-SOM-VISAR-SINA-SKAL/sv-SE/social/linkedin-sv-SE.txt",
+  "svSeSocialSourceClass": "EXACT_ORIGINAL",
+  "svSeSocialSha256": "063501b1691e07ab0d5b9eef366919c5c14b05fef097e101250fa76f5a3a4850",
+  "svSeSocialSize": 854,
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+  },
+  "canonicalHistoricalCandidates": {
+    "sv-SE": {
+      "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"fullbokad_dispatch_med_tickande_klocka.png","sha256":"1679f36ef65d1398a68e8868a21aae5f1d5ca249ad63cf12af87e52ad23d3514"},
+      "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"kontorsbeslut_med_tolv_transportörer.png","sha256":"a8d2883aa0065361a51a8f3314e4dbf7e2faf8f37e46eb65bdcb6f20dae423d3"},
+      "panel_03": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"vanans_val_på_transportkontoret.png","sha256":"75512ce22ce2dedc6ff268393e65c633f7ac483f3653532af7231483c77845f5"},
+      "panel_06": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"rätt_transportör_från_början.png","sha256":"fd84c67a47ac8e36438ce81ad91a0949a6f8735083c4e8743321c08dabd4f2e1"},
+      "panel_07": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"sara_väljer_med_insikt.png","sha256":"6c72e4d7d3586d1ba841d9b8d6832f2eb145f1ed25f45a2447739a4a5607e18e"},
+      "panel_08": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"tjugominutersvalet_på_transportkontoret.png","sha256":"6e3d965cf2be8773774fed56290a30044e5970caf1de9b61d9a27ca49c794d39"},
+      "panel_09": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"sara_räknar_kostnaden.png","sha256":"d56ce3fb9ed64ce114c82c4810c0222a4f917332939ea42fba7297a12741607c"},
+      "panel_10": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"adr_kontroll_före_lastning.png","sha256":"2d281cd1d88fc21642d7538e8dc9a70b336b52e88eece5e2e9380a4776c6e6fa"},
+      "panel_12": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","sourceFilename":"lugnt_beslut_på_björklunda_åkeri.png","sha256":"a9a42ccb8cd4993185f0b4d65900782e88c86ce6d6986f1a3af266365077825b"}
+    }
+  },
+  "sourceNotExportableCanonicalAssets": {
+    "sv-SE": ["cover_00", "panel_04", "panel_05", "panel_11", "cta_13"]
+  },
+  "sourceNotExportableReasons": {
+    "cover_00": "Multiple exact historical cover candidates exist, but the final correct-logo cover cannot be uniquely selected without guessing.",
+    "panel_04": "Only divergent/rejected exact historical candidates are directly accessible; no uniquely identifiable correct final candidate.",
+    "panel_05": "Only divergent/rejected exact historical candidates are directly accessible; no uniquely identifiable correct final candidate.",
+    "panel_11": "Visible historical attempts diverged from the locked story; no uniquely identifiable correct final candidate is directly exportable.",
+    "cta_13": "The later validated CTA raster was produced historically but is no longer directly accessible; the accessible earlier CTA candidate has a non-decodable QR and is preserved only in history."
+  },
+  "historicalInventory": {
+    "exactOriginalVisualFilesArchivedLocally": 68,
+    "historicalPdfArtifactsArchivedLocally": 2,
+    "historicalSocialArtifactsArchivedLocally": 1,
+    "priorBackfillMetadataSnapshotsArchivedLocally": 3,
+    "canonicalExactOriginalCandidates": 9,
+    "canonicalSourceNotExportable": 5,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "inventoryItemCount": 96,
+    "packageFileCount": 97
+  },
+  "historicalPdfArtifacts": [
+    {"filename":"listan-som-visar-sina-skal-sv-SE.pdf","size":66838641,"sha256":"4e95271f315eecb849621858df9acb05b4872c6232e3dd555b5ae1851e7c00d7","sourceClass":"EXACT_ORIGINAL"},
+    {"filename":"listan-som-visar-sina-skal-sv-SE-BLOCKED-preview.pdf","size":59498360,"sha256":"d87e993f24a54d7f50464ef777bca54bcdd5399f3d8f27fffcac163964016f9f","sourceClass":"EXACT_ORIGINAL"}
+  ],
+  "localBackfillPackage": {
+    "filename": "LISTAN-SOM-VISAR-SINA-SKAL-retro-backfill-v2-sv-SE.zip",
+    "size": 313835640,
+    "sha256": "ef27c6e32a8fc49055cb3b5857e92bd42b3ee77c67e121e52a664bb0e7ce9890",
+    "zipIntegrity": "PASS"
+  },
+  "localPublishRequest": {
+    "filename": "LISTAN-SOM-VISAR-SINA-SKAL-sv-SE.publish.json",
+    "sha256": "2495ea3ddfcc6149dfc5114e545131e95d10da152a68af72270fbc0c0ee51af5",
+    "fileMappings": 106,
+    "wrapperFilename": "LISTAN-SOM-VISAR-SINA-SKAL-sv-SE.publish.zip",
+    "wrapperSha256": "f346ff5b8c30cc6aaaaf081a5a83ea0a984b7d54ea03991babea4eb05c0c12cb"
+  },
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:04:00+02:00",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "notes": [
+    "Provenance and QA status are independent.",
+    "Historical REBUILD_REQUIRED/REJECTED candidates are preserved in the local historical archive without promotion to PASS/LOCKED.",
+    "No visual asset was rerendered, reconstructed, restyled, repaired, cropped from a PDF or substituted during this backfill.",
+    "The English story is a faithful DERIVED_TRANSLATION and is not the Narrative Master.",
+    "The historical Swedish source text is preserved without silently correcting its wording.",
+    "Prior backfill QA/manifest/status snapshots are preserved as historical records and do not override current re-verification."
+  ]
+}

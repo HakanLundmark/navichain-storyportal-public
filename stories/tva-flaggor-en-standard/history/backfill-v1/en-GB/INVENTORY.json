@@ -1,0 +1,10 @@
+{
+  "locale": "en-GB",
+  "status": "INCOMPLETE",
+  "requiredAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "EXISTS_AND_EXPORTABLE_STORY_FAITHFUL": ["cover_00","panel_01","panel_02","panel_03","panel_06"],
+  "EXISTS_BUT_NOT_EXPORTABLE": ["panel_05"],
+  "MISSING_STORY_FAITHFUL": ["panel_04","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "exportableButRejected": ["panel_04 divergent render","panel_06 later border-control divergence","panel_07 pre-clearance divergence","panel_08 border/customs divergences","panel_09 post-clearance divergence","panel_10 delivery-summary divergence","panel_11 customs spot-check divergence","panel_12 border-control summary divergence","cta_13 indexed/foreign-story CTA divergence"],
+  "releaseBlockers": ["foreign story content","story drift","brand-critical logo not deterministic official asset","CTA invalid/indexed","14 story-faithful assets not available","no story-specific PDF/social/release QA"]
+}

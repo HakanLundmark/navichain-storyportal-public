@@ -1,0 +1,66 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "BRON-SOM-STOPPADE-ALLT",
+  "storyIdAuthority": "active story title and historical package naming in this chat",
+  "title": "BRON SOM STOPPADE ALLT",
+  "subtitle": "Conny & navichains lastbilsanpassade ruttoptimering",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "narrative": {
+    "master": {
+      "locale": "sv-SE",
+      "path": "stories/BRON-SOM-STOPPADE-ALLT/ORIGINAL_STORY.md",
+      "narrativeMaster": true,
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 2107,
+      "sha256": "bd43dca4e4b4b58626aa6a208f03cc195b2abb600b62985e98f67b372f1b7650",
+      "githubReadBackVerified": false
+    },
+    "translations": {
+      "en-GB": {
+        "path": "stories/BRON-SOM-STOPPADE-ALLT/source/original-story-en-GB.md",
+        "metadataPath": "stories/BRON-SOM-STOPPADE-ALLT/source/original-story-en-GB.meta.json",
+        "sourceLocale": "sv-SE",
+        "translationType": "faithful",
+        "narrativeMaster": false,
+        "sourceClass": "DERIVED_TRANSLATION",
+        "sourceStorySha256": "bd43dca4e4b4b58626aa6a208f03cc195b2abb600b62985e98f67b372f1b7650",
+        "size": 2182,
+        "sha256": "792f003e4c5ffaaea9a69a30101bf7866cad3081144effb7ddfe8cc5fd60603b",
+        "githubReadBackVerified": false,
+        "metadataReadBackVerified": false
+      }
+    }
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T22:10:00+02:00",
+    "sourceConversation": "active chat",
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "result": "PARTIAL_BACKFILL",
+    "svSeCanonicalExactOriginalAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "svSeCanonicalQaStatus": {"cover_00":"UNKNOWN","panel_01":"UNKNOWN","panel_02":"UNKNOWN","panel_03":"UNKNOWN","panel_04":"UNKNOWN","panel_05":"UNKNOWN","panel_06":"UNKNOWN","panel_07":"UNKNOWN","panel_08":"UNKNOWN","panel_09":"UNKNOWN","panel_10":"UNKNOWN","panel_11":"UNKNOWN","panel_12":"UNKNOWN","cta_13":"UNKNOWN"},
+    "historicalExactOriginalVisualOrQaFiles": 85,
+    "enGbHistoricalWipExactOriginal": 16,
+    "enGbNotCreatedCanonicalAssets": ["panel_12","cta_13"],
+    "githubPublishedBinaryAssets": 0,
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryPublishReason": "Exact binaries were packaged and checksummed, but this assistant session has no callable Chrome/Nextcloud/router/publisher integration; the connected GitHub binary actions require inline content or a direct HTTPS package URL and cannot consume local sandbox file paths.",
+    "inventoryPath": "stories/BRON-SOM-STOPPADE-ALLT/retro-backfill/v2/inventory.json",
+    "canonicalAssetsPath": "stories/BRON-SOM-STOPPADE-ALLT/retro-backfill/v2/canonical-assets.json",
+    "historicalRendersPath": "stories/BRON-SOM-STOPPADE-ALLT/retro-backfill/v2/historical-renders.json"
+  },
+  "inventory": {
+    "canonicalVisualRequired": 14,
+    "svSeCanonicalExactOriginalAvailable": 14,
+    "svSePdf": "EXACT_ORIGINAL",
+    "svSeReleaseStatus": "INCOMPLETE",
+    "svSeSourceNotExportableReleaseSupport": ["social","raster release QA","PDF release QA","release manifest","standalone reality validation"],
+    "enGb": {"status":"INCOMPLETE","storyText":"DERIVED_TRANSLATION","historicalWipExactOriginal":16,"canonicalApprovedImages":0,"notCreatedCanonical":["panel_12","cta_13"],"pdf":"NOT_CREATED","social":"NOT_CREATED"}
+  },
+  "releaseEligibility": {"sv-SE":false,"en-GB":false,"reason":"Historical backfill is not release approval. sv-SE lacks directly exportable social/release-QA/manifest support files; en-GB has only WIP visual candidates and no panel_12/CTA/PDF/social/release package."},
+  "github": {"releasePublished":false,"localeDirectoriesPublishedAsComplete":[],"githubPublishedBinaryAssets":0,"verifiedTextPaths":[],"storyJsonReadBackVerified":false,"storiesIndexReadBackVerified":false,"metadataReadBackVerified":false}
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "navichain-chat-backfill-inventory-v1",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "summary": {
+    "sv-SE": {"exportableOriginalAssets": 14, "pdf": "EXISTS_AND_EXPORTABLE", "social": "MISSING", "qa": "MISSING"},
+    "en-GB": {"exportableOriginalAssets": 13, "pdf": "EXISTS_AND_EXPORTABLE", "panel_05": "EXISTS_BUT_NOT_EXPORTABLE", "social": "EXISTS_BUT_NOT_EXPORTABLE", "qa": "EXISTS_BUT_NOT_EXPORTABLE"}
+  },
+  "sourceHashes": {
+    "ORIGINAL_STORY.md": "fc3c077cc5f2dc67f74de9044a5698608e2f73e648768dba26bd627dfab08d14",
+    "NAVICHAIN-PRODUCT-TRUTH.md": "65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00",
+    "Navichain_Market_Truth_MASTER_v1.0.md": "1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027",
+    "sv-SE-pdf": "aec9595e5edd88c60711b90792385faade7b7c188e185d142f47064698c2242b",
+    "en-GB-pdf": "93d36d72b1a2ad60544a4e02e2f2622da53fdaec255a076a9a5efaf18693cfd0"
+  },
+  "binaryPublishStatus": "GITHUB_PUBLISH_FAILED: connected GitHub interface can write UTF-8 repository content but does not expose a local-file upload parameter; original multi-megabyte PNG/PDF/ZIP binaries were therefore not transferred. No binary was reconstructed or substituted.",
+  "localCompleteReleaseZip": "/mnt/data/backfill_frankaos/releases/NC-FRAN-KAOS-TILL-MONSTER/1.0/NC-FRAN-KAOS-TILL-MONSTER-1.0-sv-SE-release.zip"
+}

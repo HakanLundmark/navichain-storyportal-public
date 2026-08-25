@@ -1,0 +1,95 @@
+qa:
+  storyId: tjugo-samtal-blev-ett
+  locale: sv-SE
+  imageCount: 14
+  requiredOrder:
+  - cover_00.png
+  - panel_01.png
+  - panel_02.png
+  - panel_03.png
+  - panel_04.png
+  - panel_05.png
+  - panel_06.png
+  - panel_07.png
+  - panel_08.png
+  - panel_09.png
+  - panel_10.png
+  - panel_11.png
+  - panel_12.png
+  - cta_13.png
+  commonDimensions: 1055x1491
+  panelIndicesExpected:
+  - '01'
+  - '02'
+  - '03'
+  - '04'
+  - '05'
+  - '06'
+  - '07'
+  - 08
+  - 09
+  - '10'
+  - '11'
+  - '12'
+  ctaIndexExpected: false
+  ctaUrlText: navichain.se/signup
+  ctaQrPayload: https://navichain.se/signup
+  rasterQrDecode: PASS
+  status: PASS
+  files:
+  - file: cover_00.png
+    width: 1055
+    height: 1491
+    sha256: 740683f2e5a362507d993b6fb2109cc2d1a434b317376dbbefc02765de5a092e
+  - file: panel_01.png
+    width: 1055
+    height: 1491
+    sha256: 442ef4a1ccaa65d907146fb33c9f71e6b2541ff27701b967fbdcec683dab2412
+  - file: panel_02.png
+    width: 1055
+    height: 1491
+    sha256: 1c421bc16448ae02b5e58c37c466a42ce1b68f1b9486c91677fa8d9014e2f6db
+  - file: panel_03.png
+    width: 1055
+    height: 1491
+    sha256: ce988ba2e72de02828150e39b5617eef05d2aecdfe36cabc479bbe8e62b24e5a
+  - file: panel_04.png
+    width: 1055
+    height: 1491
+    sha256: 94528655fd132746f23013199dfb3585fc4ea9bc013b9450ce4468e52becf2ed
+  - file: panel_05.png
+    width: 1055
+    height: 1491
+    sha256: ff2cc2a5f8ead52fae830f8f7dd44d2397922b6865f3ac439d91ccf30521a8e4
+  - file: panel_06.png
+    width: 1055
+    height: 1491
+    sha256: 64d7e2eae5b6fb681e9e4411d8d1690aa046bf2b309ee3fe5f89a3f2554aad71
+  - file: panel_07.png
+    width: 1055
+    height: 1491
+    sha256: 913a91978d3c91a4c1c8d2486d7bd3c6b13a8392bf08d1449f33d1cf61fd618c
+  - file: panel_08.png
+    width: 1055
+    height: 1491
+    sha256: 151b290cee7a92ee7be13149ec973022ccc81cab5fb4023d56c4189350667884
+  - file: panel_09.png
+    width: 1055
+    height: 1491
+    sha256: b466e3c7a7ad71d08fe79b68833dd2f23a148bc39f6a56c80f83fb047f30ec93
+  - file: panel_10.png
+    width: 1055
+    height: 1491
+    sha256: 3c57a35e0ab7a186d7c7b4dc25b7387a12220c0bf82c951e440380f8bfda4dc3
+  - file: panel_11.png
+    width: 1055
+    height: 1491
+    sha256: ecb0253fb19b5302772c921c3573801c3134d2eb15e93f7d7c713d0e027b18d8
+  - file: panel_12.png
+    width: 1055
+    height: 1491
+    sha256: 973b9a30818fdd8c79a1c46728a72631c60afabe3b60944c918f26e9bdab15f2
+  - file: cta_13.png
+    width: 1055
+    height: 1491
+    sha256: e86b18bbba907b545f02f3364b526514cb7f9852b1e2a32ccd95958fa84d43e3

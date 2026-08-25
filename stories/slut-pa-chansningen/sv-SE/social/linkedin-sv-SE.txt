@@ -1,0 +1,33 @@
+GPS:en sa fyra och en halv timme. Den sa inget om bron.
+
+För Anders Vikström började dagen med ett samtal ingen trafikledare vill ha:
+
+“Vi sitter fast. Bron klarar bara 3,8 meter — vi är 4,2.”
+
+Och därifrån spred sig problemet. En försenad leverans blev flera. Rutten fick räknas om för hand. Kartor, linjal, gamla anteckningar och frågan som alltid låg kvar i bakhuvudet:
+
+Har vi verkligen tänkt på allt?
+
+Det är precis den typen av chansning vi ville dramatisera i vår nya Navichain-story.
+
+Med rätt fordonsdata i planeringen kan rutten anpassas efter den lastbil som faktiskt ska köra — inte efter en generell personbilsrutt. Höjd, vikt och andra relevanta restriktioner kan vägas in redan från början.
+
+Samtidigt kan planeringen fånga upp körtidsrisker innan nästa körning läggs på föraren, optimera flera stopp i en logisk ordning och anpassa rutten när verkligheten förändras ute på vägen.
+
+I Anders värld betyder det något väldigt konkret:
+
+Mindre tid med linjal och penna.
+Färre obehagliga överraskningar.
+Bättre beslut innan bilen lämnar gården.
+
+Och när olyckan väl händer på E4?
+
+Då behöver nästa problem inte börja med ännu ett paniksamtal.
+
+Det är själva poängen med berättelsen: tekniken är inte hjälten. Anders är hjälten. Navichain ger honom bättre underlag för att göra sitt jobb.
+
+Från chansning till kontroll.
+
+👉 Kom igång: navichain.se/signup
+
+#transport #logistik #åkeri #ruttoptimering #trafikledning #digitalisering #Navichain

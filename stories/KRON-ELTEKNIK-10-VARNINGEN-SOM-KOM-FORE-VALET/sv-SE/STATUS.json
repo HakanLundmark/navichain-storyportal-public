@@ -1,0 +1,16 @@
+{
+  "locale": "sv-SE",
+  "classification": "INCOMPLETE",
+  "masterVersion": null,
+  "originalAssets": {
+    "exportable": 14,
+    "required": 14,
+    "ids": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "pdf": "EXISTS_AND_EXPORTABLE",
+  "qa": "EXISTS_AND_EXPORTABLE",
+  "manifest": "EXISTS_AND_EXPORTABLE",
+  "social": "MISSING",
+  "githubBinaryAssetsPublished": 0,
+  "reason": "Social/LinkedIn output is missing; binary files are locally exportable but could not be transferred through the exposed GitHub connector write interface."
+}

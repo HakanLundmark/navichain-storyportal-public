@@ -1,0 +1,35 @@
+{
+  "schema": "navichain-storyportal-inventory-v1",
+  "storyId": "ingen-losen-att-krava",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "assetCountExpected": 14,
+  "assetCountExportable": 2,
+  "exportableAssets": [
+    "cover_00",
+    "panel_01"
+  ],
+  "missingAssets": [
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "existsButNotExportable": [],
+  "githubBinaryPublishFailed": [
+    "sv-SE/images/cover_00.png",
+    "sv-SE/images/panel_01.png"
+  ],
+  "pdf": null,
+  "social": null,
+  "releaseZip": null,
+  "originalStory": "../ORIGINAL_STORY.md"
+}

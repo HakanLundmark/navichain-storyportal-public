@@ -1,0 +1,52 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "timestamp": "2026-08-24T19:36:00+02:00",
+  "sourceClasses": {
+    "EXACT_ORIGINAL": 80,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 0,
+    "NOT_CREATED": 7
+  },
+  "canonicalImageSlots": {
+    "foundExactOriginal": 14,
+    "total": 14
+  },
+  "historicalRenderFilesExactOriginal": 52,
+  "narrativeInventory": [
+    {"itemType":"Narrative Master","status":"EXACT_ORIGINAL","qaStatus":"PRODUCT_TRUTH_REVISE/NOT_RELEASE_LOCKED","path":"ORIGINAL_STORY.md","comment":"Canonical Swedish story text, preserved without correction."},
+    {"itemType":"English faithful story","status":"DERIVED_TRANSLATION","qaStatus":"TEXT_DERIVATIVE_NOT_NARRATIVE_MASTER","path":"source/original-story-en-GB.md","comment":"Direct faithful translation from sv-SE master."},
+    {"itemType":"Story DNA","status":"NOT_CREATED","qaStatus":"NOT_CREATED"},
+    {"itemType":"Continuity Contract","status":"NOT_CREATED","qaStatus":"NOT_CREATED"},
+    {"itemType":"Character/Cast lock","status":"NOT_CREATED","qaStatus":"NOT_CREATED"},
+    {"itemType":"Vehicle/environment lock","status":"NOT_CREATED","qaStatus":"NOT_CREATED"},
+    {"itemType":"Formal Story Lock","status":"NOT_CREATED","qaStatus":"NOT_LOCKED"},
+    {"itemType":"PDF/carousel","status":"NOT_CREATED","qaStatus":"NOT_CREATED"},
+    {"itemType":"LinkedIn/social copy","status":"NOT_CREATED","qaStatus":"NOT_CREATED"}
+  ],
+  "githubTextPublication": {
+    "originalStorySvSE": "EXISTING_AND_READ_BACK_VERIFIED",
+    "originalStoryEnGB": "PUBLISHED_AND_READ_BACK_VERIFIED",
+    "retroMetadata": "PUBLISHED_AND_READ_BACK_VERIFIED",
+    "retroQa": "PUBLISHED_AND_READ_BACK_VERIFIED",
+    "storyJson": "UPDATED_AND_READ_BACK_VERIFIED",
+    "storiesIndexJson": "UPDATED_AND_READ_BACK_VERIFIED"
+  },
+  "indexPatchCommit": "c36bc9a713cce4a0667cea2ea71c1a1c955820c2",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_IN_CURRENT_RUNTIME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "githubBinaryStatus": "PACKAGE_READY_BUT_AUTOMATIC_TRANSPORT_UNAVAILABLE",
+  "metadataStatus": "STORY_JSON_AND_INDEX_READ_BACK_VERIFIED",
+  "releaseStatus": "INCOMPLETE",
+  "releaseBlockers": [
+    "No verified 14/14 PASS/LOCKED visual master set.",
+    "Several historical render candidates are REBUILD_REQUIRED or have unknown release QA.",
+    "The latest CTA candidate is REBUILD_REQUIRED, not a release-qualified CTA.",
+    "No PDF carousel for this story was created.",
+    "No LinkedIn/social release copy for this story was created.",
+    "No complete release manifest/ZIP existed historically before this backfill."
+  ]
+}

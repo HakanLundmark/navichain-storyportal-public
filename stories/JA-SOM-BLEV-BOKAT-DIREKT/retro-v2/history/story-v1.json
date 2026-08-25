@@ -1,0 +1,84 @@
+{
+  "storyId": "JA-SOM-BLEV-BOKAT-DIREKT",
+  "title": "JA SOM BLEV BOKAT, DIREKT",
+  "subtitle": "Susanne och offerten som blir en bokning i samma ögonblick kunden säger ja",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "protagonist": "Susanne Dahl",
+  "company": "Björklunda Åkeri AB",
+  "sourceStatus": "COMPLETE",
+  "locales": {
+    "sv-SE": {
+      "sourceStatus": "COMPLETE",
+      "githubStatus": "PENDING",
+      "exportableOriginalImageAssets": 14,
+      "assetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "pdf": true,
+      "social": true,
+      "qa": true,
+      "manifest": true,
+      "sources": true,
+      "releasePublished": false
+    },
+    "en-GB": {
+      "sourceStatus": "INCOMPLETE",
+      "githubStatus": "NOT_PUBLISHED",
+      "approvedExportableOriginalImageAssets": 0,
+      "producedButRejectedAssets": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08"
+      ],
+      "missingApprovedAssets": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "pdf": false,
+      "social": false,
+      "qa": false,
+      "manifest": false,
+      "releasePublished": false,
+      "reason": "Generated en-GB attempts diverged from the locked original story and were rejected; no approved complete locale release exists."
+    }
+  },
+  "backfill": {
+    "sourceChat": "current active story chat",
+    "noRerender": true,
+    "noImageReconstruction": true,
+    "noPdfExtractionAsOriginalAssetSubstitute": true,
+    "canonicalOriginalStory": "stories/JA-SOM-BLEV-BOKAT-DIREKT/ORIGINAL_STORY.md"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "storyId": "ingen-behovde-leta-upp-ratt-person",
+  "masterVersion": "1.0.0",
+  "masterLocale": "sv-SE",
+  "inventoryBasis": "Active chat + directly accessible runtime files only; no regeneration or guessed reconstruction performed during this backfill.",
+  "canonicalNarrativeMaster": {"status": "EXISTS_AND_EXPORTABLE"},
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "verifiedOriginalAssetCount": 12,
+      "assets": {"cover_00":"EXISTS_AND_EXPORTABLE","panel_01":"EXISTS_BUT_NOT_EXPORTABLE","panel_02":"EXISTS_AND_EXPORTABLE","panel_03":"EXISTS_BUT_NOT_EXPORTABLE","panel_04":"EXISTS_AND_EXPORTABLE","panel_05":"EXISTS_AND_EXPORTABLE","panel_06":"EXISTS_AND_EXPORTABLE","panel_07":"EXISTS_AND_EXPORTABLE","panel_08":"EXISTS_AND_EXPORTABLE","panel_09":"EXISTS_AND_EXPORTABLE","panel_10":"EXISTS_AND_EXPORTABLE","panel_11":"EXISTS_AND_EXPORTABLE","panel_12":"EXISTS_AND_EXPORTABLE","cta_13":"EXISTS_AND_EXPORTABLE"},
+      "existsButNotExportable": {"panel_01":"Earlier original render was not retained; accessible package file is explicitly documented as a reconstruction.","panel_03":"Earlier original render was not retained; accessible package file is explicitly documented as a reconstruction."},
+      "pdf": {"status":"EXISTS_AND_EXPORTABLE","sha256":"b40052d8b7b1df11ede536f740479703bd188f6d85c3bf031bdb7ae78d70e393","note":"Contains reconstructed panel_01/panel_03 and therefore does not establish original-asset completeness."},
+      "social":"EXISTS_AND_EXPORTABLE","qa":"EXISTS_AND_EXPORTABLE","manifest":"EXISTS_AND_EXPORTABLE","sources":"EXISTS_AND_EXPORTABLE",
+      "existingZip": {"status":"EXISTS_AND_EXPORTABLE","bytes":98909707,"note":"Contains reconstructed panel_01/panel_03; not a canonical COMPLETE release."}
+    },
+    "en-GB": {
+      "status":"INCOMPLETE","verifiedOriginalAssetCount":2,
+      "assets":{"cover_00":{"status":"EXISTS_AND_EXPORTABLE","sha256":"092fdb4bc2d8c76ba47e29ccd19b3a9bea4bba9f552d8f34e8c47696eb7819c8"},"panel_01":{"status":"EXISTS_AND_EXPORTABLE","sha256":"5b4e05e8336bde26f4d7e2d6e3a67d0e843ac514937a9ad9afc22f8303671524"},"panel_02":"MISSING","panel_03":"MISSING","panel_04":"MISSING","panel_05":"MISSING","panel_06":"MISSING","panel_07":"MISSING","panel_08":"MISSING","panel_09":"MISSING","panel_10":"MISSING","panel_11":"MISSING","panel_12":"MISSING","cta_13":"MISSING"},
+      "pdf":"MISSING","social":"MISSING","qa":"MISSING","manifest":"MISSING","sources":"MISSING"
+    }
+  },
+  "revisionsAndVersions":{"storyDNA":"1.0.0 locked","releaseManifest":"1.0.0","projectRulesObserved":"v6.1.7a"}
+}

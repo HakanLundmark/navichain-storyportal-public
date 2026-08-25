@@ -1,0 +1,27 @@
+{
+  "story": "LEVERANSEN SOM FICK EN ANDRA CHANS",
+  "locale": "sv-SE",
+  "asset_count": 14,
+  "order": ["cover_00.png","panel_01.png","panel_02.png","panel_03.png","panel_04.png","panel_05.png","panel_06.png","panel_07.png","panel_08.png","panel_09.png","panel_10.png","panel_11.png","panel_12.png","cta_13.png"],
+  "assets": [
+    {"asset":"cover_00.png","source_file":"leveransen_som_fick_en_andra_chans.png","width":1024,"height":1536,"sha256":"b83d1e41a5cfea1c92ab3b6abcc803c9236b5f95f01dfb5ca1299f1144a66cd8"},
+    {"asset":"panel_01.png","source_file":"misslyckad_leverans_vid_stängd_entré.png","width":1024,"height":1536,"sha256":"d5f219095704b89e5f012da00193d8024a0812746bf4621e08cc72400682ad30"},
+    {"asset":"panel_02.png","source_file":"leveransbokning_med_pärm_i_lastbilshytten.png","width":1024,"height":1536,"sha256":"5cb60881bd0b116e5bd684f23fde22a6864a5dbd468913e399438185129da906"},
+    {"asset":"panel_03.png","source_file":"dubbelarbete_på_transportkontoret.png","width":1024,"height":1536,"sha256":"cfd12d65a70dd7ffffdc20d547239a36bdeeb5dccb7c052fe858132c8229e920"},
+    {"asset":"panel_04.png","source_file":"regnig_väntan_i_lastbilshytten.png","width":1024,"height":1536,"sha256":"ab52afe10675b0e4eaf3a38289d49684f8fc7d3381bd55ad27747ad9c1f3c2dc"},
+    {"asset":"panel_05.png","source_file":"a_comic_book_style_illustration_full_page_poster.png","width":1024,"height":1536,"sha256":"534d65e91dd8c94f77011898a0623999ef591cb6a76eae653b1b066fe2b06a1e"},
+    {"asset":"panel_06.png","source_file":"förvirrad_leverans_vid_dörren.png","width":1024,"height":1536,"sha256":"9d40480d89530ffa01ebe84f7d73f97ac3cd1ba7377e559425a2bcc1a4cc384d"},
+    {"asset":"panel_07.png","source_file":"misslyckad_leverans_vid_verkstadsgatan_12.png","width":1024,"height":1536,"sha256":"7c6c4ff6a806cb1e06bdc6350f9fdec02364011a8f7cdda8db12a63036ed437a"},
+    {"asset":"panel_08.png","source_file":"bud_vid_stängd_verkstadsdörr.png","width":1024,"height":1536,"sha256":"7d3c39cd6ee94042d17a39743131570ec29f876b3c42937c2354d38241b28a25"},
+    {"asset":"panel_09.png","source_file":"misslyckat_leveransförsök_dokumenterat.png","width":1024,"height":1536,"sha256":"9acf45a2bb145e10d170dfabc5befc25b58c2e0d2abf76e697164c8b4d9aee35"},
+    {"asset":"panel_10.png","source_file":"imagegen.png","width":1055,"height":1491,"sha256":"96b6d629b828bb0e2eba302b4e59a96b4bb2177b420dd6dc4d70d548a61b0b4d"},
+    {"asset":"panel_11.png","source_file":"kvinnan_som_planerar_leveransen.png","width":1024,"height":1536,"sha256":"bcffc2ff004eb63449aba5837baac6148e0418389d6adbf592895d3750795ea0"},
+    {"asset":"panel_12.png","source_file":"samma_leverans_vid_industridörren.png","width":1024,"height":1536,"sha256":"4ae7a6bb212bdd44e44660bc14eff00370b9a563f018fff72f28c78cbd2d8aed"},
+    {"asset":"cta_13.png","source_file":"cta_exact_logo_qr_helper.png","width":1024,"height":1536,"sha256":"464074e8b19d3eccbd882c9553d0c66ea08ce121925d7f6226e47e7c159448bf"}
+  ],
+  "carousel_pdf": "leveransen_som_fick_en_andra_chans_sv-SE_carousel.pdf",
+  "carousel_page_count": 14,
+  "carousel_pdf_sha256": "82cbc1e4760a4401333222fa40553e9158eb17a151e3070a5c839c20198b8fca",
+  "github_binary_assets_published": 0,
+  "release_status": "INCOMPLETE"
+}

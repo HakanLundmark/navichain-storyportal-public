@@ -1,0 +1,13 @@
+{
+  "schema": "navichain-narrative-master-v1",
+  "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sha256": "d2df49b22f40f387fb43e27cf30495099949b7e10d0da0216af7c2855e97ef66",
+  "size": 9602,
+  "sourceGitBlobSha": "cc11eb59564fd6681e0538b8ff74292a1353bd92",
+  "path": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-sv-SE.md",
+  "byteIdentityVerification": "local UTF-8 hash-object matched the existing canonical ORIGINAL_STORY.md Git blob SHA exactly",
+  "githubReadBackVerified": true
+}

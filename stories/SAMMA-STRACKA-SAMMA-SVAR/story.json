@@ -1,0 +1,38 @@
+{
+  "storyId": "SAMMA-STRACKA-SAMMA-SVAR",
+  "storyIdAuthority": "source release-manifest.yaml and canonical title",
+  "title": "SAMMA STRÄCKA, SAMMA SVAR",
+  "subtitle": "Torbjörn och de tre offerterna som nästan blev tre olika priser",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+  },
+  "narrativeMaster": {
+    "path": "stories/SAMMA-STRACKA-SAMMA-SVAR/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "9103e944c6511e69979aa90065f3ea62aea18bea960b4961fee43a3385ce00c3"
+  },
+  "englishStory": {
+    "path": "stories/SAMMA-STRACKA-SAMMA-SVAR/source/original-story-en-GB.md",
+    "metadataPath": "stories/SAMMA-STRACKA-SAMMA-SVAR/source/original-story-en-GB.meta.json",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "0e36bd634cabd942b1f384c182b4d18f54034840fc603aa4433bfe91e937ca71"
+  },
+  "verifiedOriginalAssets": 12,
+  "sourceNotExportableAssets": ["cover_00", "panel_01"],
+  "githubPublishedBinaryAssets": 0,
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryBackfillRetryStatusPath": "stories/SAMMA-STRACKA-SAMMA-SVAR/BINARY_BACKFILL_RETRY_STATUS.json",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2StatusPath": "stories/SAMMA-STRACKA-SAMMA-SVAR/RETRO_BACKFILL_V2_STATUS.json",
+  "pdf": "NOT_CREATED",
+  "backfilledAt": "2026-08-23T08:50:00+02:00",
+  "binaryRetryCheckedAt": "2026-08-23T23:27:00+02:00",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:36:00+02:00",
+  "path": "stories/SAMMA-STRACKA-SAMMA-SVAR/story.json"
+}

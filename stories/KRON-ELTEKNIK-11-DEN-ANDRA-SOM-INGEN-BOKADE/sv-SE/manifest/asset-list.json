@@ -1,0 +1,9 @@
+{
+  "assets": [
+    {"assetId":"cover_00","locale":"sv-SE","sourceState":"EXISTS_AND_EXPORTABLE","releaseApproval":"UNKNOWN_OR_NOT_LOCKED","sourceFilename":"den_andra_som_ingen_bokade.png"},
+    {"assetId":"panel_01","locale":"sv-SE","sourceState":"EXISTS_AND_EXPORTABLE","releaseApproval":"UNKNOWN_OR_NOT_LOCKED","sourceFilename":"arbetsuppdrag_med_säkerhet_i_fokus.png"},
+    {"assetId":"panel_02","locale":"sv-SE","sourceState":"EXISTS_AND_EXPORTABLE","releaseApproval":"UNKNOWN_OR_NOT_LOCKED","sourceFilename":"a_detailed_comic_illustration_scene_in_a_clean_lin.png"},
+    {"assetId":"panel_11","locale":"sv-SE","sourceState":"EXISTS_AND_EXPORTABLE","releaseApproval":"UNKNOWN_OR_NOT_LOCKED","sourceFilename":"elektrikerna_anländer_till_arbetsplatsen.png"}
+  ],
+  "note": "The four original binary source files are directly accessible in the source chat runtime, but this GitHub connector exposes UTF-8 content writes and no local-file binary upload action. They were not reconstructed or substituted."
+}

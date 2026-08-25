@@ -1,0 +1,69 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET",
+  "checkedAt": "2026-08-24T17:27:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "inventory": {
+    "totalItems": 120,
+    "exactOriginalFiles": 119,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 1,
+    "notCreated": 24,
+    "historicalChatRenderCandidates": 52,
+    "canonicalVisuals": {"sv-SE": 14, "en-GB": 4}
+  },
+  "narrative": {
+    "sv-SE": {
+      "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-sv-SE.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+      "qaStatus": "REBUILD_REQUIRED",
+      "githubReadBack": "PASS"
+    },
+    "en-GB": {
+      "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceStorySha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+      "sha256": "f82cf67a380d6a60ce244349a68e6cad0296817916f707545b987d371d6a0af7",
+      "qaStatus": "REBUILD_REQUIRED",
+      "githubReadBack": "PASS"
+    }
+  },
+  "canonicalAssets": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "runtimeAvailable": 14,
+      "githubPublished": 0,
+      "qaStatus": "MIXED_OR_UNKNOWN",
+      "assetIds": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+    },
+    "en-GB": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "runtimeAvailable": 4,
+      "githubPublished": 0,
+      "qaStatus": "UNKNOWN",
+      "assetIds": ["cover_00","panel_01","panel_02","panel_03"],
+      "notCreated": ["panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+    }
+  },
+  "binaryTransport": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "The current assistant tool surface cannot invoke the Chrome download/local capture/Nextcloud/hardened router/publisher chain. Direct GitHub blob creation requires inline base64 and cannot safely marshal the bulk multi-megabyte historical source set. A small v2 queue probe remained unconsumed by the assembler workflow.",
+    "queueProbe": "backfill-binary-queue/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-sv-SE-narrative-20260824T1727.json",
+    "githubPublishedCanonicalImageAssets": 0
+  },
+  "localPackages": [
+    {"file":"KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-sv-SE-retro-backfill-v2.zip","size":110942186,"sha256":"3d308f80ee48ce3201602226a86924cd5dacd552cdb45d00417cbe15977002a7"},
+    {"file":"KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-en-GB-retro-backfill-v2.zip","size":12570350,"sha256":"0aafdf4b28a4d28d7c0a7e2002d1542699459c035377ac94805cbcaa2ed64bd9"},
+    {"file":"KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-history-retro-backfill-v2.zip","size":560283356,"sha256":"0ce21abd2079bd0d1af56d95d104796f10a3da8935236b5e7e7ff0cfbb0c9e88"}
+  ],
+  "rules": {
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedOrRestyled": false,
+    "qaUpgradedByBackfill": false
+  }
+}

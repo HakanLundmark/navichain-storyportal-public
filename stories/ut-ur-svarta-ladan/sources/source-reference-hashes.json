@@ -1,0 +1,27 @@
+{
+  "storyId": "ut-ur-svarta-ladan",
+  "references": [
+    {
+      "filename": "NAVICHAIN-OFFICIAL-LOGO.png",
+      "size": 15270,
+      "sha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+      "dimensions": [500, 300]
+    },
+    {
+      "filename": "Korrekt QR kod till signup.png",
+      "size": 367480,
+      "sha256": "62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e",
+      "dimensions": [550, 574]
+    },
+    {
+      "filename": "NAVICHAIN-PRODUCT-TRUTH.md",
+      "size": 89312,
+      "sha256": "65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"
+    },
+    {
+      "filename": "Navichain_Market_Truth_MASTER_v1.0.md",
+      "size": 113105,
+      "sha256": "1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"
+    }
+  ]
+}

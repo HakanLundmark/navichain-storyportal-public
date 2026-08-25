@@ -1,0 +1,28 @@
+storyId: vem-bar-ansvaret
+masterVersion: '1.0'
+locale: sv-SE
+outputs:
+  images:
+  - cover_00.png
+  - panel_01.png
+  - panel_02.png
+  - panel_03.png
+  - panel_04.png
+  - panel_05.png
+  - panel_06.png
+  - panel_07.png
+  - panel_08.png
+  - panel_09.png
+  - panel_10.png
+  - panel_11.png
+  - panel_12.png
+  - cta_13.png
+  pdf: carousel/vem-bar-ansvaret-sv-SE.pdf
+  linkedin: social/linkedin-sv-SE.txt
+brandAsset: NAVICHAIN-OFFICIAL-LOGO.png
+qr:
+  payload: https://navichain.se/signup
+  rasterDecode: PASS
+checksums:
+  pdf: 963a94f6ddf9018a3d37dcc11cda0fe52fefa65d98e21964e419b32a704e832e
+  cta: 9db309a573544a54a9e367d7d3cac403b76260430e8b1ee1f89ba1428785e593

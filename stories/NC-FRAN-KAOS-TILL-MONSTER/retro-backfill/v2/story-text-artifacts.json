@@ -1,0 +1,38 @@
+[
+  {
+    "itemType": "brief/manus",
+    "locale": "sv-SE",
+    "provenance": "SOURCE_NOT_EXPORTABLE",
+    "qaStatus": "historical source text exists in chat context",
+    "exportStatus": "SOURCE_NOT_EXPORTABLE",
+    "comment": "The original long-form user brief was supplied as chat text, but no platform-provided exact text-file binary/export reference is exposed in the current runtime. It was not reconstructed from memory."
+  },
+  {
+    "itemType": "storyboard",
+    "locale": "sv-SE",
+    "provenance": "EXACT_ORIGINAL",
+    "qaStatus": "Story Locked",
+    "exportStatus": "EXPORTED_AS_PART_OF_NARRATIVE_MASTER",
+    "source": "source/original-story-sv-SE.md",
+    "comment": "The canonical panel-by-panel storyboard is embedded verbatim in the exact Narrative Master file."
+  },
+  {"itemType":"Story DNA","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"Continuity Contract","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"cast lock","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"character lock","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"vehicle/environment lock","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"preflight","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {
+    "itemType": "Story Lock",
+    "locale": "sv-SE",
+    "provenance": "EXACT_ORIGINAL",
+    "qaStatus": "LOCKED",
+    "exportStatus": "EXPORTED_AS_PART_OF_NARRATIVE_MASTER",
+    "source": "source/original-story-sv-SE.md"
+  },
+  {"itemType":"Product Truth assessment","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"Reality Validation","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"correction log","locale":"sv-SE","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+  {"itemType":"release notes","locale":"sv-SE","provenance":"NOT_CREATED","qaStatus":"N/A","exportStatus":"NOT_CREATED"},
+  {"itemType":"localization notes","locale":"en-GB","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","exportStatus":"SOURCE_NOT_EXPORTABLE"}
+]

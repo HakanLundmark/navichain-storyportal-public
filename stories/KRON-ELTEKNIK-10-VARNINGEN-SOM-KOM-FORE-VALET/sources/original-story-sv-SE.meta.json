@@ -1,0 +1,11 @@
+{
+  "schema": "navichain-narrative-source-v1",
+  "storyId": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+  "sourceEvidence": "/mnt/data/kron-elteknik-10-varningen-som-kom-fore-valet-backfill/ORIGINAL_STORY.md exact bytes",
+  "qaStatus": "REBUILD_REQUIRED",
+  "note": "Historical original story preserved exactly as materialised; later Product Truth-safe complete rewrite was not materialised."
+}

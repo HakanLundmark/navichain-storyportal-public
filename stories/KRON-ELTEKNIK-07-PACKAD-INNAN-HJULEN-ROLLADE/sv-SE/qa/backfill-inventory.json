@@ -1,0 +1,60 @@
+{
+  "schema": "navichain-backfill-inventory-v2",
+  "storyId": "KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "inventoryBasis": "Only material actually produced and directly accessible in this chat/runtime is counted. Rejected collage/multi-asset renders are inventoried separately and are never substituted for canonical individual assets.",
+  "canonicalNarrative": {
+    "ORIGINAL_STORY.md": "EXISTS_AND_EXPORTABLE",
+    "note": "Canonical original story already exists in GitHub and matches the active story title/cast/episode source in this chat. It is not rewritten during this backfill. Product Truth correction remains required before release."
+  },
+  "requiredCanonicalAssets": {
+    "cover_00": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "packad_innan_hjulen_rullade.png", "qa": "REBUILD_REQUIRED"},
+    "panel_01": {"state": "MISSING"},
+    "panel_02": {"state": "MISSING"},
+    "panel_03": {"state": "MISSING"},
+    "panel_04": {"state": "MISSING"},
+    "panel_05": {"state": "MISSING"},
+    "panel_06": {"state": "MISSING"},
+    "panel_07": {"state": "MISSING"},
+    "panel_08": {"state": "MISSING"},
+    "panel_09": {"state": "MISSING"},
+    "panel_10": {"state": "MISSING"},
+    "panel_11": {"state": "MISSING"},
+    "panel_12": {"state": "MISSING"},
+    "cta_13": {"state": "MISSING"}
+  },
+  "canonicalAssetCounts": {
+    "required": 14,
+    "existsAndExportable": 1,
+    "existsButNotExportable": 0,
+    "missing": 13,
+    "releaseEligiblePassLocked": 0
+  },
+  "rawRejectedArtifacts": [
+    {"file": "a_full_page_comic_storyboard_layout_in_a_clean_lig.png", "state": "EXISTS_AND_EXPORTABLE", "qa": "MULTI_ASSET_RENDER_REBUILD_REQUIRED"},
+    {"file": "a_full_comic_page_style_storyboard_multi_panel_pos.png", "state": "EXISTS_AND_EXPORTABLE", "qa": "MULTI_ASSET_RENDER_REBUILD_REQUIRED"},
+    {"file": "a_full_comic_book_style_multi_panel_page_cover_pos.png", "state": "EXISTS_AND_EXPORTABLE", "qa": "MULTI_ASSET_RENDER_REBUILD_REQUIRED"}
+  ],
+  "coverQa": {
+    "file": "packad_innan_hjulen_rullade.png",
+    "result": "REBUILD_REQUIRED",
+    "hardBlockReasons": [
+      "brand_critical_logo_generated_by_image_model_instead_of_deterministic_official_asset_composite"
+    ]
+  },
+  "otherRequiredReleaseComponents": {
+    "pdfCarousel": "MISSING",
+    "linkedinSocialCopy": "MISSING",
+    "releaseQa": "MISSING",
+    "releaseManifest": "MISSING",
+    "releaseZip": "MISSING"
+  },
+  "otherLocales": [],
+  "productTruth": {
+    "releaseStatus": "REVISION_REQUIRED_BEFORE_RELEASE",
+    "issue": "Parts multi-location transfer between main store and a service vehicle is not verified by current Product Truth."
+  },
+  "backfilledAt": "2026-08-23T11:06:00+02:00"
+}

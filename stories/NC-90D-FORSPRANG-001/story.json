@@ -1,0 +1,156 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "NC-90D-FORSPRANG-001",
+  "title": "90 DAGARS FÖRSPRÅNG",
+  "subtitle": "Kompetensregistret som räddade miljonaffären",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "storyLock": "LOCKED_IN_CHAT",
+  "realityValidation": "PASS",
+  "productTruth": "PASS_AT_PREFLIGHT",
+  "status": "INCOMPLETE",
+  "backfilledAt": "2026-08-24T17:26:00+02:00",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "verifiedExportableAssetCount": 2,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "exportableAssets": [
+        {
+          "assetId": "cover_00",
+          "sourceFile": "/mnt/data/a_full_color_comic_book_cover_poster_illustratio.png",
+          "size": 3167984,
+          "sha256": "bbb4081ce34a1dd94c3fc54efb7de31f9677196bcdb3732f5223b3ed7c7a21e2",
+          "width": 1536,
+          "height": 1024,
+          "sourceClass": "EXACT_ORIGINAL",
+          "qaStatus": "UNKNOWN",
+          "publishedToGitHub": false,
+          "publicationStatus": "GITHUB_PUBLISH_FAILED",
+          "comment": "Exact runtime bytes verified. User approved the visual direction, but no reliable formal PASS/LOCKED state is retained."
+        },
+        {
+          "assetId": "panel_02",
+          "sourceFile": "/mnt/data/a_retro_comic_book_style_illustration_panel_war.png",
+          "size": 3579688,
+          "sha256": "435c55f36f5994f0eda1348ad02e83dd8fcdc63cb7540a7c5898d41988da37ac",
+          "width": 1536,
+          "height": 1024,
+          "sourceClass": "EXACT_ORIGINAL",
+          "qaStatus": "REBUILD_REQUIRED",
+          "publishedToGitHub": false,
+          "publicationStatus": "GITHUB_PUBLISH_FAILED",
+          "comment": "Historical candidate is archiveable but not release eligible; it contains generated Navichain branding and accidental retro-world details."
+        }
+      ],
+      "sourceNotExportableAssets": [
+        "panel_01",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "pdf": "SOURCE_NOT_EXPORTABLE",
+      "social": "SOURCE_NOT_EXPORTABLE_AS_ORIGINAL_CHAT_ARTIFACT",
+      "qaReleasePackage": "SOURCE_NOT_EXPORTABLE_AS_ORIGINAL_RELEASE_ARTIFACT",
+      "releaseManifest": "SOURCE_NOT_EXPORTABLE_AS_ORIGINAL_RELEASE_ARTIFACT",
+      "releaseZip": "SOURCE_NOT_EXPORTABLE"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "narrativeMaster": false,
+      "storyText": {
+        "path": "stories/NC-90D-FORSPRANG-001/source/original-story-en-GB.md",
+        "sourceLocale": "sv-SE",
+        "locale": "en-GB",
+        "translationType": "faithful",
+        "sourceClass": "DERIVED_TRANSLATION",
+        "sourceStorySha256": "73b43bc31f7da56d7234a75d171afe70b2b7c311f04bfac86261297415b394cf",
+        "sha256": "b0f56671b7b46d2d5069025af2a3aa1e9160dd0e98fcf723f94fa5fb0ed8bd40",
+        "gitBlobSha": "dcc1c392acbae7312bf98bb39c7b437d09b6edf7",
+        "publishedToGitHub": true,
+        "readBackVerified": true
+      },
+      "historicalImageGenerationEvidence": 13,
+      "githubPublishedBinaryAssets": 0,
+      "sourceNotExportableAssets": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "pdf": "SOURCE_NOT_EXPORTABLE",
+      "releaseZip": "SOURCE_NOT_EXPORTABLE"
+    }
+  },
+  "canonicalStory": {
+    "path": "stories/NC-90D-FORSPRANG-001/ORIGINAL_STORY.md",
+    "sourceState": "EXACT_ORIGINAL",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "73b43bc31f7da56d7234a75d171afe70b2b7c311f04bfac86261297415b394cf",
+    "gitBlobSha": "2dd92f584740ff8dcec52ef541ebeac286840561",
+    "readBackVerified": true,
+    "provenance": "Locked Narrative Master text directly present in this chat after PREFLIGHT and Story Lock."
+  },
+  "characters": [
+    "Susanne Wikström",
+    "Robert \"Robban\" Ek",
+    "Fru Ahlberg"
+  ],
+  "company": "Vindelälvens Åkeri AB",
+  "customer": "Norrlands Livs & Grossist AB",
+  "sourceReferences": [
+    {
+      "type": "user_supplied_reference",
+      "value": "blog.navichain.se/resurshantering",
+      "note": "Pelare 4: Resurshantering"
+    },
+    {
+      "type": "project_source",
+      "value": "NAVICHAIN-PRODUCT-TRUTH.md",
+      "sourceState": "EXISTS_AND_EXPORTABLE"
+    },
+    {
+      "type": "project_source",
+      "value": "Navichain_Market_Truth_MASTER_v1.0.md",
+      "sourceState": "EXISTS_AND_EXPORTABLE"
+    }
+  ],
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T17:26:00+02:00",
+    "automaticTransportRequested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "automaticTransportRuntimeStatus": "UNAVAILABLE",
+    "runtimeEvidence": "Chrome execution is disabled in this tool runtime and no Nextcloud, local-capture, hardened-router or publisher connector/mount is exposed.",
+    "textPublicationStatus": "PARTIAL_PASS",
+    "narrativeMasterReadBack": "PASS",
+    "enGbStoryReadBack": "PASS",
+    "binaryPublicationStatus": "GITHUB_PUBLISH_FAILED",
+    "completeLocaleReleasePublished": false,
+    "reason": "Two exact sv-SE binary candidates are directly accessible, but the available GitHub connector has no local-file binary parameter and the requested Chrome/Nextcloud publisher chain is not exposed in this runtime. Remaining historical image binaries are not currently directly recoverable."
+  },
+  "backfill": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "completeLocaleReleasePublished": false,
+    "reason": "Historical backfill remains incomplete; no canonical image binary has completed GitHub publication/read-back for this active Story ID."
+  }
+}

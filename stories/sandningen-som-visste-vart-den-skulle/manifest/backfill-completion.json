@@ -1,0 +1,12 @@
+{
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "backfillStatus": "INCOMPLETE",
+  "releaseGradeAssetsExportableNow": 0,
+  "existsButNotExportableCanonicalOriginals": 10,
+  "missingApprovedAssets": ["panel_10", "panel_11", "panel_12", "cta_13"],
+  "releasePublished": false,
+  "releaseZipCreated": false,
+  "verifiedAt": "2026-08-23T08:35:00+02:00"
+}

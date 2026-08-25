@@ -1,0 +1,78 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "tio-sekunder-inte-tio-falt",
+  "title": "TIO SEKUNDER, INTE TIO FÄLT",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "inventoryAt": "2026-08-24T17:28:00+02:00",
+  "canonicalAssetSummary": {
+    "required": 14,
+    "exactOriginal": 9,
+    "chatRecovered": 0,
+    "sourceNotExportable": 5,
+    "notCreated": 0
+  },
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/tio-sekunder-inte-tio-falt/ORIGINAL_STORY.md",
+    "size": 9714,
+    "sha256": "d4cee6d5699c12ab4a37d3e68d737b4ba62a67f2b71f0b87379782a755f7a44a",
+    "sourceClass": "EXACT_ORIGINAL",
+    "gitBlobSha": "88e44f3362cfc628469b89be8da49a0b367b49ba"
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/tio-sekunder-inte-tio-falt/source/original-story-en-GB.md",
+    "size": 9998,
+    "sha256": "64fe16eb9046d183dc95354b8e39adb6b51a9b92c50a2849b18ebf953ed6e5f2",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "d4cee6d5699c12ab4a37d3e68d737b4ba62a67f2b71f0b87379782a755f7a44a",
+    "gitBlobSha": "dfef53e000af10ff367fa420a418192b960e1845"
+  },
+  "canonicalAssets": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"tio_sekunder_inte_tio_fält.png","dimensions":"1055x1491","size":3074171,"sha256":"7f412c5b210deb532821dbe62d873fcfb010eda944915fc5aef22394d63f1bed","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/cover_00.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"måndag_igen_på_kontoret.png","dimensions":"1055x1491","size":3031303,"sha256":"bf9b54b1545bdb9c78b4f3f42466c6e22c2085ea2cb9a3f21d23076b70718e43","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_01.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"fält_för_fält_på_måndagskontoret.png","dimensions":"1055x1491","size":2944343,"sha256":"6a70eb23cef71b27224df283b347d8357318ebf2fe138f4debc9caed6e64a194","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_02.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_03": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"ett_skrivfel_på_måndagskontoret.png","dimensions":"1055x1491","size":2816699,"sha256":"32f2747466fa6f4c8e80b4e665f43e4b70e4ef232349cdbb36c2b0fde6692558","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_03.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_04": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"klona_bara_en_måndagsräddare.png","dimensions":"1055x1491","size":2985253,"sha256":"3150049ada689994b083ce1c695314427432c1af8a867ee43dc37c367318b9e7","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_04.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_05": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"måndagsplanen_i_kundportalen.png","dimensions":"1055x1491","size":2977465,"sha256":"b74df80b88f1ec00b9c2b2197fdb19d7f8f5f00576dd9f42649abaa904f81cca","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_05.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_06": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"ett_tryck_på_kontoret.png","dimensions":"1055x1491","size":3130719,"sha256":"7fcbad8a69005f95e5d4994182931445459218303c2bc470ee8de23553671441","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_06.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_07": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN for later story-correct candidate","filename":"veckans_lilla_orderändring.png","dimensions":"1024x1536","size":3486343,"sha256":"e70eb690be24c5d1e9e20761054c735ff8a466b6dc29a9c8758444028b934efb","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_07.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_08": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"VALID_STORY_CONSISTENT; formal PASS/LOCKED not evidenced","filename":"imagegen.png","dimensions":"1055x1491","size":3074378,"sha256":"54f6ec229bfdc41c71dc32109cbd54c08b062decf03a69f47f97dba8c34cce1b","githubPath":"stories/tio-sekunder-inte-tio-falt/sv-SE/images/panel_08.png","githubBinaryStatus":"NOT_PUBLISHED"},
+    "panel_09": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Only an accessible foreign-story/wrong-scene panel_09 attempt remains; no correct canonical render is directly recoverable."},
+    "panel_10": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Only an accessible foreign-story/wrong-scene panel_10 attempt remains; no correct canonical render is directly recoverable."},
+    "panel_11": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Five accessible panel_11 attempts are foreign-story/wrong-scene; no correct Petra-calendar render is directly recoverable."},
+    "panel_12": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Only an accessible foreign-story/wrong-scene panel_12 attempt remains; no correct canonical render is directly recoverable."},
+    "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","reason":"Only a generic/wrong-story CTA is accessible; it is not a canonical substitute."}
+  },
+  "historicalCandidates": {
+    "exactOriginalAlternateOrRejectedImages": 10,
+    "exactOriginalBuildPlaceholders": 1,
+    "qaRule":"Rejected and alternate candidates are archived separately and never substituted into canonical paths."
+  },
+  "derivedOutputs": {
+    "workingPdf": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"WORKING_NOT_RELEASE","size":64001752,"sha256":"1d6f7c0a21a5f34290755c369d4ed1b3fff945859611f0113555c9a07ff84ddd","pages":14,"githubBinaryStatus":"NOT_PUBLISHED"},
+    "workingZip": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"WORKING_PACKAGE_NOT_RELEASE","size":91507395,"sha256":"7a93357f11b2f4188278ad2ee3ccc1c3ad0aed0c8e77b348dd7b293dd752215e","githubBinaryStatus":"NOT_PUBLISHED"},
+    "socialLinkedIn": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED"}
+  },
+  "preflight": {
+    "realityValidation":"PASS",
+    "productTruth":"PASS",
+    "storyIsolation":"PASS",
+    "continuity":"PASS",
+    "storyRelevance":"PASS",
+    "storyLock":"NOT_CREATED / no explicit LOCK STORY evidenced",
+    "masterVersion":null
+  },
+  "transport": {
+    "chromeDownload":"NOT_EXECUTABLE_FROM_CURRENT_TOOL_SURFACE",
+    "nextcloudArchive":"NO_CONNECTED_NEXTCLOUD_PLUGIN_FOUND",
+    "githubTextPublication":"PASS",
+    "githubBinaryPublication":"GITHUB_PUBLISH_FAILED/PENDING for multi-megabyte binaries on current tool surface"
+  },
+  "status":"PARTIAL_BACKFILL"
+}

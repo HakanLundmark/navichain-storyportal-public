@@ -1,0 +1,30 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "locale": "sv-SE",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "DEN-RADERING-SOM-ALDRIG-FICK-SKE-sv-SE-retro-backfill-v2.zip",
+  "packageSha256": "cf752721d489bc91dac6923279b7b8dbfbb657e7bac9f5857331fb49f6a91799",
+  "files": [
+    {"archiveName":"source/original-story-sv-SE.md","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-sv-SE.md","size":8089,"sha256":"2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/cover_00.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/cover_00.png","size":3717815,"sha256":"5decbd80854040789e780409dbd5d2bebe18741cb0fb97069c54358380fac309","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_01.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_01.png","size":3184729,"sha256":"a216570b3a96702c65deb2be82b57d001a02ceff12cbc77a95e595675cd9965d","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_03.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_03.png","size":2929833,"sha256":"104e46dc367cf9d71fc08c8bef1859fbcd7c97dc64522503883eb224ffa713c7","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_04.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_04.png","size":3129027,"sha256":"1f923ef08192c7bc73277ba3be1dc4e7cb1aecfc7459b81771f1d570cac3a92a","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_05.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_05.png","size":3096049,"sha256":"4fbbdb897a212003b40e19035b8e5c1c74bf8699691bb2992b2242d78f7fa9eb","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_06.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_06.png","size":3115809,"sha256":"f236b164b3f5bdadbb03ecd0c4641ae912952bcd19ef1bde13065c1e136c1e43","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_07.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_07.png","size":3125811,"sha256":"d36a4c08a844f0599a17da9701af4ca748bbf98975338bceed1434cb17537500","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_08.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_08.png","size":2927043,"sha256":"8f7e11b37c95662f26db89cf6c70bc458b1bf6256e868390b2bda9c178e2cced","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_09.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_09.png","size":3144917,"sha256":"1ac3863dd892a3d4ff36281656ae2478a5b186b72325037733cd98a02a9041ee","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_10.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_10.png","size":3132734,"sha256":"3b4b8f08cb18a60affa08e58df9b8ee621a0152ede3ba1f290938982ce8289ab","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_11.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_11.png","size":3036724,"sha256":"212c028fb25b301f93285b84886aac076310d2879e53faf96a4b4fd30493f296","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_12.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/panel_12.png","size":3140197,"sha256":"4853fbaa8a40bc209b2079893e6953405a4c945a217e38b2f875c3cffdd62b1b","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/cta_13.png","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/images/cta_13.png","size":2025210,"sha256":"4ec0654f91ddba26deacfb84b225e1d8843a49302889326b8e6ce801c8ce500f","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/carousel/den_radering_som_aldrig_fick_ske_sv-SE_PARTIAL_carousel.pdf","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/carousel/den_radering_som_aldrig_fick_ske_sv-SE_PARTIAL_carousel.pdf","size":4157591,"sha256":"bd4e9f4e58f35e506dabae1a2efe7b17971d3ad77c67baa453043cf032c833d0","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/archive/den_radering_som_aldrig_fick_ske_sv-SE_PARTIAL_package.zip","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/sv-SE/archive/den_radering_som_aldrig_fick_ske_sv-SE_PARTIAL_package.zip","size":39950022,"sha256":"c52257074ab17cf529469db88b0100fe1a811595c80d4cf8c41c3021c682d973","sourceClass":"EXACT_ORIGINAL"}
+  ]
+}

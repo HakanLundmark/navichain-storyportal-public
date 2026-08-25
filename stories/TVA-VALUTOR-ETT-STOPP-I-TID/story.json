@@ -1,0 +1,42 @@
+{
+  "schema": "navichain-story-v1",
+  "storyId": "TVA-VALUTOR-ETT-STOPP-I-TID",
+  "title": "TVÅ VALUTOR, ETT STOPP I TID",
+  "subtitle": "Åsa och fakturan som aldrig fick gå ut fel",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMasterPath": "stories/TVA-VALUTOR-ETT-STOPP-I-TID/ORIGINAL_STORY.md",
+  "sourceNarrativeMasterPath": "stories/TVA-VALUTOR-ETT-STOPP-I-TID/source/original-story-sv-SE.md",
+  "narrativeMasterSha256": "9543f3eb8175fd8d61c6476f2e1be381ba2afd69436712858926808fb8334c11",
+  "acceptedCorrectionLogPath": "stories/TVA-VALUTOR-ETT-STOPP-I-TID/source/correction-log-sv-SE.md",
+  "acceptedCorrectionLogSha256": "a21a6245af841752f1e3d0b76155f5601645ea67c65f9863e12b2442146a8b64",
+  "enGBStoryPath": "stories/TVA-VALUTOR-ETT-STOPP-I-TID/source/original-story-en-GB.md",
+  "enGBStorySourceClass": "DERIVED_TRANSLATION",
+  "enGBStorySha256": "dc6b1b42453bea1d65658b1a70b8803f3ba8594280c771f129e04a4601fe2cdc",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "exactOriginalCanonicalAssetsAccessible": 13,
+      "sourceNotExportable": ["panel_09"],
+      "notCreated": [],
+      "historicalRenderAttemptsPreservedLocally": 8,
+      "formalReleaseBlocked": true
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "canonicalAssetsUnambiguouslyPublishable": 0,
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"],
+      "notCreated": ["cta_13"],
+      "historicalExactRenderAttemptsPreservedLocally": 21,
+      "formalReleaseBlocked": true
+    }
+  },
+  "githubPublishedCanonicalImageAssets": 0,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "automaticTransportDetail": "This assistant session has no Chrome-download, local-capture, Nextcloud, hardened-router or publisher tool surface. GitHub text writes are available directly; binary queue transport is only practical for small directly-uploadable blobs in this session.",
+  "qaSeparation": "Provenance and QA remain independent; historical rejected or rebuild-required attempts are not promoted to PASS/LOCKED."
+}

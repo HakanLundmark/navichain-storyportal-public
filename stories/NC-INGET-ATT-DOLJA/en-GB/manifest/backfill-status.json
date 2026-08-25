@@ -1,0 +1,58 @@
+{
+  "schema": "navichain-retro-backfill-v2-locale-status",
+  "storyId": "NC-INGET-ATT-DOLJA",
+  "locale": "en-GB",
+  "masterVersion": "v1.0",
+  "status": "INCOMPLETE",
+  "narrativeMaster": false,
+  "textTranslation": {
+    "path": "stories/NC-INGET-ATT-DOLJA/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "sourceLocale": "sv-SE",
+    "sourceStorySha256": "7c121a6ee26d4d870dd468cc9f8bd7d18a8befc512db5af47540915a1d7abc96",
+    "sha256": "c79ce996890bafcd0dc01f6aff71d2aa7dcc1cbdf042e1f3e551915ad021ee10"
+  },
+  "canonicalVisualAssets": {
+    "required": 14,
+    "sourceExportable": 3,
+    "githubPublished": 0,
+    "sourceClassCounts": {
+      "EXACT_ORIGINAL": 3,
+      "CHAT_RECOVERED": 0,
+      "SOURCE_NOT_EXPORTABLE": 0,
+      "NOT_CREATED": 11
+    },
+    "exactOriginal": ["cover_00","panel_01","panel_02"],
+    "notCreated": ["panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "qaStatus": "UNKNOWN_PER_CANONICAL_ASSET",
+    "hashes": {
+      "cover_00": "1cd2705db67c2f623f1228be81490679a0b87c48e67b101871df766da2640c6f",
+      "panel_01": "ed661529b99a135e7bf008fefd528dd8135524ce7a8ffce682b1d88d2f75a631",
+      "panel_02": "6c160ad34e468935b4e98134b96af4aa334da2ccc0f1122375915f85a294b16d"
+    }
+  },
+  "historicalRejectedDivergentAttempts": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "count": 15,
+    "qaStatus": "REBUILD_REQUIRED",
+    "comment": "Exact bytes for divergent/rejected en-GB generations remain directly accessible and are preserved in the local historical archive. They are not canonical assets."
+  },
+  "historicalTransportAliases": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "count": 2,
+    "qaStatus": "UNKNOWN",
+    "comment": "Byte-identical local copies used as transport aliases; not distinct renders."
+  },
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED",
+  "localPublishPackage": {
+    "filename": "NC-INGET-ATT-DOLJA-v1.0-en-GB-retro-backfill-v2.zip",
+    "size": 57211337,
+    "sha256": "0a9c3141e7b50baa4ba6c0930a1c9d9a0e75760ea3d4cb650ac972ec4df7fa51",
+    "fileCount": 26,
+    "publishRequest": "NC-INGET-ATT-DOLJA-en-GB.publish.json"
+  },
+  "releaseEligible": false,
+  "blockingReason": "Only 3/14 valid canonical en-GB visual assets were created; no binary has been verified at its canonical GitHub path in this run."
+}

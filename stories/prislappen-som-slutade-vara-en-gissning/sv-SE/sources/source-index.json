@@ -1,0 +1,23 @@
+{
+  "productTruth": {
+    "file": "NAVICHAIN-PRODUCT-TRUTH.md",
+    "status": "EXISTS_AND_EXPORTABLE"
+  },
+  "marketTruth": {
+    "file": "Navichain_Market_Truth_MASTER_v1.0.md",
+    "status": "EXISTS_AND_EXPORTABLE"
+  },
+  "marketTruthDocx": {
+    "file": "Navichain_Market_Truth_Europe_Road_Transport_SME_v1.0.docx",
+    "status": "EXISTS_AND_EXPORTABLE"
+  },
+  "officialLogo": {
+    "file": "NAVICHAIN-OFFICIAL-LOGO.png",
+    "status": "EXISTS_AND_EXPORTABLE"
+  },
+  "validatedQrReference": {
+    "file": "Korrekt QR kod till signup.png",
+    "status": "EXISTS_AND_EXPORTABLE"
+  },
+  "studioVersion": "6.1.7a"
+}

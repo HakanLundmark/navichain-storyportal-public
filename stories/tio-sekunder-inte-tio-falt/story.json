@@ -1,0 +1,87 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "tio-sekunder-inte-tio-falt",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "TIO SEKUNDER, INTE TIO FÄLT",
+  "subtitle": "Petra, Görel och måndagsbeställningen som slutade upprepa sig själv",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE"
+  },
+  "verifiedOriginalAssets": 9,
+  "requiredOriginalAssets": 14,
+  "exportableAssets": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08"
+  ],
+  "notExportableAssets": [
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "originalStory": "stories/tio-sekunder-inte-tio-falt/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/tio-sekunder-inte-tio-falt/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 9714,
+    "sha256": "d4cee6d5699c12ab4a37d3e68d737b4ba62a67f2b71f0b87379782a755f7a44a",
+    "gitBlobSha": "88e44f3362cfc628469b89be8da49a0b367b49ba"
+  },
+  "storyTranslations": {
+    "en-GB": {
+      "path": "stories/tio-sekunder-inte-tio-falt/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceStorySha256": "d4cee6d5699c12ab4a37d3e68d737b4ba62a67f2b71f0b87379782a755f7a44a",
+      "size": 9998,
+      "sha256": "64fe16eb9046d183dc95354b8e39adb6b51a9b92c50a2849b18ebf953ed6e5f2",
+      "gitBlobSha": "dfef53e000af10ff367fa420a418192b960e1845",
+      "githubReadBack": "PASS"
+    }
+  },
+  "historicalBackfill": {
+    "protocol": "RETRO BACKFILL v2",
+    "inventoryPath": "stories/tio-sekunder-inte-tio-falt/metadata/retro-backfill-v2-inventory.json",
+    "canonicalSourceCounts": {
+      "EXACT_ORIGINAL": 9,
+      "CHAT_RECOVERED": 0,
+      "SOURCE_NOT_EXPORTABLE": 5
+    },
+    "historicalAlternateOrRejectedExactImages": 10,
+    "historicalBuildPlaceholders": 1,
+    "workingPdf": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "WORKING_NOT_RELEASE",
+      "size": 64001752,
+      "sha256": "1d6f7c0a21a5f34290755c369d4ed1b3fff945859611f0113555c9a07ff84ddd",
+      "githubPublished": false
+    },
+    "workingZip": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "WORKING_PACKAGE_NOT_RELEASE",
+      "size": 91507395,
+      "sha256": "7a93357f11b2f4188278ad2ee3ccc1c3ad0aed0c8e77b348dd7b293dd752215e",
+      "githubPublished": false
+    },
+    "githubPublishedBinaryAssets": 0,
+    "githubBinaryStatus": "GITHUB_PUBLISH_FAILED_WITH_CURRENT_TOOL_SURFACE",
+    "nextcloudArchiveStatus": "NO_CONNECTED_NEXTCLOUD_PLUGIN_FOUND",
+    "chromeTransportStatus": "NOT_EXECUTABLE_FROM_CURRENT_TOOL_SURFACE",
+    "finalStatus": "PARTIAL_BACKFILL",
+    "updatedAt": "2026-08-24T17:28:00+02:00"
+  }
+}

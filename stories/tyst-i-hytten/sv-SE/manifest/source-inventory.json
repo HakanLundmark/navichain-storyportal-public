@@ -1,0 +1,30 @@
+{
+  "schema": "navichain-chat-backfill-inventory-v1",
+  "storyId": "tyst-i-hytten",
+  "masterVersion": "v1.0",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "requiredAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "exportableOriginalAssetCount": 11,
+  "exportableOriginalAssets": {
+    "cover_00": {"bytes":3329971,"sha256":"88929961f8828ed6ad546004156d04edc55e45f8a10919ed2ccbb67456c5f6f9","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_01": {"bytes":3064355,"sha256":"901b8ec41c240939e658bd2abdf151a155a0fa6e4c22e9e892153d33106ef0c1","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_02": {"bytes":2926448,"sha256":"bcfc9541d0f45cdeefc0c358ac136007d81115d875a2a64ad9c3797eb4a9da86","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_03": {"bytes":3021599,"sha256":"ba7a5b15dfe840b2f007594644e4788dc37070d354a5818017eba93d9cc39925","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_04": {"bytes":3004595,"sha256":"8c04d0b41b35a6435c2603295c59da3a21b36c756eff51041f4e99c2dd3fc87f","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_06": {"bytes":2995795,"sha256":"d2a0ce35b7479b8494d532afb9cd3f47d048f0d97742edfc2daea739798baa96","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_07": {"bytes":3010110,"sha256":"e99875f1e1c398850e28b644f565553e050edabc3c99f5054d2cf9d93590bae8","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_10": {"bytes":2972504,"sha256":"a3c35c34b594e839ff8bdbfc0ae6928b57e00574aede174f9cf5c731adc61ead","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_11": {"bytes":2928425,"sha256":"b330ef16b3d08d86b760ca8ac9dbaecbfbc0456bab3000bc678843443c59594e","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_12": {"bytes":2992458,"sha256":"d220e8c320af0c1003060b0c9ddef9cdb3396132bb65612dd977442b236f31d6","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "cta_13": {"bytes":3097491,"sha256":"4e165eb4d3e37fdc7ed1e9ed3059a9b2f67067ab4859a9e5d54696249e540771","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"}
+  },
+  "existsButNotExportableOriginalAssets": ["panel_05","panel_08","panel_09"],
+  "missingOriginalAssets": [],
+  "pdf": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"Tyst-i-hytten-SV-SE-carousel.pdf","bytes":68880979,"sha256":"fea8e5186763a49b7060e51b22af5ac4ea8360daaa4b0c715026e0132cde3778","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+  "social": {"status":"EXISTS_AND_EXPORTABLE","path":"social/linkedin.txt"},
+  "qa": {"status":"MISSING","note":"No standalone QA artifact was created in this chat."},
+  "releaseManifestBeforeBackfill": {"status":"MISSING"},
+  "releaseZip": {"created":false,"reason":"locale incomplete"},
+  "classificationRule": "INCOMPLETE because exactly 14 original image assets are not all directly exportable."
+}

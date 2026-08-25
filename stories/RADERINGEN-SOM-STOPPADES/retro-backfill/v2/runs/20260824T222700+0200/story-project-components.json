@@ -1,0 +1,24 @@
+{
+  "schema": "navichain-retro-backfill-v2-story-project-components",
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "checkedAt": "2026-08-24T22:27:00+02:00",
+  "items": [
+    {"itemType":"Narrative Master / canonical original story","classification":"EXACT_ORIGINAL","githubPath":"stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md","sha256":"5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a","comment":"GitHub main read-back verified."},
+    {"itemType":"separate manuscript file beyond Narrative Master","classification":"NOT_CREATED","comment":"No distinct standalone manuscript file can be verified; the Narrative Master is the manuscript source."},
+    {"itemType":"Story DNA","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historically created in prior working package/metadata, but exact current file bytes are not accessible; no reconstruction performed."},
+    {"itemType":"Continuity Contract","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historically created in prior working package/metadata, but exact current file bytes are not accessible."},
+    {"itemType":"Comic DNA","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historically created in prior working package/metadata, but exact current file bytes are not accessible."},
+    {"itemType":"Storyboard","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historically created in prior working package/metadata, but exact current file bytes are not accessible."},
+    {"itemType":"Layout Contract","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historically created in prior working package/metadata, but exact current file bytes are not accessible."},
+    {"itemType":"Visual Calibration","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historically created in prior working package/metadata, but exact current file bytes are not accessible."},
+    {"itemType":"cast / character lock","classification":"SOURCE_NOT_EXPORTABLE","comment":"Known to have been represented in prior story metadata; no exact standalone/current bytes are accessible."},
+    {"itemType":"vehicle / environment lock","classification":"SOURCE_NOT_EXPORTABLE","comment":"Known to have been represented in prior story metadata; no exact standalone/current bytes are accessible."},
+    {"itemType":"preflight report","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historical validation state is known, but the exact report bytes are not currently accessible."},
+    {"itemType":"Story Lock artifact","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historical lock/production state is not recoverable as an exact standalone file."},
+    {"itemType":"Product Truth assessment / story snapshot","classification":"SOURCE_NOT_EXPORTABLE","comment":"The canonical Product Truth source itself is EXACT_ORIGINAL locally, but the story-specific assessment/snapshot file bytes are not currently accessible."},
+    {"itemType":"Reality Validation report","classification":"SOURCE_NOT_EXPORTABLE","comment":"Historical validation state is known, but the exact report bytes are not currently accessible."},
+    {"itemType":"correction log","classification":"SOURCE_NOT_EXPORTABLE","comment":"No exact current byte source for the historical correction log; not reconstructed."},
+    {"itemType":"release notes","classification":"SOURCE_NOT_EXPORTABLE","comment":"No exact current byte source for a historical standalone release-notes artifact."},
+    {"itemType":"localization notes","classification":"SOURCE_NOT_EXPORTABLE","comment":"No exact current byte source for a historical standalone localization-notes artifact."}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+  "locale": "sv-SE",
+  "result": "INCOMPLETE",
+  "writesBeforeFinalMarker": [
+    "stories/NC-FEM-MINUTER-TILL-GRANSEN/ORIGINAL_STORY.md",
+    "stories/NC-FEM-MINUTER-TILL-GRANSEN/story.json",
+    "stories/index.json",
+    "stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/BACKFILL_STATUS.json"
+  ],
+  "binaryFilesPublished": 0,
+  "note": "Canonical v1.1 release PNGs were not reconstructed or extracted from PDF. The locale remains INCOMPLETE."
+}

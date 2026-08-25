@@ -1,0 +1,22 @@
+# RETRO BACKFILL v2 — EXECUTION QA
+
+- Story: `BRON-SOM-STOPPADE-ALLT`
+- Master version: `1.0`
+- Run timestamp: `2026-08-24T22:10:00+02:00`
+- Rerendering performed: **NO**
+- Reconstruction performed: **NO**
+- Cropping/restyling/replacement performed: **NO**
+- Canonical sv-SE visual assets found as exact historical bytes: **14/14**
+- sv-SE PDF: **EXACT_ORIGINAL, 14 pages**
+- en-GB visual release: **INCOMPLETE**; WIP attempts preserved, panel_12 and CTA not created
+- Narrative Master: **EXACT_ORIGINAL** artifact preserved
+- en-GB story: **DERIVED_TRANSLATION**, direct from Narrative Master
+- Provenance and QA status kept separate: **PASS**
+- Generated/contact-sheet historical failures retained only as historical candidates and not promoted: **PASS**
+- Canonical Navichain logo source preserved: **PASS**
+- CTA target source QR preserved: **PASS** (`https://navichain.se/signup` per project rule)
+- Automatic Chrome/Nextcloud/router/publisher transport callable from this session: **NO**
+- GitHub text/metadata connector access: **YES**
+- GitHub binary workflow present: **YES**
+- Binary seeding from local file path through connected GitHub action: **NO**
+- Final binary GitHub status: **GITHUB_PUBLISH_FAILED** unless later remote read-back proves otherwise

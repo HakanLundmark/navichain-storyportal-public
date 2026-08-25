@@ -1,0 +1,80 @@
+{
+  "schema": "navichain-retro-backfill-v2-github-manifest",
+  "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+  "title": "Fem minuter till gränsen",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "checkedAt": "2026-08-24T22:21:00+02:00",
+  "narrative": {
+    "rawOriginalBriefPath": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-sv-SE.md",
+    "narrativeMasterPath": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/narrative-master-sv-SE.md",
+    "narrativeMasterSourceClass": "CHAT_RECOVERED",
+    "narrativeMasterSha256": "4ca3491e89e83f5436eea3d58052994105c9761caaff0418a70e7f38141ba850",
+    "enGbPath": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-en-GB.md",
+    "enGbSourceClass": "DERIVED_TRANSLATION",
+    "enGbSha256": "9badacda3f19eaec0df9f5580b1febd80b2651aafd428a07154e3e90753baff6",
+    "enGbNarrativeMaster": false
+  },
+  "canonicalVisuals": [
+    {"locale":"sv-SE","assetId":"panel_01","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"karin_granskar_ett_sanktionsärende.png","size":3163996,"sha256":"6de7144df117ba63161e975693ec1458112df37ddfdf91d961a58a0147c92472","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_01.png"},
+    {"locale":"sv-SE","assetId":"panel_02","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"regnväg_med_robban_bakom_ratten.png","size":2923340,"sha256":"ed79b7a6bfbd6d46ddef7fe1d9a11ff66b8fd209de9bbcb041c470eacf053d19","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_02.png"},
+    {"locale":"sv-SE","assetId":"panel_03","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"regnig_dispatch_och_halva_flottan_svarar_inte.png","size":3172347,"sha256":"75e0ffba1ae66024398e14b51b0154eff00ee4901009c03edc507743e8fd0068","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_03.png"},
+    {"locale":"sv-SE","assetId":"panel_04","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"regn_över_norrgläntans_åkeri.png","size":3148067,"sha256":"24780b82c5296f2f73d59947ef083721b8039dc31235be732228673b93987af3f8","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_04.png"},
+    {"locale":"sv-SE","assetId":"panel_05","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"serietidningskontor_med_smart_fordonslösning.png","size":3122014,"sha256":"855ebad9add18a4c9d143ae45e3298c376cf384c5d498177e8668ebfdb89dc37","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_05.png"},
+    {"locale":"sv-SE","assetId":"panel_06","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"verkstadsinstallation_i_lastbilshytten.png","size":3034872,"sha256":"26a7ff8c0eba92f1a1db7a60e7836252692cd45cbe6472a57fde98f2c49dd4f2","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_06.png"},
+    {"locale":"sv-SE","assetId":"panel_07","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"telematikens_nya_perspektiv.png","size":2878859,"sha256":"b42f627b62bfa481c668a06d48ffb7596241c210d172632741bcdc7f43154c64","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_07.png"},
+    {"locale":"sv-SE","assetId":"panel_08","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"rätt_data_bättre_vardag.png","size":2969086,"sha256":"6cab46e7d691188dc466393297e39437fcb840b2129f288e83cebfb7517a8122","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_08.png"},
+    {"locale":"sv-SE","assetId":"panel_09","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"karin_och_den_digitala_flottöversikten.png","size":2878717,"sha256":"69f66cbc9666d492418492b7ebf95d40028521dac43695ab68b6231235ceab76","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_09.png"},
+    {"locale":"sv-SE","assetId":"panel_10","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"kontrollrum_i_regnet_smart_ruttplanering.png","size":2900627,"sha256":"f6690ccae4a8051502aa354bda57eb2094e68ec3a9357bec5f22ab4e7d3bc725","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_10.png"},
+    {"locale":"sv-SE","assetId":"panel_11","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"lugn_körning_mot_rastplatsen.png","size":2803533,"sha256":"c776d3331ec1b925a40ba6ee29933afa5a8ae654d2d9934e468d922ce3dd7693","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_11.png"},
+    {"locale":"sv-SE","assetId":"panel_12","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"lugn_kväll_på_trafikledarkontoret.png","size":2849887,"sha256":"453b684e3452856655b03cc44396d2af311a2e87681168369dae6188abfa7025","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/panel_12.png"},
+    {"locale":"sv-SE","assetId":"cta_13","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"navichain_rätt_data_bättre_vardag.png","size":3043085,"sha256":"51648af3a659c139d8b79a581901def0ae3a2375162f416601b2bff974abea5a","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/images/cta_13.png"},
+    {"locale":"en-GB","assetId":"cover_00","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"fem_minuter_till_gränsen.png","size":3212683,"sha256":"e88dccd28b2c0183b6ecc5b7c8da0da6f33efd350f94a99329b3b858fc6212ee","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/cover_00.png"},
+    {"locale":"en-GB","assetId":"panel_01","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"oro_inför_ett_sanktionsärende.png","size":3040914,"sha256":"f1a6ed854008067629e7753dd0cbb71f025eff7d27f86bc62bc8f04b9e5d6cf8","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_01.png"},
+    {"locale":"en-GB","assetId":"panel_02","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"lastbilsföraren_i_regnstormen.png","size":2837207,"sha256":"8975f26a2a9e407094d1e924b528f8db41bd7f8c2fc437209665682b40b71749","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_02.png"},
+    {"locale":"en-GB","assetId":"panel_03","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"regnig_dispatch_med_obesvarade_samtal.png","size":3106371,"sha256":"fccf6036e90bb536c6d948eb1254b13abaa8693ffb138dc050852598bdb91416","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_03.png"},
+    {"locale":"en-GB","assetId":"panel_05","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"prenumeration_och_regnigt_verkstadsmöte.png","size":3044134,"sha256":"d7520648e59629c531222d0464c5a1985f0cb313c8550dbecb9480a544a3ac8d","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_05.png"},
+    {"locale":"en-GB","assetId":"panel_06","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"installation_i_lastbilshytten.png","size":3012434,"sha256":"ca70570d127ac69a201621384934d94453a74d2235fc593e6c2ff5b254b1f150","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_06.png"},
+    {"locale":"en-GB","assetId":"panel_08","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"datadriven_överblick_på_kontoret.png","size":2923550,"sha256":"64833a25e245337fa97ab311158e88b47aec0cd05255fd4e74f660831b3af397","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_08.png"},
+    {"locale":"en-GB","assetId":"panel_09","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"karin_följer_flottan_i_regnet.png","size":2770683,"sha256":"20ff822e338aca5aecbb88cfbbde4a4ecf73f69356478b48126088ad5009bf7c","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_09.png"},
+    {"locale":"en-GB","assetId":"panel_10","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"regnig_dispatchervy_med_smart_ruttplanering.png","size":2727302,"sha256":"82b2f7252f73106e2706cc247bc6c58ce0c70f431e57dbcbd5fef09d3b94ce63","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_10.png"},
+    {"locale":"en-GB","assetId":"panel_11","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"lastbilens_lugna_rastplatsavfart.png","size":2788753,"sha256":"a897186219a5a85d749c73809b213af6358d375449fd54bd69e02e71fa87eb08","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_11.png"},
+    {"locale":"en-GB","assetId":"panel_12","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"lugn_eftermiddag_på_dispatchkontoret.png","size":2853425,"sha256":"7ba8d75903b7d686f7c90e0b3d22c4cd17dda3c9a62b22b07034695869a7ab8a","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/panel_12.png"},
+    {"locale":"en-GB","assetId":"cta_13","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_HISTORICAL_QA","filename":"kör_smartare_med_navichain.png","size":2875180,"sha256":"a669f8fef8a1fc5df3bc6754e08c0436186ec7f016a10621c3affbb16004232a","dimensions":[1122,1402],"targetPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/en-GB/images/cta_13.png"}
+  ],
+  "sourceNotExportableCanonicalVisuals": [
+    {"locale":"sv-SE","assetId":"cover_00","qaStatus":"UNKNOWN_HISTORICAL_QA","reason":"Exact original bytes are unavailable and the connected tool surface exposes no platform image-download/file-reference/chat-UI extraction action for deterministic recovery. Rerendering and PDF extraction are forbidden."},
+    {"locale":"en-GB","assetId":"panel_04","qaStatus":"UNKNOWN_HISTORICAL_QA","reason":"Exact original bytes are unavailable and the connected tool surface exposes no platform image-download/file-reference/chat-UI extraction action for deterministic recovery. Rerendering and PDF extraction are forbidden."},
+    {"locale":"en-GB","assetId":"panel_07","qaStatus":"UNKNOWN_HISTORICAL_QA","reason":"Exact original bytes are unavailable and the connected tool surface exposes no platform image-download/file-reference/chat-UI extraction action for deterministic recovery. Rerendering and PDF extraction are forbidden."}
+  ],
+  "pdfs": [
+    {"locale":"sv-SE","filename":"Fem_minuter_till_gransen_sv-SE_carousel_final.pdf","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_BUILD_OUTPUT","size":66949530,"sha256":"75f474e9cb8e14a14610e0526d3bc3e10d67f6a42a822cc07146f0401aa85ee1","pages":14,"githubPublished":false},
+    {"locale":"sv-SE","filename":"Fem_minuter_till_gransen_sv-SE.pdf","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_BUILD_OUTPUT","size":17621754,"sha256":"05a37e761a8c8883a37c7b9c5d4256b13caae4d9ccd20a0cb32bef4178146d13","pages":14,"githubPublished":false},
+    {"locale":"en-GB","filename":"Five_Minutes_to_the_Limit_en_carousel_final.pdf","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_BUILD_OUTPUT","size":4486428,"sha256":"6979e6874b870acfbf1bf7c31602e189608c62a5ca195c1bb852ce02f9bb8e90","pages":14,"githubPublished":false}
+  ],
+  "social": {
+    "sv-SE": {"sourceClass":"CHAT_RECOVERED","sha256":"44ea16742c1706fd6aee2862b4052d19588c27b767c468d5fe117b793781cbe3","githubPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/sv-SE/social/linkedin-sv-SE.txt"},
+    "en-GB": {"sourceClass":"NOT_CREATED"}
+  },
+  "localPackages": {
+    "sv-SE": {"filename":"NC-FEM-MINUTER-TILL-GRANSEN-sv-SE-retro-backfill-v2.zip","size":123551472,"sha256":"728bdc1a7eb3a0b6be8675109e01cdb68221f08fd9d6ff4c3af81bfc0597a1cd"},
+    "en-GB": {"filename":"NC-FEM-MINUTER-TILL-GRANSEN-en-GB-retro-backfill-v2.zip","size":39769181,"sha256":"da517883c977731440d4368d6a87a355516dd9cd6e1671ce2f5735e5dde34b24"},
+    "completeHistory": {"filename":"NC-FEM-MINUTER-TILL-GRANSEN-complete-history-retro-backfill-v2.zip","size":273113444,"sha256":"7758e77061c5ed96c42a1f3b9499e4df046b61b27fcea7a3fdf717ae6519a9c9"}
+  },
+  "publishRequests": {
+    "sv-SE": {"filename":"NC-FEM-MINUTER-TILL-GRANSEN-sv-SE.publish.json","sha256":"612fef4be13655945274372af3fd0748ba548b25b20fe64d313bf3b646fa441f","wrapper":"NC-FEM-MINUTER-TILL-GRANSEN-sv-SE.publish.zip","wrapperSha256":"1467b591f5092d3ed3fa6a79b091b2d953d6067bfbe4695afc28596154068ad3"},
+    "en-GB": {"filename":"NC-FEM-MINUTER-TILL-GRANSEN-en-GB.publish.json","sha256":"2d2bff1228efe9ef47c7e02915fcf1fae16af2e75d8affd364f0986ebd4eb9c3","wrapper":"NC-FEM-MINUTER-TILL-GRANSEN-en-GB.publish.zip","wrapperSha256":"06e7f6d96e42fa4132a0b460500981cb9464c6c72b1bffbbacdafa06ce1c9799"}
+  },
+  "inventorySummary": {"totalFound":92,"exactOriginal":76,"chatRecovered":2,"derivedTranslation":1,"sourceNotExportable":12,"notCreated":1},
+  "transport": {
+    "chromeDownload":"UNAVAILABLE_IN_CONNECTED_TOOL_SURFACE",
+    "nextcloudArchive":"UNAVAILABLE_IN_CONNECTED_TOOL_SURFACE",
+    "hardenedRouter":"NOT_EXECUTED",
+    "publisher":"NOT_EXECUTED",
+    "githubTextMetadata":"PUBLISHABLE",
+    "githubLargeBinary":"GITHUB_PUBLISH_FAILED_CONNECTOR_HAS_NO_LOCAL_FILE_PARAMETER"
+  },
+  "releaseEligibility": {"sv-SE":"INCOMPLETE","en-GB":"INCOMPLETE"},
+  "additionalHistoricalRenderInventoryPath":"stories/NC-FEM-MINUTER-TILL-GRANSEN/manifest/historical-render-inventory-current-chat.json"
+}

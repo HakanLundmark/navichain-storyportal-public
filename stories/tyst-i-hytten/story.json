@@ -1,0 +1,116 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "tyst-i-hytten",
+  "storyIdAuthority": "existing stories/index.json entry",
+  "title": "TYST I HYTTEN — Blixtens natt genom stormen",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "masterVersionAuthority": "existing stories/index.json entry",
+  "narrativeMaster": {
+    "path": "stories/tyst-i-hytten/ORIGINAL_STORY.md",
+    "source": "verbatim user-supplied story text in this chat",
+    "status": "EXISTS_AND_EXPORTABLE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 8501,
+    "sha256": "8ed8714f552cc00e1f5b3aceaa703706d5734a5db3f9d295752bc6590032b583"
+  },
+  "sourceTranslations": {
+    "en-GB": {
+      "path": "stories/tyst-i-hytten/source/original-story-en-GB.md",
+      "metaPath": "stories/tyst-i-hytten/source/original-story-en-GB.meta.json",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "8ed8714f552cc00e1f5b3aceaa703706d5734a5db3f9d295752bc6590032b583",
+      "sha256": "a48e84cf02fa73fa1557e73a64e089d056bba8bbc3e9949e2b4bf6bdc91a9332",
+      "githubReadBackVerified": true
+    }
+  },
+  "overallStatus": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableOriginalAssets": 11,
+      "requiredOriginalAssets": 14,
+      "missingOrNotExportable": ["panel_05", "panel_08", "panel_09"],
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "EXISTS_AND_EXPORTABLE",
+      "social": "EXISTS_AND_EXPORTABLE",
+      "qa": "MISSING_AS_STANDALONE_ARTIFACT",
+      "releaseManifest": "MISSING_PRIOR_TO_BACKFILL",
+      "releaseZip": "NOT_CREATED_BECAUSE_LOCALE_INCOMPLETE"
+    },
+    "en-US": {
+      "status": "INCOMPLETE",
+      "exportableOriginalAssets": 10,
+      "requiredOriginalAssets": 14,
+      "missingOrNotExportable": ["panel_10", "panel_11", "panel_12", "cta_13"],
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "EXISTS_AND_EXPORTABLE",
+      "social": "MISSING",
+      "qa": "MISSING_AS_STANDALONE_ARTIFACT",
+      "releaseManifest": "MISSING_PRIOR_TO_BACKFILL",
+      "releaseZip": "NOT_CREATED_BECAUSE_LOCALE_INCOMPLETE"
+    }
+  },
+  "sourceFilesAvailableInChatRuntime": [
+    "NAVICHAIN-PRODUCT-TRUTH.md",
+    "Navichain_Market_Truth_MASTER_v1.0.md",
+    "NAVICHAIN-OFFICIAL-LOGO.png",
+    "Korrekt QR kod till signup.png"
+  ],
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T17:24:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "canonicalAvailability": {
+      "sv-SE": {
+        "EXACT_ORIGINAL": 11,
+        "CHAT_RECOVERED": 0,
+        "SOURCE_NOT_EXPORTABLE": ["panel_05", "panel_08", "panel_09"]
+      },
+      "en-US": {
+        "EXACT_ORIGINAL": 10,
+        "CHAT_RECOVERED": 0,
+        "SOURCE_NOT_EXPORTABLE": ["panel_10", "panel_11", "panel_12", "cta_13"]
+      }
+    },
+    "localPackages": {
+      "comprehensive": {
+        "file": "tyst-i-hytten-complete-historical-export-v2.zip",
+        "size": 184485720,
+        "sha256": "fbe8c7141867fc289e7e144ca1b2282dfc134b3e86ebd0b247e4e91939bc658b"
+      },
+      "sv-SE": {
+        "file": "tyst-i-hytten-sv-SE-retro-backfill-v2.zip",
+        "size": 89136950,
+        "sha256": "f2231dc2b2ddaa112459fa1c1742a5208a7d3914eb0a49a9aacaae4a8641b4fc"
+      },
+      "en-US": {
+        "file": "tyst-i-hytten-en-US-retro-backfill-v2.zip",
+        "size": 34958053,
+        "sha256": "b58e90e143faf37e02275646587fe88785e1a761870215ff0cf1e72d1cd59bde"
+      },
+      "en-GB-story": {
+        "file": "tyst-i-hytten-en-GB-story-retro-backfill-v2.zip",
+        "size": 3809,
+        "sha256": "09064220a34617206f4969f88a93ac1720e43a3cdc2f08b8bf8913973905d3be"
+      }
+    },
+    "automaticTransport": {
+      "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+      "status": "NOT_INVOKABLE_FROM_CURRENT_CHAT_RUNTIME",
+      "binaryGitHubReadBackVerified": false
+    },
+    "noReconstruction": true,
+    "noImageRegeneration": true,
+    "noPdfExtractionAsImageReplacement": true
+  },
+  "backfill": {
+    "date": "2026-08-23",
+    "branch": "main",
+    "noReconstruction": true,
+    "noImageRegeneration": true,
+    "noPdfExtractionAsImageReplacement": true
+  }
+}

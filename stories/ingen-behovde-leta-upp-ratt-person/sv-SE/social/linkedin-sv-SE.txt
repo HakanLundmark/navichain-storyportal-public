@@ -1,0 +1,13 @@
+Ingen behövde leta upp rätt person.
+
+Ett kundsamtal kommer in: ”Var är leveransen?”
+
+Den som svarar råkar vara Lotta - HR- och kvalitetsansvarig, inte trafikledare. Tidigare hade nästa steg varit att koppla vidare, sätta kunden på vänt eller lova återkoppling.
+
+I den här berättelsen händer något enklare. Kunden läser upp sitt tracker-ID. Lotta öppnar den publika spårningen och kan själv se status, ETA och tidslinje. Hon läser upp svaret. Samtalet är klart. Sara i trafikledningen behöver aldrig avbrytas.
+
+Poängen är inte att Navichain tar över samtalet. Det gör Lotta. Verktyget gör bara samma transportinformation tillgänglig där den behövs.
+
+Färre personberoenden. Mindre intern jakt. Ett rakare svar till kunden.
+
+Se hur Navichain kan passa ert arbetssätt: https://navichain.se/signup

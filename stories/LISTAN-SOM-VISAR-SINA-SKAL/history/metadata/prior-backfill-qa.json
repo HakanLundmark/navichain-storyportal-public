@@ -1,0 +1,11 @@
+{
+  "storyId": "LISTAN-SOM-VISAR-SINA-SKAL",
+  "locale": "sv-SE",
+  "releaseDecision": "INCOMPLETE",
+  "requiredAssetCount": 14,
+  "verifiedExportableReleaseAssetCount": 11,
+  "missingReleaseAssets": ["panel_04", "panel_05", "panel_11"],
+  "hardBlock": "Release requires exactly 14 original assets. Rejected/divergent renders are excluded.",
+  "qrTarget": "https://navichain.se/signup",
+  "note": "This QA file records backfill inventory status; it does not upgrade rejected renders to masters."
+}

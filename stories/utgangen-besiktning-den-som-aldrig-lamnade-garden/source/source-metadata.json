@@ -1,0 +1,23 @@
+{
+  "storyId": "utgangen-besiktning-den-som-aldrig-lamnade-garden",
+  "narrativeMaster": {
+    "sourceLocale": "sv-SE",
+    "locale": "sv-SE",
+    "narrativeMaster": true,
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "ee2a40a7d23cc3f9a945cbcd0f5bd4dc35f126f7514401d999ac06215d7b02fe",
+    "gitBlobSha": "17973b23cc52d3ae1a6b20def4261ce081b38d38",
+    "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/source/original-story-sv-SE.md"
+  },
+  "english": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceStorySha256": "ee2a40a7d23cc3f9a945cbcd0f5bd4dc35f126f7514401d999ac06215d7b02fe",
+    "sha256": "dc13a729624365d1807887c1caa77c3c1c65c945d25f371e4084912bf2f67e21",
+    "gitBlobSha": "a5521207728613b997c87a5a4fa9b0323412e51f",
+    "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/source/original-story-en-GB.md"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "DEN-RADERING-SOM-ALDRIG-FICK-SKE-en-GB-retro-backfill-v2.zip",
+  "packageSha256": "aeae21e61528fe56639f582246590f4d489440cb6adcf928a91a9a66474b82bf",
+  "files": [
+    {
+      "archiveName": "source/original-story-en-GB.md",
+      "path": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-en-GB.md",
+      "size": 8115,
+      "sha256": "f8c458a2a3bd1d6aaa7c065997b6f827b6ae7805d77ba708117f8371dc2d47a5",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "INGET-FALLER-MELLAN-STOLARNA",
+  "checkedAt": "2026-08-24T19:34:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "status": "GITHUB_VERIFIED",
+    "sourceClass": "EXACT_ORIGINAL",
+    "locale": "sv-SE",
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-sv-SE.md",
+    "size": 7882,
+    "sha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0"
+  },
+  "englishStory": {
+    "status": "GITHUB_VERIFIED",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-en-GB.md",
+    "size": 8146,
+    "sha256": "c56125a1b7f1e46ca84d78092adb89e34b488b63cbe1879a807c79dd4cb6233c"
+  },
+  "visuals": {
+    "expectedCanonicalAssets": 14,
+    "exactOriginalBytesDirectlyAccessible": 13,
+    "chatRecovered": 0,
+    "notCreated": ["cta_13"],
+    "qaRebuildRequired": ["panel_11", "panel_12"],
+    "githubPublishedCanonicalBinaryAssets": 0,
+    "historicalRawRenderFilesDirectlyAccessible": 43
+  },
+  "derivedReleaseAssets": {
+    "pdf": "NOT_CREATED",
+    "linkedinSocial": "NOT_CREATED",
+    "releaseManifest": "NOT_CREATED",
+    "releaseZip": "NOT_CREATED"
+  },
+  "localArchive": {
+    "filename": "INGET-FALLER-MELLAN-STOLARNA-retro-v2-full-archive.zip",
+    "size": 199527334,
+    "sha256": "4bce7fb080f726473653694ef820cf67fdc9755eff8314b99821da3a3d934402"
+  },
+  "svSePublishPackage": {
+    "filename": "INGET-FALLER-MELLAN-STOLARNA-sv-SE-retro-v2-publish-package.zip",
+    "size": 199327951,
+    "sha256": "d77473c7078a6e8dca6a88c5133171b7f2990ac26ab2a12ba55df82c969e3f98",
+    "importSpec": "mobile-binary-import-specs/INGET-FALLER-MELLAN-STOLARNA-sv-SE.json"
+  },
+  "binaryBackfill": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "The source binaries and exact verification package exist locally, but this chat session has no Chrome/Nextcloud control or public direct HTTPS package URL. The repository mobile-binary-import workflow therefore cannot fetch the package, and no canonical binary path is claimed as published or synced."
+  },
+  "historicalValidation": {
+    "reality": "PASS",
+    "storyIsolation": "PASS",
+    "continuity": "PASS_WITH_CHAT_CORRECTIONS",
+    "productTruth": "UNRESOLVED",
+    "storyLock": false,
+    "release": "BLOCKED"
+  }
+}

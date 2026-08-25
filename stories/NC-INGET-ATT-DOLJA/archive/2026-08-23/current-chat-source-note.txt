@@ -1,0 +1,3 @@
+Klart. PDF-karusellen är **14 sidor** i rätt ordning från `cover_00` till `cta_13`, med gemensamt sidformat. CTA-sidans QR-kod har även verifierats från den renderade PDF:n och avkodas till `https://navichain.se/signup`.
+
+[Hämta PDF-karusellen – INGET ATT DÖLJA sv-SE](sandbox:/mnt/data/inget_att_dolja_sv-SE_pdf_karusell.pdf)

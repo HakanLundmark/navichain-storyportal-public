@@ -1,0 +1,12 @@
+RELEASE QA - JA SOM BLEV BOKAT, DIREKT
+
+asset_count: PASS (14)
+common_dimensions: PASS (1055 x 1491)
+cta_has_no_index: PASS
+official_logo_source: NAVICHAIN-OFFICIAL-LOGO.png
+cleartext_url: PASS (navichain.se/signup)
+qr_raster_decode: PASS
+qr_raster_payload: https://navichain.se/signup
+qr_pdf_decode: PASS
+qr_pdf_payload: https://navichain.se/signup
+release_status: PASS

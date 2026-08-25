@@ -1,0 +1,32 @@
+{
+  "storyId": "leveransen-som-fick-en-andra-chans",
+  "backfillDate": "2026-08-23",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "locales": {
+    "sv-SE": {
+      "sourceStatus": "INCOMPLETE",
+      "verifiedExportableCanonicalAssets": 14,
+      "missingCanonicalAssets": [],
+      "existsButNotExportable": [],
+      "blockers": [
+        "panel_10 dimension mismatch: 1055x1491 vs 1024x1536 common format",
+        "LinkedIn/social copy MISSING",
+        "release QA/PASS not established"
+      ],
+      "pdf": "EXISTS_AND_EXPORTABLE_LOCAL_14_PAGES",
+      "githubPublishedBinaryAssets": 0
+    },
+    "en-GB": {
+      "sourceStatus": "INCOMPLETE",
+      "verifiedExportableCanonicalAssets": 0,
+      "missingCanonicalAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "existsButNotExportable": ["panel_05_attempt_01_REBUILD_REQUIRED","panel_05_attempt_02_REBUILD_REQUIRED"],
+      "missingOther": ["PDF","LinkedIn/social copy","release QA","release manifest"],
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "githubBinaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+  "githubBinaryPublishReason": "The connected GitHub action surface does not expose a local-file upload parameter for original PNG/PDF/ZIP files.",
+  "syncStatus": "NOT_SYNCED"
+}

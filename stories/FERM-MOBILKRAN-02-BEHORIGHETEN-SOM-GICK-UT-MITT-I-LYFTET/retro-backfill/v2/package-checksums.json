@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-retro-backfill-v2-package-checksums",
+  "storyId": "FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET",
+  "checkedAt": "2026-08-24T17:26:00+02:00",
+  "packages": [
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-retro-backfill-v2-20260824-1726.zip","size":375220415,"sha256":"d9ddc9c10b2442fdabaa153e26b17bd3ed1ed09cedb9c7c43e0476307f772a3b","zipTest":"PASS"},
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-sv-SE-retro-v2-package.zip","size":375162755,"sha256":"dbe2eb57d2c8b50d19a32506a0e7faf68639fc2181da4df73de9e31450adb73e","zipTest":"PASS"},
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-en-GB-retro-v2-package.zip","size":6484,"sha256":"4a8bcf593a8b827713b01ed300d67759d76b20ef93587abd554cb088e24444dc","zipTest":"PASS"}
+  ],
+  "publishRequests": [
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-sv-SE.publish.json","sha256":"de464bee67b16e7f4b5a8a994bf0181f7de670b83e4cfb2207babb5551316ca2","wrapperSha256":"e1945e37141dce37dd9b4c8855846157ed7c65e71ffc6ef3e88e5052960425ca"},
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-en-GB.publish.json","sha256":"06a5c82c320b84acfcab73eccfb4c3f2033d4a5c1850e7b5afc595637e9a370f","wrapperSha256":"b2444a728dafab9fdf047cb7a85112ce662727dbf91194f8e9f14728b15a64e1"}
+  ]
+}

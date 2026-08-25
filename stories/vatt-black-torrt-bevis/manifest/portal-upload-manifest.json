@@ -1,0 +1,17 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": null,
+  "storySlug": "vatt-black-torrt-bevis",
+  "title": "VÅTT BLÄCK, TORRT BEVIS",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "exportedAt": "2026-08-23T00:01:00+02:00",
+  "source": "chatgpt-current-story-chat",
+  "originalStory": {"path":"ORIGINAL_STORY.md","status":"present"},
+  "locales": ["sv-SE","en-GB","de-DE"],
+  "assets": {"sv-SE":{},"en-GB":{},"de-DE":{"panel_01":"de-DE/images/panel_01.png","panel_02":"de-DE/images/panel_02.png","panel_03":"de-DE/images/panel_03.png"}},
+  "pdfs": {"sv-SE":"sv-SE/pdf/vatt_black_torrt_bevis_sv-SE_carousel.pdf","en-GB":"en-GB/pdf/wet_ink_dry_proof_en-GB_carousel.pdf"},
+  "social": {},
+  "qa": {"export":"pass","releaseStatusKnown":false},
+  "publishPolicy": {"portalMayImportIncompletePackage":true,"portalMayPublishIncompleteStory":false,"githubSyncAfterSuccessfulPortalImport":true}
+}

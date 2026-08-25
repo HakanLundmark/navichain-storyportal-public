@@ -1,0 +1,32 @@
+{
+  "story": "INGEN PÅ PLATS, ÄNDÅ EN PLAN",
+  "locale": "sv-SE",
+  "package_type": "current-assets / NOT RELEASE-LOCKED",
+  "asset_count_expected": 14,
+  "asset_count_present": 13,
+  "qr_expected": "https://navichain.se/signup",
+  "qr_decoded_from_cta": "https://navichain.se/signup",
+  "qr_pass": true,
+  "known_blockers": [
+    "panel_04 source file was overwritten in the active sandbox and cannot be safely reconstructed from the available files.",
+    "panel_10, panel_11 and panel_12 are landscape outputs and do not match the locked portrait ratio.",
+    "panel_10, panel_11 and panel_12 drift from the active story and therefore are not release-ready masters.",
+    "This ZIP is an inventory of current generated assets, not a RELEASE sv-SE package."
+  ],
+  "inventory": [
+    {"asset":"cover_00.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"b535ebe60982cea47463e11545c8efd90ac56f97ecba89ccdf2342d52571e09c"},
+    {"asset":"panel_01.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"10422eeb032a4868c5b2bcc5ac59b80d4dff7c502d39c7e1bf35f3464972d2b7"},
+    {"asset":"panel_02.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"f81111dec240842862452869bb9cd1630909f818577d2b23dc5279a8cfdce6f0"},
+    {"asset":"panel_03.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"6c3c5af2e856c96791ad62ba311f0207914aaa4bf3c0ad7074407d1fb4b9e4a6"},
+    {"asset":"panel_04.png","present":false},
+    {"asset":"panel_05.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"09e9e1bdda5214c2eceef924dbfb2db87b5711878b864db15623c9ca2a74a823"},
+    {"asset":"panel_06.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"b6d9c8c90c37a0a344f30247aa8f52fa014e5e08cca540f44d972d2e2284e61e"},
+    {"asset":"panel_07.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"f14567bffca85aec14fd2424d0e8949dc805dd605af3a0a8841139ce3be92640"},
+    {"asset":"panel_08.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"8c73c5777e6e8dbab57a3cff6f0550a6ecb86979e070a5e6b2aeb3416eb3dd2e"},
+    {"asset":"panel_09.png","present":true,"width":1055,"height":1491,"portrait":true,"sha256":"de81ef933d594aa5bbbd308e59451e358f714320a24140e64cfe6c102668343e"},
+    {"asset":"panel_10.png","present":true,"width":1448,"height":1086,"portrait":false,"sha256":"817139ee58817d69e641a450e2297ac3c51268dd026efe5e3edd3698577a3573"},
+    {"asset":"panel_11.png","present":true,"width":1448,"height":1086,"portrait":false,"sha256":"6b15221d58b3184f75b2970d25caf666a5573f136035d3bb20a384b9f8b1b043"},
+    {"asset":"panel_12.png","present":true,"width":1448,"height":1086,"portrait":false,"sha256":"213dcf5c2d1a1d9bf10c03f8ee03a7e28e078ec34c66b0af0a66080f0c3504af"},
+    {"asset":"cta_13.png","present":true,"width":1086,"height":1448,"portrait":true,"sha256":"3c1683db9366787538c5e4337ae520b05d71f21dd9dec47afad11d02f003d211"}
+  ]
+}

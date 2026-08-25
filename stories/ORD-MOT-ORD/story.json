@@ -1,0 +1,23 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "ORD-MOT-ORD",
+  "title": "Ord mot ord — skadan som bevisade sig själv",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0-staging",
+  "status": "INCOMPLETE",
+  "originalStoryPath": "stories/ORD-MOT-ORD/ORIGINAL_STORY.md",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "path": "stories/ORD-MOT-ORD/sv-SE",
+      "requiredAssets": 14,
+      "exportableCanonicalAssets": 13,
+      "missing": ["panel_07"],
+      "pdf": "MISSING",
+      "social": "EXISTS_AND_EXPORTABLE",
+      "qa": "EXISTS_AND_EXPORTABLE"
+    }
+  },
+  "sourceBoundary": "current-chat-and-directly-accessible-local-files-only",
+  "noReconstruction": true
+}

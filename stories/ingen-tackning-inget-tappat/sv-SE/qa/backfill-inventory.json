@@ -1,0 +1,39 @@
+{
+  "schema": "navichain-backfill-inventory-v1",
+  "storyId": "ingen-tackning-inget-tappat",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "COMPLETE_LOCAL_SOURCE",
+  "requiredAssets": {
+    "cover_00.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2944870},
+    "panel_01.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2932646},
+    "panel_02.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2935394},
+    "panel_03.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2941384},
+    "panel_04.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2763361},
+    "panel_05.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2946667},
+    "panel_06.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2713506},
+    "panel_07.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2925081},
+    "panel_08.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 3216895},
+    "panel_09.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2849871},
+    "panel_10.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 3207903},
+    "panel_11.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 3193183},
+    "panel_12.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 3151657},
+    "cta_13.png": {"state": "EXISTS_AND_EXPORTABLE", "bytes": 2982420}
+  },
+  "existsAndExportableCount": 14,
+  "existsButNotExportable": [],
+  "missing": [],
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "EXISTS_AND_EXPORTABLE",
+    "social": "EXISTS_AND_EXPORTABLE",
+    "QA": "EXISTS_AND_EXPORTABLE",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": {
+      "ProductTruth": "EXISTS_AND_EXPORTABLE",
+      "MarketTruth": "EXISTS_AND_EXPORTABLE",
+      "OfficialLogo": "EXISTS_AND_EXPORTABLE"
+    }
+  },
+  "backfilledAt": "2026-08-23T11:10:43+02:00"
+}

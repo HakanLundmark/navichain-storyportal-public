@@ -1,0 +1,33 @@
+releaseManifest:
+  storyId: tjugo-samtal-blev-ett
+  masterVersion: '1.0'
+  locale: sv-SE
+  brandAsset: sources/NAVICHAIN-OFFICIAL-LOGO.png
+  outputs:
+    images:
+    - images/cover_00.png
+    - images/panel_01.png
+    - images/panel_02.png
+    - images/panel_03.png
+    - images/panel_04.png
+    - images/panel_05.png
+    - images/panel_06.png
+    - images/panel_07.png
+    - images/panel_08.png
+    - images/panel_09.png
+    - images/panel_10.png
+    - images/panel_11.png
+    - images/panel_12.png
+    - images/cta_13.png
+    pdf: carousel/tjugo-samtal-blev-ett_sv-SE.pdf
+    linkedin: social/linkedin-sv-SE.txt
+  qr:
+    payload: https://navichain.se/signup
+    cleartext: navichain.se/signup
+    rasterDecode: PASS
+    pdfDecode: PASS
+  qa:
+    raster: PASS
+    pdf: PASS
+    release: PASS
+  pdfSha256: e02a572428a82c88099c6ceb02b467e1240a63c64183b62185b76975ac3edf6a

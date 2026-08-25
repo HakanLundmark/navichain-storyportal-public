@@ -1,0 +1,19 @@
+{
+  "schema": "navichain-retro-backfill-v2-historical-qa",
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "locale": "sv-SE",
+  "releaseStatus": "INCOMPLETE",
+  "canonicalMissingOrNotExportable": ["panel_02"],
+  "cta_13": {
+    "provenance": "EXACT_ORIGINAL",
+    "qaStatus": "REBUILD_REQUIRED",
+    "historicalBlockersPreserved": [
+      "generated/unverifiable Navichain logo treatment",
+      "CTA QR could not be decoded from the latest generated CTA raster in prior QA"
+    ]
+  },
+  "otherCanonicalAssetsQa": "UNKNOWN",
+  "historicalAlternateQa": "UNKNOWN",
+  "releasePdf": "NOT_CREATED_IN_THIS_BACKFILL",
+  "note": "Historical publication/provenance does not upgrade QA or make the locale release eligible."
+}

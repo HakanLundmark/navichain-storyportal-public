@@ -1,0 +1,36 @@
+{
+  "schema": "navichain-storyportal-backfill-inventory-v1",
+  "storyId": "innan-han-hann-tacka-nej",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "requiredAssetCount": 14,
+  "exportableAssetCount": 13,
+  "assets": {
+    "cover_00": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"image.png","size":3268493,"sha256":"da16d0103de05f1de21396961c1aeead3059c7d3d4567fa0e3003c2ebde5ec57","dimensions":"1055x1491"},
+    "panel_01": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"handslag_på_nya_jobbet.png","size":3143247,"sha256":"1439e7e78406c134a45bf91f28626046b5b8d7635d807b444138871adf387613","dimensions":"1055x1491"},
+    "panel_02": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"pappersarbete_på_kontoret.png","size":3095205,"sha256":"d7d7765db845e9006adad4b4396f254d448f5c013c346efa58e8c15f74b9d66e","dimensions":"1055x1491"},
+    "panel_03": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"stressig_onsdag_på_kontoret.png","size":3182138,"sha256":"f389ee89902917d519fb085c23a23ce3e5edf05882368ada13f7c8c37ab78368","dimensions":"1055x1491"},
+    "panel_04": {"status":"EXISTS_BUT_NOT_EXPORTABLE","reason":"Approved panel was produced earlier in this chat, but its original standalone binary is not directly accessible. The prior ZIP contains an explicitly reconstructed substitute and that substitute is excluded."},
+    "panel_05": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"väntan_är_en_risk.png","size":3090090,"sha256":"e19b6d0f24f9bfc42ff2e54c017676c81ded8e66975f5e4967bf7a788ec80e83","dimensions":"1055x1491"},
+    "panel_06": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"onboarding_i_guldkantad_kontorsmiljö.png","size":3095325,"sha256":"346b466e6ef5dcfec8ad12f37721a3f8d7b927d87d86ae30967a7827a9fb2647","dimensions":"1055x1491"},
+    "panel_07": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"imagegen.png","size":3129164,"sha256":"7d7b726d56461be1311b8922db5f7f0980ea922d601f96cc7112eece1d5aa198","dimensions":"1055x1491"},
+    "panel_08": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"mia_sparar_och_skickar_sms_kod.png","size":3094248,"sha256":"331296e4855507af860500e81b36c3e45d29cd9166489c51355e22957e770318","dimensions":"1055x1491"},
+    "panel_09": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"meddelandet_vid_truckstoppet.png","size":2945446,"sha256":"6d541d3b6f5b8be9ee740b549bed4550a64b33ac3f2d3d431106e8e04045f040","dimensions":"1055x1491"},
+    "panel_10": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"en_varm_kväll_med_navichain_appen.png","size":3021203,"sha256":"62f6e05dfee3a6a0067a9ae9bc0968bde0a01be0561c92dc1a90887c8d50305f","dimensions":"1055x1491"},
+    "panel_11": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"måndagsmorgon_på_transportkontoret.png","size":3429170,"sha256":"99ab0f77fdf263091c9aaa7064de1f10e72a230ab5485d319793ef79a9f25632","dimensions":"1024x1536"},
+    "panel_12": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"simon_anländer_till_holt_transport.png","size":2591743,"sha256":"794c1726242d937d36ee4cc09fc8ed400389cb5c7ff433bce39643a48640c2e3","dimensions":"1055x1491"},
+    "cta_13": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"cta_13_sv-SE_FINAL_v2.png","size":1932269,"sha256":"3d98177e6b3e9dea3507be794f4603318366c042ab83610dddd438d1cbf83597","dimensions":"1055x1491","qrDecodedPayload":"https://navichain.se/signup"}
+  },
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE_ALREADY_ON_GITHUB",
+    "pdf": "EXISTS_AND_EXPORTABLE_BUT_EXCLUDED_FROM_RELEASE_BECAUSE_IT_CONTAINS_RECONSTRUCTED_PANEL_04",
+    "social": "EXISTS_AND_EXPORTABLE",
+    "qa": "EXISTS_AND_EXPORTABLE_BACKFILL_QA",
+    "manifest": "EXISTS_AND_EXPORTABLE_BACKFILL_MANIFEST",
+    "sources": ["NAVICHAIN-PRODUCT-TRUTH.md","Navichain_Market_Truth_MASTER_v1.0.md","NAVICHAIN-OFFICIAL-LOGO.png","Korrekt QR kod till signup.png"]
+  },
+  "releaseDecision": "INCOMPLETE",
+  "releaseZipCreated": false,
+  "noReconstruction": true
+}

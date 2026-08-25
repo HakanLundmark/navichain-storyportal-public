@@ -1,0 +1,7 @@
+Story: FAKTURAN SOM BARA SKREVS EN GÅNG
+Locale: sv-SE
+Status: DRAFT_NOT_RELEASE_READY
+Images: cover_00, panel_01..panel_12, cta_13
+PDF: carousel/fakturan_som_bara_skrevs_en_gang_sv-SE.pdf
+Official brand source: sources/NAVICHAIN-OFFICIAL-LOGO.png
+CTA URL target: https://navichain.se/signup

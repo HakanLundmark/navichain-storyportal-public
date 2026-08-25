@@ -1,0 +1,53 @@
+{
+  "schema": "navichain-chat-backfill-inventory-v1",
+  "storyId": "KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-14-and-canonical-title",
+  "title": "INGEN BEHÖVDE STÅ BREDVID",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "inventoryAt": "2026-08-23T08:46:00+02:00",
+  "narrativeMaster": {
+    "status": "EXISTS_AND_EXPORTABLE",
+    "note": "ORIGINAL_STORY.md preserves the directly supplied story text from this chat. A preflight revision list was produced in chat, but no full revised narrative file was produced; no reconstruction was performed."
+  },
+  "locales": {
+    "sv-SE": {
+      "classification": "INCOMPLETE",
+      "assets": {
+        "cover_00": "EXISTS_AND_EXPORTABLE",
+        "panel_01": "EXISTS_AND_EXPORTABLE",
+        "panel_02": "MISSING",
+        "panel_03": "MISSING",
+        "panel_04": "MISSING",
+        "panel_05": "MISSING",
+        "panel_06": "MISSING",
+        "panel_07": "MISSING",
+        "panel_08": "MISSING",
+        "panel_09": "MISSING",
+        "panel_10": "MISSING",
+        "panel_11": "MISSING",
+        "panel_12": "MISSING",
+        "cta_13": "MISSING"
+      },
+      "exportableOriginalAssetCount": 2,
+      "existsButNotExportable": [],
+      "missing": [
+        "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07",
+        "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"
+      ],
+      "otherContent": {
+        "pdf": "MISSING",
+        "social": "MISSING",
+        "releaseQa": "MISSING",
+        "releaseManifest": "MISSING"
+      }
+    }
+  },
+  "sources": [
+    "NAVICHAIN-PRODUCT-TRUTH.md",
+    "Navichain_Market_Truth_MASTER_v1.0.md",
+    "NAVICHAIN-OFFICIAL-LOGO.png"
+  ],
+  "releaseEligible": false,
+  "reason": "sv-SE does not have exactly 14 directly exportable original assets."
+}

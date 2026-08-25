@@ -1,0 +1,19 @@
+{
+  "schema": "navichain-retro-backfill-v2-package-v1",
+  "storyId": "hela-summan-i-tre-steg",
+  "masterVersion": "1.0",
+  "createdAt": "2026-08-24T19:45:00+02:00",
+  "packageFile": "hela-summan-i-tre-steg-retro-v2-20260824.zip",
+  "packageSize": 57197922,
+  "packageSha256": "c1068989a9f9f39d4a09c56e232973e85b1a802c495d9ff73769dfac5bb1e776",
+  "zipIntegrity": "PASS",
+  "publishRequests": {
+    "sv-SE": {"file":"hela-summan-i-tre-steg-sv-SE.publish.json","sha256":"2d13caaa1c35d8e5f8204b2b2fa3d26102c8ef0c912612195dc355929775f54a","fileCount":25},
+    "en-GB": {"file":"hela-summan-i-tre-steg-en-GB.publish.json","sha256":"777a66087dc06417502d06956a1320c8be484031c6eec288dfd291a8741c0d8b","fileCount":1}
+  },
+  "automaticTransportStatus": "NOT_EXECUTED_FROM_THIS_RUNTIME",
+  "reason": "No connected Chrome-download/Nextcloud/router/publisher tool is exposed in this session, and GitHub's automated binary import requires a public HTTPS package URL or queued Git blobs. Sandbox package links are not public GitHub Actions source URLs.",
+  "githubTextBackfillStatus": "PARTIAL",
+  "githubCanonicalBinaryAssetsPublished": 0,
+  "releaseStatus": "INCOMPLETE"
+}

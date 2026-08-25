@@ -1,0 +1,95 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "leveransen-som-fick-en-andra-chans",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "generatedAt": "2026-08-24T19:10:00+02:00",
+  "inventory": {
+    "items": 80,
+    "EXACT_ORIGINAL": 67,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 2,
+    "NOT_CREATED": 10
+  },
+  "canonicalImages": {
+    "sv-SE": {
+      "exactOriginalAccessible": 14,
+      "expected": 14,
+      "githubVerified": 0,
+      "releaseStatus": "INCOMPLETE",
+      "releaseBlockers": [
+        "panel_10 dimension mismatch: 1055x1491 versus 1024x1536 common format",
+        "LinkedIn/social copy was not created",
+        "release QA/PASS not established"
+      ]
+    },
+    "en-GB": {
+      "canonicalExactOriginalAccessible": 0,
+      "expected": 14,
+      "githubVerified": 0,
+      "historicalRejectedPanel05ExactOriginals": 5,
+      "qaStatus": "REBUILD_REQUIRED"
+    },
+    "und": {
+      "historicalRuntimeImagesExactOriginalAccessible": 38,
+      "canonicalSlotOrLocaleNotAsserted": true,
+      "githubVerified": 0
+    }
+  },
+  "sourceText": {
+    "sv-SE": {
+      "status": "PUBLISHED_AND_READ_BACK",
+      "path": "stories/leveransen-som-fick-en-andra-chans/source/original-story-sv-SE.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "size": 4437,
+      "sha256": "14d852265e72391766e1a26373dd7db944dca6a4dd8bfc1f86f3a5a355bdb99c"
+    },
+    "en-GB": {
+      "status": "PUBLISHED_AND_READ_BACK",
+      "path": "stories/leveransen-som-fick-en-andra-chans/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "size": 4450,
+      "sha256": "01689809c8065b5b916632b961c67fa34d6bd447105d86556431d3066607b7ad"
+    }
+  },
+  "currentPreparedPackages": {
+    "sv-SE": {
+      "size": 313712172,
+      "sha256": "5058d92bf62e94783aa71019916e4670516fb43807c4a7a64366c62b1a46300e",
+      "validatedFiles": 25
+    },
+    "en-GB": {
+      "size": 17171752,
+      "sha256": "d6770f53b1017768dffaf5420a8e05041c60cc232a5fc67a4f6cc6397848ac13",
+      "validatedFiles": 5
+    },
+    "und": {
+      "size": 116917164,
+      "sha256": "853fe0f3ef879b315fb5228aa5ddc057320d0c00f5718909394de363f959baf6",
+      "validatedFiles": 38
+    },
+    "completeBundle": {
+      "size": 447825238,
+      "sha256": "553e5a7605889eadeece98aed696ebf4ea32d733e57081c0e062f974ed56d78c"
+    }
+  },
+  "transportPackageValidation": "PASS_PACKAGE_SHA_ARCHIVE_NAME_PATH_SIZE_AND_FILE_SHA256",
+  "automaticTransport": {
+    "publishRequestsPrepared": true,
+    "publishRequestSchema": "navichain-local-publish-request-v1",
+    "chromeDownloadInitiatedByAssistant": false,
+    "localCaptureVerified": false,
+    "nextcloudArchiveVerified": false,
+    "hardenedRouterVerified": false,
+    "publisherVerified": false,
+    "reason": "No Chrome-control, local-capture, Nextcloud or local publisher interface is exposed to this assistant runtime. A plugin search also found no connected Nextcloud capability. The assistant therefore cannot truthfully trigger or verify the automatic local transport chain."
+  },
+  "binaryGitHubStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryGitHubReason": "No canonical binary publication/read-back occurred in this execution. Exact multi-megabyte local binaries cannot be passed through the available GitHub connector as mounted files, and the requested automatic Chrome/Nextcloud/publisher bridge is not controllable from this runtime.",
+  "metadataPolicy": "Narrative source files remain GitHub-verified. story.json and stories/index.json are not promoted to synced because canonical binary publication/read-back has not occurred.",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

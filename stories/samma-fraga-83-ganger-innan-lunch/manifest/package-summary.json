@@ -1,0 +1,20 @@
+{
+  "svSEPackage": {
+    "file": "samma-fraga-83-ganger-innan-lunch-sv-SE-retro-backfill-v2.zip",
+    "size": 102378980,
+    "sha256": "500069104068d4fc267cf659c6df615c70fc0bb27fc8ad7dfb496e68db41959f",
+    "publishRequest": "samma-fraga-83-ganger-innan-lunch-sv-SE.publish.json",
+    "publishRequestZip": "samma-fraga-83-ganger-innan-lunch-sv-SE.publish.zip",
+    "fileCount": 33,
+    "githubBinaryPublishStatus": "BLOCKED_AT_CHATGPT_TO_CHROME"
+  },
+  "enGBPackage": {
+    "file": "samma-fraga-83-ganger-innan-lunch-en-GB-retro-backfill-v2.zip",
+    "size": 4550,
+    "sha256": "eb6230b402fb5748c78dd52d2ca3ef2b86590e0259e2bb20a1f8550419f07154",
+    "publishRequest": "samma-fraga-83-ganger-innan-lunch-en-GB.publish.json",
+    "publishRequestZip": "samma-fraga-83-ganger-innan-lunch-en-GB.publish.zip",
+    "fileCount": 1,
+    "githubTextPublishStatus": "DIRECT_GITHUB_CONNECTOR_PUBLISHED"
+  }
+}

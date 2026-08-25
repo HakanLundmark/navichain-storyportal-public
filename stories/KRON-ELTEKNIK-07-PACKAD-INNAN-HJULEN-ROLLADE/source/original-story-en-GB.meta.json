@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-story-translation-meta-v1",
+  "storyId": "KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/ORIGINAL_STORY.md",
+  "sourceStorySha256": "798b0ce23e78bbe09e14177ce4ea7a0444095c6a940eab24438a732c0dbc41ac",
+  "translationSha256": "dd3a94f663ffaed5773c4a1121e3a51ae30f725ef76eaa39d0c718f03bc688d2",
+  "createdAt": "2026-08-24T19:08:00+02:00",
+  "note": "Faithful text-only translation created directly from the canonical sv-SE Narrative Master. It does not change plot, chronology, people, company, capability, business problem, or historical Product Truth claims. It is not a locale image render and is not Narrative Master."
+}

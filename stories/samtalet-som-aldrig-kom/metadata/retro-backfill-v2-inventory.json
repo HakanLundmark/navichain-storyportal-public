@@ -1,0 +1,100 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory-v1",
+  "storyId": "samtalet-som-aldrig-kom",
+  "title": "SAMTALET SOM ALDRIG KOM",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "generatedAt": "2026-08-24T22:25:00+02:00",
+  "pipelineVersion": "6.1.7a",
+  "provenancePolicy": "sourceClass and QA status are independent; no item is labelled EXACT_ORIGINAL without directly accessible bytes",
+  "narrativeMaster": {"filename":"ORIGINAL_STORY.md","sourceLocation":"/mnt/data/backfill-samtalet-som-aldrig-kom/ORIGINAL_STORY.md","size":10308,"sha256":"3d050e7e8f1bb4de315a2d2f19f85cb47baa5e1a638e0094bc725b3737086dec","sourceClass":"EXACT_ORIGINAL","qaStatus":"NARRATIVE_MASTER","repoPath":"stories/samtalet-som-aldrig-kom/ORIGINAL_STORY.md"},
+  "englishTranslation": {"filename":"original-story-en-GB.md","sourceLocation":"/mnt/data/retro-backfill-v2-samtalet-som-aldrig-kom/source/original-story-en-GB.md","size":10755,"sha256":"6a955e7e03ab2edd8e9f55e2fd9b91d12e3aed2ce9e04fdeda83c609be63b7f7","sourceStorySha256":"3d050e7e8f1bb4de315a2d2f19f85cb47baa5e1a638e0094bc725b3737086dec","sourceLocale":"sv-SE","locale":"en-GB","translationType":"faithful","narrativeMaster":false,"sourceClass":"DERIVED_TRANSLATION","qaStatus":"NOT_APPLICABLE","repoPath":"stories/samtalet-som-aldrig-kom/source/original-story-en-GB.md"},
+  "canonicalVisualAssets": {
+    "sv-SE": {
+      "cover_00": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","comment":"Final canonical cover existed historically but direct original bytes cannot be recovered without uncertainty; no replacement created."},
+      "panel_01": {"filename":"kundtjänstens_sjätte_samtal.png","sourceLocation":"/mnt/data/kundtjänstens_sjätte_samtal.png","size":3267900,"sha256":"94dd70a2aa7340ab8a3402cc8f21c4f0a6861dbfc40182ba40c1fffddab0c5e4","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_01.png"},
+      "panel_02": {"filename":"stressigt_kundsamtal_på_kontoret.png","sourceLocation":"/mnt/data/stressigt_kundsamtal_på_kontoret.png","size":3266557,"sha256":"78289839db570c3e4722cce4e828545f5bfacec4122650490741244b38ebc512","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_02.png"},
+      "panel_03": {"filename":"stressigt_orderläge_på_kontoret.png","sourceLocation":"/mnt/data/stressigt_orderläge_på_kontoret.png","size":3134881,"sha256":"19fbd142df3e0c1ba89020ef0a47b0b4b10fb45933ccd701b8610a67c5a1b0d0","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_03.png"},
+      "panel_04": {"filename":"kundservice_i_rött_läge.png","sourceLocation":"/mnt/data/kundservice_i_rött_läge.png","size":3180544,"sha256":"61782def0bfb43d48bb4cade69b48465df6c62a519eaa1dd37cb352695d8ffe1","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_04.png"},
+      "panel_05": {"filename":"överväldigad_kundservice_på_jobbet.png","sourceLocation":"/mnt/data/överväldigad_kundservice_på_jobbet.png","size":3078879,"sha256":"3b1f80b23d952dbb409e6cbe5dfd966e1d5f1c29f0546024a216121dc7a31d9b","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_05.png"},
+      "panel_06": {"filename":"kontorsflöde_över_kaffe_och_lappar.png","sourceLocation":"/mnt/data/kontorsflöde_över_kaffe_och_lappar.png","size":3183674,"sha256":"cd7e783d625ca71c30183a8cf6c9adee91843cd230f919b31ae5e5dbeeb4b493","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_06.png"},
+      "panel_07": {"filename":"åsa_och_den_automatiska_aviseringen.png","sourceLocation":"/mnt/data/åsa_och_den_automatiska_aviseringen.png","size":3108277,"sha256":"72371d820097b1f78a08ec1cd0e926f75b227ce682c8256ff5316b55c099ba15","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_07.png"},
+      "panel_08": {"filename":"automatisk_avisering_i_förarhytten.png","sourceLocation":"/mnt/data/automatisk_avisering_i_förarhytten.png","size":3096597,"sha256":"2f85f3c54ed18cf04ce9f0665c95e4f596136d549f74676aaf201e93d65b02c1","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_08.png"},
+      "panel_09": {"filename":"tystnad_som_bevis_på_kontoret.png","sourceLocation":"/mnt/data/tystnad_som_bevis_på_kontoret.png","size":3220661,"sha256":"63b11bf75b27d5928d6d130018a0bdbcfc99ba74cca8332013a8b22414a8f818","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_09.png"},
+      "panel_10": {"filename":"leverans_bekräftad_kunden_meddelad.png","sourceLocation":"/mnt/data/leverans_bekräftad_kunden_meddelad.png","size":3177782,"sha256":"68fe0b340211199dd44db3dde2850040b65700632b5e5a85a5bfe7d92dcdcf9e","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_10.png"},
+      "panel_11": {"filename":"frigjord_tid_nytt_fokus.png","sourceLocation":"/mnt/data/frigjord_tid_nytt_fokus.png","size":2995218,"sha256":"7646967fd5a153e47e1ddf6d245577d90bf0bf9a9272c79399fc4b24dacaa0fd","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_11.png"},
+      "panel_12": {"filename":"noll_samtal_vid_arbetsdagens_slut.png","sourceLocation":"/mnt/data/noll_samtal_vid_arbetsdagens_slut.png","size":3138792,"sha256":"69838625d15312a56317a869503dcc4ecf52c377e9d8e34dd9465cd3d7f4aa33","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/images/panel_12.png"},
+      "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","comment":"Final canonical CTA includes deterministic QR treatment visible in final PDF, but matching final standalone bytes are not directly accessible. PDF extraction is forbidden as replacement."}
+    },
+    "de-DE": {
+      "cover_00": {"filename":"automatiska_aviseringar_färre_samtal.png","size":3367011,"sha256":"715a48c9b39c496ffb224bbec8eb1aa7612f88d7a7f0b5baaa0726e6703ece8d","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/cover_00.png"},
+      "panel_01": {"filename":"tisdagens_kaos_på_kundservicekontoret.png","size":3173225,"sha256":"679c6b5b62123a39fd894ec39c9292137662e97bec0560640ecc7a3cb5c04f5d","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_01.png"},
+      "panel_02": {"filename":"femte_gången_samma_leveransfråga.png","size":3241927,"sha256":"b0108bee5705eee9f0e7475a3c5c2b4b2ab15d2de7616cf6310d154acb0fb0d1","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_02.png"},
+      "panel_03": {"filename":"kontor_med_lappar_och_frågor.png","size":3050866,"sha256":"71d648091349958580b4a73df29fdfe0872b01efb22ff2f6ec20e50aca0b39fc","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_03.png"},
+      "panel_04": {"filename":"förtroende_på_spel_i_kundtjänsten.png","size":3181287,"sha256":"14ecd9fc262fffda94f9c10e3c0f945ad8a96d47c9a12d25916c45590a988582","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_04.png"},
+      "panel_05": {"filename":"överväldigad_kundservice_på_jobbet.png","size":3078879,"sha256":"3b1f80b23d952dbb409e6cbe5dfd966e1d5f1c29f0546024a216121dc7a31d9b","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_05.png","comment":"Historical German-locale candidate reuses bytes also present in sv-SE; QA not independently preserved."},
+      "panel_06": {"filename":"kontorskaos_och_smart_orderöversikt.png","size":3140378,"sha256":"723ae2e791b15c8f9c504c2ac69b44ee84a6b485a6d6a39307255087c426ed0d","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_06.png"},
+      "panel_07": {"filename":"automatisierte_benachrichtigungen_im_büro.png","size":3030271,"sha256":"2b215a75ff10cbe58c1848fd9719d2e79df9bab13adbb5ea6b261e121f58e87a","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_07.png"},
+      "panel_08": {"filename":"robban_skickar_avfärdsnotis_i_regnet.png","size":3046792,"sha256":"ad6b5264e18b047aa7eb2f1581474beda29abaa8f787f5c688168ea085c893d5","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_08.png"},
+      "panel_09": {"filename":"tystnad_som_bevis_på_kontoret.png","size":3220661,"sha256":"63b11bf75b27d5928d6d130018a0bdbcfc99ba74cca8332013a8b22414a8f818","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_09.png","comment":"Historical German-locale candidate reuses bytes also present in sv-SE; QA not independently preserved."},
+      "panel_10": {"filename":"leveransen_registreras_kunden_meddelas.png","size":3165063,"sha256":"805a7a8ee6367aba90d29cdb934d43ddaa7200f32300bead5257529d37340d76","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_10.png"},
+      "panel_11": {"filename":"en_arbetsdag_med_nya_möjligheter.png","size":3089578,"sha256":"bed9d6033c855a9e462b19b735b8a638357b9bdfdb5381d59ee6a8e1526fb739","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_11.png"},
+      "panel_12": {"filename":"organiserad_avfärd_i_kvällsljus.png","size":3200980,"sha256":"e0b83b056f9193b47cfb4ba18840c55ab2a34a80072b284f647c337f374ba7b9","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/panel_12.png"},
+      "cta_13": {"filename":"mindre_samtal_mer_tid_för_service.png","size":3155127,"sha256":"5422c4b4db3bc6761e0f4dd8969e31eef82ffc659b10749d51dc7329d363e22a","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/images/cta_13.png","qrDecode":"https://navichain.se/signup"}
+    },
+    "en-GB": {
+      "cover_00": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_01": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_02": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_03": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_04": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_05": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_06": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_07": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_08": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_09": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+      "panel_10": {"filename":"automatisk_leveransbekräftelse_i_serieformat.png","size":2924551,"sha256":"d4f5086ec5d25ede1cddedb8653d363fe544867750f79af0504848026d5b4ab1","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/en-GB/images/panel_10.png"},
+      "panel_11": {"filename":"produktiv_kontorsdag_med_nya_frågor.png","size":2984997,"sha256":"d4821bff38cb7462b88bbf1428afa2245d15025dca1b77e7ff8cea983464f332","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/en-GB/images/panel_11.png"},
+      "panel_12": {"filename":"färre_samtal_gladare_kunder.png","size":2877143,"sha256":"8709bfe389ca3515858a38a5caba922e1e3c403d2463d098c0ea9574e137918f","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","repoPath":"stories/samtalet-som-aldrig-kom/en-GB/images/panel_12.png"},
+      "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","comment":"Final canonical CTA in final PDF uses deterministic QR; matching final standalone bytes unavailable."}
+    }
+  },
+  "historicalNonCanonicalVisualCandidates": [
+    {"locale":"sv-SE","assetId":"cta_13","filename":"imagegen.png","sourceLocation":"/mnt/data/imagegen.png","size":3163203,"sha256":"318419bbbe481adf62cb92fb7f4eeb5be22f9e6f38a1bd12c305ddbe2ef16a7b","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","comment":"Historical pre-QR CTA render. Not canonical final CTA; must not replace final asset."},
+    {"locale":"en-GB","assetId":"cta_13","filename":"från_fyrtio_samtal_till_noll.png","sourceLocation":"/mnt/data/från_fyrtio_samtal_till_noll.png","size":3169280,"sha256":"d4b4245b99a4e83208891bc4e6e140391622464dca9f2a65409ee2c6a69031c0","width":1122,"height":1402,"format":"PNG","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","comment":"Historical pre-QR CTA render. Not canonical final CTA; must not replace final asset."}
+  ],
+  "pdfs": [
+    {"locale":"sv-SE","filename":"samtalet_som_aldrig_kom_sv-SE.pdf","sourceLocation":"/mnt/data/SAMTALET-SOM-ALDRIG-KOM-sv-SE-final/carousel/samtalet_som_aldrig_kom_sv-SE.pdf","pages":14,"size":73098592,"sha256":"176bc9695b2038c62bef3a55a801c4064a279057227d3bc0e4d8283f81014a37","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","qrDecode":"https://navichain.se/signup","repoPath":"stories/samtalet-som-aldrig-kom/sv-SE/carousel/samtalet_som_aldrig_kom_sv-SE.pdf"},
+    {"locale":"sv-SE","filename":"samtalet_som_aldrig_kom_sv-SE_carousel.pdf","sourceLocation":"/mnt/data/samtalet_som_aldrig_kom_sv-SE_carousel.pdf","pages":14,"size":72708923,"sha256":"89c4d1a51e19505b391b4333e73ab387705935a65ebf340b3ef31a48d9949f47","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","qrDecode":"https://navichain.se/signup","comment":"Distinct historical PDF binary."},
+    {"locale":"de-DE","filename":"der_anruf_der_nie_kam_de-DE.pdf","sourceLocation":"/mnt/data/SAMTALET-SOM-ALDRIG-KOM-de-DE-final/carousel/der_anruf_der_nie_kam_de-DE.pdf","pages":14,"size":72776655,"sha256":"f77ca2f0d64dbcea1a3a1b276fb7cfa10ca6d273c44946c025c116f420438f0e","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","qrDecode":"https://navichain.se/signup","repoPath":"stories/samtalet-som-aldrig-kom/de-DE/carousel/der_anruf_der_nie_kam_de-DE.pdf"},
+    {"locale":"de-DE","filename":"der_anruf_der_nie_kam_de-DE-release.pdf","sourceLocation":"/mnt/data/samtalet_som_aldrig_kom_de-DE_release/carousel/der_anruf_der_nie_kam_de-DE.pdf","pages":14,"size":60530306,"sha256":"f95c2513893804750b4ea24cab5f40118cd45d997fd817c384a72d0955355369","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","qrDecode":"https://navichain.se/signup","comment":"Distinct historical PDF binary."},
+    {"locale":"en-GB","filename":"the_call_that_never_came_en-GB_carousel.pdf","sourceLocation":"/mnt/data/the_call_that_never_came_en-GB_carousel.pdf","pages":14,"size":63440813,"sha256":"1b0c97b3b227d569b22166a85aa9e8eb8c7987d209924c51f82d239b3c5da492","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","qrDecode":"https://navichain.se/signup","repoPath":"stories/samtalet-som-aldrig-kom/en-GB/carousel/the_call_that_never_came_en-GB_carousel.pdf"}
+  ],
+  "otherHistoricalContent": {
+    "manus":{"sourceClass":"EXACT_ORIGINAL","location":"embedded in Narrative Master","qaStatus":"UNKNOWN"},
+    "storyboard":{"sourceClass":"EXACT_ORIGINAL","location":"embedded in Narrative Master","qaStatus":"UNKNOWN"},
+    "continuity":{"sourceClass":"EXACT_ORIGINAL","location":"embedded in Narrative Master","qaStatus":"UNKNOWN"},
+    "castDefinitions":{"sourceClass":"EXACT_ORIGINAL","location":"embedded in Narrative Master","qaStatus":"UNKNOWN"},
+    "storyDNAStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "characterLockStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "vehicleEnvironmentLockStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "preflightStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "storyLockStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "productTruthAssessmentStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "realityValidationStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "correctionLogsStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "releaseNotesStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "localizationNotesStandalone":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "linkedinSocialCopy":{"sv-SE":"SOURCE_NOT_EXPORTABLE","de-DE":"SOURCE_NOT_EXPORTABLE","en-GB":"SOURCE_NOT_EXPORTABLE"},
+    "priorQaReports":{"sv-SE":"SOURCE_NOT_EXPORTABLE","de-DE":"SOURCE_NOT_EXPORTABLE","en-GB":"SOURCE_NOT_EXPORTABLE"},
+    "priorReleaseManifests":{"sv-SE":"SOURCE_NOT_EXPORTABLE","de-DE":"SOURCE_NOT_EXPORTABLE","en-GB":"SOURCE_NOT_EXPORTABLE"}
+  },
+  "localPackages": {
+    "sv-SE":{"filename":"samtalet-som-aldrig-kom-sv-SE-retro-backfill-v2.zip","size":159284613,"sha256":"216ef755a4e7b6aea916044f128e641e175aa611a7320b7b868f5afcb916a8ca","integrityTest":"PASS"},
+    "de-DE":{"filename":"samtalet-som-aldrig-kom-de-DE-retro-backfill-v2.zip","size":152234523,"sha256":"b59d73ae1acf5d6e1f4ace6d0b1c1c98ef00a5bb109fd909303d5c32547a4c9a","integrityTest":"PASS"},
+    "en-GB":{"filename":"samtalet-som-aldrig-kom-en-GB-retro-backfill-v2.zip","size":63438810,"sha256":"ef87de7b6ed8b185e58965ea099bdf05a934176b86c42da114c280bf5746722e","integrityTest":"PASS"},
+    "completeExport":{"filename":"samtalet-som-aldrig-kom-retro-backfill-v2-complete-export.zip","size":439839878,"sha256":"0672c1211224b6d0d74a7d5cc4052663bdb202cc165089ae9239cba4c4c525fb","integrityTest":"PASS"}
+  },
+  "summary": {"canonicalExactOriginalVisuals":29,"historicalNonCanonicalExactOriginalVisualCandidates":2,"sourceNotExportableCanonicalVisuals":13,"notCreatedCanonicalVisuals":0,"chatRecoveredVisuals":0,"exactOriginalPdfBinaries":5,"derivedTranslations":1,"githubPublishedBinaryAssets":0},
+  "transport": {"requested":"ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub","status":"BLOCKED_AT_CHATGPT_TO_CHROME","reason":"No browser-download or Nextcloud write connector is exposed in this session; Nextcloud plugin discovery returned no available plugin. The requested automatic transport cannot be invoked from this tool runtime.","nextcloudArchiveStatus":"NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE","binaryBackfillStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED","githubTextMetadataWrites":"SUPPORTED_BY_CONNECTED_GITHUB"}
+}

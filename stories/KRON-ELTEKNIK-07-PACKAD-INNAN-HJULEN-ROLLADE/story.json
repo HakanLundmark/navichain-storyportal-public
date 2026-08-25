@@ -1,0 +1,262 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-7-and-canonical-title",
+  "title": "PACKAD INNAN HJULEN ROLLADE",
+  "subtitle": "Micke, Daniel och kvällen som sparade morgonen",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "storyLock": "NOT_EXPLICITLY_VERIFIED_IN_CHAT",
+  "status": "INCOMPLETE",
+  "canonicalOriginalStory": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/ORIGINAL_STORY.md",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "currentRuntimeMappedAssetSlots": [
+        "panel_09",
+        "panel_10",
+        "panel_11"
+      ],
+      "unambiguousCurrentCandidateSlots": [
+        "panel_10",
+        "panel_11"
+      ],
+      "ambiguousCurrentCandidateSlots": [
+        "panel_09"
+      ],
+      "existsButNotExportable": [
+        "cover_00"
+      ],
+      "missingAssetSlots": [
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_12",
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "releasePublished": false
+    }
+  },
+  "assetInventory": {
+    "cover_00": {
+      "state": "EXISTS_BUT_NOT_EXPORTABLE",
+      "historicalRuntimeFile": "packad_innan_hjulen_rullade.png",
+      "releaseEligibility": "REBUILD_REQUIRED",
+      "reason": "A prior GitHub inventory recorded this generated cover, but its exact original bytes are not directly accessible in the current chat runtime. It is not reconstructed."
+    },
+    "panel_01": {
+      "state": "MISSING"
+    },
+    "panel_02": {
+      "state": "MISSING"
+    },
+    "panel_03": {
+      "state": "MISSING"
+    },
+    "panel_04": {
+      "state": "MISSING"
+    },
+    "panel_05": {
+      "state": "MISSING"
+    },
+    "panel_06": {
+      "state": "MISSING"
+    },
+    "panel_07": {
+      "state": "MISSING"
+    },
+    "panel_08": {
+      "state": "MISSING"
+    },
+    "panel_09": {
+      "state": "EXISTS_AND_EXPORTABLE_SOURCE_CANDIDATES",
+      "currentCandidate": "UNRESOLVED_WITHOUT_GUESSING",
+      "releaseEligibility": "REBUILD_REQUIRED",
+      "candidates": [
+        {
+          "file": "a_comic_style_illustration_panel_clean_ligne_clai.png",
+          "size": 2882256,
+          "sha256": "526607b8ce5905be3d4fd97bc475bd36115c1c404add9f9232c0e4956b466e98",
+          "dimensions": "1402x1122"
+        },
+        {
+          "file": "a_full_color_comic_illustration_style_scene_clear.png",
+          "size": 2910042,
+          "sha256": "dfe4b3e6a6883be3616c32c773867feef66bdb1c9a0f58cd4bf9a0517b7b0232",
+          "dimensions": "1086x1448"
+        },
+        {
+          "file": "a_detailed_comic_style_illustration_clean_line_ar.png",
+          "size": 2796532,
+          "sha256": "5896202246a5926bd1c9bbd11687b260ddf8e297fbd818f50994f8319f0b9589",
+          "dimensions": "1086x1448"
+        }
+      ],
+      "reason": "Three exact single-panel source candidates are directly accessible, but the current-candidate ordering cannot be re-established without guessing. All also require rebuild under current brand rules because visible Navichain branding was generated rather than deterministically composited from the official binary."
+    },
+    "panel_10": {
+      "state": "EXISTS_AND_EXPORTABLE",
+      "currentRuntimeFile": "a_comic_book_style_illustration_panel_with_a_retro.png",
+      "size": 2821821,
+      "sha256": "b405a97ae3ca0f98e6a0c5f7a14d58bf523de4f6fb77151e087eddffd4c40fdf",
+      "dimensions": "1122x1402",
+      "releaseEligibility": "REBUILD_REQUIRED",
+      "olderAccessibleCandidate": {
+        "file": "a_comic_book_panel_style_illustration_clean_line.png",
+        "size": 2800997,
+        "sha256": "260f4349704650bb09341725b51ec358cda6852d0b16ecd31f1fd0135312ef67",
+        "dimensions": "1122x1402"
+      },
+      "reason": "The current candidate is the most recent visible panel_10 generation in this chat. It remains QA-failed under current brand/story rules; GitHub publication does not imply PASS."
+    },
+    "panel_11": {
+      "state": "EXISTS_AND_EXPORTABLE",
+      "currentRuntimeFile": "a_warm_comic_illustration_panel_scene_in_ligne_cla.png",
+      "size": 2956503,
+      "sha256": "7bff14d9eac589a1506e93f89629d7c60564983a0b20e57164e705084e1c1466",
+      "dimensions": "1122x1402",
+      "releaseEligibility": "UNVERIFIED_OR_REBUILD_REQUIRED"
+    },
+    "panel_12": {
+      "state": "MISSING"
+    },
+    "cta_13": {
+      "state": "MISSING"
+    }
+  },
+  "directlyAccessibleRejectedRenderArtifacts": [
+    {
+      "file": "a_comic_illustration_style_panel_like_a_retro_stor.png",
+      "size": 3583967,
+      "sha256": "f3cd8f811b2d1f59a451e6b5061a621ee180804fbdd8aadfac06d2c29b6c0c40",
+      "dimensions": "1536x1024",
+      "classification": "MULTI_ASSET_OR_NONCANONICAL"
+    },
+    {
+      "file": "a_comic_infographic_style_illustration_vintage_ti.png",
+      "size": 3385436,
+      "sha256": "80131ab7ad2429a65bc1569f8a75ad2c2547f6ae2f7f3f9c1006d9cc15367106",
+      "dimensions": "1536x1024",
+      "classification": "MULTI_ASSET_RENDER_REBUILD_REQUIRED"
+    },
+    {
+      "file": "a_crisp_retro_comic_ligne_claire_illustration_wit.png",
+      "size": 2902342,
+      "sha256": "bbe2aa580c78622f4c5bd4015191d643fd3b8a7b3141a8a228fed8a3c2328902",
+      "dimensions": "1254x1254",
+      "classification": "MULTI_ASSET_RENDER_REBUILD_REQUIRED"
+    },
+    {
+      "file": "a_full_color_comic_instructional_panel_illustrat.png",
+      "size": 3490069,
+      "sha256": "66b2b34797e98fd29029d8fdbe6c66c64cc1dd99c2a6be8b9d4dba50bd6e5c47",
+      "dimensions": "1536x1024",
+      "classification": "MULTI_ASSET_RENDER_REBUILD_REQUIRED"
+    },
+    {
+      "file": "a_full_color_comic_panel_page_infographic_style.png",
+      "size": 3211931,
+      "sha256": "d2cfcb9fe329a9356c554e6b87611f0dacdf2e7db221f16ee5ca0f9702b68b0b",
+      "dimensions": "1054x1492",
+      "classification": "MULTI_ASSET_RENDER_REBUILD_REQUIRED"
+    }
+  ],
+  "binaryBackfillRetry": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "checkedAt": "2026-08-24T00:34:52+02:00",
+    "protocolSource": "BINARY-BACKFILL-RETRY.md",
+    "attemptedAsset": "panel_09",
+    "attemptedSourceFile": "a_detailed_comic_style_illustration_clean_line_ar.png",
+    "sourceSize": 2796532,
+    "sourceSha256": "5896202246a5926bd1c9bbd11687b260ddf8e297fbd818f50994f8319f0b9589",
+    "firstChunk": {
+      "size": 4096,
+      "blobSha": "b838fb12a5c6fb45a67d87b977f2d3b314c46315"
+    },
+    "queueManifestCreated": false,
+    "reason": "Git blob creation succeeded for the first exact 4096-byte chunk, but the available GitHub connector accepts blob bytes only as inline base64 text and exposes no local-file upload parameter. The current runtime-to-connector handoff cannot safely carry the remaining multi-megabyte original bytes without truncation. No incomplete queue manifest was created because that would intentionally fail the assembler size/SHA verification.",
+    "readBack": {
+      "panel_09": "NOT_FOUND_ON_MAIN",
+      "panel_10": "NOT_FOUND_ON_MAIN",
+      "panel_11": "NOT_FOUND_ON_MAIN"
+    },
+    "githubPublishedBinaryAssets": 0
+  },
+  "otherContent": {
+    "pdfCarousel": "MISSING",
+    "linkedinSocialCopy": "MISSING",
+    "releaseQa": "MISSING",
+    "releaseManifest": "MISSING",
+    "backfillQa": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/sv-SE/qa/backfill-inventory.json",
+    "backfillManifest": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/sv-SE/manifest/backfill-manifest.json",
+    "sourceInventory": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/sources/source-inventory.json"
+  },
+  "productTruthValidation": {
+    "status": "REVISION_REQUIRED_BEFORE_RELEASE",
+    "note": "Current canonical original story still contains a Parts multi-location transfer interpretation that the preflight in this chat found unsupported. The safe correction is user-initiated Parts stock adjustment with reason/ledger movement plus physical pre-packing, not a verified transfer between Parts location balances."
+  },
+  "rawBinaryPublicationPolicy": "Rejected/multi-asset render artifacts are not promoted to canonical image slots. Historical candidates are not silently selected when their current-candidate order cannot be verified.",
+  "backfillCommitPurpose": "Retry exact-byte binary backfill from this chat without rerendering, reconstructing, cropping or substituting missing assets.",
+  "backfilledAt": "2026-08-24T00:34:52+02:00",
+  "targetRepository": "HakanLundmark/-navichain-storyportal",
+  "targetBranch": "main",
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "checkedAt": "2026-08-24T19:08:00+02:00",
+    "narrativeMaster": {
+      "locale": "sv-SE",
+      "sourceClass": "EXACT_ORIGINAL",
+      "path": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/ORIGINAL_STORY.md",
+      "size": 10069,
+      "sha256": "798b0ce23e78bbe09e14177ce4ea7a0444095c6a940eab24438a732c0dbc41ac",
+      "readBack": "PASS"
+    },
+    "enGBStory": {
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "path": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/source/original-story-en-GB.md",
+      "sha256": "dd3a94f663ffaed5773c4a1121e3a51ae30f725ef76eaa39d0c718f03bc688d2",
+      "readBack": "PASS"
+    },
+    "visualInventory": {
+      "currentDirectExactOriginalSlots": [
+        "panel_10",
+        "panel_11"
+      ],
+      "ambiguousExactOriginalSlotCandidates": [
+        "panel_09"
+      ],
+      "sourceNotExportable": [
+        "cover_00"
+      ],
+      "notCreated": [
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_12",
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0
+    },
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "qaPath": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/sv-SE/qa/retro-backfill-v2.json",
+    "historicalQaPreserved": true,
+    "nextcloudArchiveVerified": false,
+    "automaticPublisherVerified": false
+  }
+}

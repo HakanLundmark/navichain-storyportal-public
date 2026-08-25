@@ -1,0 +1,19 @@
+{
+  "schema": "navichain-retro-backfill-v2-locale-status",
+  "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+  "locale": "en-GB",
+  "status": "INCOMPLETE",
+  "requiredCanonicalVisualAssets": 14,
+  "exportableHistoricalVisualAssets": 12,
+  "sourceNotExportable": ["panel_04", "panel_07"],
+  "notCreated": ["social/linkedin-en-GB.txt"],
+  "githubPublishedBinaryAssets": 0,
+  "completeSynced": false,
+  "storyText": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-en-GB.md",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "historicalPdfs": 1,
+  "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_CALLABLE_SURFACE",
+  "checkedAt": "2026-08-24T22:21:00+02:00"
+}

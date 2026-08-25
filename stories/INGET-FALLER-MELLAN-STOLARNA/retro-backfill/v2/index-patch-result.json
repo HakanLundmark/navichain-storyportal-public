@@ -1,0 +1,57 @@
+{
+  "storyId": "INGET-FALLER-MELLAN-STOLARNA",
+  "indexLineStart": 2035,
+  "indexEntry": {
+    "storyId": "INGET-FALLER-MELLAN-STOLARNA",
+    "storyIdAuthority": "backfill-derived-from-canonical-title",
+    "title": "Inget faller mellan stolarna — Henrik & navichains uppgiftsmotor",
+    "masterLocale": "sv-SE",
+    "masterVersion": null,
+    "status": "INCOMPLETE",
+    "locales": {
+      "sv-SE": "INCOMPLETE",
+      "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+    },
+    "narrativeMasterPath": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-sv-SE.md",
+    "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+    "narrativeMasterSha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0",
+    "enGbStoryPath": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-en-GB.md",
+    "enGbTranslationType": "faithful",
+    "enGbSourceClass": "DERIVED_TRANSLATION",
+    "enGbNarrativeMaster": false,
+    "enGbStorySha256": "c56125a1b7f1e46ca84d78092adb89e34b488b63cbe1879a807c79dd4cb6233c",
+    "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+    "currentRuntimeExactOriginalCanonicalAssetIds": [
+      "cover_00",
+      "panel_01",
+      "panel_02",
+      "panel_03",
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12"
+    ],
+    "notCreatedCanonicalAssets": [
+      "cta_13"
+    ],
+    "rebuildRequired": [
+      "panel_11",
+      "panel_12"
+    ],
+    "historicalRawRenderFilesDirectlyAccessible": 43,
+    "githubPublishedBinaryAssets": 0,
+    "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+    "retroBackfillV2Status": "PARTIAL_BACKFILL",
+    "retroBackfillV2CheckedAt": "2026-08-24T19:34:00+02:00",
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/story.json"
+  },
+  "status": "PATCHED_BEFORE_PUSH"
+}

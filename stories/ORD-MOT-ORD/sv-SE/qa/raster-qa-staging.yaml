@@ -1,0 +1,34 @@
+storyId: ORD-MOT-ORD
+locale: sv-SE
+status: BLOCKED
+checks:
+  availableImages: 12
+  requiredImages: 14
+  missingAssets:
+    - panel_03
+    - panel_07
+  dimensions:
+    cover_00: 1055x1491
+    panel_01: 1055x1491
+    panel_02: 1055x1491
+    panel_04: 1055x1491
+    panel_05: 1055x1491
+    panel_06: 1055x1491
+    panel_08: 1055x1491
+    panel_09: 1055x1491
+    panel_10: 1055x1491
+    panel_11: 1055x1491
+    panel_12: 1122x1402
+    cta_13: 1024x1536
+  dimensionMatch: FAIL
+  qr:
+    asset: cta_13
+    decodedPayload: https://navichain.se/signup
+    status: PASS
+blockers:
+  - missing_panel_03
+  - missing_panel_07
+  - panel_12_dimension_mismatch
+  - cta_13_dimension_mismatch
+  - full_pdf_not_built_due_to_incomplete_asset_set
+releaseAllowed: false

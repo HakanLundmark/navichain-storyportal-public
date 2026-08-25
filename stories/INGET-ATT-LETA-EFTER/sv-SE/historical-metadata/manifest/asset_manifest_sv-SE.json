@@ -1,0 +1,114 @@
+[
+  {
+    "asset_id": "cover_00",
+    "filename": "cover_00.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 931782
+  },
+  {
+    "asset_id": "panel_01",
+    "filename": "panel_01.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 836121
+  },
+  {
+    "asset_id": "panel_02",
+    "filename": "panel_02.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 986527
+  },
+  {
+    "asset_id": "panel_03",
+    "filename": "panel_03.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 810298
+  },
+  {
+    "asset_id": "panel_04",
+    "filename": "panel_04.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 798663
+  },
+  {
+    "asset_id": "panel_05",
+    "filename": "panel_05.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 810059
+  },
+  {
+    "asset_id": "panel_06",
+    "filename": "panel_06.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 805170
+  },
+  {
+    "asset_id": "panel_07",
+    "filename": "panel_07.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 794051
+  },
+  {
+    "asset_id": "panel_08",
+    "filename": "panel_08.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 794874
+  },
+  {
+    "asset_id": "panel_09",
+    "filename": "panel_09.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 822025
+  },
+  {
+    "asset_id": "panel_10",
+    "filename": "panel_10.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 701778
+  },
+  {
+    "asset_id": "panel_11",
+    "filename": "panel_11.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 832836
+  },
+  {
+    "asset_id": "panel_12",
+    "filename": "panel_12.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 843418
+  },
+  {
+    "asset_id": "cta_13",
+    "filename": "cta_13.png",
+    "width_px": 1055,
+    "height_px": 1491,
+    "mode": "RGB",
+    "bytes": 793020
+  }
+]

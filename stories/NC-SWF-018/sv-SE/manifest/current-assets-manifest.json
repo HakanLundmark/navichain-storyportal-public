@@ -1,0 +1,41 @@
+{
+  "story_id": "NC-SWF-018",
+  "title": "INGEN PÅ PLATS, ÄNDÅ EN PLAN",
+  "locale": "sv-SE",
+  "state": "CURRENT_ASSETS_NOT_RELEASE_LOCKED",
+  "canonical_order": [
+    "cover_00.png",
+    "panel_01.png",
+    "panel_02.png",
+    "panel_03.png",
+    "panel_04.png",
+    "panel_05.png",
+    "panel_06.png",
+    "panel_07.png",
+    "panel_08.png",
+    "panel_09.png",
+    "panel_10.png",
+    "panel_11.png",
+    "panel_12.png",
+    "cta_13.png"
+  ],
+  "present_assets": [
+    "cover_00.png",
+    "panel_01.png",
+    "panel_02.png",
+    "panel_03.png",
+    "panel_05.png",
+    "panel_06.png",
+    "panel_07.png",
+    "panel_08.png",
+    "panel_09.png",
+    "panel_10.png",
+    "panel_11.png",
+    "panel_12.png",
+    "cta_13.png"
+  ],
+  "missing_assets": [
+    "panel_04.png"
+  ],
+  "cta_qr": "https://navichain.se/signup"
+}

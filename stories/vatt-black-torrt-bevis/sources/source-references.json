@@ -1,0 +1,12 @@
+{
+  "storyId": "vatt-black-torrt-bevis",
+  "sourcePolicy": "references_and_checksums_only_for_story_backfill",
+  "sources": [
+    {"name":"02-CREATIVE-VALIDATION-RULES.md","sha256":"07253353547934d20383903b3c7d0ad7cd3114e44f86f595869507e054a3cbae","status":"EXISTS_AND_EXPORTABLE"},
+    {"name":"03-PRODUCTION-BUILD-RELEASE.md","sha256":"fd6b25ce8d3dfb1829c45cab14f0699f5fc304e6a5816ee76e8ec89a6412ada8","status":"EXISTS_AND_EXPORTABLE"},
+    {"name":"04-LOCALIZATION-RULES.md","sha256":"1bb5dd397ad3f04035075088e869f55a5ebe8f7a9c67fbafbd36adc6f392212b","status":"EXISTS_AND_EXPORTABLE"},
+    {"name":"NAVICHAIN-PRODUCT-TRUTH.md","sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00","status":"EXISTS_AND_EXPORTABLE"},
+    {"name":"Navichain_Market_Truth_MASTER_v1.0.md","sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027","status":"EXISTS_AND_EXPORTABLE"}
+  ],
+  "note": "These are the validation sources included in the local Story Portal export. Their canonical project copies are global project sources; this story records references/checksums rather than duplicating the full source documents."
+}

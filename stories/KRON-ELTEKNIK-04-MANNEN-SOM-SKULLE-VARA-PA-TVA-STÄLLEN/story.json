@@ -1,0 +1,71 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-4-and-canonical-title",
+  "title": "MANNEN SOM SKULLE VARA PÅ TVÅ STÄLLEN",
+  "subtitle": "Yvonne, Rasmus och krocken som aldrig blev av igen",
+  "series": "Kron Elteknik",
+  "episode": 4,
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetSlotsExportable": 14,
+      "requiredAssetSlotsTotal": 14,
+      "missing": [],
+      "releaseQualification": "NOT_ESTABLISHED",
+      "githubPublishedBinaryAssets": 0,
+      "blockingReleaseComponents": [
+        "release-qualified 14-image set",
+        "complete release QA",
+        "release manifest",
+        "release ZIP"
+      ],
+      "pdf": "HISTORICAL_EXACT_ORIGINAL_4_REVISIONS_NOT_RELEASE_LOCKED",
+      "social": "HISTORICAL_EXACT_ORIGINAL_3_UNIQUE_REVISIONS",
+      "releaseZip": "NOT_CREATED_AS_RELEASE"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "narrativeMaster": false,
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "storyPath": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-en-GB.md",
+      "storySha256": "3c747df90f39404842430891cef2e0cb22e60b14c073609ffcc1fed491acc3d5",
+      "visualAssets": "NOT_CREATED"
+    }
+  },
+  "canonicalOriginalStory": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/ORIGINAL_STORY.md",
+  "narrativeMasterPath": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "acd66f041f370043b8b694facc747e9355546a3e46e9672f9d865ed11614e558",
+  "enGbStoryPath": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-en-GB.md",
+  "enGbStorySourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "3c747df90f39404842430891cef2e0cb22e60b14c073609ffcc1fed491acc3d5",
+  "legacyConcurrentEnGbStoryPath": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/sources/original-story-en-GB.md",
+  "inventory": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/metadata/backfill-inventory.json",
+  "retroBackfillV2Metadata": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/metadata/retro-backfill-v2-2026-08-24.json",
+  "retroBackfillV2LegacyMetadata": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/metadata/retro-backfill-v2.json",
+  "retroBackfillV2Qa": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/sv-SE/qa/retro-backfill-v2-qa.md",
+  "sources": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/sources/source-index.json",
+  "canonicalHistoricalImageSlotsExactOriginal": 14,
+  "historicalRenderFilesExactOriginal": 52,
+  "historicalPdfRevisionsExactOriginal": 4,
+  "historicalSocialUniqueExactOriginal": 3,
+  "localRetroBackfillPackage": {
+    "filename": "KRON-ELTEKNIK-04-retro-backfill-v2.zip",
+    "size": 1111823779,
+    "sha256": "96a1d9100cb3271b644759eb0a32e3e6df4972887e48333222d5c03f88aef0f1"
+  },
+  "githubPublishedBinaryAssets": 0,
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_IN_CURRENT_RUNTIME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:55:00+02:00",
+  "backfilledAt": "2026-08-24T19:55:00+02:00"
+}

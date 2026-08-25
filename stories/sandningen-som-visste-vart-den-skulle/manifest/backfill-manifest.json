@@ -1,0 +1,35 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "title": "SÄNDNINGEN SOM VISSTE VART DEN SKULLE",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "backfilledAt": "2026-08-23T10:53:00+02:00",
+  "localeStatus": {
+    "sv-SE": "INCOMPLETE"
+  },
+  "canonicalOriginalStory": {
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.md",
+    "status": "EXISTS_AND_EXPORTABLE_ALREADY_ON_GITHUB"
+  },
+  "assets": [
+    {"assetId":"cover_00","availability":"EXISTS_AND_EXPORTABLE","qaState":"REJECTED_STORY_DRIFT","sourceFilename":"sändningen_som_hittade_rätt_väg.png","size":3101570,"sha256":"292e960ec1269a966d47e5aeda88b51bbb553fe3466d57024e2c07c8bca0bd18"},
+    {"assetId":"panel_01","availability":"EXISTS_AND_EXPORTABLE","qaState":"REJECTED_STORY_DRIFT","sourceFilename":"a_comic_graphic_novel_style_illustration_clean_li.png","size":3435193,"sha256":"92898afc4f42d06fff935274a939953880fcb0b3e046d57b07a03fc7b112444f"},
+    {"assetId":"panel_02","availability":"EXISTS_AND_EXPORTABLE","qaState":"REJECTED_STORY_DRIFT","sourceFilename":"a_detailed_comic_book_illustrated_scene_in_an_of.png","size":3403179,"sha256":"e27239d10dd427310a7299681b1f9966c18631f6fb683958f0ade542df2218bc"},
+    {"assetId":"panel_03","availability":"EXISTS_AND_EXPORTABLE","qaState":"REJECTED_STORY_DRIFT","sourceFilename":"a_detailed_comic_book_graphic_novel_style_illust.png","size":3328721,"sha256":"23c087116c82f828960c4faa49feac736072c9c5c1cd85ea81508737458edc57"},
+    {"assetId":"panel_04","availability":"EXISTS_AND_EXPORTABLE","qaState":"RENDERED_UNRELEASED","sourceFilename":"lastbilschaufför_granskar_sin_körsträcka.png","size":3513886,"sha256":"fbf0c0eb6c0fc363d33d35c4279c6a551f8194a56d3acc94b36f90e383486e9a"},
+    {"assetId":"panel_05","availability":"EXISTS_AND_EXPORTABLE","qaState":"RENDERED_UNRELEASED","sourceFilename":"manuella_formulär_och_dolda_fel.png","size":3417266,"sha256":"53d483253eb360e6e180a34765844ee4753db097f4ad698a1130da28ad2561d6"},
+    {"assetId":"panel_06","availability":"MISSING"},
+    {"assetId":"panel_07","availability":"MISSING"},
+    {"assetId":"panel_08","availability":"MISSING"},
+    {"assetId":"panel_09","availability":"MISSING"},
+    {"assetId":"panel_10","availability":"MISSING"},
+    {"assetId":"panel_11","availability":"MISSING"},
+    {"assetId":"panel_12","availability":"MISSING"},
+    {"assetId":"cta_13","availability":"MISSING"}
+  ],
+  "directlyExportableSourceRenderCount": 6,
+  "missingCanonicalAssetCount": 8,
+  "releaseZipCreated": false,
+  "publicationPolicy": "No locale is published as COMPLETE unless all 14 valid original assets and required release components are exportable."
+}

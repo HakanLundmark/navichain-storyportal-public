@@ -1,0 +1,100 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "INGET-FALLER-MELLAN-STOLARNA",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "Inget faller mellan stolarna — Henrik & navichains uppgiftsmotor",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "storyLock": false,
+  "status": "INCOMPLETE",
+  "canonicalOriginalStory": "stories/INGET-FALLER-MELLAN-STOLARNA/ORIGINAL_STORY.md",
+  "sourceNarrativeMaster": {
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 7882,
+    "sha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0"
+  },
+  "translations": {
+    "en-GB": {
+      "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-en-GB.md",
+      "compatibilityPath": "stories/INGET-FALLER-MELLAN-STOLARNA/ORIGINAL_STORY.en-GB.md",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "size": 8146,
+      "sha256": "c56125a1b7f1e46ca84d78092adb89e34b488b63cbe1879a807c79dd4cb6233c",
+      "sourceStorySha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0",
+      "githubReadBackVerified": true
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "expectedAssetCount": 14,
+      "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+      "exactOriginalAvailableAssets": [
+        "cover_00.png",
+        "panel_01.png",
+        "panel_02.png",
+        "panel_03.png",
+        "panel_04.png",
+        "panel_05.png",
+        "panel_06.png",
+        "panel_07.png",
+        "panel_08.png",
+        "panel_09.png",
+        "panel_10.png",
+        "panel_11.png",
+        "panel_12.png"
+      ],
+      "notCreated": ["cta_13.png"],
+      "qaStatusByAsset": {
+        "cover_00": "UNKNOWN",
+        "panel_01": "UNKNOWN",
+        "panel_02": "UNKNOWN",
+        "panel_03": "UNKNOWN",
+        "panel_04": "UNKNOWN",
+        "panel_05": "UNKNOWN",
+        "panel_06": "UNKNOWN",
+        "panel_07": "UNKNOWN",
+        "panel_08": "UNKNOWN",
+        "panel_09": "UNKNOWN",
+        "panel_10": "UNKNOWN",
+        "panel_11": "REBUILD_REQUIRED",
+        "panel_12": "REBUILD_REQUIRED",
+        "cta_13": "NOT_CREATED"
+      },
+      "historicalRawRenderFilesDirectlyAccessible": 43,
+      "githubPublishedBinaryAssets": 0,
+      "exactOriginalPublishedAssets": 0,
+      "chatRecoveredPublishedAssets": 0,
+      "releaseEligible": false,
+      "releaseBlockers": [
+        "cta_13 was not created as a standalone asset",
+        "panel_11 is REBUILD_REQUIRED",
+        "panel_12 is REBUILD_REQUIRED",
+        "historical Product Truth remained UNRESOLVED and Story Lock was blocked"
+      ]
+    }
+  },
+  "validation": {
+    "reality": "PASS",
+    "storyIsolation": "PASS",
+    "continuity": "PASS_WITH_CHAT_CORRECTIONS",
+    "productTruth": "UNRESOLVED",
+    "release": "BLOCKED"
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:34:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "narrativeMasterPublishedAndReadBack": true,
+    "englishStoryPublishedAndReadBack": true,
+    "binaryImportSpec": "mobile-binary-import-specs/INGET-FALLER-MELLAN-STOLARNA-sv-SE.json",
+    "githubBinaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "githubBinaryPublishReason": "No Chrome/Nextcloud control or public direct HTTPS package URL is exposed to the current chat tool surface; canonical image paths remain unpublished. Exact local packages and verification metadata were created without altering source bytes.",
+    "fullArchiveSha256": "4bce7fb080f726473653694ef820cf67fdc9755eff8314b99821da3a3d934402",
+    "svSePublishPackageSha256": "d77473c7078a6e8dca6a88c5133171b7f2990ac26ab2a12ba55df82c969e3f98",
+    "enGbPublishPackageSha256": "49747bc7858a5896049dd6df483d758391c3b745d05c8737470ab439569050de"
+  }
+}

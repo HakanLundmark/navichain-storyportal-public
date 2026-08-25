@@ -1,0 +1,31 @@
+{
+  "schema": "navichain-chat-backfill-locale-v1",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "COMPLETE",
+  "requiredAssets": 14,
+  "exportableAssets": 14,
+  "assets": [
+    {"assetId":"cover_00","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/cover_00.png","bytes":3566940,"sha256":"3cfd300af423063b5fbed8c9ec116223f35dedb67c411fde94635374434f52d3"},
+    {"assetId":"panel_01","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_01.png","bytes":3133516,"sha256":"1bd0457d807a3d905c57ffd01e751e0a05ad3522cec91fdb5f3067b18e0d9479"},
+    {"assetId":"panel_02","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_02.png","bytes":3093755,"sha256":"293fbbe44fd248b4210c8542216f6e964e9849f6482aff2e1e7ec2ce6591fae7"},
+    {"assetId":"panel_03","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_03.png","bytes":2928330,"sha256":"c7b6323f9e39ceeb5652a4eae513f3c5a82be47ca7ffc1dc13f6cb41019df240"},
+    {"assetId":"panel_04","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_04.png","bytes":2927127,"sha256":"d3a092f84e3e64f5006e6cf3c382bed88789e6b7f14735d300b6cd9c600d0596"},
+    {"assetId":"panel_05","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_05.png","bytes":2970368,"sha256":"879c6424df9c886fe82b7ab2d5122eb9a408b9fd8511096e5a6453be39b193af"},
+    {"assetId":"panel_06","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_06.png","bytes":3044693,"sha256":"f274c9ab754902a0b7adef3d65182aa833844281a3e75d648c95aafeb12a58c3"},
+    {"assetId":"panel_07","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_07.png","bytes":2962895,"sha256":"791ec44e1457d9f3923405be1b99a708eabe73bd285211a5b5889cbed479303d"},
+    {"assetId":"panel_08","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_08.png","bytes":2963613,"sha256":"504907d3f70a2f4bb559981b574a2eb8b05f6ff3e4f3acad490cfce0d122de58"},
+    {"assetId":"panel_09","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_09.png","bytes":3036194,"sha256":"4a2e794f19d4d994fb8e0e15dc605f1059d4e48f8003cdcd1931794e194cbfd7"},
+    {"assetId":"panel_10","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_10.png","bytes":2860594,"sha256":"d28a8cc7b37c62abf68bb658fc600e7d293d8e181aca1e97d2dc608011c4a0a5"},
+    {"assetId":"panel_11","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_11.png","bytes":3095803,"sha256":"cf71fbf7eaadc0dbadc2d6eea267d62522e462e5e0ca025787cbf47609aac2e9"},
+    {"assetId":"panel_12","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/panel_12.png","bytes":3002357,"sha256":"55df391875652538ebfb9ad6b7784365553109dda3ca7d30a2dcf9d70da6d44b"},
+    {"assetId":"cta_13","status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/images/cta_13.png","bytes":2940669,"sha256":"3b8f040b0fb7884477c1af684c75588ba119a4ea3138afa7b446972f8bd39496"}
+  ],
+  "pdf": {"status":"EXISTS_AND_EXPORTABLE","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/sv-SE/carousel/Fran-kaos-till-monster-sv-SE.pdf","bytes":18817530,"sha256":"aec9595e5edd88c60711b90792385faade7b7c188e185d142f47064698c2242b"},
+  "social": "MISSING",
+  "qa": "MISSING",
+  "manifest": "BACKFILL_MANIFEST_CREATED_DURING_THIS_OPERATION",
+  "sources": ["../../sources/NAVICHAIN-PRODUCT-TRUTH.md","../../sources/Navichain_Market_Truth_MASTER_v1.0.md"],
+  "notes": "No missing original image was regenerated or extracted from a PDF."
+}

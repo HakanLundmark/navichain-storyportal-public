@@ -1,0 +1,61 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "tva-flaggor-en-standard",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "Två flaggor, en standard",
+  "subtitle": "Affären mellan Trelleborg och Rostock som nästan gick i kras",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrativeMasterPath": "stories/tva-flaggor-en-standard/source/original-story-sv-SE.md",
+  "legacyNarrativeMasterPath": "stories/tva-flaggor-en-standard/ORIGINAL_STORY.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "6be550ffd9651ccaf67598aa743299ec96102a4cafdd27a69ddc823e58e6182c",
+  "enGbStoryPath": "stories/tva-flaggor-en-standard/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "3259773f51f1e16eeccde371ddd020391704452380543d5c87c76afddccaefac",
+  "protagonists": ["Klaus Vogel", "Birgitta Ahl"],
+  "companies": ["Rhein-Nord Spedition GmbH", "Trelleborg Fraktpartner AB"],
+  "historicalProductTruthQaStatus": "UNKNOWN",
+  "historicalRealityValidationQaStatus": "UNKNOWN",
+  "releaseEligibility": false,
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "INCOMPLETE"
+  },
+  "canonicalHistoricalCandidates": {
+    "sv-SE": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_11","panel_12","cta_13"],
+    "en-GB": ["cover_00","panel_01","panel_02","panel_03","panel_06"]
+  },
+  "sourceNotExportableCanonicalAssets": {
+    "sv-SE": ["panel_08","panel_09","panel_10"],
+    "en-GB": ["panel_04","panel_05","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "historicalExactOriginalVisualFiles": 31,
+  "canonicalExactOriginalVisualAssets": 16,
+  "historicalRejectedVisualFiles": 14,
+  "historicalDuplicateAliasFiles": 1,
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:26:00+02:00",
+  "historicalInventory": {
+    "inventoryItems": 72,
+    "exactOriginal": 44,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 23,
+    "notCreated": 4,
+    "svSeCanonicalExactOriginal": 11,
+    "enGbCanonicalStoryFaithfulExactOriginal": 5,
+    "pdf": "NOT_CREATED",
+    "social": "NOT_CREATED"
+  },
+  "inventoryPath": "stories/tva-flaggor-en-standard/manifest/retro-backfill-v2-inventory.json",
+  "qaPath": "stories/tva-flaggor-en-standard/qa/retro-backfill-v2-qa.md",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_TOOL_SURFACE",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "pipelineVersion": "6.1.7a"
+}

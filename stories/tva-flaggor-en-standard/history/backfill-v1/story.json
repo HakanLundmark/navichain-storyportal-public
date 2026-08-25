@@ -1,0 +1,16 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "tva-flaggor-en-standard",
+  "storyIdAuthority": "backfill-derived-from-title",
+  "title": "Två flaggor, en standard",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "originalStory": "ORIGINAL_STORY.md",
+  "locales": {
+    "sv-SE": {"status":"INCOMPLETE","exportableCanonicalAssets":11,"requiredCanonicalAssets":14,"missing":["panel_08","panel_10"],"existsButNotExportable":["panel_09"],"pdf":false,"social":false},
+    "en-GB": {"status":"INCOMPLETE","exportableStoryFaithfulCanonicalAssets":5,"requiredCanonicalAssets":14,"missingStoryFaithful":["panel_04","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],"existsButNotExportable":["panel_05"],"pdf":false,"social":false}
+  },
+  "sources": ["sources/SOURCE_REFERENCES.md","sources/BRAND_BINARY_REFERENCES.json"],
+  "backfill": {"source":"current-chat-and-directly-accessible-files","creativeRegenerationPerformed":false,"releaseZipCreated":false,"githubPolicy":"INCOMPLETE locales are inventoried but not published as complete releases.","binaryPublication":"not performed for incomplete locale release assets"}
+}

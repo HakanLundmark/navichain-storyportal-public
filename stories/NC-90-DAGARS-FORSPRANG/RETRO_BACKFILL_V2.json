@@ -1,0 +1,91 @@
+{
+  "schema": "navichain-retro-backfill-v2-audit",
+  "storyId": "NC-90-DAGARS-FORSPRANG",
+  "title": "90 dagars försprång — Kompetensregistret som räddade miljonaffären",
+  "checkedAt": "2026-08-24T17:26:00+02:00",
+  "historicalBackfillNotRelease": true,
+  "inventory": {
+    "items": 93,
+    "exactOriginal": 74,
+    "derivedTranslation": 1,
+    "sourceNotExportable": 16,
+    "notCreated": 2,
+    "chatRecovered": 0,
+    "localInventorySha256": "02356a83606e05f5c221398736a306385d543d2b1b911ec70f5b00b0887e2f75",
+    "additionalHistoricalRenderCandidatesArchived": 35,
+    "historicalCandidatePolicy": "Additional cover/panel alternatives and rejected multi-asset/foreign-story renders are preserved byte-for-byte in the local audit archive with provenance and QA kept separate. They are not promoted to canonical image paths."
+  },
+  "narrative": {
+    "master": {
+      "locale": "sv-SE",
+      "path": "stories/NC-90-DAGARS-FORSPRANG/ORIGINAL_STORY.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "377eaad03fb5d73683f6d08def7acf89e1698e3e05babc5432571ae99c5ff924",
+      "gitBlobSha": "cd579ace8b984f0994f8b695fd9ca661281113b6",
+      "narrativeMaster": true,
+      "githubReadBackVerified": true
+    },
+    "enGB": {
+      "locale": "en-GB",
+      "path": "stories/NC-90-DAGARS-FORSPRANG/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "sourceStorySha256": "377eaad03fb5d73683f6d08def7acf89e1698e3e05babc5432571ae99c5ff924",
+      "sha256": "679afa81fd7599d10262c461d8a1fe5b5d3d25a05ca593851882379e456acf34",
+      "gitBlobSha": "3279552bee1ece92c96f4c082833e8ad395dd0e2",
+      "narrativeMaster": false,
+      "githubReadBackVerified": true
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "canonicalSlots": 14,
+      "exactOriginalCurrentlyExportable": 12,
+      "chatRecovered": 0,
+      "sourceNotExportable": ["panel_01", "panel_05"],
+      "historicalPdfExactOriginal": true,
+      "historicalLinkedInExactOriginal": true,
+      "githubPublishedBinaryAssets": 0,
+      "transportPackage": {
+        "file": "NC-90-DAGARS-FORSPRANG-sv-SE-retro-backfill-v2.zip",
+        "sha256": "18db352e81e9b734fd58698f1603c0e7370c6a1a70f1ad3945b8de5ccd2d2e40",
+        "files": 17
+      },
+      "publishRequestWrapper": "NC-90-DAGARS-FORSPRANG-sv-SE.publish.zip"
+    },
+    "en-GB": {
+      "canonicalSlots": 14,
+      "exactOriginalHistoricalCandidatesCurrentlyExportable": 14,
+      "chatRecovered": 0,
+      "sourceNotExportableCanonicalSlots": [],
+      "accessibleCtaQa": "REBUILD_REQUIRED",
+      "laterValidatedCta": "SOURCE_NOT_EXPORTABLE",
+      "historicalPdfExactOriginal": true,
+      "githubPublishedBinaryAssets": 0,
+      "transportPackage": {
+        "file": "NC-90-DAGARS-FORSPRANG-en-GB-retro-backfill-v2.zip",
+        "sha256": "a9c0eba50a983a4ac9774267c3aa91c1492d55b001429cc4dc93ef39e85e4cad",
+        "files": 16
+      },
+      "publishRequestWrapper": "NC-90-DAGARS-FORSPRANG-en-GB.publish.zip"
+    }
+  },
+  "sourceAssets": {
+    "officialLogo": {"sourceClass": "EXACT_ORIGINAL", "size": 15270, "sha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db"},
+    "signupQr": {"sourceClass": "EXACT_ORIGINAL", "size": 367480, "sha256": "62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e"}
+  },
+  "localAuditArchive": {
+    "file": "NC-90-DAGARS-FORSPRANG-retro-backfill-v2-complete-local.zip",
+    "size": 784887289,
+    "sha256": "a05df9bdc68cca39d595daef344667dd266174f269689e42cc80d0fff1099a34"
+  },
+  "binaryPublication": {
+    "status": "PENDING_EXTERNAL_AUTOMATIC_TRANSPORT",
+    "githubVerifiedCanonicalImages": 0,
+    "nextcloudArchiveVerified": false,
+    "reason": "The server-side ChatGPT runtime exposes no connected Chrome-download/local-capture/Nextcloud/router control surface. No compatible Nextcloud connector was available. Local packages and publisher requests are therefore made downloadable for the existing client-side automatic chain, but no binary is counted published until GitHub read-back succeeds.",
+    "note": "Do not promote binary counts, COMPLETE, or SYNCED from local packages or publish-request metadata alone."
+  },
+  "status": "PARTIAL_BACKFILL"
+}

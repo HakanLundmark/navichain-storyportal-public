@@ -1,0 +1,62 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "ingen-losen-att-krava",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "INGEN LÖSEN ATT KRÄVA",
+  "subtitle": "Anette och natten då grannåkeriet blev gisslan — men inte hon",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrativeMasterStatus": "NOT_LOCKED",
+  "originalStoryStatus": "EXISTS_AND_EXPORTABLE",
+  "localeStatus": {
+    "sv-SE": "INCOMPLETE"
+  },
+  "verifiedOriginalAssets": 2,
+  "expectedAssets": 14,
+  "exportedAt": "2026-08-23T08:32:00+02:00",
+  "source": "current-chat",
+  "assets": {
+    "cover_00": {
+      "localSource": "/mnt/data/a_detailed_comic_illustration_cover_scene_in_a_ret.png",
+      "intendedGitHubPath": "stories/ingen-losen-att-krava/sv-SE/images/cover_00.png",
+      "availability": "EXISTS_AND_EXPORTABLE",
+      "githubPublish": "FAILED_BINARY_TOOL_LIMITATION",
+      "approval": "NOT_RELEASE_READY",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 3138039,
+      "sha256": "c605efb4dc8b0fd9a491edf1f980e16357c2fe2ec9fc0ea7b9890c2164a6022a"
+    },
+    "panel_01": {
+      "localSource": "/mnt/data/a_comic_book_style_scene_with_a_clean_illustrated.png",
+      "intendedGitHubPath": "stories/ingen-losen-att-krava/sv-SE/images/panel_01.png",
+      "availability": "EXISTS_AND_EXPORTABLE",
+      "githubPublish": "FAILED_BINARY_TOOL_LIMITATION",
+      "approval": "NOT_RELEASE_READY",
+      "width": 1087,
+      "height": 1447,
+      "bytes": 2667367,
+      "sha256": "e905c60258b3d46608434edbd4eff3fa11906afa1d62bf7bc60944cbcbffc070"
+    },
+    "panel_02": {"availability": "MISSING"},
+    "panel_03": {"availability": "MISSING"},
+    "panel_04": {"availability": "MISSING"},
+    "panel_05": {"availability": "MISSING"},
+    "panel_06": {"availability": "MISSING"},
+    "panel_07": {"availability": "MISSING"},
+    "panel_08": {"availability": "MISSING"},
+    "panel_09": {"availability": "MISSING"},
+    "panel_10": {"availability": "MISSING"},
+    "panel_11": {"availability": "MISSING"},
+    "panel_12": {"availability": "MISSING"},
+    "cta_13": {"availability": "MISSING"}
+  },
+  "otherContent": {
+    "pdf": "MISSING",
+    "social": "MISSING",
+    "releaseQa": "MISSING",
+    "releaseManifest": "MISSING",
+    "sources": "EXISTS_AND_EXPORTABLE_AS_REFERENCES",
+    "metadata": "EXISTS_AND_EXPORTABLE"
+  }
+}

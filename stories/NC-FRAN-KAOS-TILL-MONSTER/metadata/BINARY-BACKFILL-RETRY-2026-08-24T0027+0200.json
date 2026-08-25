@@ -1,0 +1,47 @@
+{
+  "schema": "navichain-binary-backfill-retry-report-v1",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "checkedAt": "2026-08-24T00:27:00+02:00",
+  "protocol": "BINARY-BACKFILL-RETRY.md",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "result": "GITHUB_PUBLISH_FAILED",
+  "reason": "Exact original bytes are directly accessible in this runtime, but the connected GitHub create_blob action accepts binary payload only as an in-call base64 string. The directly accessible canonical sv-SE image series is about 42 MB before base64, plus PDFs/ZIP; serializing all exact bytes through the available model/tool-call context is not safely possible in this execution. No queue manifest was created because incomplete/incorrect chunk manifests must not be promoted. No rerendering, reconstruction, cropping, PDF extraction, substitution or fabrication was performed.",
+  "githubReadBackBeforeRetry": {
+    "canonicalSvSeImagesPresent": 0,
+    "canonicalEnGbImagesPresent": 0
+  },
+  "sv-SE": {
+    "canonicalAssets": {
+      "cover_00": {"size":3566940,"sha256":"3cfd300af423063b5fbed8c9ec116223f35dedb67c411fde94635374434f52d3"},
+      "panel_01": {"size":3133516,"sha256":"1bd0457d807a3d905c57ffd01e751e0a05ad3522cec91fdb5f3067b18e0d9479"},
+      "panel_02": {"size":3093755,"sha256":"293fbbe44fd248b4210c8542216f6e964e9849f6482aff2e1e7ec2ce6591fae7"},
+      "panel_03": {"size":2928330,"sha256":"c7b6323f9e39ceeb5652a4eae513f3c5a82be47ca7ffc1dc13f6cb41019df240"},
+      "panel_04": {"size":2927127,"sha256":"d3a092f84e3e64f5006e6cf3c382bed88789e6b7f14735d300b6cd9c600d0596"},
+      "panel_05": {"size":2970368,"sha256":"879c6424df9c886fe82b7ab2d5122eb9a408b9fd8511096e5a6453be39b193af"},
+      "panel_06": {"size":3044693,"sha256":"f274c9ab754902a0b7adef3d65182aa833844281a3e75d648c95aafeb12a58c3"},
+      "panel_07": {"size":2962895,"sha256":"791ec44e1457d9f3923405be1b99a708eabe73bd285211a5b5889cbed479303d"},
+      "panel_08": {"size":2963613,"sha256":"504907d3f70a2f4bb559981b574a2eb8b05f6ff3e4f3acad490cfce0d122de58"},
+      "panel_09": {"size":3036194,"sha256":"4a2e794f19d4d994fb8e0e15dc605f1059d4e48f8003cdcd1931794e194cbfd7"},
+      "panel_10": {"size":2860594,"sha256":"d28a8cc7b37c62abf68bb658fc600e7d293d8e181aca1e97d2dc608011c4a0a5"},
+      "panel_11": {"size":3095803,"sha256":"cf71fbf7eaadc0dbadc2d6eea267d62522e462e5e0ca025787cbf47609aac2e9"},
+      "panel_12": {"size":3002357,"sha256":"55df391875652538ebfb9ad6b7784365553109dda3ca7d30a2dcf9d70da6d44b"},
+      "cta_13": {"size":2940669,"sha256":"3b8f040b0fb7884477c1af684c75588ba119a4ea3138afa7b446972f8bd39496"}
+    },
+    "canonicalAssetCount": 14,
+    "pdf": {"status":"EXISTS_AND_EXPORTABLE","size":18817530,"sha256":"aec9595e5edd88c60711b90792385faade7b7c188e185d142f47064698c2242b"},
+    "releaseZip": {"status":"EXISTS_AND_EXPORTABLE","size":57627684,"sha256":"4cf0bbd946f58e653eda8bd03f11aef400c12d7b2676d30c0b5ba5047cd03378"},
+    "zipCrossCheck": "PASS: all 14 image entries and the sv-SE PDF are byte-identical to the directly accessible standalone originals"
+  },
+  "en-GB": {
+    "canonicalIndividualAssetsDirectlyAccessible": 0,
+    "canonicalIndividualAssetsDisposition": "SOURCE_NOT_EXPORTABLE",
+    "currentRenderedPdf": {"status":"EXISTS_AND_EXPORTABLE","size":4874985,"sha256":"93d36d72b1a2ad60544a4e02e2f2622da53fdaec255a076a9a5efaf18693cfd0"},
+    "staleEarlierPdf": {"status":"EXISTS_AND_EXPORTABLE_BUT_STALE","size":57422841,"sha256":"fac46777b3c3315499e40d6d6b9e100455e047210f9af52380087ce0e6ff3bee"},
+    "note": "No PDF page extraction was used as a substitute for missing individual original render files."
+  },
+  "queueManifestsCreated": 0,
+  "assemblerRunsTriggered": 0,
+  "githubPublishedBinaryAssetsAfterReadBack": 0,
+  "synced": false
+}

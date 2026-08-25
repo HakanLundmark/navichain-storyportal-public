@@ -1,0 +1,95 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "ratt-siffror-samma-historia",
+  "storyIdAuthority": "backfill-derived-from-canonical-title-and-episode-34-context",
+  "title": "RÄTT SIFFROR, SAMMA HISTORIA",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "backfilledAt": "2026-08-24T17:28:00+02:00",
+  "narrativeMaster": {
+    "status": "PUBLISHED_VERIFIED",
+    "sourceClass": "EXACT_ORIGINAL",
+    "canonicalPath": "stories/ratt-siffror-samma-historia/ORIGINAL_STORY.md",
+    "backfillPath": "stories/ratt-siffror-samma-historia/source/original-story-sv-SE.md",
+    "sha256": "a0fe449e6afe0cb99960cb4f256ef19cd7c80b5343729ccdf6a4bb55f9fc083b"
+  },
+  "translations": {
+    "en-GB": {
+      "status": "PUBLISHED_VERIFIED",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "path": "stories/ratt-siffror-samma-historia/source/original-story-en-GB.md",
+      "sha256": "62c572c55b08e133334db5920048106d0667a34b670b6b7bc1c83ef9ad7376ce",
+      "visualLocaleCreated": false
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "directlyAccessibleExactOriginalAssets": 14,
+      "githubPublishedBinaryAssets": 0,
+      "releaseReady": false,
+      "rebuildRequired": ["panel_02"],
+      "qaUnknown": ["cover_00","panel_01","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "dimensionMismatch": true,
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "releaseQa": "NOT_CREATED",
+      "releaseManifest": "NOT_CREATED",
+      "releaseZip": "NOT_CREATED"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY",
+      "images": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "assetInventory": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"rätt_siffror_samma_historia.png","size":3280140,"sha256":"7f626b0be0b438fbf4ab525ad6b3d018f7b2f627c1ef04b0b3306ea4250556fd","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"redan_utfärdad_redan_fel.png","size":3462251,"sha256":"e364babd7f7fa43d0ff1c05b487222e04921c2abd78a03387719790b3df30ac1","dimensions":"1024x1536","githubStatus":"NOT_PUBLISHED"},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","qa":"REBUILD_REQUIRED","sourceFilename":"imagegen.png","size":3157358,"sha256":"657b2264d65f062184895f2825c18b2204e3a8f8ca08d50980d9207701636dbf","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_03": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"ingrid_och_de_motstridiga_kollina.png","size":3233759,"sha256":"a83f855d66ea23f32d01aeda790e53dd18d0d1ce0f6704f642dfcb86daf386db","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_04": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"cmr_mysteriet_vid_björklunda_åkeri.png","size":3181911,"sha256":"10b9e68ea4fc15d972da8f7d53a96c5d99fa163d9cd23620f1004cf9338a1e93","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_05": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"när_nytt_dokument_döljer_spåren.png","size":3150472,"sha256":"f56bbbc01e6a7915235c5806e6999fa0c4961793dfc126188729ad99df3456e2","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_06": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"överstruket_bläck_i_arkivet.png","size":3143021,"sha256":"c54258b6cfc86f95ba1460441de00fcf9585f6c82952241886e815fa1c59db58","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_07": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"omutfärda_med_spårbarhet.png","size":2983475,"sha256":"4900e8791dbac68a40e29ea64521f2fb291b6477c2fd9d5cf21f9c8a7966de36","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_08": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"dokumentation_med_transparens_vid_skrivbordet.png","size":3058983,"sha256":"a7bb66208a78d733fb2143a2ae8f95a1b3b1f0c7092fcfe04deebdf3a6e6cd36","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_09": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"ny_version_spårbar_historik.png","size":3039598,"sha256":"ee80bcd15d8ceeefc23037e15b0a378f4f12e92dad6f443e460a2757684d33bb","dimensions":"1055x1491","githubStatus":"NOT_PUBLISHED"},
+    "panel_10": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"dokumentskanning_på_björklunda_åkeri.png","size":3672256,"sha256":"1adf35e08ccffeaf85903c3cd3b724ef3a253296296e850e814dfd406049f43c","dimensions":"1024x1536","githubStatus":"NOT_PUBLISHED"},
+    "panel_11": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"korrigerad_cmr_full_spårbarhet.png","size":3459612,"sha256":"3afe03c4596989e3b6c6b31ad7a59b00648f07c230ccf780fbdc25cc7f82fc54","dimensions":"1024x1536","githubStatus":"NOT_PUBLISHED"},
+    "panel_12": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"rättade_siffror_full_spårbarhet.png","size":3381092,"sha256":"a4989f75a362c38abe46efbcfa6b2abe64a030d22a7cc05f547bc5eefb6ba745","dimensions":"1024x1536","githubStatus":"NOT_PUBLISHED"},
+    "cta_13": {"sourceClass":"EXACT_ORIGINAL","qa":"UNKNOWN","sourceFilename":"cta_13_ratt_siffror_samma_historia_sv-SE_REBUILT_OFFICIAL_LOGO.png","size":2739706,"sha256":"eaff8c5042bfe25f1ddd0d3de51527fa24858e2266465e9a22f17be9286e813e","dimensions":"1086x1448","githubStatus":"NOT_PUBLISHED","releaseNote":"Current brand override requires canonical NAVICHAIN-OFFICIAL-LOGO.png provenance verification before release."}
+  },
+  "historicalRenderAttempts": {
+    "exactOriginalCount": 35,
+    "publishedToGithub": 0,
+    "qaPolicy": "Preserve explicit REJECTED/REBUILD_REQUIRED; otherwise UNKNOWN."
+  },
+  "sources": {
+    "productTruth": "NAVICHAIN-PRODUCT-TRUTH.md",
+    "officialLogo": "NAVICHAIN-OFFICIAL-LOGO.png",
+    "officialLogoSha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+    "signupQr": "Korrekt QR kod till signup.png",
+    "signupQrSha256": "62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e",
+    "originalUserBriefPath": "stories/ratt-siffror-samma-historia/source/original-user-brief-sv-SE.md",
+    "retroBackfillQaPath": "stories/ratt-siffror-samma-historia/qa/retro-backfill-v2.md"
+  },
+  "transport": {
+    "automaticClientChain": "NOT_EXECUTED",
+    "nextcloud": "UNAVAILABLE_FROM_CURRENT_RUNTIME",
+    "chromeDownloadControl": "UNAVAILABLE_FROM_CURRENT_RUNTIME",
+    "binaryGithubTransport": "GITHUB_PUBLISH_FAILED",
+    "reason": "Exact binary files are directly accessible locally, but no connected Chrome/Nextcloud transport is controllable here and the GitHub connector exposes no local-file binary upload input."
+  },
+  "github": {
+    "sourceTextPublishedVerified": true,
+    "githubPublishedBinaryAssets": 0,
+    "publishedAsCompleteRelease": false,
+    "syncStatus": "PARTIAL_BACKFILL"
+  }
+}

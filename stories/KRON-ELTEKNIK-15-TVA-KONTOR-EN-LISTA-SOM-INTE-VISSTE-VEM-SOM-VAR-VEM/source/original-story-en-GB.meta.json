@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sha256": "b31d2574ce5adb265871e18202c74dc438730d5ba5d79047e7ba9f93e89a7747",
+  "size": 9763,
+  "sourceStorySha256": "d2df49b22f40f387fb43e27cf30495099949b7e10d0da0216af7c2855e97ef66",
+  "path": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-en-GB.md",
+  "note": "Faithful text-only translation created for Retro Backfill v2 directly from the sv-SE Narrative Master. No en-GB image locale was generated and this file is not the Narrative Master.",
+  "githubReadBackVerified": true
+}

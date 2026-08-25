@@ -1,0 +1,11 @@
+asset_count: PASS
+all_dimensions_1055x1491: PASS
+qr_raster_decode: PASS
+qr_raster_payload: 'https://navichain.se/signup'
+official_logo_source: /mnt/data/NAVICHAIN-OFFICIAL-LOGO.png
+cta_url_cleartext: navichain.se/signup
+panel_01_rebuilt: PASS
+panel_09_rebuilt: PASS
+panel_10_rebuilt: PASS
+panel_11_rebuilt: PASS
+panel_06_normalized: PASS

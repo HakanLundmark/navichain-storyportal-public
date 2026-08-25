@@ -1,0 +1,27 @@
+{
+  "storyId": "undantaget-som-aldrig-ar-tyst",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "classification": "INCOMPLETE",
+  "requiredAssetOrder": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "exportableAssets": {
+    "cover_00": "undantaget_som_aldrig_är_tyst.png",
+    "panel_02": "kaos_i_bokningshistoriken.png",
+    "panel_03": "tvekan_kring_den_saknade_leveransen.png",
+    "panel_04": "sara_saknar_behörighet.png",
+    "panel_05": "görel_öppnar_det_låsta_ärendet.png",
+    "panel_06": "noggrannhet_vid_skrivbordet.png",
+    "panel_07": "siffra_rättad_låset_säkrat.png",
+    "panel_08": "spårbarhet_i_varje_bokning.png",
+    "panel_10": "bokningens_historik_är_skyddad.png",
+    "panel_11": "låst_bokning_på_björklunda_åkeri.png",
+    "panel_12": "spårbarhet_på_kontoret.png",
+    "cta_13": "navichain_spårbara_undantag_i_vardagen.png"
+  },
+  "missingAssets": ["panel_01","panel_09"],
+  "existsButNotExportable": [],
+  "pdf": "MISSING",
+  "social": "MISSING",
+  "releaseZip": "NOT_CREATED_LOCALE_INCOMPLETE",
+  "binaryPublishStatus": "GITHUB_PUBLISH_FAILED_BINARY_CONNECTOR_LIMIT"
+}

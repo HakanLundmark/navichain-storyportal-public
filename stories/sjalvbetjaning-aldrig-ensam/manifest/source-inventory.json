@@ -1,0 +1,75 @@
+{
+  "schema": "navichain-chat-backfill-inventory-v1",
+  "storyId": "sjalvbetjaning-aldrig-ensam",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "SJÄLVBETJÄNING, ALDRIG ENSAM",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "runtimeDirectlyAccessibleBinaryArtifacts": {
+        "count": 13,
+        "present": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+        "sourceNotExportable": ["cover_00"]
+      },
+      "preservedReleaseBlockers": {
+        "previouslyVerifiedCanonicalReleaseCandidates": ["panel_01","panel_02","panel_03","panel_04","panel_08","panel_11","panel_12"],
+        "latestWorkingSourceNowDirectlyAccessible": ["panel_05"],
+        "rejectedOrRebuildRequiredWorkingSources": ["panel_06","panel_07","panel_09","panel_10","cta_13"]
+      },
+      "pdf": {
+        "status": "EXISTS_AND_EXPORTABLE_BUT_NON_AUTHORITATIVE",
+        "localPath": "/mnt/data/navichain_sjalvbetjaning_aldrig_ensam_sv-SE/carousel/sjalvbetjaning-aldrig-ensam-sv-SE.pdf",
+        "bytes": 63986382,
+        "sha256": "444c150aa21eff6f5944f3f9c911cca28a610f2cbeb7b507ee4855223556a1fc"
+      },
+      "social": "MISSING"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "runtimeDirectlyAccessibleBinaryArtifacts": {
+        "count": 1,
+        "workingAssets": ["cover_00"]
+      },
+      "releaseableCanonicalAssets": 0,
+      "missing": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","pdf","social","qa","release-manifest"]
+    }
+  },
+  "legacyPackage": {
+    "zipStatus": "EXISTS_AND_EXPORTABLE_BUT_NON_AUTHORITATIVE",
+    "localPath": "/mnt/data/navichain-sjalvbetjaning-aldrig-ensam-sv-SE-package.zip",
+    "bytes": 94235543,
+    "sha256": "af344308e3d53e45900f24dfa177b97a1c4ebcfa1e35db160c75f322f327170d"
+  },
+  "runtimeBinaryFiles": {
+    "sv-SE/panel_01": {"sourceFilename":"två_kontor_samma_telefonkö.png","bytes":3054221,"sha256":"e29cc39dd709d9450e4095a1a6f664153135410993fd90d0594ed20d2d95f3cf"},
+    "sv-SE/panel_02": {"sourceFilename":"missad_tidsram_på_kontoret.png","bytes":3212459,"sha256":"c6df5bb80192789fe6c56342657954243a4640e35d12407d45ef469209c0c5e9"},
+    "sv-SE/panel_03": {"sourceFilename":"snabbhet_och_trygghet_på_kontoret.png","bytes":3101653,"sha256":"7ae930b8299fe8167151f288e83f15e3f94f285173a1b020db878013d4ebbeb9"},
+    "sv-SE/panel_04": {"sourceFilename":"historien_hon_hört_mänsklig_koll.png","bytes":3494416,"sha256":"84b3088051817d84edc254303d064529d1e8fbde6d14858250c773abd2fe65b7"},
+    "sv-SE/panel_05": {"sourceFilename":"självbetjäning_direkt_vid_kusten.png","bytes":3512653,"sha256":"e7a0a2e7bb55a97ddbbae2c14a4c3b7165650b5043407c7bc9af27f9b183abb4"},
+    "sv-SE/panel_06": {"sourceFilename":"a_vintage_comic_illustration_style_poster_panel_o.png","bytes":3508750,"sha256":"07d016fa97a98b17bb5bdf44dcdb4511d6107891cc0a5f18085b76fe11ccb9f6"},
+    "sv-SE/panel_07": {"sourceFilename":"a_vintage_comic_infographic_style_poster_page_with.png","bytes":3453974,"sha256":"5c1906ef48a7f66b897d3656055a370f0e1b467dade2868a3152705848299e73"},
+    "sv-SE/panel_08": {"sourceFilename":"rättelsen_innan_problemet_uppstår.png","bytes":3443225,"sha256":"2ac683516d8a4e08f1ba6db19afdcb253549da5c8c4d2e7d13648bad5da837d5"},
+    "sv-SE/panel_09": {"sourceFilename":"a_vintage_comic_book_style_infographic_page_post.png","bytes":3387412,"sha256":"e2b38c538460f0557949ac76133afe52670034fa6448b7391662de9be2766ece"},
+    "sv-SE/panel_10": {"sourceFilename":"a_vintage_comic_infographic_style_poster_page_ove.png","bytes":3554085,"sha256":"ffec653cf7f3575c0be963252d852336a44b547d4586f4ea7dbffcbd0d4a64ef"},
+    "sv-SE/panel_11": {"sourceFilename":"spårning_utan_inloggning.png","bytes":3515933,"sha256":"cafc4acc96d81514224ef1daf129527eed38fa7450037a19a989003721ab6d5e"},
+    "sv-SE/panel_12": {"sourceFilename":"självbetjäning_aldrig_ensam.png","bytes":3453843,"sha256":"1a7df3e26ad0850f1d88ed75df8aafc597d15bc161c99a6435b8208a3ef31ce7"},
+    "sv-SE/cta_13": {"sourceFilename":"a_vintage_poster_advertisement_style_illustration.png","bytes":3548288,"sha256":"b21930127960021ffcfd0ac1ee614c93c636f4e4a828cae900bac27f5a6aa953"},
+    "en-GB/cover_00": {"sourceFilename":"a_vintage_comic_book_style_poster_cover_illustrati.png","bytes":3675065,"sha256":"c57926e9c8f669914de3f0c79996cde82045db679a7d5c0d178a5448fb7ba197"}
+  },
+  "verifiedGithubSourceBinary": {
+    "path": "stories/sjalvbetjaning-aldrig-ensam/sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png",
+    "bytes": 15270,
+    "sha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+    "gitBlobSha": "813a548d318bad9c41ad92ef49dd012bbe2cc5c3",
+    "assemblerCommit": "a3bf938299fa6cf18e193bbd433655e59436074e",
+    "status": "PUBLISHED_AND_READ_BACK"
+  },
+  "binaryGithubWrite": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "publishedCanonicalImageAssets": 0,
+    "publishedSourceBinaries": 1,
+    "reason": "Directly accessible multi-megabyte image/PDF/ZIP originals exceed the available literal-base64 transport capacity of the current GitHub create_blob connector/context. No reconstruction, cropping, substitution, or fabrication was performed."
+  }
+}

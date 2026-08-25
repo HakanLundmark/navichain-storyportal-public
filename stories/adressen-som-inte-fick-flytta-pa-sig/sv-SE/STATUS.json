@@ -1,0 +1,21 @@
+{
+  "storyId": "adressen-som-inte-fick-flytta-pa-sig",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "narrativeMaster": "EXACT_ORIGINAL",
+  "enGbStory": "DERIVED_TRANSLATION",
+  "canonicalVisuals": {
+    "required": 14,
+    "exportable": 12,
+    "sourceNotExportable": ["panel_05", "panel_12"]
+  },
+  "qa": {
+    "cta_13": "REBUILD_REQUIRED",
+    "otherRecoveredCanonicalVisuals": "UNKNOWN",
+    "release": "BLOCKED"
+  },
+  "pdf": "NOT_CREATED",
+  "releaseZip": "NOT_CREATED",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "binaryGitHubStatus": "NOT_PUBLISHED"
+}

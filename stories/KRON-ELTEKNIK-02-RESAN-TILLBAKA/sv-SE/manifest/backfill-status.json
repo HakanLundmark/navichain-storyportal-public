@@ -1,0 +1,76 @@
+{
+  "storyId": "KRON-ELTEKNIK-02-RESAN-TILLBAKA",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "sourceClass": "EXACT_ORIGINAL",
+  "verifiedExportableAssets": 14,
+  "canonicalAssets": ["cover_00.png","panel_01.png","panel_02.png","panel_03.png","panel_04.png","panel_05.png","panel_06.png","panel_07.png","panel_08.png","panel_09.png","panel_10.png","panel_11.png","panel_12.png","cta_13.png"],
+  "missingAssets": [],
+  "currentExactAssetQa": {
+    "cover_00": "UNKNOWN/REVIEW_REQUIRED",
+    "panel_01": "UNKNOWN/STRUCTURALLY_CLOSE",
+    "panel_02": "UNKNOWN/STRUCTURALLY_CLOSE",
+    "panel_03": "UNKNOWN/STRUCTURALLY_CLOSE",
+    "panel_04": "UNKNOWN/STRUCTURALLY_CLOSE",
+    "panel_05": "REBUILD_REQUIRED",
+    "panel_06": "REBUILD_REQUIRED",
+    "panel_07": "REBUILD_REQUIRED",
+    "panel_08": "UNKNOWN/FINAL_LOGO_QA_REQUIRED",
+    "panel_09": "REBUILD_REQUIRED",
+    "panel_10": "REBUILD_REQUIRED",
+    "panel_11": "UNKNOWN/CLOSE_TO_CORRECTED_PRODUCT_TRUTH",
+    "panel_12": "UNKNOWN/FINAL_LOGO_QA_REQUIRED",
+    "cta_13": "UNKNOWN/QR_AND_OFFICIAL_LOGO_VALIDATION_REQUIRED"
+  },
+  "pdf": {
+    "exists": true,
+    "sourceClass": "EXACT_ORIGINAL",
+    "pages": 14,
+    "size": 65417025,
+    "sha256": "68ef70beed603fd1e64d482d356c62e2a832a6b2c51730d6da2c7fe3946195ab",
+    "qaStatus": "PACKAGE_PDF_INSPECT_EXISTS_NOT_FORMAL_RELEASE_PASS"
+  },
+  "social": {
+    "exists": false,
+    "classification": "NOT_CREATED",
+    "reason": "No LinkedIn/social copy was actually created in this chat."
+  },
+  "qa": {
+    "historicalSnapshotPath": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/sv-SE/qa/qa-status-production-snapshot.md",
+    "packageQa": true,
+    "pdfInspect": true,
+    "formalRasterQa": false,
+    "formalPdfQa": false,
+    "releaseQaPass": false
+  },
+  "manifest": {
+    "packageManifest": true,
+    "productionSnapshotManifest": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/sv-SE/manifest/package-manifest-production-snapshot.json",
+    "finalSnapshotManifest": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/sv-SE/manifest/package-manifest-final-snapshot.json",
+    "formalReleaseManifest": false
+  },
+  "sources": {
+    "logo": {"sourceClass":"EXACT_ORIGINAL","sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db"},
+    "qr": {"sourceClass":"EXACT_ORIGINAL","sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e"}
+  },
+  "previousCanonicalCandidates": {
+    "classification": "SOURCE_NOT_EXPORTABLE",
+    "count": 14,
+    "reason": "An older assets-manifest records different SHA-256 values/dimensions for all 14 canonical slots, but none of those exact historical bytes is present in the current runtime. They were not reconstructed or replaced."
+  },
+  "githubBinaryPublish": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "publishedBinaryCountThisBackfill": 0,
+    "reason": "Exact binary sources remain locally accessible, but the required Chrome/local-capture/Nextcloud/router automatic transport cannot be invoked from the current ChatGPT tool surface. The GitHub connector can create explicit base64 blobs, but the 14 images plus the 65 MB PDF and historical package material would require impractically large tool payloads. No rerendering, reconstruction, cropping or substitution was used."
+  },
+  "retroBackfillV2": {
+    "result": "PARTIAL_BACKFILL",
+    "exactOriginalCanonicalVisuals": 14,
+    "chatRecoveredCanonicalVisuals": 0,
+    "sourceNotExportablePreviousCanonicalVisuals": 14,
+    "notCreatedCanonicalVisuals": 0,
+    "releaseEligible": false
+  },
+  "incompleteReasons": ["social/linkedin-sv-SE.txt NOT_CREATED","formal raster QA NOT_CREATED","formal PDF QA NOT_CREATED","formal release manifest NOT_CREATED","final release QA PASS not established"]
+}

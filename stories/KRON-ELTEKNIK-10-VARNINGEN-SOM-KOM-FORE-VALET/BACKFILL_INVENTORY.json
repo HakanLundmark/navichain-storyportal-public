@@ -1,0 +1,82 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory-summary",
+  "storyId": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET",
+  "storyIdAuthority": "backfill-derived-from-explicit Kron Elteknik episode 10 and canonical title in current chat",
+  "title": "VARNINGEN SOM KOM FÖRE VALET",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "inventoriedAt": "2026-08-24T17:27:00+02:00",
+  "counts": {
+    "totalItems": 120,
+    "exactOriginalFiles": 119,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 1,
+    "notCreated": 24,
+    "historicalChatRenderCandidates": 52
+  },
+  "originalStory": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "locale": "sv-SE",
+    "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-sv-SE.md",
+    "size": 7624,
+    "sha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+    "qaStatus": "REBUILD_REQUIRED",
+    "githubReadBackVerified": true,
+    "comment": "Historical source artifact is exact. A complete later Product-Truth-corrected rewrite was never materialised and is SOURCE_NOT_EXPORTABLE."
+  },
+  "englishStory": {
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-en-GB.md",
+    "size": 8045,
+    "sha256": "f82cf67a380d6a60ce244349a68e6cad0296817916f707545b987d371d6a0af7",
+    "sourceStorySha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+    "qaStatus": "REBUILD_REQUIRED",
+    "githubReadBackVerified": true
+  },
+  "locales": {
+    "sv-SE": {
+      "classification": "INCOMPLETE",
+      "canonicalOriginalAssetCount": 14,
+      "assets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "sourceClass": "EXACT_ORIGINAL",
+      "githubPublishedCanonicalImages": 0,
+      "pdf": {"sourceClass":"EXACT_ORIGINAL","size":64317210,"sha256":"3c68312ecae61932415f1d5b4f79aacc4e8813a50471dcafb74872956a679f3a","githubPublished":false},
+      "social": "NOT_CREATED",
+      "reason": "All 14 canonical source images are directly accessible, but historical QA is not upgraded, social/LinkedIn output was never created, and binary publication did not complete."
+    },
+    "en-GB": {
+      "classification": "INCOMPLETE",
+      "canonicalOriginalAssetCount": 4,
+      "assets": ["cover_00","panel_01","panel_02","panel_03"],
+      "sourceClass": "EXACT_ORIGINAL",
+      "githubPublishedCanonicalImages": 0,
+      "notCreatedCanonicalAssets": ["panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "qa": "NOT_CREATED",
+      "releaseManifest": "NOT_CREATED"
+    }
+  },
+  "historicalCandidates": {
+    "count": 52,
+    "sourceClass": "EXACT_ORIGINAL",
+    "qaPolicy": "Preserve actual historical QA when known; otherwise UNKNOWN. Do not promote historical publication to PASS/LOCKED.",
+    "localArchive": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-history-retro-backfill-v2.zip"
+  },
+  "localPackages": [
+    {"locale":"sv-SE","file":"KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-sv-SE-retro-backfill-v2.zip","size":110942186,"sha256":"3d308f80ee48ce3201602226a86924cd5dacd552cdb45d00417cbe15977002a7"},
+    {"locale":"en-GB","file":"KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-en-GB-retro-backfill-v2.zip","size":12570350,"sha256":"0aafdf4b28a4d28d7c0a7e2002d1542699459c035377ac94805cbcaa2ed64bd9"},
+    {"locale":"history","file":"KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-history-retro-backfill-v2.zip","size":560283356,"sha256":"0ce21abd2079bd0d1af56d95d104796f10a3da8935236b5e7e7ff0cfbb0c9e88"}
+  ],
+  "githubBinaryPublication": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "publishedCanonicalImageCount": 0,
+    "reason": "Exact source bytes are locally accessible, but the current tool surface cannot invoke the Chrome/local capture/Nextcloud/router/publisher chain. Direct blob transport has no local-file parameter and the bulk source binaries cannot be safely marshalled inline without truncation. A small v2 queue probe remained unconsumed."
+  },
+  "noCreativeRecovery": true
+}

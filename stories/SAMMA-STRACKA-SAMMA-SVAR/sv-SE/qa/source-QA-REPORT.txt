@@ -1,0 +1,18 @@
+STORY: SAMMA STRÄCKA, SAMMA SVAR
+LOCALE: sv-SE
+STATUS: WORKING PACKAGE - RELEASE BLOCKED
+
+PASS:
+- Product Truth preflight: PASS
+- Story continuity for persisted assets: PASS by production sequence
+- CTA cleartext URL: navichain.se/signup
+- CTA QR decode: PASS -> https://navichain.se/signup
+- Official Navichain logo source included
+
+BLOCKERS:
+- cover_00.png is not present as a recoverable standalone file in the active runtime.
+- panel_01.png is not present as a recoverable standalone file in the active runtime.
+- panel_07.png is not present as a recoverable standalone file in the active runtime.
+- Therefore a correct 14-page carousel PDF and RELEASE manifest cannot be produced without regenerating those three assets.
+
+Persisted release-image count in this package: 11 of required 14.

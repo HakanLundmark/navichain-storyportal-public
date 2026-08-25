@@ -1,0 +1,15 @@
+asset_id,filename,width_px,height_px,mode,bytes
+cover_00,cover_00.png,1055,1491,RGB,931782
+panel_01,panel_01.png,1055,1491,RGB,836121
+panel_02,panel_02.png,1055,1491,RGB,986527
+panel_03,panel_03.png,1055,1491,RGB,810298
+panel_04,panel_04.png,1055,1491,RGB,798663
+panel_05,panel_05.png,1055,1491,RGB,810059
+panel_06,panel_06.png,1055,1491,RGB,805170
+panel_07,panel_07.png,1055,1491,RGB,794051
+panel_08,panel_08.png,1055,1491,RGB,794874
+panel_09,panel_09.png,1055,1491,RGB,822025
+panel_10,panel_10.png,1055,1491,RGB,701778
+panel_11,panel_11.png,1055,1491,RGB,832836
+panel_12,panel_12.png,1055,1491,RGB,843418
+cta_13,cta_13.png,1055,1491,RGB,793020

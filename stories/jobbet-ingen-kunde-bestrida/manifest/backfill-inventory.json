@@ -1,0 +1,99 @@
+{
+  "schema": "navichain-storyportal-backfill-inventory-v1",
+  "storyId": "jobbet-ingen-kunde-bestrida",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "JOBBET INGEN KUNDE BESTRIDA",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionStatus": "NOT_DIRECTLY_VERIFIED_IN_CURRENT_CHAT_EXPORT",
+  "localeStatus": {
+    "sv-SE": "INCOMPLETE"
+  },
+  "canonicalReleaseAssetsRequired": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "localRuntimeInventory": {
+    "producedImageBinaries": [
+      {
+        "assetId": "cover_00",
+        "sourceFilename": "a_full_color_comic_illustration_poster_cover_in_li.png",
+        "size": 3163864,
+        "status": "EXISTS_AND_EXPORTABLE",
+        "approval": "REBUILD_REQUIRED"
+      },
+      {
+        "assetId": "cover_00",
+        "sourceFilename": "a_crisp_comic_book_illustration_style_poster_cov.png",
+        "size": 3346314,
+        "status": "EXISTS_AND_EXPORTABLE",
+        "approval": "REBUILD_REQUIRED",
+        "role": "earlier attempt"
+      },
+      {
+        "assetId": "panel_01",
+        "sourceFilename": "a_full_comic_panel_style_illustration_vintage_lig.png",
+        "size": 2956380,
+        "status": "EXISTS_AND_EXPORTABLE",
+        "approval": "REBUILD_REQUIRED",
+        "reason": "Navichain logo is visible although the story explicitly forbids the logo in panels 1–6"
+      },
+      {
+        "assetId": "panel_08",
+        "sourceFilename": "a_full_color_comic_book_panel_in_a_retro_ligne_cla.png",
+        "size": 2989493,
+        "status": "EXISTS_AND_EXPORTABLE",
+        "approval": "REBUILD_REQUIRED",
+        "reason": "Uses the original unsupported field-service wording rather than the proposed claim-safe correction"
+      }
+    ],
+    "correctedNarrativeMaster": "EXISTS_BUT_NOT_EXPORTABLE_AS_A_COMPLETE_STANDALONE_MASTER",
+    "originalStory": "EXISTS_AND_EXPORTABLE",
+    "preflightQa": "EXISTS_AND_EXPORTABLE",
+    "pdf": "MISSING",
+    "social": "MISSING",
+    "releaseQa": "MISSING",
+    "releaseManifest": "MISSING"
+  },
+  "releaseValidation": {
+    "verifiedCanonicalReleaseAssetsExportable": 0,
+    "existsButNotReleaseApproved": [
+      "cover_00",
+      "panel_01",
+      "panel_08"
+    ],
+    "missing": [
+      "panel_02",
+      "panel_03",
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ],
+    "status": "INCOMPLETE",
+    "releaseZipCreated": false
+  },
+  "githubPublish": {
+    "textMetadata": "PUBLISHED",
+    "largeBinaryAssets": "NOT_PUBLISHED_VIA_CURRENT_CONNECTOR_TRANSFER_PATH",
+    "completeReleasePublished": false,
+    "note": "No incomplete locale is represented as COMPLETE or SYNCED. No missing creative asset was reconstructed or regenerated during backfill."
+  }
+}

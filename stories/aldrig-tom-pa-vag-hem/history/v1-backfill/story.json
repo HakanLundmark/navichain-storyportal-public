@@ -1,0 +1,62 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "aldrig-tom-pa-vag-hem",
+  "title": "ALDRIG TOM PÅ VÄG HEM",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0",
+  "canonicalStoryPath": "stories/aldrig-tom-pa-vag-hem/ORIGINAL_STORY.md",
+  "protagonist": {
+    "name": "Sara Lund",
+    "role": "Trafikledare",
+    "company": "Björklunda Åkeri AB"
+  },
+  "supportingCharacters": [
+    {
+      "name": "Robban Ek",
+      "role": "Chaufför",
+      "company": "Björklunda Åkeri AB"
+    }
+  ],
+  "primaryCapability": "Runs — Hitta returlaster",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "exportableCanonicalAssetCount": 12,
+      "missing": ["panel_03", "cta_13"],
+      "existsButNotExportable": [
+        {
+          "assetId": "panel_03",
+          "reason": "No approved/current canonical panel_03 original is directly exportable. A later render attempt exists but was rejected for foreign-story/wrong-story content."
+        },
+        {
+          "assetId": "cta_13",
+          "reason": "CTA was previously produced and QR-validated in the chat, but its original PNG binary is not present in the active runtime."
+        }
+      ],
+      "canonicalImagePathsIntended": [
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/cover_00.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_01.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_02.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_04.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_05.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_06.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_07.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_08.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_09.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_10.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_11.png",
+        "stories/aldrig-tom-pa-vag-hem/sv-SE/images/panel_12.png"
+      ],
+      "historicalPdfLocalSource": "aldrig_tom_pa_vag_hem_sv-SE.pdf",
+      "socialPath": "stories/aldrig-tom-pa-vag-hem/sv-SE/social/linkedin-sv-SE.txt",
+      "qaPath": "stories/aldrig-tom-pa-vag-hem/sv-SE/qa/backfill-inventory.json",
+      "manifestPath": "stories/aldrig-tom-pa-vag-hem/sv-SE/manifest/source-availability.json"
+    }
+  },
+  "backfill": {
+    "source": "current ChatGPT story chat",
+    "performedAt": "2026-08-23T01:00:00+02:00",
+    "releasePublished": false
+  }
+}

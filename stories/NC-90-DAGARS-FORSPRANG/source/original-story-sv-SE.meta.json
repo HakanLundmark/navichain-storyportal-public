@@ -1,0 +1,12 @@
+{
+  "schema": "navichain-narrative-source-v1",
+  "storyId": "NC-90-DAGARS-FORSPRANG",
+  "locale": "sv-SE",
+  "sourceLocale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sha256": "21943abe18e8c5a021fe2b939ff538edf7a3e4bbc02b0c87583f272c5e4a63d8",
+  "canonicalRepoPath": "stories/NC-90-DAGARS-FORSPRANG/source/original-story-sv-SE.md",
+  "originalUserSourcePath": "stories/NC-90-DAGARS-FORSPRANG/ORIGINAL_STORY.md",
+  "note": "The source/ file is the locked sv-SE Narrative Master with the preflight corrections preserved. ORIGINAL_STORY.md remains the untouched earlier user-supplied source artifact."
+}

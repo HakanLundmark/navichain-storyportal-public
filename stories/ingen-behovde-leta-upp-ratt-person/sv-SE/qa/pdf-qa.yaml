@@ -1,0 +1,9 @@
+storyId: ingen-behovde-leta-upp-ratt-person
+locale: sv-SE
+pageCount: 14
+renderer: pdftoppm
+renderedCtaQr: https://navichain.se/signup
+qrPass: true
+pdfSha256: b40052d8b7b1df11ede536f740479703bd188f6d85c3bf031bdb7ae78d70e393
+status: PASS
+backfillNote: PDF exists, but it contains reconstructed panel_01 and panel_03 and cannot establish original-asset completeness.

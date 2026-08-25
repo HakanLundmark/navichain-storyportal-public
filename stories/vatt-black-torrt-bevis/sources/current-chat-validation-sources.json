@@ -1,0 +1,10 @@
+{
+  "storyId": "vatt-black-torrt-bevis",
+  "sourceScope": "sources cited in the accepted preflight in this chat",
+  "sources": [
+    {"purpose":"German BALM digital/control reality validation","url":"https://www.balm.bund.de/DE/Themen/Kontrollen/KontrollenSkdMkd/Projekte/SKD_Digiital/SKD_Digital.html"},
+    {"purpose":"Germany and electronic CMR protocol reality validation","url":"https://treaties.un.org/Pages/showDetails.aspx?objid=08000002801d64e1"},
+    {"purpose":"EU eFTI regulatory framing","url":"https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=uriserv%3AOJ.L_.2020.249.01.0033.01.ENG"},
+    {"purpose":"Navichain Product Truth","url":"https://navichain.se/"}
+  ]
+}

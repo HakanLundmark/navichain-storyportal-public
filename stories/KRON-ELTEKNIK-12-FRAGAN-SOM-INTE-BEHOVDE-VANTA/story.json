@@ -1,0 +1,116 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA",
+  "storyIdAuthority": "release-manifest.json",
+  "title": "FRÅGAN SOM INTE BEHÖVDE VÄNTA",
+  "subtitle": "En navichain story — Siv, Daniel och svaret som redan fanns",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionNote": "No explicit story master version was present in the directly accessible release/source material; historical release package is unversioned.",
+  "originalStory": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/ORIGINAL_STORY.md",
+  "status": "PARTIAL_BACKFILL",
+  "historicalStatusBeforeRetroBackfillV2": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+  "source": {
+    "narrativeMaster": {
+      "locale": "sv-SE",
+      "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/ORIGINAL_STORY.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "7c623317827aaebeed74517ab76e5163c9fa9312c9f74726e0cb11bad152323b",
+      "narrativeMaster": true,
+      "githubReadbackVerified": true
+    },
+    "englishStory": {
+      "locale": "en-GB",
+      "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "sourceStorySha256": "7c623317827aaebeed74517ab76e5163c9fa9312c9f74726e0cb11bad152323b",
+      "sha256": "f2d8fe1fd788b3571c6820bb9ffdfc653c68e4c2f1c0b21f2b541985557feedd",
+      "narrativeMaster": false,
+      "githubStatus": "PUBLISHED_VERIFIED",
+      "githubReadbackVerified": true
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "sourceStatus": "COMPLETE",
+      "historicalQaStatus": "PASS_MANUAL_CTA_APPROVAL",
+      "githubStatus": "GITHUB_PUBLISH_FAILED",
+      "assetCount": 14,
+      "githubPublishedBinaryAssets": 0,
+      "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/sv-SE/"
+    },
+    "en": {
+      "sourceStatus": "INCOMPLETE",
+      "githubStatus": "GITHUB_PUBLISH_FAILED",
+      "assetCount": 3,
+      "githubPublishedBinaryAssets": 0,
+      "qaStatus": "UNKNOWN",
+      "missing": [
+        "panel_01",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/en/"
+    }
+  },
+  "textLocales": {
+    "sv-SE": {
+      "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/ORIGINAL_STORY.md",
+      "narrativeMaster": true,
+      "sourceClass": "EXACT_ORIGINAL",
+      "githubReadbackVerified": true
+    },
+    "en-GB": {
+      "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/source/original-story-en-GB.md",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "githubReadbackVerified": true
+    }
+  },
+  "release": {
+    "sv-SE": {
+      "historicallyApproved": true,
+      "manualCtaApproval": true,
+      "pdf": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/sv-SE/carousel/fragan_som_inte_behovde_vanta_sv-SE.pdf",
+      "zip": "releases/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/unversioned/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA-sv-SE-release.zip",
+      "githubBinaryReadbackVerified": false
+    }
+  },
+  "inventory": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/backfill-inventory.json",
+  "inventoryV2LocalSha256": "7c14ed5a0d761c5b6429d689a322b7be9670359e705323882c3481568e49d87f",
+  "retroBackfillV2": {
+    "attemptedAt": "2026-08-24T19:36:00+02:00",
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "exactOriginalInventoryCount": 68,
+    "derivedTranslationCount": 1,
+    "chatRecoveredCount": 0,
+    "sourceNotExportableCount": 0,
+    "notCreatedCount": 26,
+    "svSeCanonicalImagesExactOriginal": 14,
+    "genericEnHistoricalImagesExactOriginal": 3,
+    "narrativeMasterGitHubPublishedAndVerified": true,
+    "englishStoryGitHubPublishedAndVerified": true,
+    "githubPublishedBinaryAssets": 0,
+    "binaryTransport": "GITHUB_PUBLISH_FAILED",
+    "nextcloudArchiveVerified": false,
+    "finalStatus": "PARTIAL_BACKFILL"
+  },
+  "githubBackfill": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "status": "PARTIAL_BACKFILL",
+    "failureReason": "Exact historical binary bytes remain locally exportable, but the current ChatGPT tool surface does not expose the user's Chrome-download/local-capture/Nextcloud publisher chain, and the connected GitHub API requires binary content to be supplied in-band. Large PNG/PDF/ZIP payloads therefore could not all be transported and read back in this run without bypassing the requested automatic chain or exceeding the connector payload path."
+  }
+}

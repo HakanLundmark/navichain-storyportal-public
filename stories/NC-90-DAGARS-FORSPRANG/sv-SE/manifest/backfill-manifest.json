@@ -1,0 +1,17 @@
+{
+  "schema":"navichain-backfill-manifest-v1",
+  "storyId":"NC-90-DAGARS-FORSPRANG",
+  "masterVersion":"1.0",
+  "locale":"sv-SE",
+  "status":"INCOMPLETE",
+  "canonicalImageCount":14,
+  "publishedAsCompleteRelease":false,
+  "pdf":null,
+  "social":null,
+  "releaseZip":null,
+  "sources":[
+    "NAVICHAIN-PRODUCT-TRUTH.md",
+    "Navichain_Market_Truth_MASTER_v1.0.md",
+    "NAVICHAIN-OFFICIAL-LOGO.png"
+  ]
+}

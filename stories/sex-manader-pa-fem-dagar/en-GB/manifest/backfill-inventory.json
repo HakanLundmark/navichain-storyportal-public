@@ -1,0 +1,34 @@
+{
+  "storyId": "sex-manader-pa-fem-dagar",
+  "locale": "en-GB",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "requiredAssetCount": 14,
+  "exportableOriginalAssetCount": 12,
+  "assets": {
+    "cover_00": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"sex_månader_på_fem_dagar_arkivets_hemlighet.png","sha256":"67cade46c3f27ec033c7e872aeadb456bdee9f74a5917139c4e464b3ba1a4be9"},
+    "panel_01": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"berits_chockartade_informationskrav.png","sha256":"193f340821209a044bc23c6b543f0b3cebaebb3bd142f331386a2f27d8dd2351"},
+    "panel_02": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"arkivets_saknade_usb_poster.png","sha256":"c060a73787350091c313086148f763bb306eb03ca5b73eedf870abada55dd04d"},
+    "panel_03": {"status":"EXISTS_BUT_NOT_EXPORTABLE","reason":"The original English panel_03 render was used in the validated PDF, but its separate original image file is no longer directly available. PDF extraction is not used as a replacement."},
+    "panel_04": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"dokumentpanik_på_kontoret.png","sha256":"aad8cb077b7ddf083706718ef4d6d101588bd97c17d8739bb0044eb4e5175c62"},
+    "panel_05": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"automatiskt_ett_oväntat_kontorsbesked.png","sha256":"c139be80a9c04b6816ff99038c39f7d63e1edfb63340a5da2de7371896f36f8d"},
+    "panel_06": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"kontorsblick_med_data_och_eftertanke.png","sha256":"bbcd5aca4d9bc6f9caa28e81730e102ec5e05d97c8998f30c6ae2c441b258070"},
+    "panel_07": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"digitalt_arkiv_inget_glöms_bort.png","sha256":"0ff48f5b48ad3deab708d7e71317ef29241d8fd8a6fa18b9b555950a3ca346b2"},
+    "panel_08": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"sex_månaders_arkivarbete_klart.png","sha256":"c5c94a173e287d0b5c129813f972e3f83eee00b4d6cff2f71d16f5fab550539b"},
+    "panel_09": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"exportpaket_klart_för_transportstyrelsen.png","sha256":"9674e247bde04b6d86ae5e65bae4da30deedf259768e68195e7a0cc77cc7d31e"},
+    "panel_10": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"imagegen.png","sha256":"56e1c949a9c87a920594362d1b4a35fa1e25ed2bbc75bc638df189e32d546ac4"},
+    "panel_11": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"berits_lättnad_efter_godkänd_granskning.png","sha256":"91888e5687e91f2df73513ea28d83ff8031e147f6def56d9ed704fa14ae50a3d"},
+    "panel_12": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"berit_tar_farväl_av_arkivskåpet.png","sha256":"3f3928470769e08c4abccb790f29df0c92953a0c8b9fc99b8a0ab3088fa11547"},
+    "cta_13": {"status":"EXISTS_BUT_NOT_EXPORTABLE","reason":"The final corrected English CTA was produced earlier and used in the validated PDF, but its separate original file is no longer directly available."}
+  },
+  "otherContent": {
+    "ORIGINAL_STORY":"EXISTS_AND_EXPORTABLE_SHARED_CANONICAL",
+    "pdfCarousel":"EXISTS_AND_EXPORTABLE: six_months_in_five_days_en-GB_carousel_validated.pdf",
+    "linkedin":"EXISTS_AND_EXPORTABLE_AS_TEXT",
+    "previousQaPackage":"EXISTS_BUT_NOT_EXPORTABLE",
+    "previousManifestPackage":"EXISTS_BUT_NOT_EXPORTABLE",
+    "previousReleaseZip":"EXISTS_BUT_NOT_EXPORTABLE"
+  },
+  "githubBinaryPublication": "GITHUB_PUBLISH_FAILED_FOR_BINARY_ASSETS: no connected local-file binary upload action is exposed; no reconstruction or PDF extraction was used.",
+  "backfilledAt":"2026-08-23T10:51:00+02:00"
+}

@@ -1,0 +1,12 @@
+{
+  "schema": "navichain-narrative-source-v1",
+  "storyId": "RATT-NYCKEL-INTE-ALLA-NYCKLAR",
+  "locale": "sv-SE",
+  "sourceClass": "EXACT_ORIGINAL",
+  "sourceRole": "narrative_master",
+  "narrativeMaster": true,
+  "sourceEvidence": "Byte-identical to stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/ORIGINAL_STORY.md on GitHub main; Git blob SHA 6f030e85c56d289d9d669b809d753c57bb85e418 verified locally.",
+  "sha256": "cffc930ff4034f7d7c1dba6052f120f3c823ddbcf72cf28db32bb0c5ce665161",
+  "size": 10567,
+  "intendedRepoPath": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/source/original-story-sv-SE.md"
+}

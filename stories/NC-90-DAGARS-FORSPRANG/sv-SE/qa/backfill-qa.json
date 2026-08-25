@@ -1,0 +1,16 @@
+{
+  "storyId":"NC-90-DAGARS-FORSPRANG",
+  "locale":"sv-SE",
+  "releaseQa":"NOT_PASSED",
+  "status":"INCOMPLETE",
+  "verifiedExportableAssets":14,
+  "missingAssets":[],
+  "existsButNotExportable":[],
+  "blockingFindings":[
+    "No story-specific 14-page PDF carousel is exportable",
+    "No story-specific LinkedIn/social copy is exportable",
+    "panel_06-panel_09 have a different landscape ratio from the rebuilt portrait master direction",
+    "cover_00 and cta_13 brand-critical logo fidelity was not deterministically verified",
+    "cta_13 QR was generated visually and not verified by decode against https://navichain.se/signup"
+  ]
+}

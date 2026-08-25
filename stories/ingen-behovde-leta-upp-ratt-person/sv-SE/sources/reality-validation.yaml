@@ -1,0 +1,10 @@
+realityValidation:
+  storyId: ingen-behovde-leta-upp-ratt-person
+  status: PASS
+  modifications:
+    - original: "bokningsnummer"
+      revised: "tracker-ID"
+      reason: "Public tracking searches exact tracker ID."
+    - original: "Sara visible in panels 3 and 10"
+      revised: "Sara is mentioned but never depicted"
+      reason: "ACTIVE STORY cast rule."

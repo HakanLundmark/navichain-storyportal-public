@@ -1,0 +1,54 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET",
+  "checkedAt": "2026-08-24T17:26:00+02:00",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 4977,
+    "sha256": "99ad7dd3d9955cc017b2e66e6724d55e6674256c2623b52bf63e441e9a53c4b4"
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 5494,
+    "sha256": "9e392bb5c55efbc5ecf5ccdceef761a203edeb507a04bbeb149879875547e113",
+    "sourceStorySha256": "99ad7dd3d9955cc017b2e66e6724d55e6674256c2623b52bf63e441e9a53c4b4"
+  },
+  "canonicalVisualCandidates": {
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "count": 14,
+    "githubPublished": 0,
+    "releaseEligible": false
+  },
+  "historicalExactRenderCount": 35,
+  "historicalDerivedReleaseAssets": {
+    "pdf": "EXACT_ORIGINAL + STALE_PRODUCTION_DRAFT",
+    "productionDraftPackageZip": "EXACT_ORIGINAL",
+    "curated14ImageSelectionZip": "EXACT_ORIGINAL",
+    "linkedinSocial": "NOT_CREATED"
+  },
+  "transport": {
+    "chromeControlAvailable": false,
+    "nextcloudConnectorAvailable": false,
+    "automaticChainInvoked": false,
+    "binaryGitHubPublished": 0,
+    "status": "PARTIAL_BACKFILL",
+    "reason": "The current ChatGPT runtime exposes no Chrome download/control tool and plugin discovery found no Nextcloud connector. Exact binary files were packaged locally with validated publish requests, but this runtime cannot hand the downloads to the requested Chrome -> local capture -> Nextcloud -> hardened router -> publisher chain. No binary is claimed as GitHub-published or synced."
+  },
+  "localExportPackages": [
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-retro-backfill-v2-20260824-1726.zip","size":375165526,"sha256":"37c3119653a3d65924ccada289e221c7374a3f8b3458aae548aef87861b3e931"},
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-sv-SE-retro-v2-package.zip","size":375159702,"sha256":"296ef3e4bbb1aab6643ca858805c6aca2577d1e683436730a507331cb018f181"},
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-en-GB-retro-v2-package.zip","size":5704,"sha256":"384b949ebaa5de96803d13c3a8131d5c935eab6896032f12511d1a28bbcd30a0"}
+  ],
+  "publishRequests": [
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-sv-SE.publish.json","wrapper":"behörigheten-som-gick-ut-mitt-i-lyftet-sv-SE.publish.zip"},
+    {"filename":"behörigheten-som-gick-ut-mitt-i-lyftet-en-GB.publish.json","wrapper":"behörigheten-som-gick-ut-mitt-i-lyftet-en-GB.publish.zip"}
+  ],
+  "releaseStatus": "INCOMPLETE"
+}

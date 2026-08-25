@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-narrative-source-v1",
+  "storyId": "hela-summan-i-tre-steg",
+  "title": "HELA SUMMAN, I TRE STEG",
+  "locale": "sv-SE",
+  "sourceLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "size": 9800,
+  "sha256": "198c8ae20be867bf42ad589c4d3b2675b6aa1d897edfbc6db073298bcf878087",
+  "gitBlobSha": "4d2d60608871d6a3b4e26a1658c629eaa8b000ec",
+  "verification": "Local bytes reproduce the canonical GitHub blob exactly."
+}

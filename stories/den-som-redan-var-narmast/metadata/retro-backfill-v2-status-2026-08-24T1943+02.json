@@ -1,0 +1,55 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "den-som-redan-var-narmast",
+  "title": "DEN SOM REDAN VAR NÄRMAST",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T19:43:00+02:00",
+  "sourceInventory": {
+    "totalIndexedItems": 82,
+    "EXACT_ORIGINAL": 70,
+    "CHAT_RECOVERABLE": 2,
+    "DERIVED_TRANSLATION": 1,
+    "NOT_CREATED": 9,
+    "SOURCE_NOT_EXPORTABLE": 0
+  },
+  "canonicalSvSeAssets": {
+    "required": 14,
+    "exportableExactOriginal": 14,
+    "githubPublished": 0,
+    "sourceNotExportable": 0,
+    "qaPassLocked": false
+  },
+  "narratives": {
+    "sv-SE": {
+      "path": "stories/den-som-redan-var-narmast/ORIGINAL_STORY.md",
+      "sourceClass": "CHAT_RECOVERED",
+      "narrativeMaster": true,
+      "sha256": "53788a77f250773b063559caf2a98f1d55f325df8bd59d00cdf3dd61ce7b41c6",
+      "readBackVerified": true
+    },
+    "en-GB": {
+      "path": "stories/den-som-redan-var-narmast/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "narrativeMaster": false,
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "sha256": "f744b28b37e1bad46f2a18162f58490a03e539e83d5d0647674cc1aa7293bd2a",
+      "readBackVerified": true
+    }
+  },
+  "automaticTransport": {
+    "requested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "chromeControlAvailable": false,
+    "nextcloudConnectorAvailable": false,
+    "manualOnceCurlPythonPublisherFallbackUsed": false,
+    "status": "UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE"
+  },
+  "github": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "binaryPublication": "GITHUB_PUBLISH_FAILED",
+    "metadataPublication": "READBACK_VERIFIED"
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

@@ -1,0 +1,13 @@
+{
+  "locale": "en-GB",
+  "classification": "INCOMPLETE",
+  "masterVersion": null,
+  "releaseEligibleAssets": ["cover_00","panel_01"],
+  "missingCanonicalAssets": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "pdf": "MISSING",
+  "social": "MISSING",
+  "qa": "MISSING",
+  "manifest": "MISSING",
+  "rejectedAttempts": "EXISTS_AND_EXPORTABLE_BUT_REBUILD_REQUIRED",
+  "githubBinaryAssetsPublished": 0
+}

@@ -1,0 +1,113 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "uppkopplad-utan-ett-enda-snitt",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "Uppkopplad utan ett enda snitt",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0-backfill-2026-08-23",
+  "status": "PARTIAL_BACKFILL",
+  "locales": {
+    "sv-SE": {
+      "status": "PARTIAL_BACKFILL",
+      "assetCount": 14,
+      "expectedAssetCount": 14,
+      "canonicalSlotsExactOriginalLocally": 14,
+      "githubPublishedBinaryAssets": 0,
+      "pdfExportable": true,
+      "socialExportable": true,
+      "qaExportable": true,
+      "manifestExportable": true,
+      "sourcesExportable": true,
+      "releaseQaAsserted": false,
+      "knownCurrentVisualQa": {
+        "panel_04": "REBUILD_REQUIRED"
+      },
+      "path": "stories/uppkopplad-utan-ett-enda-snitt/sv-SE/"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "assetCount": 0,
+      "narrativeMaster": false,
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "storyPath": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-en-GB.md",
+      "images": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "originalStory": "stories/uppkopplad-utan-ett-enda-snitt/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "f95f183e2e02fd3346f6f8f6f016a85f58b2db8f9fcda89136f4b3519d17e3ba",
+    "size": 8515,
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-en-GB.md",
+    "metadataPath": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-en-GB.meta.json",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "f95f183e2e02fd3346f6f8f6f016a85f58b2db8f9fcda89136f4b3519d17e3ba",
+    "sha256": "6f1b98e5ba18907c8a971555af50c25596fcdc0368bac7a571186df2c4f66a63",
+    "size": 8634,
+    "githubReadBackVerified": true
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:11:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "inventoryItems": 161,
+    "sourceCounts": {
+      "EXACT_ORIGINAL": 115,
+      "CHAT_RECOVERED": 0,
+      "DERIVED_TRANSLATION": 2,
+      "SOURCE_NOT_EXPORTABLE": 28,
+      "NOT_CREATED": 16
+    },
+    "canonicalVisualSlotsExactOriginalLocally": 14,
+    "latestCanonicalPanel04": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "sha256": "6f19486113d0754eaa7af1c1176d85cfab65077ce9186b1a631d5e0d1994f695",
+      "size": 3712395,
+      "sourceEvidence": "/mnt/data/teknikerns_svåra_offertbeslut.png"
+    },
+    "githubPublishedCanonicalVisualSlots": 0,
+    "historicalReleaseQaPromoted": false,
+    "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryPublishReason": "The exact historical binaries were packaged locally, but this ChatGPT runtime exposes no Chrome-download, Nextcloud archive, hardened-router or local-publisher action surface. The GitHub connector accepts literal blob payloads but has no mounted local-file parameter for the multi-megabyte package/assets. A small exact-logo queue retry was written but had not assembled to the final destination during read-back; no canonical image binary is counted as published.",
+    "automaticTransport": {
+      "chromeDownloadVerified": false,
+      "nextcloudArchiveVerified": false,
+      "hardenedRouterVerified": false,
+      "publisherVerified": false
+    },
+    "localExportPackage": {
+      "filename": "uppkopplad-utan-ett-enda-snitt-retro-backfill-v2-complete-historical-export.zip",
+      "sha256": "51b1ce660059c96f1bf865d2486558d80d3c97ff5c75737c3d638f314d5aebcf"
+    },
+    "historicalArchivePackage": {
+      "filename": "uppkopplad-utan-ett-enda-snitt-retro-v2-history.zip",
+      "sha256": "1d72cd2c20947a56186778c9a85003bf266a74dd5e35267321007d87d0ae3846"
+    },
+    "svSEPublishPackage": {
+      "filename": "uppkopplad-utan-ett-enda-snitt-sv-SE-retro-v2-publish-package.zip",
+      "sha256": "7419af938c660e0cba7182f36e7ebfdaeb076a9a41b9556fd176013dc53da8cf"
+    },
+    "enGBPublishPackage": {
+      "filename": "uppkopplad-utan-ett-enda-snitt-en-GB-retro-v2-publish-package.zip",
+      "sha256": "a21def871c643a5b29e8001ff9d64dd39d37ab03c05b5f254c4d9a4bbaf8417f"
+    },
+    "provenanceQaSeparation": true
+  },
+  "backfill": {
+    "source": "chatgpt-current-story-chat",
+    "exportedAt": "2026-08-23T08:31:00+02:00",
+    "localPackage": "uppkopplad-utan-ett-enda-snitt-storyportal-export-20260823-0831.zip",
+    "githubBinaryUpload": "not-verified"
+  }
+}

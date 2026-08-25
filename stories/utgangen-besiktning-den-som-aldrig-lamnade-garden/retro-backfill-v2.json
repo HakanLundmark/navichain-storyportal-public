@@ -1,0 +1,70 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "metadataType": "BACKFILL_METADATA_CREATED_NOW",
+  "storyId": "utgangen-besiktning-den-som-aldrig-lamnade-garden",
+  "masterVersion": "wip-2026-08-17",
+  "checkedAt": "2026-08-24T17:29:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "narrative": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "ee2a40a7d23cc3f9a945cbcd0f5bd4dc35f126f7514401d999ac06215d7b02fe",
+      "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/source/original-story-sv-SE.md",
+      "githubReadBack": "PASS"
+    },
+    "en-GB": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sha256": "dc13a729624365d1807887c1caa77c3c1c65c945d25f371e4084912bf2f67e21",
+      "sourceStorySha256": "ee2a40a7d23cc3f9a945cbcd0f5bd4dc35f126f7514401d999ac06215d7b02fe",
+      "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/source/original-story-en-GB.md",
+      "githubReadBack": "PASS"
+    }
+  },
+  "sv-SE": {
+    "requiredCanonicalAssets": 14,
+    "exactOriginalCanonicalAssetsAccessible": 13,
+    "sourceNotExportable": ["panel_04"],
+    "historicalQaStatus": "BLOCKED",
+    "releaseEligible": false,
+    "githubPublishedCanonicalBinaryAssets": 0,
+    "canonicalExactOriginals": {
+      "cover_00": {"size":3171032,"dimensions":[1055,1491],"sha256":"e3d2f7c9c502814ecde15e4d2bd67eb5c8176a2dfa7ba72d54326f60c3d4ab18"},
+      "panel_01": {"size":3105919,"dimensions":[1086,1448],"sha256":"0286781374d1fa22f8df7112270ee13d4f51ba21e9c603dc2c0c65bfc89687b5"},
+      "panel_02": {"size":3067683,"dimensions":[1535,1024],"sha256":"31b37a7047ad10970ebc13746f29369460e9beb99023baf287f1e6099eb2fc35"},
+      "panel_03": {"size":3071506,"dimensions":[1535,1024],"sha256":"7bb1ea9786842ffd19502d1b9664074f24f41bd57fa262e6d778999f7f4d02e2"},
+      "panel_05": {"size":3801194,"dimensions":[1024,1536],"sha256":"4f05ce5fc014e0eb05d6e3029b758e13999494c7471cf21c9a539768685903e1"},
+      "panel_06": {"size":3281603,"dimensions":[1122,1402],"sha256":"2544aa6c4016ae030402629e6615b956cc69d593bf2abda66479fbf3b65d6fae"},
+      "panel_07": {"size":3144747,"dimensions":[1122,1402],"sha256":"3ec025a2fc91ddad6af234c4d2be19c323473e90c64c603cf6380c4aab117d52"},
+      "panel_08": {"size":3185673,"dimensions":[1024,1536],"sha256":"d454625ea8197fdcb41ab92f90caa19a22ca428a80e8e1a9758fb10e7aab2eb2"},
+      "panel_09": {"size":3114554,"dimensions":[1122,1402],"sha256":"9eca8088eef16156d4041fd733590965063be3c269509ba26434b57fbf8891bf"},
+      "panel_10": {"size":3078711,"dimensions":[1122,1402],"sha256":"f068f57d01cf45dad5ca97aedc0041a3a4322e66af8944cc89d095f761489ef5"},
+      "panel_11": {"size":3637918,"dimensions":[1024,1536],"sha256":"0f7da4e148ba4a4aba7a092d213c09685fddd5ac7990f706bf87f6ac51ea606a"},
+      "panel_12": {"size":3198719,"dimensions":[1055,1491],"sha256":"ef43f70f25794bca75059815bb8a9f65eea0807af2ddd39f885f22d33d917c7d"},
+      "cta_13": {"size":2736160,"dimensions":[1055,1491],"sha256":"e828a27cf7df3bb31c3da3015280d6a3bb134a163d4f0a56d2f43a04fa1afca2"}
+    },
+    "historicalPdf": {
+      "sourceClass": "SOURCE_NOT_EXPORTABLE",
+      "historicalSha256Evidence": "47dbd3d69d0504a03367ab4fd88e4306673ba6da72bf11c40988202457742d6b",
+      "historicalQa": "BLOCKED_13_OF_14_PAGES"
+    }
+  },
+  "inventoryCounts": {
+    "EXACT_ORIGINAL": 33,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 2,
+    "NOT_CREATED": 23
+  },
+  "package": {
+    "file": "utgangen-besiktning-den-som-aldrig-lamnade-garden-storyportal-export-20260824-1729.zip",
+    "sha256": "2fff5db017cbb85148cb7579ba442390b58a391bf9b9d8e3c4e28d6d364dd228",
+    "size": 74188688,
+    "zipReadBack": "PASS"
+  },
+  "automaticTransport": {
+    "status": "UNAVAILABLE_FROM_CURRENT_CHAT_RUNTIME",
+    "detail": "Chrome download bridge, local capture, Nextcloud archive, hardened router and publisher are not exposed as callable tools in this runtime; no Nextcloud or binary GitHub success is claimed."
+  }
+}

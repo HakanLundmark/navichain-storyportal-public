@@ -1,0 +1,61 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "title": "RADERINGEN SOM STOPPADES",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "inventoryAt": "2026-08-24T22:11:00+02:00",
+  "narrativeMaster": {
+    "path": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 10193,
+    "sha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+    "narrativeMaster": true
+  },
+  "englishStory": {
+    "path": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 10243,
+    "sha256": "42c2c5c15b3cd07c958342028fa756d299425eb250f5d61e42f33890ef488f37",
+    "sourceStorySha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a"
+  },
+  "canonicalVisualSlots": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_CANONICAL_CANDIDATE","size":3247745,"dimensions":[1055,1491],"sha256":"0dbdfd399153901eed3484a22d4324bb222a60bc208470e2022258cc9e31bd27","repoPath":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/images/cover_00.png","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_01": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_02": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_03": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_04": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_05": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_06": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_07": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_08": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_09": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_10": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_11": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "panel_12": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"},
+    "cta_13": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"}
+  },
+  "historicalExactOriginalFiles": [
+    {"itemType":"historical_render","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/history/rejected/rejected_attempt_01.png","qaStatus":"REJECTED","size":2925110,"dimensions":[1095,1436],"sha256":"20437732f478b9f6ca0627efa35dc01a38b30af04ffbec79b6d38fc036721727","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    {"itemType":"historical_render","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/history/rejected/rejected_attempt_02.png","qaStatus":"REJECTED","size":2928300,"dimensions":[1122,1402],"sha256":"f62b078288591d1919641bd79fd1d9cdb103cddb5d48f8d39e11173e485341be","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    {"itemType":"historical_render","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/history/rejected/rejected_attempt_03.png","qaStatus":"REJECTED","size":2772524,"dimensions":[1086,1448],"sha256":"4be52ea6c4e5796f3f24b13ad5553dd7db0f9d1b18e084a93ff2f58bdb109086","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    {"itemType":"pdf","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/pdf/raderingen_som_stoppades_sv-SE_CURRENT_PROOF.pdf","qaStatus":"CURRENT_PROOF_NON_RELEASE","size":5242489,"pages":1,"sha256":"cceeb24ca820cac95863ee599588d7c8671bd2c30229cc5e9cc6b6ae46551538","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    {"itemType":"archive_package","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/archive/raderingen_som_stoppades_current_package.zip","qaStatus":"HISTORICAL_PACKAGE_NON_RELEASE","size":13319917,"sha256":"ec824a1db6977324287a5ea3128642b73d47eb5e6677753f9da6ddcc404c4709","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    {"itemType":"source","path":"stories/RADERINGEN-SOM-STOPPADES/source/references/NAVICHAIN-OFFICIAL-LOGO.png","qaStatus":"SOURCE","size":15270,"dimensions":[500,300],"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    {"itemType":"source","path":"stories/RADERINGEN-SOM-STOPPADES/source/references/signup-qr-reference.png","qaStatus":"SOURCE_UNUSED_IN_HISTORICAL_STORY_ASSET","size":367480,"dimensions":[550,574],"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","githubPublishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"}
+  ],
+  "textSourceReference": {"path":"source/references/NAVICHAIN-PRODUCT-TRUTH.md","sourceClass":"EXACT_ORIGINAL","size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00","githubPublishStatus":"LOCAL_PACKAGE_ONLY"},
+  "embeddedStoryArtifacts": {"manus":"EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER","storyboard":"EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER","cast":"EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER","continuity":"EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER","productTruthAssessment":"EXACT_ORIGINAL_EMBEDDED_SOURCE_CLAIM_PLUS_GLOBAL_PRODUCT_TRUTH"},
+  "separateArtifactsNotCreated": ["Story DNA","character lock","vehicle/environment lock","preflight artifact","Story Lock artifact","Reality Validation report","correction log","release notes","localization notes","LinkedIn/social copy","social images","thumbnails","14-page release PDF","release ZIP"],
+  "chatRecoverableCount": 0,
+  "sourceNotExportableCount": 0,
+  "releaseStatus": "INCOMPLETE",
+  "releaseReason": "Only cover_00 exists as a canonical visual slot; panel_01-panel_12 and cta_13 were not created. Rejected historical renders do not fill canonical slots.",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+}

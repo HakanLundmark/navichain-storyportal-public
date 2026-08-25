@@ -1,0 +1,16 @@
+{
+  "storyId": "KRON-ELTEKNIK-02-RESAN-TILLBAKA",
+  "githubBinaryPublish": "FAILED",
+  "reason": "The connected GitHub write actions available in this session accept UTF-8 text or inline base64 strings, but expose no local-file upload parameter. The active story binaries are directly accessible locally, but the 14 PNG assets, en-GB cover, 67.9 MB PDF, 97.1 MB ZIP, archived PNG renders and QR/logo binaries cannot be transferred through the connector without inlining multi-megabyte base64 payloads beyond the practical tool-message limit.",
+  "sourceStatus": "EXISTS_AND_EXPORTABLE",
+  "failureClass": "GITHUB_PUBLISH_FAILED",
+  "creativeRegenerationUsed": false,
+  "files": {
+    "sv-SECanonicalImages": 14,
+    "en-GBCanonicalImages": 1,
+    "sv-SECarouselPdf": 1,
+    "sv-SEWorkingZip": 1,
+    "sv-SEArchivedImageOutputs": 11,
+    "binarySourceFiles": 2
+  }
+}

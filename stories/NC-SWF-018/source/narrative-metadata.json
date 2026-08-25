@@ -1,0 +1,24 @@
+{
+  "storyId": "NC-SWF-018",
+  "narrativeMaster": {
+    "path": "stories/NC-SWF-018/ORIGINAL_STORY.md",
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "4bf105a72408585b0ab8962705a06d04afe005252f387bdfd78fc15042111f58",
+    "size": 11226,
+    "narrativeMaster": true
+  },
+  "translations": [
+    {
+      "path": "stories/NC-SWF-018/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "4bf105a72408585b0ab8962705a06d04afe005252f387bdfd78fc15042111f58",
+      "sha256": "f47cb47668502689cb3450b63fd758c16ac5746c7ff354edb9f8103d36d4dcff",
+      "size": 11122
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "sjalvbetjaning-aldrig-ensam",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "SJÄLVBETJÄNING, ALDRIG ENSAM",
+  "subtitle": "Anette, Sara och bokningen som stannade för en extra blick",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "INCOMPLETE"
+  },
+  "verifiedOriginalAssets": {
+    "sv-SE": 7,
+    "en-GB": 0
+  },
+  "runtimeDirectlyAccessibleBinaryArtifacts": {
+    "sv-SE": 13,
+    "en-GB": 1
+  },
+  "sourceNotExportable": {
+    "sv-SE": ["cover_00"],
+    "en-GB": []
+  },
+  "missingOriginalAssets": {
+    "sv-SE": [],
+    "en-GB": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "githubPublishedBinaryAssets": 0,
+  "githubPublishedSourceBinaries": 1,
+  "verifiedGithubSourceBinaries": [
+    "stories/sjalvbetjaning-aldrig-ensam/sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png"
+  ],
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryBackfillRetryReason": "The official logo binary was assembled and read back successfully in the earlier binary retry. Canonical image binaries remain unpublished.",
+  "binaryAssemblerCommit": "a3bf938299fa6cf18e193bbd433655e59436074e",
+  "originalStory": "stories/sjalvbetjaning-aldrig-ensam/ORIGINAL_STORY.md",
+  "narrativeMasterPath": "stories/sjalvbetjaning-aldrig-ensam/sources/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "eee10f20781cdfe740ad92b20825b1980b991205ee62e54aa167ff9fe6db3faf",
+  "narrativeMasterGitBlobSha": "748894ca9f16fc30496aad0380259a6050c58496",
+  "enGbStoryPath": "stories/sjalvbetjaning-aldrig-ensam/sources/original-story-en-GB.md",
+  "enGbSourceLocale": "sv-SE",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "598a52207dea405e1fc4f5eb09c5bbf33449153491db862446b0c4fa192488c5",
+  "enGbStoryGitBlobSha": "cf8de4ef6a14ea25e06b0477104d01e499ba8b52",
+  "retroBackfillV2Inventory": "stories/sjalvbetjaning-aldrig-ensam/manifest/retro-backfill-v2-summary.json",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:05:00+02:00",
+  "historicalInventory": {
+    "totalItems": 99,
+    "exactOriginal": 72,
+    "chatRecovered": 0,
+    "derivedTranslation": 1,
+    "sourceNotExportable": 1,
+    "notCreated": 25,
+    "exactHistoricalRenders": {"sv-SE": 36, "en-GB": 6},
+    "canonicalVisualExactOriginal": {"sv-SE": 13, "en-GB": 1}
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "automaticTransportReason": "The runtime exposes downloadable sandbox files and GitHub read/write, but no Chrome-download control and no connected Nextcloud/local-capture/hardened-router/publisher connector. No manual --once/curl/publisher fallback was run.",
+  "localRetroPackages": {
+    "sv-SE": {"sha256":"fba83db5419e65d0fe802a7cd618b3248962db6dc8d2d39037018d42a652b669","filesInPublishRequest":58},
+    "en-GB": {"sha256":"476df16035421030b011a4eb51624210590b55d72602cb57e210857acfb3528b","filesInPublishRequest":10},
+    "fullArchiveSha256":"21ca31a8de87c3e7cedce4d87cfcf0f279a51e53c4eadc930513004cd873c79d"
+  },
+  "releaseZipCreated": false,
+  "notes": "Historical backfill is not release. QA/provenance remain separate. No locale qualifies as COMPLETE + SYNCED."
+}

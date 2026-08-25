@@ -1,0 +1,27 @@
+storyId: INTE-OTUR-ETT-MONSTER
+locale: sv-SE
+status: PARTIAL_ASSET_PACKAGE
+expectedAssetCount: 14
+includedAssetCount: 10
+included:
+  - cover_00.png
+  - panel_01.png
+  - panel_02.png
+  - panel_03.png
+  - panel_06.png
+  - panel_07.png
+  - panel_09.png
+  - panel_11.png
+  - panel_12.png
+  - cta_13.png
+missing:
+  - panel_04.png
+  - panel_05.png
+  - panel_08.png
+  - panel_10.png
+qr:
+  payload: https://navichain.se/signup
+  rasterDecode: PASS
+notes: >-
+  This package contains every approved/current asset that is materialized in the active runtime.
+  Four earlier panel renders are not present as files in the active runtime, so a full 14-asset release package cannot be truthfully assembled without re-uploading or regenerating them.

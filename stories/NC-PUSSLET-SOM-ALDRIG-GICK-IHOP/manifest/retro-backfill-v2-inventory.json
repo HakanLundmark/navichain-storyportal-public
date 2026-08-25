@@ -1,0 +1,99 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "NC-PUSSLET-SOM-ALDRIG-GICK-IHOP",
+  "title": "Pusslet som aldrig gick ihop — Rasmus och jakten på ett komplett TMS",
+  "inventoriedAt": "2026-08-24T22:22:00+02:00",
+  "sourceBoundary": "Current source chat/runtime plus directly readable prior GitHub archival copies from this same story. No rerendering, reconstruction, crop, PDF-page substitution or creative replacement was used.",
+  "narrative": {
+    "masterLocale": "sv-SE",
+    "canonicalSource": "uploaded Inklistrad markdown.md",
+    "sourceClass": "SOURCE_NOT_EXPORTABLE",
+    "note": "Canonical text is directly readable and was published as a content-faithful copy. Original attachment byte identity is not claimed.",
+    "publishedPath": "stories/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP/source/original-story-sv-SE.md",
+    "publishedCopySha256": "a657b4535011455078bebd05bcf98731f59be138301e30aa2259f815998d3040"
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "path": "stories/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP/source/original-story-en-GB.md",
+    "sha256": "89dfd05502d4ef312603dca1359a0d4314cacd9876caef3c61f42e14a95f9210"
+  },
+  "locales": {
+    "sv-SE": {
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "canonicalExactOriginalAssetsAccessible": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_10","panel_11","panel_12","cta_13"],
+      "generatedNotRecovered": ["panel_08","panel_09"],
+      "pdf": {
+        "sourceClass": "EXACT_ORIGINAL",
+        "localPath": "/mnt/data/pusslet_som_aldrig_gick_ihop_sv-SE/pusslet_som_aldrig_gick_ihop_sv-SE_pdf_karusell.pdf",
+        "size": 14822833,
+        "currentValidation": "14 pages but page 10 duplicates panel_07; panel_09 is absent. PDF retained as historical output, not a replacement source."
+      }
+    },
+    "en-GB": {
+      "masterVersion": "1.1",
+      "status": "INCOMPLETE",
+      "exactOriginalRawRendersAccessible": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "finalPostProcessedStandaloneReleaseImages": "SOURCE_NOT_EXPORTABLE",
+      "pdf": {
+        "sourceClass": "EXACT_ORIGINAL",
+        "localPath": "/mnt/data/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP-v1.1-en-GB-release/carousel/the-puzzle-that-never-fit-en-GB.pdf",
+        "size": 61959567,
+        "currentValidation": "14-page historical PDF with cover, panels 01-12 and CTA in sequence; not extracted to replace missing final standalone images."
+      }
+    },
+    "de-DE": {
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "canonicalExactOriginalAssetsAccessible": ["cover_00","panel_04"],
+      "sourceNotExportableCanonical": ["panel_01","panel_02","panel_03","panel_05"],
+      "notCreated": ["panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+    }
+  },
+  "canonicalHashes": {
+    "sv-SE": {
+      "cover_00":"ca0411057dc378f31665c2061a18be12c65a6788a3e1a2c4a3c7bfa9982df89a",
+      "panel_01":"c0fa12a88127d37153aa072f6c895d5e15d58f9d2aafaf319b52e3283b89fe5f",
+      "panel_02":"4db88834cd3972da1d0652f7bc45723c407f89e17007680d9ac3c4fb7abdb2cc",
+      "panel_03":"25927c10cc100fc8615d5fb317df61cbf15aa1ed5210bccd72ea27e1a15f848e",
+      "panel_04":"1fa0830f897679899f0feee87bc09023b971c5f9ac3ce76c6778010ba69c8730",
+      "panel_05":"c05d4a7679f964aefbd2539321c4546e39458b27885482c97f0e0d75751bbb0e",
+      "panel_06":"992ce51fc799498db37120efa50ca519794ecd48c371dc1f0f46135dd61d7d4d",
+      "panel_07":"30d7ea982d1ed92a4724a4d83c3564b199b4e379f77b0d6c871212a6e1eed903",
+      "panel_10":"1110977ba539ed71a3ac64d4c5a1b982f7e7f32e763b8821e790163c8aaa4035",
+      "panel_11":"20c92270356611d47110382ce227ab691bed3f868b9a36133c4d724e15ee6803",
+      "panel_12":"4c7a66a3357a8a70d58c1ad551eb24da03c311a487421083351debf741f4671f",
+      "cta_13":"66e014ecdd024c74735e630cdac248d41fda3d0386495c2f679b9db807630972"
+    },
+    "en-GB": {
+      "cover_00":"e361a32cbd09839d9f62438752f222efe9c898b3cd85ced6b9c0db3b5c21475d",
+      "panel_01":"898ab512572af90da989341fd75e74515027df6553f665cb489b76d9d49a9d5f",
+      "panel_02":"94033b4e75e30a174e2e35edd4acde842fd280c699245fbea9d94ec7a69b0dbc",
+      "panel_03":"2274f25023595cbeec582919a72852fed841fad3924a661cfd5264e1827a13d2",
+      "panel_04":"bb0d37d1f0ae80afb6abd7e59ce4719628301dc9f54160a42395ac0b1941860a",
+      "panel_05":"a3d470b7130e9498113f0db87479e030d0b35440c3cba7f06357e97492bcd223",
+      "panel_06":"0bf53c3286a89c1ff0acd141391b13e5a9ee8e4bbda333e4662b576f84b074a3",
+      "panel_07":"a8cc7f7ab1eb58b7c0601f0a109fd28500fbc93835a872ea1f86832495d3a8f3",
+      "panel_08":"d57f670536c0f2d50de4e4a10c7371340db1787548d5c1235c6f03de0d49e32d",
+      "panel_09":"60a4b2f118a6404c31c313ac21d4867c325aa83cebec6223866750a9a9be620f",
+      "panel_10":"edeb92a6a3228e2911227cc6850ffb70efcd3afc1edc6ac5dc61792ef6ce6ebf",
+      "panel_11":"a731440096b60b6a45d790632c8729396abfcdc801c4e7c46edbe47ebde19c68",
+      "panel_12":"486517962e43b812166ce66ae241d18b8e0a32317bdfc712f05d7d63a4a5fcb6",
+      "cta_13":"a5c6063c653649f163a213211c0e91e9f7f56aad1ea13e19e6ffb0789635114f"
+    },
+    "de-DE": {
+      "cover_00":"a0b310b872593a236db8bbbb704a6b9de59b84a77bc238e5f82365fb32637f59",
+      "panel_04":"74e9dee80b432ff5d2502bd0f4bcf096e642fe9a9729ee46d5a57f96c46e91c6"
+    }
+  },
+  "historicalRawVisualFilesAccessible": 52,
+  "githubPublishedBinaryAssets": 0,
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL"
+}

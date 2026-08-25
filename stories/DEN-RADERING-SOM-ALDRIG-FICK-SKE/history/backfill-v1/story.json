@@ -1,0 +1,24 @@
+{
+  "schema": "navichain-story-v1",
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "title": "DEN RADERING SOM ALDRIG FICK SKE",
+  "subtitle": "Oskar och historiken som nästan försvann av misstag",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "projectInstructionVersion": "6.1.7a",
+  "status": "INCOMPLETE",
+  "protagonist": "Oskar Lind",
+  "company": "Björklunda Åkeri AB",
+  "primaryCapability": "Fleet/Trucks deletion controls and preserved history",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableReleaseAssets": 12,
+      "requiredReleaseAssets": 14,
+      "missingOrUnusable": ["cover_00", "panel_02"],
+      "pdf": "PARTIAL_ONLY",
+      "social": "MISSING"
+    }
+  },
+  "canonicalStoryPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/ORIGINAL_STORY.md"
+}

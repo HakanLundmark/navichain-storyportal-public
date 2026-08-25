@@ -1,0 +1,14 @@
+{
+  "storyId": "SAMMA-KUND-TVA-VARLDAR",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "requiredCanonicalAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "exportableCanonicalAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_11","panel_12","cta_13"],
+  "missingCanonicalAssets": ["panel_10"],
+  "existsButNotExportable": [],
+  "pdf": "EXISTS_AND_EXPORTABLE_WIP",
+  "social": "MISSING",
+  "releaseZip": "NO - locale incomplete",
+  "githubBinaryPublish": "GITHUB_PUBLISH_FAILED: the connected GitHub tool exposes binary blob creation only through inline base64 content and does not expose a local-file upload parameter. The original PNG/PDF binaries remain locally exportable but were not transformed or reconstructed for upload.",
+  "noSilentSuccess": true
+}

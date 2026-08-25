@@ -1,0 +1,91 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "ingen-overraskning-vid-bommen",
+  "storyIdAuthority": "existing stories/index.json entry matched to the active story title in this chat",
+  "title": "INGEN ÖVERRASKNING VID BOMMEN",
+  "subtitle": "Nils och passagerna som aldrig glöms bort",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrative": {
+    "master": {
+      "locale": "sv-SE",
+      "canonicalPath": "stories/ingen-overraskning-vid-bommen/ORIGINAL_STORY.md",
+      "sourcePath": "stories/ingen-overraskning-vid-bommen/source/original-story-sv-SE.md",
+      "narrativeMaster": true,
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 11876,
+      "sha256": "203240d36965f1007e408ce96b19f13479a7c9ad21fd07a29fa2487a9d5205d9",
+      "githubReadBackVerified": true
+    },
+    "translations": {
+      "en-GB": {
+        "path": "stories/ingen-overraskning-vid-bommen/source/original-story-en-GB.md",
+        "metadataPath": "stories/ingen-overraskning-vid-bommen/source/original-story-en-GB.meta.json",
+        "sourceLocale": "sv-SE",
+        "translationType": "faithful",
+        "narrativeMaster": false,
+        "sourceClass": "DERIVED_TRANSLATION",
+        "sourceStorySha256": "203240d36965f1007e408ce96b19f13479a7c9ad21fd07a29fa2487a9d5205d9",
+        "size": 10323,
+        "sha256": "78c9ea0c507e33db54d16d07dce46f68931b75c0466ec73028076e5b69c867d0",
+        "githubReadBackVerified": true
+      }
+    }
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T22:13:00+02:00",
+    "result": "PARTIAL_BACKFILL",
+    "statusPath": "stories/ingen-overraskning-vid-bommen/retro-backfill/v2/status-20260824T2213.json",
+    "canonicalExactOriginalAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09"],
+    "canonicalAssetQaStatus": {
+      "cover_00":"UNKNOWN","panel_01":"UNKNOWN","panel_02":"UNKNOWN","panel_03":"UNKNOWN","panel_04":"UNKNOWN","panel_05":"UNKNOWN","panel_06":"UNKNOWN","panel_07":"UNKNOWN","panel_08":"UNKNOWN","panel_09":"UNKNOWN",
+      "panel_10":"REBUILD_REQUIRED","panel_11":"UNKNOWN","panel_12":"UNKNOWN","cta_13":"UNKNOWN"
+    },
+    "sourceNotExportableCanonicalAssets": ["panel_10","panel_11","panel_12","cta_13"],
+    "historicalRejectedUnmappedExactFiles": 26,
+    "historicalRejectedUnmappedQaStatus": "REJECTED_FOREIGN_STORY_CONTENT",
+    "githubPublishedBinaryAssets": 0,
+    "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "localArchive": {
+      "filename": "ingen-overraskning-vid-bommen-retro-backfill-v2-20260824-2213.zip",
+      "size": 120018523,
+      "sha256": "5e57ac5052f61fc992e91928030b889ba3cc406a959dbaf89f98b080bcb61e10"
+    },
+    "svSePublishPackage": {
+      "filename": "ingen-overraskning-vid-bommen-sv-SE-retro-v2-publish.zip",
+      "size": 30505047,
+      "sha256": "b26cb004371d4136611bf3fdac82d2886acb4b19644834ea08d5a2e446844530",
+      "fileCount": 11
+    },
+    "enGbPublishPackage": {
+      "filename": "ingen-overraskning-vid-bommen-en-GB-retro-v2-publish.zip",
+      "size": 4250,
+      "sha256": "be3c7febf7b260a311263b889ef88bd69e95239ceb7dc3c5f3347e30c0da239a",
+      "fileCount": 1
+    }
+  },
+  "inventory": {
+    "locales": {
+      "sv-SE": {"status":"INCOMPLETE","exactOriginalCanonicalAssetCount":10,"sourceNotExportableCanonicalAssets":["panel_10","panel_11","panel_12","cta_13"],"pdfCarousel":"NOT_CREATED","socialLinkedIn":"NOT_CREATED"},
+      "en-GB": {"status":"INCOMPLETE","storyText":"GITHUB_VERIFIED","imageAssets":0,"note":"Faithful text translation only; no en-GB locale image build was created."}
+    }
+  },
+  "releaseEligibility": {
+    "sv-SE": false,
+    "en-GB": false,
+    "reason": "Historical backfill is not a release. Four canonical sv-SE visual originals are SOURCE_NOT_EXPORTABLE and no story image binary has been GitHub read-back verified."
+  },
+  "github": {
+    "releasePublished": false,
+    "localeDirectoriesPublishedAsComplete": [],
+    "githubPublishedBinaryAssets": 0,
+    "verifiedTextPaths": [
+      "stories/ingen-overraskning-vid-bommen/ORIGINAL_STORY.md",
+      "stories/ingen-overraskning-vid-bommen/source/original-story-sv-SE.md",
+      "stories/ingen-overraskning-vid-bommen/source/original-story-en-GB.md"
+    ]
+  }
+}

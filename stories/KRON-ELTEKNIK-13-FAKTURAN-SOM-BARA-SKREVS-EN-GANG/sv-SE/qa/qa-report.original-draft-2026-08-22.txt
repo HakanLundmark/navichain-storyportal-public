@@ -1,0 +1,18 @@
+STORY: FAKTURAN SOM BARA SKREVS EN GÅNG
+LOCALE: sv-SE
+PACKAGE STATUS: DRAFT / NOT RELEASE-READY
+ASSET COUNT: 14/14 present
+PDF PAGE COUNT TARGET: 14
+
+Known hard QA failures in current artwork:
+- panel_06: story contamination; depicts transport/routing instead of Yvonne noticing Siv's stress.
+- panel_07: story contamination; depicts driver/dispatch workflow instead of discovering the existing accounting connection.
+- panel_08: story contamination; depicts transport/driver updates instead of explicit invoice push to accounting.
+- panel_09: story contamination; depicts delivery visibility instead of identical invoice figures in both systems.
+- panel_10: story contamination; depicts delivery/customer workflow instead of the clean VAT reconciliation.
+- panel_11: story contamination; depicts generic invoice/customer success instead of cancellation -> separate credit note -> explicit accounting credit push.
+- panel_12: story contamination; depicts delivery/team result instead of Siv leaving work on time with both screens off.
+- cta_13: wrong story; transport/delivery CTA rather than invoice/accounting-transfer transformation.
+- cover_00/cta_13: brand-critical logo was rendered in-image rather than deterministically composited from official source.
+
+Therefore this package is supplied as the current working set only and must not be treated as RELEASE SV-SE.

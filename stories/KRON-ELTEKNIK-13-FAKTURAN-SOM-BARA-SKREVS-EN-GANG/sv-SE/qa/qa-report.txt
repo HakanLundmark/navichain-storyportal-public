@@ -1,0 +1,18 @@
+STORY: FAKTURAN SOM BARA SKREVS EN GÅNG
+LOCALE: sv-SE
+PACKAGE STATUS: DRAFT / NOT RELEASE-READY
+ASSET COUNT: 14/14 present
+PDF PAGE COUNT TARGET: 14
+
+Known hard QA failures in current artwork:
+- panel_06: draft package version is superseded; a later corrected render exists in the chat/runtime.
+- panel_07: story contamination; wrong workflow/story.
+- panel_08: story contamination; wrong workflow/story.
+- panel_09: story contamination; wrong workflow/story.
+- panel_10: story contamination; wrong workflow/story.
+- panel_11: story contamination; wrong workflow/story.
+- panel_12: story contamination; wrong workflow/story.
+- cta_13: wrong story; transport/delivery CTA rather than invoice/accounting-transfer transformation.
+- cover_00/cta_13: brand-critical logo was rendered in-image rather than deterministically composited from official source.
+
+Therefore this material must not be treated as RELEASE sv-SE.

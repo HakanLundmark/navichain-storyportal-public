@@ -1,0 +1,97 @@
+{
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "title": "RADERINGEN SOM STOPPADES",
+  "subtitle": "Frida och misstaget som aldrig blev av",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "canonicalStoryPath": "stories/RADERINGEN-SOM-STOPPADES/ORIGINAL_STORY.md",
+  "narrativeMasterPath": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+  "enGbStoryPath": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-en-GB.md",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbTranslationType": "faithful",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "42c2c5c15b3cd07c958342028fa756d299425eb250f5d61e42f33890ef488f37",
+  "enGbSourceStorySha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "verifiedCanonicalVisualAssets": 13,
+      "exactOriginalCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "notCreatedCanonicalAssets": [],
+      "sourceNotExportableCanonicalAssets": ["panel_02"],
+      "githubPublishedBinaryAssets": 0,
+      "qaStatusByAsset": {
+        "cover_00": "UNKNOWN",
+        "panel_01": "UNKNOWN",
+        "panel_02": "UNKNOWN",
+        "panel_03": "UNKNOWN",
+        "panel_04": "UNKNOWN",
+        "panel_05": "UNKNOWN",
+        "panel_06": "UNKNOWN",
+        "panel_07": "UNKNOWN",
+        "panel_08": "UNKNOWN",
+        "panel_09": "UNKNOWN",
+        "panel_10": "UNKNOWN",
+        "panel_11": "UNKNOWN",
+        "panel_12": "UNKNOWN",
+        "cta_13": "REBUILD_REQUIRED"
+      }
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "visualReleaseStatus": "INCOMPLETE",
+      "verifiedCanonicalVisualAssets": 0,
+      "notCreatedCanonicalAssets": [
+        "cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"
+      ]
+    }
+  },
+  "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+  "currentRuntimeHistoricalAlternateExactOriginalCount": 4,
+  "currentRuntimeSourceReferenceExactOriginalCount": 3,
+  "historicalPdf": {
+    "status": "CURRENT_PROOF_NON_RELEASE",
+    "sha256PreviouslyInventoried": "cceeb24ca820cac95863ee599588d7c8671bd2c30229cc5e9cc6b6ae46551538",
+    "currentSourceStatus": "SOURCE_NOT_EXPORTABLE"
+  },
+  "historicalArchivePackage": {
+    "status": "HISTORICAL_PACKAGE_NON_RELEASE",
+    "sha256PreviouslyInventoried": "ec824a1db6977324287a5ea3128642b73d47eb5e6677753f9da6ddcc404c4709",
+    "currentSourceStatus": "SOURCE_NOT_EXPORTABLE"
+  },
+  "capability": "Deletion Rules / reference-status pre-delete validation",
+  "protagonist": "Frida Ahl",
+  "company": "Björklunda Åkeri AB",
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:27:00+02:00",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_BROWSER_WRITE_SURFACE",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "LOCAL_PACKAGE_CREATED_NOT_GITHUB_PUBLISHED",
+  "retroBackfillV2InventoryPath": "stories/RADERINGEN-SOM-STOPPADES/retro-backfill/v2/runs/20260824T222700+0200/inventory.json",
+  "retroBackfillV2LatestRunPath": "stories/RADERINGEN-SOM-STOPPADES/retro-backfill/v2/runs/20260824T222700+0200/result.json",
+  "backfill": {
+    "policy": "no rerendering, no reconstruction, provenance and QA kept separate",
+    "localHistoricalExportZip": "RADERINGEN-SOM-STOPPADES-sv-SE-retro-v2-binary-retry.zip",
+    "localHistoricalExportZipSize": 55539595,
+    "localHistoricalExportZipSha256": "b3207db6a71d2de33454016502d9e17bca356fd518a6a19148ff7af1cbc1ebcf",
+    "publishRequestFileCount": 20
+  }
+}

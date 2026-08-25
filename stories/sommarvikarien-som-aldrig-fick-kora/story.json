@@ -1,0 +1,49 @@
+{
+  "schema": "navichain-story-v2",
+  "storyId": "sommarvikarien-som-aldrig-fick-kora",
+  "title": "Sommarvikarien som aldrig fick köra — behörighetsfiltret som räddade försäkringen",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionStatus": "UNSPECIFIED_IN_CHAT",
+  "status": "INCOMPLETE",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:37:00+02:00",
+  "storyLock": "NOT_LOCKED",
+  "narrativeMasterPath": "stories/sommarvikarien-som-aldrig-fick-kora/source/original-story-sv-SE.md",
+  "legacyNarrativeMasterPath": "stories/sommarvikarien-som-aldrig-fick-kora/ORIGINAL_STORY.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "d632803be1429467c64ca9e90320d4ed376040aff3efe3a36c498cda028e98ac",
+  "enGbStoryPath": "stories/sommarvikarien-som-aldrig-fick-kora/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "45dae6dd44db341f8049d365cf13de26f14f81370f9cf7bb93b6e4fc70897cf7",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+  },
+  "canonicalHistoricalCandidates": {
+    "sv-SE": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"]
+  },
+  "canonicalAmbiguities": {
+    "sv-SE": {
+      "panel_06": "two exact historical REBUILD_REQUIRED candidates; canonical current candidate cannot be selected without guessing"
+    }
+  },
+  "sourceNotExportableCanonicalAssets": {
+    "sv-SE": ["panel_06","cta_13"]
+  },
+  "historicalExactOriginalVisualFiles": 22,
+  "historicalCanonicalExactOriginalVisualFiles": 12,
+  "historicalRejectedOrSupersededVisualFiles": 10,
+  "githubPublishedBinaryAssets": 0,
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_REACHED_FROM_CURRENT_TOOL_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "releaseEligibility": {
+    "sv-SE": false,
+    "reason": "panel_06 has no unambiguous approved canonical master; cta_13 source binary is not exportable; no PDF/social/release QA exists."
+  },
+  "inventoryPath": "stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/manifest/inventory.json",
+  "qaPath": "stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/qa/retro-backfill-v2.md"
+}

@@ -1,0 +1,32 @@
+{
+  "storyId": "kedjan-ingen-ser-forran-den-brister",
+  "title": "KEDJAN INGEN SER — FÖRRÄN DEN BRISTER",
+  "subtitle": "Kenneth och länken mellan inköp, lager och verkstad",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0",
+  "locales": {
+    "sv-SE": {
+      "status": "COMPLETE",
+      "assetCount": 14,
+      "githubSync": "pending",
+      "socialStatus": "EXISTS_BUT_NOT_EXPORTABLE"
+    }
+  },
+  "originalStory": "ORIGINAL_STORY.md",
+  "canonicalAssets": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ]
+}

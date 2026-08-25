@@ -1,0 +1,17 @@
+{
+  "schema": "navichain-retro-backfill-v2-packages",
+  "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+  "status": "PARTIAL_BACKFILL",
+  "packages": {
+    "completeHistoricalExport": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-retro-backfill-v2-complete-historical-export.zip","size":64966218,"sha256":"f1fa97ee5e3dae63e2e08b0419e533dc771e3b864f2dfc8aee63cf3b7c7fc3b1","githubPublished":false},
+    "historicalArchive": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-retro-v2-history.zip","size":33112118,"sha256":"c6b4c855f81fee660a96deaebc7bbe891fd107eba26dd550a9d15ff5b1b7c407","githubPublished":false},
+    "svSEPublishPackage": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-sv-SE-retro-v2-publish-package.zip","size":20230985,"sha256":"480e1b34be9701a2c7267532a4219cb761b65c37297b29ac3234069bc096cb64","githubPublished":false},
+    "enGBPublishPackage": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-en-GB-retro-v2-publish-package.zip","size":10895,"sha256":"44b66cbff6410644f7a5141f08ea801a10ae4a55149826b36a4e27086bd5e643","githubPublished":false}
+  },
+  "publishRequests": {
+    "sv-SE": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-sv-SE.publish.json","sha256":"74f24ef0e2725f1fe1ab42abe207f8a225059681303bcd528f999d5768d528e3","wrapperZipSha256":"6e8a5dd823476a8dc84cba5a832b14dd00bbe27edec4d13c318177efc916a69c"},
+    "en-GB": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-en-GB.publish.json","sha256":"707f513327a1e70052aefb0d79ec443ebd14afab83c59683d959a87ea457a9ee","wrapperZipSha256":"6cf9abdc419d8e9cc7daca8e579b1f9697b53fa6a1c6c66f227fa57ae07f3aa7"}
+  },
+  "automaticTransport": {"chromeDownloadVerified":false,"nextcloudArchiveVerified":false,"hardenedRouterVerified":false,"publisherVerified":false},
+  "binaryPublishStatus": "GITHUB_PUBLISH_FAILED"
+}

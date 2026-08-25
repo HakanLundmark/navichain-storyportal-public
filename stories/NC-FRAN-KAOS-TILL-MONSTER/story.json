@@ -1,0 +1,162 @@
+{
+  "schema": "navichain-story-backfill-v1",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "storyIdAuthority": "explicit ID established and locked in this chat",
+  "title": "FRÅN KAOS TILL MÖNSTER",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "PARTIAL_BACKFILL",
+  "canonicalOriginalStory": "ORIGINAL_STORY.md",
+  "sourceNarrativeMaster": "source/original-story-sv-SE.md",
+  "sourceEnglishTranslation": "source/original-story-en-GB.md",
+  "inventory": "BACKFILL_INVENTORY.json",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "currentDirectlyAccessibleExactCanonicalAssets": 14,
+      "currentExactCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "sourceNotExportableCanonicalAssets": [],
+      "githubPublishedCanonicalBinaryAssets": 0,
+      "narrativeMaster": "EXACT_ORIGINAL + GITHUB_READ_BACK_VERIFIED",
+      "pdf": "EXACT_ORIGINAL_LOCAL_PACKAGE_READY_GITHUB_UNPUBLISHED",
+      "pdfSha256": "aec9595e5edd88c60711b90792385faade7b7c188e185d142f47064698c2242b",
+      "social": "NOT_CREATED",
+      "qa": "HISTORICAL_PASS_NOT_REVALIDATED",
+      "releaseZip": "EXACT_ORIGINAL_LOCAL_PACKAGE_READY_GITHUB_UNPUBLISHED",
+      "binaryPublish": "PACKAGE_READY_AUTOMATIC_TRANSPORT_BLOCKED_AT_CHATGPT_TO_CHROME"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "currentDirectlyAccessibleExactCanonicalAssets": 14,
+      "currentExactCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "sourceNotExportableCanonicalAssets": [],
+      "currentPanel05QaStatus": "REBUILD_REQUIRED",
+      "githubPublishedCanonicalBinaryAssets": 0,
+      "storyTranslation": "DERIVED_TRANSLATION + GITHUB_READ_BACK_VERIFIED",
+      "pdf": "EXACT_ORIGINAL_LOCAL_PACKAGE_READY_GITHUB_UNPUBLISHED",
+      "pdfSha256": "93d36d72b1a2ad60544a4e02e2f2622da53fdaec255a076a9a5efaf18693cfd0",
+      "social": "SOURCE_NOT_EXPORTABLE",
+      "qa": "PARTIAL_HISTORICAL_STATUS_ONLY",
+      "releaseZip": "NOT_CREATED",
+      "binaryPublish": "PACKAGE_READY_AUTOMATIC_TRANSPORT_BLOCKED_AT_CHATGPT_TO_CHROME"
+    }
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T22:02:00+02:00",
+    "verifiedAt": "2026-08-24T22:26:00+02:00",
+    "result": "PARTIAL_BACKFILL",
+    "report": "metadata/RETRO-BACKFILL-v2-2026-08-24T2202+0200.json",
+    "narrativeMasterSha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb",
+    "englishStorySha256": "109a9e09ab0f8fd6cd76ef19fc265fc3dfa6ca35a92dbd3706588beee0b01f0d",
+    "currentExactCanonicalAssets": {
+      "sv-SE": 14,
+      "en-GB": 14
+    },
+    "historicalGeneratedRootPngsArchivedLocally": 42,
+    "sourceAndRuleReferencesArchivedLocally": 16,
+    "storyTextArtifactInventoryCount": 14,
+    "combinedArchive": {
+      "filename": "NC-FRAN-KAOS-TILL-MONSTER-retro-backfill-v2-complete.zip",
+      "size": 351302589,
+      "sha256": "2e3c7078479ef50ffbef5c84340b322ed31e7a925d2b2925ac5c95f404129640"
+    },
+    "publishPackages": {
+      "sv-SE": {
+        "filename": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.package.zip",
+        "size": 115196773,
+        "sha256": "a0e2666a32f85c399a4fb466f9078ab81fcdf782a396bdd2286d85d0368668bd",
+        "fileCount": 16,
+        "publishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.publish.json",
+        "wrappedRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.publish.zip"
+      },
+      "en-GB": {
+        "filename": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.package.zip",
+        "size": 93902114,
+        "sha256": "421c716718b75a40455b6ef4534be1cf3765204611738e8866e2bba825da1fce",
+        "fileCount": 16,
+        "publishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.publish.json",
+        "wrappedRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.publish.zip"
+      }
+    },
+    "packageIntegrity": "PASS",
+    "automaticTransport": {
+      "chromeDownloadTriggeredByAssistant": false,
+      "nextcloudArchiveVerified": false,
+      "hardenedRouterVerified": false,
+      "publisherVerified": false,
+      "githubBinaryReadBackVerified": false,
+      "githubPublishedBinaryAssets": 0,
+      "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "reason": "No assistant-accessible Chrome download bridge, local capture, Nextcloud write surface, hardened router or local publisher action is exposed. Exact-byte packages and valid publish requests were created; no manual --once/curl/direct-publisher substitute was used."
+    },
+    "indexMetadata": {
+      "status": "GITHUB_READ_BACK_VERIFIED",
+      "indexCommit": "d8ba2ff49eada2f0c7deba740c8a060133214916",
+      "githubPublishedBinaryAssets": 0
+    },
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedOrRestyled": false
+  },
+  "retroBackfillV2History": [
+    {
+      "checkedAt": "2026-08-24T17:27:00+02:00",
+      "result": "PARTIAL_BACKFILL",
+      "report": "metadata/RETRO-BACKFILL-v2-2026-08-24T1727+0200.json"
+    },
+    {
+      "checkedAt": "2026-08-24T22:14:00+02:00",
+      "result": "GITHUB_PUBLISH_FAILED",
+      "report": "metadata/RETRO-BACKFILL-v2-2026-08-24T2214+0200.json",
+      "scopeNote": "conflicting concurrent runtime report preserved as history; it did not see the exact files available in this active source chat runtime"
+    }
+  ],
+  "binaryBackfillRetryHistory": {
+    "protocol": "BINARY-BACKFILL-RETRY.md",
+    "previousCheckedAt": "2026-08-24T00:27:00+02:00",
+    "previousResult": "GITHUB_PUBLISH_FAILED",
+    "previousReport": "metadata/BINARY-BACKFILL-RETRY-2026-08-24T0027+0200.json"
+  },
+  "sources": {
+    "productTruth": {
+      "status": "EXISTS_AND_EXPORTABLE",
+      "localFile": "NAVICHAIN-PRODUCT-TRUTH.md"
+    },
+    "marketTruth": {
+      "status": "EXISTS_AND_EXPORTABLE",
+      "localFile": "Navichain_Market_Truth_MASTER_v1.0.md"
+    }
+  },
+  "backfillScope": "this_chat_only",
+  "backfilledAt": "2026-08-24T22:26:00+02:00"
+}

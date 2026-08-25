@@ -1,0 +1,102 @@
+{
+  "schema": "navichain-retro-backfill-v2-final-v1",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "checkedAt": "2026-08-24T19:46:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "narrativeMaster": {
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.md",
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+    "gitBlobSha": "e0488893ef2b29f91966eecce9a57a708f990ded",
+    "narrativeMaster": true,
+    "readBackVerified": true
+  },
+  "englishStory": {
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "sourceStorySha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+    "sha256": "92744d0a088011399f161e539ab5136fdc701906347cfa2413e25c202a332c03",
+    "gitBlobSha": "d6e6a8566c09da9cd45b94cad4171b89f986cb33",
+    "readBackVerified": true
+  },
+  "canonicalVisualSlots": {
+    "classification": "SOURCE_NOT_EXPORTABLE",
+    "count": 14,
+    "reason": "A prior current-runtime inventory recorded exact byte identities for all 14 historical canonical render slots, but the underlying files are no longer directly accessible in this runtime and are not present on GitHub. Hash records alone are not used as export substitutes.",
+    "historicalQa": {
+      "cover_00": "UNKNOWN",
+      "panel_01": "UNKNOWN",
+      "panel_02": "UNKNOWN",
+      "panel_03": "UNKNOWN",
+      "panel_04": "UNKNOWN",
+      "panel_05": "UNKNOWN",
+      "panel_06": "UNKNOWN",
+      "panel_07": "UNKNOWN",
+      "panel_08": "UNKNOWN",
+      "panel_09": "UNKNOWN",
+      "panel_10": "REBUILD_REQUIRED",
+      "panel_11": "REBUILD_REQUIRED",
+      "panel_12": "REBUILD_REQUIRED",
+      "cta_13": "REBUILD_REQUIRED"
+    }
+  },
+  "currentRuntimeExactHistoricalRenders": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "count": 16,
+    "alternateSingleAssetRenders": 8,
+    "multiAssetStoryboardRenders": 8,
+    "qaStatus": "UNKNOWN",
+    "releaseEligible": false,
+    "inventoryPath": "stories/sandningen-som-visste-vart-den-skulle/manifest/retro-backfill-v2-runtime-20260824-1946.json"
+  },
+  "historicalDerivedArtifacts": {
+    "pdf": {
+      "filename": "sandningen_som_visste_vart_den_skulle_sv-SE.pdf",
+      "sourceClass": "SOURCE_NOT_EXPORTABLE",
+      "historicalQaStatus": "NOT_RELEASE_READY",
+      "recordedSize": 62640585,
+      "recordedSha256": "b5ca281d1128decbb6bfc098a7740a2ac4ee6f78d6f0f55b8945a1285f841fef"
+    },
+    "archiveZip": {
+      "filename": "sandningen_som_visste_vart_den_skulle_sv-SE_current_package.zip",
+      "sourceClass": "SOURCE_NOT_EXPORTABLE",
+      "historicalQaStatus": "NOT_RELEASE_READY",
+      "recordedSize": 89762031,
+      "recordedSha256": "af20429e360bf2d6cb81df19e90eae603d4f970f37bc9cb60d624a948c8aa600"
+    },
+    "linkedinSocialCopy": "NOT_CREATED",
+    "releaseGradePdf": "NOT_CREATED",
+    "releaseZip": "NOT_CREATED",
+    "enGbVisualSet": "NOT_CREATED"
+  },
+  "preparedCurrentRuntimeTransport": {
+    "packageFile": "sandningen-som-visste-vart-den-skulle-sv-SE-retro-v2-20260824-1946.zip",
+    "packageSize": 44000085,
+    "packageSha256": "0d9e9cd881611165c86867e0f8ed3e7afe59fc2a34f3972655b14043eb39328c",
+    "publishRequestFile": "sandningen-som-visste-vart-den-skulle-sv-SE-retro-v2-20260824-1946.publish.json",
+    "publishRequestSha256": "087932248a033b8bf3b44b23c709600e673c659708521de8b040d8de2eaaed34",
+    "publishWrapperFile": "sandningen-som-visste-vart-den-skulle-sv-SE-retro-v2-20260824-1946.publish.zip",
+    "publishWrapperSha256": "5e657d01eb366dad3005d065abcbad6aaa5d0e2fcf6553360201cc8e2ce04d2e",
+    "completeBundleFile": "sandningen-som-visste-vart-den-skulle-retro-backfill-v2-20260824-1946-complete.zip",
+    "completeBundleSha256": "4a404ff744e30d65f4c305904020a3d6a9435d34a5abeb2eca4adc3d140869b7",
+    "localIntegrity": "PASS"
+  },
+  "automaticTransport": {
+    "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "status": "NOT_INVOKABLE_FROM_ASSISTANT_RUNTIME",
+    "chromeDownloadControl": "UNAVAILABLE",
+    "nextcloudConnector": "UNAVAILABLE",
+    "localCaptureRouterPublisherConnector": "UNAVAILABLE",
+    "githubBinaryDirectLocalFileUpload": "UNAVAILABLE",
+    "githubBinaryPublication": "GITHUB_PUBLISH_FAILED",
+    "binaryReadBack": "NOT_PERFORMED"
+  },
+  "metadataReadBack": "PASS",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

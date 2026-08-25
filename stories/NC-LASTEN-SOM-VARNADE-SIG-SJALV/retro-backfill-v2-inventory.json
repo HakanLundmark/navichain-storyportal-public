@@ -1,0 +1,72 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory-github-v1",
+  "storyId": "NC-LASTEN-SOM-VARNADE-SIG-SJALV",
+  "title": "Lasten som varnade sig själv",
+  "createdAt": "2026-08-24T19:40:00+02:00",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "runtimeFilename": "ORIGINAL_STORY.md",
+    "runtimeSize": 10280,
+    "runtimeSha256": "c7c28790b67205932cb16c883d073dccf46079cf823db8ffa345ddf105feb533",
+    "githubPath": "stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/ORIGINAL_STORY.md",
+    "qaStatus": "NARRATIVE_MASTER"
+  },
+  "translation": {
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "6540466b282f583b0e9e5fe69b5fb2a3e821f7738669dd3ddbfd83587b88b194",
+    "githubPath": "stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/source/original-story-en-GB.md"
+  },
+  "canonicalVisuals": {
+    "sv-SE": {
+      "exactOriginal": {
+        "cover_00": {"filename":"säker_last_vid_lastkajen.png","size":2831920,"dimensions":[1055,1491],"sha256":"6eb1c07881e34c54e5bb34377c0417648c1baa8bc73d355b34ec5428496735a4","qaStatus":"UNKNOWN"},
+        "panel_01": {"filename":"tidspress_vid_lastkajen.png","size":2841522,"dimensions":[1055,1491],"sha256":"b8a35222bc43e634bb41681ace7b0e17b54b21ea9c6fe793e0b7b2b55421a8f5","qaStatus":"UNKNOWN"},
+        "panel_02": {"filename":"säker_lastning_vid_lastkajen.png","size":2834580,"dimensions":[1055,1491],"sha256":"be7eaff6b9ef6a5daed728561adba0cc6650e16074e974375a1e6c1697d2d377","qaStatus":"UNKNOWN"},
+        "panel_03": {"filename":"dold_risk_vid_lastkajen.png","size":2812177,"dimensions":[1055,1491],"sha256":"0dc6035002ee4dbc2e791806691200047d8c4a80a580f2a1c1db3fff8f512f09","qaStatus":"UNKNOWN"},
+        "panel_04": {"filename":"erik_stänger_lastbilsdörrarna.png","size":2809969,"dimensions":[1023,1537],"sha256":"1d27f694b9ff9867caab95b41f6fc1cca42f3e67126f5d96a0a2efa6daae8fc1","qaStatus":"UNKNOWN","note":"latest corrected rebuild candidate; dimensions differ from the 1055x1491 series"},
+        "panel_05": {"filename":"pressad_av_radion_i_lastbilshytten.png","size":2725004,"dimensions":[1055,1491],"sha256":"80a054d959b525aecf42bde1b5b6a72d6a38750919b87cf6f9ea0e4fad4c9404","qaStatus":"UNKNOWN"},
+        "panel_06": {"filename":"lastbilen_lämnar_port_4.png","size":2690834,"dimensions":[1055,1491],"sha256":"7995856be108969f39c5471eea8e7ba53819070dc3bb9c12a7919ae55fba6442","qaStatus":"UNKNOWN"},
+        "panel_10": {"filename":"digital_adr_kontroll_vid_lastkajen.png","size":2885727,"dimensions":[1055,1491],"sha256":"2343bfbfe6bdc6a2f290249752e8fa5f6af1ae8b9933bf474ed23e58f2f65c0f","qaStatus":"UNKNOWN"},
+        "panel_11": {"filename":"säker_avfärd_från_industriområdet.png","size":2751951,"dimensions":[1055,1491],"sha256":"1a5b382e4d3637b433d9a94b91cd73f7659a3c0fdec54203c1a38bbd7c25fbe3","qaStatus":"UNKNOWN"},
+        "panel_12": {"filename":"terminalkaffe_och_trygghet_i_vardagen.png","size":2744854,"dimensions":[1055,1491],"sha256":"ba3c2cf1642640dd5b9b69a27480b2c704eda312e76ee3392a8d8a88cc0136c3","qaStatus":"UNKNOWN"},
+        "cta_13": {"filename":"säker_last_i_solnedgången.png","size":2895951,"dimensions":[1055,1491],"sha256":"956566e6f959fb119f8aa07f0a9b2379f4851ae837d413a34dd08128172e7d49","qaStatus":"UNKNOWN"}
+      },
+      "sourceNotExportable": ["panel_07","panel_08","panel_09"]
+    },
+    "en": {
+      "exactOriginal": {
+        "cover_00": {"filename":"lasten_som_stoppade_faran.png","size":2786061,"sha256":"38b379a9d3a11805f771bbb4e7dde6cbd672a0a8cc889cf205dc0f156f750977","qaStatus":"UNKNOWN"},
+        "panel_01": {"filename":"regnig_morgon_vid_lastkajen.png","size":2720907,"sha256":"79259512f1dd067ec1c7f80febbb5f9d51f00fbc17414bacb62ccccc860e5247","qaStatus":"UNKNOWN"},
+        "panel_02": {"filename":"sonja_prickar_av_säkerhetslistan.png","size":2745711,"sha256":"a3addd391b667ebf62136c57ac519aab2eeffb1d521a7ef094f243d12f620ed2","qaStatus":"UNKNOWN"},
+        "panel_03": {"filename":"dold_risk_i_lastområdet.png","size":2844702,"sha256":"e66a68cc19f5761fdc3464ae7daf3ec8f3204b76ca8fc81b84445c29201f5d98","qaStatus":"UNKNOWN"},
+        "panel_04": {"filename":"erik_stänger_dörrarna_vid_kaj_4.png","size":2728254,"sha256":"4a0f20a77b934cf249e1c28773d782793a660ebe1c776e73057a69b23a9435fd","qaStatus":"UNKNOWN"},
+        "panel_05": {"filename":"lastbilshyttens_svåra_beslut.png","size":2749362,"sha256":"269e01af36d3d2c5b131e89d7d4acfdba197e717951b30b099ae78db1e9c5111","qaStatus":"UNKNOWN"},
+        "panel_06": {"filename":"lastbilsföraren_vid_port_4.png","size":2524772,"sha256":"f6709571997614339ec97363a03bb8a52599c9e5b76fda0009b7af70033d6355","qaStatus":"UNKNOWN"},
+        "panel_07": {"filename":"adr_varning_i_lastbilshytten.png","size":2665548,"sha256":"cc74a34ace23a494c9f395f99e75ba20d6373c75365bc213d4055c51681e10ca","qaStatus":"UNKNOWN"},
+        "panel_08": {"filename":"säkerhetskontroll_vid_lastkajen.png","size":2730161,"sha256":"f1549d9297a747d3831ff4e2d2aaa70fe9e675826f81ebdd6b5ce48d9c89e99c","qaStatus":"UNKNOWN"},
+        "panel_10": {"filename":"dokumenterad_och_korrekt_adr_last.png","size":2596423,"sha256":"ea2aecebe29c63af8f9a4b093cdf96b5870e302556a50f8b89fe03b62adcdec3","qaStatus":"UNKNOWN"},
+        "panel_11": {"filename":"säker_avfärd_från_terminalen.png","size":2679157,"sha256":"54042bad0d8daee09d1cb1ee74cd05f8ea7b4f545cd1d68b20d1fb0dfe694bf5","qaStatus":"UNKNOWN"},
+        "panel_12": {"filename":"trygghet_före_kaffet_kallnar.png","size":2680973,"sha256":"1c2af97bf9f578951c208a28fbf227a34c2f88056666cf691073561b71249d3c","qaStatus":"UNKNOWN"},
+        "cta_13": {"filename":"säker_lastning_vid_godkänd_rutt.png","size":2737063,"sha256":"0d5a5bfcd6f4915b26ed2d4a874d26b54a5115bf8d2bf4d80e7ff9a3fba39a90","qaStatus":"UNKNOWN"}
+      },
+      "sourceNotExportable": ["panel_09"]
+    }
+  },
+  "pdfs": {
+    "sv-SE": {"filename":"Navichain-Lasten-som-varnade-sig-sjalv-SV-SE-carousel.pdf","size":15077392,"sha256":"ac3d95b3532ac2628ffbd24b069526e296c6f577a556d7f7031e43f6d7ac68b9","sourceClass":"EXACT_ORIGINAL","qaStatus":"14_PAGES; CTA_QR_DECODE_PASS"},
+    "en": {"filename":"Navichain-The-Cargo-That-Sounded-the-Alarm-EN-carousel.pdf","size":4224464,"sha256":"7f8dde0c12ef2a6432761acfc0f927f7deac67041f9c578f708e4573696941e1","sourceClass":"EXACT_ORIGINAL","qaStatus":"14_PAGES; CURRENT_LOW_DPI_QR_DECODE_NOT_CONFIRMED"}
+  },
+  "historicalRejectedExactOriginal": {"count":13,"qaStatus":"REBUILD_REQUIRED","note":"Foreign-story/diverged panel_04 rebuild attempts retained only in the local full historical archive; no QA upgrade."},
+  "otherHistoricalExactOriginal": {
+    "alternateSvCover": {"filename":"lasten_som_varnade_sig_själv.png","sha256":"d0940aca6f7d31b05bab7d66efbdb0b1fa1315fad2c20551a7fb8a3c8bd7b827"},
+    "earlierEnPanel10": {"filename":"dokumenterad_adr_last_vid_kajen.png","sha256":"080cdc5a7d2c947d4b41bc118fe7caea3876370f4cb86a8896d0f3d3e8bae0ce"},
+    "earlierEnCta": {"filename":"imagegen.png","sha256":"d2d89d1dad99f1b705df70f8fb6711c1e762d53645daf5cbf42d8c456991abd3","qaStatus":"SUPERSEDED/UNVERIFIED; visible generated branding must not be upgraded"}
+  },
+  "summary": {"fullLocalInventoryRecords":80,"exactOriginalRecords":58,"chatRecoveredRecords":0,"derivedTranslationRecords":1,"sourceNotExportableRecords":8,"notCreatedRecords":13,"canonicalVisualExactOriginal":{"sv-SE":11,"en":13},"githubPublishedBinaryAssets":0,"automaticTransportStatus":"BLOCKED_AT_CHATGPT_TO_CHROME","finalStatus":"PARTIAL_BACKFILL"},
+  "fullLocalArchive": {"filename":"NC-LASTEN-SOM-VARNADE-SIG-SJALV-retro-backfill-v2-full.zip","sha256":"5fd82ebff8b217d832d96efb9d8c41b7ec61d0934f557d31620a97bb9771c519","containsFull80RecordInventory":true}
+}

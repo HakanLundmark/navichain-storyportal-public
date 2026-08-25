@@ -1,0 +1,43 @@
+{
+  "storyId": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "status": "PARTIAL_BACKFILL",
+  "locales": {"sv-SE":"INCOMPLETE","en-GB":"INCOMPLETE"},
+  "narrativeMaster": {
+    "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+    "githubReadBackVerified": true
+  },
+  "enGbStory": {
+    "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "f82cf67a380d6a60ce244349a68e6cad0296817916f707545b987d371d6a0af7",
+    "githubReadBackVerified": true
+  },
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "retryProtocol": "BINARY-BACKFILL-RETRY.md",
+  "runtimeVerifiedOriginalAssets": {"sv-SE":14,"en-GB":4},
+  "publishedBinaryAssets": 0,
+  "readBackVerifiedBinaryAssets": 0,
+  "queueProbe": {
+    "path": "backfill-binary-queue/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-sv-SE-narrative-20260824T1727.json",
+    "sourceBlobSha": "dddc7f54b215f751e0a0680b9b65ef2c082e0b20",
+    "stillQueued": true,
+    "currentAssemblerCommitObserved": false
+  },
+  "automaticTransport": {
+    "chromeDownloadBridge": "UNAVAILABLE_IN_CURRENT_TOOL_SURFACE",
+    "nextcloudArchive": "NOT_VERIFIABLE_FROM_CURRENT_TOOL_SURFACE",
+    "hardenedRouter": "NOT_VERIFIABLE_FROM_CURRENT_TOOL_SURFACE",
+    "publisher": "NOT_VERIFIABLE_FROM_CURRENT_TOOL_SURFACE"
+  },
+  "failure": "The exact source binaries are directly accessible, but the current assistant tool surface cannot invoke the configured Chrome→local capture→Nextcloud→hardened router→publisher transport. Direct GitHub create_blob accepts inline base64 and no local file reference; bulk multi-megabyte historical files cannot be safely marshalled without truncation. A small exact-source v2 queue probe remained unconsumed, so no canonical image binary is claimed published.",
+  "sourceNotExportable": ["complete Product-Truth-corrected rewritten Narrative Master artifact"],
+  "missingCanonicalAssets": {"sv-SE":[],"en-GB":["panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]},
+  "historicalInventory": {"exactOriginalFiles":119,"derivedTranslations":1,"chatRecovered":0,"notCreated":24},
+  "checkedAt": "2026-08-24T17:27:00+02:00"
+}

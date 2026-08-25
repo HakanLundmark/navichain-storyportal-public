@@ -1,0 +1,111 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "SAMMA-KUND-TVA-VARLDAR",
+  "storyIdAuthority": "existing local WIP package metadata created in this chat",
+  "title": "SAMMA KUND, TVÅ VÄRLDAR",
+  "subtitle": "Petra, Torgny och portalen som visste vem som var vem",
+  "episode": 36,
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrativeMaster": {
+    "path": "stories/SAMMA-KUND-TVA-VARLDAR/ORIGINAL_STORY.md",
+    "status": "EXACT_ORIGINAL_GITHUB_VERIFIED",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 10867,
+    "sha256": "61a5b45408be5276d0df02047e340f47176d8232da41181d9b9a70df25a9d965",
+    "metadataPath": "stories/SAMMA-KUND-TVA-VARLDAR/source/original-story-sv-SE.meta.json"
+  },
+  "textArtifacts": {
+    "en-GB": {
+      "path": "stories/SAMMA-KUND-TVA-VARLDAR/source/original-story-en-GB.md",
+      "metadataPath": "stories/SAMMA-KUND-TVA-VARLDAR/source/original-story-en-GB.meta.json",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sha256": "58fd53574281dc90200f2bba10167f4166267d03d1880b22f85625be3d835d1b",
+      "status": "GITHUB_VERIFIED"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "currentRuntimeExportableCanonicalAssets": 14,
+      "requiredAssetCount": 14,
+      "missing": [],
+      "existsButNotExportable": [],
+      "githubPublishedBinaryAssets": 0,
+      "releaseBlockers": [
+        "panel_10 is directly exportable but REBUILD_REQUIRED because the current render diverges from the active story",
+        "cta_13 remains non-release-safe pending brand/CTA QA",
+        "full 14/14 PASS/LOCKED QA has not been established",
+        "social/LinkedIn copy is missing"
+      ],
+      "pdf": {
+        "status": "EXISTS_AND_EXPORTABLE_WIP",
+        "sourceFilename": "SAMMA-KUND-TVA-VARLDAR-sv-SE-current-carousel.pdf",
+        "githubBinaryPublished": false
+      },
+      "social": {"status": "MISSING"},
+      "releaseZip": {"status": "NOT_CREATED_BECAUSE_LOCALE_INCOMPLETE"}
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY",
+      "imageLocaleCreated": false,
+      "storyText": "GITHUB_VERIFIED",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  },
+  "assets": {
+    "cover_00": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"a_comic_book_style_illustrated_poster_cover_scene.png","bytes":3348844,"sha256":"4fcd66d02b36780c9e629e2d147d3de6a1cfc64730a3042a67dab2ff43ae3b8f","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_01": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"a_detailed_comic_illustration_style_panel_scene_in.png","bytes":3227137,"sha256":"6a913cab4e184e87a4d3b8953bd800fb8ef61e6ffb1a7cb3e7c62d7be1e640ab","dimensions":[1023,1537],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_02": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"förvirrade_leveranser_på_nya_portalen.png","bytes":3572829,"sha256":"35d91330b40e9921b58b3a322c4b8212eaf68cbd01adbf6b628a0ed09d68e736","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_03": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"misstänkt_order_från_okänd_adress.png","bytes":3511402,"sha256":"70e89bd587d36cbe8ae12876b951e061684a557182b95e063694ea8982922154","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_04": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"osäkra_svar_i_naviprortalen.png","bytes":3584915,"sha256":"ee7840ab45ae2d66c0d128faa9bf57e42c6555f9197095af88f39a4acf6d8698","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_05": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"tvekan_inför_den_viktiga_bokningen.png","bytes":3644807,"sha256":"97df7d81faffaf3ec48617f7df4a0e6effe8767242f9e24bea0e19c539127152","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_06": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"oskar_lind_och_den_gemensamma_vyn.png","bytes":3563340,"sha256":"826beca587aee5c6e214b02639d78165a37297480b0542f115234212084e71ca","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_07": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"oskar_ser_lösningen_i_strukturen.png","bytes":3480141,"sha256":"18b420e0846455547554f5e0b85d41705db32a7c4d3ed182d583997580463884","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_08": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"tydlig_struktur_på_kontoret.png","bytes":3486594,"sha256":"e66252f00851805285eff3338d30d3cde7b44c5f4a0947959abdd60bbc41e319","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_09": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"torgnys_säkra_portalinbjudan.png","bytes":3429047,"sha256":"2de8a1ccae7ca4cfce0b8cae9b57598d22fdff26f0427aa99e9d68356a73086a","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_10": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","qaState":"REBUILD_REQUIRED","qaReason":"FOREIGN_STORY_CONTENT: current render shows an unrelated eCMR/document-automation scene rather than Torgny's organization-scoped Customer Portal result","sourceFilename":"a_detailed_comic_style_illustration_panel_image.png","bytes":3163344,"sha256":"4cfeaccf19c79a5dbb71be96c5d55709e5552e297246cf8d6eae9c187117b6cc","dimensions":[1023,1537],"githubBinaryPublished":false},
+    "panel_11": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"imagegen.png","bytes":3701722,"sha256":"aa27b80ed7cd5de2e78d935b06f82e5bca5cfe10b74e94422ea2aaf31f9e95a4","dimensions":[1024,1536],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "panel_12": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","sourceFilename":"a_comic_book_style_illustration_poster_like_scen.png","bytes":3165347,"sha256":"2f79e5710f489fcecc749778e35e2120aaab09cf4950109703ba4734facf61e8","dimensions":[1024,1535],"qaState":"UNKNOWN","githubBinaryPublished":false},
+    "cta_13": {"status":"EXISTS_AND_EXPORTABLE","sourceClass":"EXACT_ORIGINAL","qaState":"REBUILD_REQUIRED","qaReason":"Current candidate is not established as release-safe under the active brand-critical logo/CTA contract","sourceFilename":"a_vintage_comic_advertisement_style_poster_illustr.png","bytes":3023422,"sha256":"d54841ec497a37e5def2d8de432239795d344f92c1c0f4d0a301648b9051798d","dimensions":[1024,1536],"githubBinaryPublished":false}
+  },
+  "sources": {
+    "NAVICHAIN-OFFICIAL-LOGO.png":"EXISTS_AND_EXPORTABLE",
+    "Korrekt QR kod till signup.png":"EXISTS_AND_EXPORTABLE",
+    "NAVICHAIN-PRODUCT-TRUTH.md":"EXISTS_AND_EXPORTABLE",
+    "Navichain_Market_Truth_MASTER_v1.0.md":"EXISTS_AND_EXPORTABLE"
+  },
+  "retroBackfillV2": {
+    "inventoryItems": 107,
+    "classificationCounts": {
+      "EXACT_ORIGINAL": 89,
+      "CHAT_RECOVERED": 0,
+      "DERIVED_TRANSLATION": 1,
+      "SOURCE_NOT_EXPORTABLE": 11,
+      "NOT_CREATED": 6
+    },
+    "canonicalExactOriginalAssets": 14,
+    "historicalRenderExtras": 11,
+    "svSEPackageFiles": 47,
+    "enGBPackageFiles": 2,
+    "automaticLocalTransportStatus": "UNAVAILABLE_FROM_THIS_CHAT_RUNTIME",
+    "nextcloudArchiveVerified": false,
+    "publisherVerified": false,
+    "binaryPublicationStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "github": {
+    "repository":"HakanLundmark/-navichain-storyportal",
+    "branch":"main",
+    "githubPublishedBinaryAssets":0,
+    "narrativeMasterReadBack":"PASS",
+    "enGBStoryReadBack":"PASS",
+    "binaryBackfillRetryStatus":"GITHUB_PUBLISH_FAILED",
+    "binaryRetryFailureReason":"The exact historical binaries are directly accessible and packaged byte-for-byte, but this ChatGPT runtime cannot invoke or observe the user's host Chrome-download/Nextcloud/hardened-router/publisher chain, and the connected GitHub binary action has no local-file parameter for safely transporting the 3–100+ MB local files. No binary is marked published without GitHub read-back.",
+    "canonicalImagesReadBack":"NOT_FOUND",
+    "binaryRetryCheckedAt":"2026-08-24T17:25:00+02:00"
+  },
+  "backfilledAt":"2026-08-24T17:25:00+02:00"
+}

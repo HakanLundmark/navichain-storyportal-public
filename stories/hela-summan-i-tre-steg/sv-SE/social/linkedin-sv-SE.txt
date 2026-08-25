@@ -1,0 +1,17 @@
+HELA SUMMAN, I TRE STEG
+
+En stor kund vill betala en faktura i tre delar. Inget konstigt i det.
+
+Det som blir svårt är att hålla reda på vad som faktiskt är registrerat när veckorna går, andra fakturor passerar och någon plötsligt frågar: ”Hur mycket är betalt nu?”
+
+I den här Navichain-storyn följer vi Åsa Renberg på Björklunda Åkeri AB. Hon börjar med tre post-it-lappar på skärmen. Sedan registrerar hon varje delbetalning själv, när pengarna faktiskt kommer in.
+
+Efter första registreringen blir fakturan Partially Paid. Efter den andra är läget fortfarande tydligt. När den sista betalningen registreras blir fakturan Paid.
+
+Poängen är inte automation för automationens skull. Det är att samma faktura kan bära en tydlig sanning genom hela förloppet — utan att Åsa behöver lita på minnet eller på tre gula lappar.
+
+Tre delbetalningar. En sanning, hela vägen igenom.
+
+Läs serien och se hur arbetsflödet fungerar i praktiken.
+
+navichain.se/signup

@@ -1,0 +1,97 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+  "title": "Fem minuter till gränsen",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "observedReleaseRevision": "v1.1",
+  "performedAt": "2026-08-24T22:09:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "inventory": {
+    "totalFound": 55,
+    "exactOriginal": 38,
+    "chatRecovered": 1,
+    "derivedTranslation": 1,
+    "sourceNotExportable": 12,
+    "notCreated": 3
+  },
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "sourceClass": "CHAT_RECOVERED",
+    "path": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-sv-SE.md",
+    "size": 8556,
+    "sha256": "1d6c7e518e07205563fae843d2cd700874ac768655433421b2d58ca7cf667f20",
+    "githubPublished": true,
+    "readBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "path": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-en-GB.md",
+    "size": 8545,
+    "sha256": "9951fa3d95fec7cb4574002e3ebee1df28f4b3c391c13e3bf9a78c3b870d133b",
+    "sourceStorySha256": "1d6c7e518e07205563fae843d2cd700874ac768655433421b2d58ca7cf667f20",
+    "githubPublished": true,
+    "readBackVerified": true,
+    "mergeCommit": "8a700f004c03f67f438697264c268f64826a5698"
+  },
+  "visuals": {
+    "canonicalHistoricalSourceRendersExactOriginal": 14,
+    "additionalHistoricalExactRenders": 16,
+    "githubPublishedBinaryAssets": 0,
+    "canonicalV11ReleasePngs": "SOURCE_NOT_EXPORTABLE",
+    "panel01HistoricalSourceCandidateQa": "REBUILD_REQUIRED",
+    "otherCanonicalHistoricalSourceCandidateQa": "UNKNOWN"
+  },
+  "pdfs": [
+    {
+      "filename": "NC-FEM-MINUTER-TILL-GRANSEN-sv-SE.pdf",
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 48769214,
+      "sha256": "854a7a42bdb82fd5c63b57fcee2e2683b39fde7e3f7e61e91a44bdaeb3f0b4c7",
+      "githubPublished": false
+    },
+    {
+      "filename": "Fem-minuter-till-gransen-SV-SE-v1.1.pdf",
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 49197375,
+      "sha256": "c581ea47bc13e558f1c45324c10b953e42b6dfa3c0b044202222addf63767714",
+      "githubPublished": false
+    }
+  ],
+  "localPackages": {
+    "svSE": {
+      "filename": "NC-FEM-MINUTER-TILL-GRANSEN-sv-SE-retro-backfill-v2.zip",
+      "size": 176404123,
+      "sha256": "e0dcbad5e36d53a3d28ac0eed4a8391a756e54d37b0ef2339b1b4e540b171235"
+    },
+    "enGB": {
+      "filename": "NC-FEM-MINUTER-TILL-GRANSEN-en-GB-retro-backfill-v2.zip",
+      "size": 4339,
+      "sha256": "10cf519c21a0f10146f43ab9076d3eab8acb2c6eee8ae7c23a7778a156e2ccd6"
+    }
+  },
+  "publishRequests": {
+    "svSE": {
+      "filename": "NC-FEM-MINUTER-TILL-GRANSEN-sv-SE.publish.json",
+      "sha256": "f859978690ebbf871eb12718d2d0807e3b4c3042425197933d828d21945a2579"
+    },
+    "enGB": {
+      "filename": "NC-FEM-MINUTER-TILL-GRANSEN-en-GB.publish.json",
+      "sha256": "d20db4927c8dc6e8017120886e089682fd956cc4b87e08c4b286af365629ae66"
+    }
+  },
+  "automaticTransport": {
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_CALLABLE_SURFACE",
+    "nextcloudArchive": "UNVERIFIED_TOOL_UNAVAILABLE",
+    "hardenedRouter": "NOT_EXECUTED",
+    "publisher": "NOT_EXECUTED"
+  },
+  "binaryBackfill": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "Exact local multi-megabyte binaries are accessible, but this runtime exposes no callable Chrome/Nextcloud/router/publisher transport and the GitHub blob action has no local-file parameter. No rerender, PDF extraction, substitution, or false blob/queue manifest was used."
+  }
+}

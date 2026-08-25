@@ -1,0 +1,9 @@
+qa:
+  storyId: tjugo-samtal-blev-ett
+  locale: sv-SE
+  pdf: tjugo-samtal-blev-ett_sv-SE.pdf
+  expectedPages: 14
+  renderInspection: PASS
+  pdfQrDecode: PASS
+  status: PASS
+  pdfQrPayload: https://navichain.se/signup

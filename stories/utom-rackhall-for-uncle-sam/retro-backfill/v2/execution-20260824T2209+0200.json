@@ -1,0 +1,69 @@
+{
+  "schema": "navichain-retro-backfill-v2-execution-receipt",
+  "storyId": "utom-rackhall-for-uncle-sam",
+  "title": "Utom räckhåll för Uncle Sam",
+  "executedAt": "2026-08-24T22:09:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "result": "PARTIAL_BACKFILL",
+  "rules": {
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedOrRestyled": false,
+    "provenanceKeptSeparateFromQa": true
+  },
+  "sourceRuntimeRecheck": {
+    "pointerFile": {
+      "path": "/mnt/data/Utom räckhåll för Uncle Sam.txt",
+      "size": 54,
+      "sha256": "4ea7bfd5387d709d62fdddd7db063f2f30a303985884c2dc6624edbd2288b848",
+      "content": "/mnt/data/out_of_reach_of_uncle_sam_en-US_carousel.pdf"
+    },
+    "referencedEnUsPdfPresent": false,
+    "priorArchivePackagePresent": false,
+    "currentStandaloneHistoricalComicBinariesPresent": false,
+    "chatRecoverableVisibleRendersExposedToThisRuntime": false
+  },
+  "githubReadBack": {
+    "narrativeMaster": {
+      "path": "stories/utom-rackhall-for-uncle-sam/ORIGINAL_STORY.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "2f16b6d9d2627ddd2031935064c49913cca4cbdc51e853d91bf3a0974bb12888",
+      "verified": true
+    },
+    "englishStory": {
+      "path": "stories/utom-rackhall-for-uncle-sam/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sha256": "7db61d3987b0a23f2f8c4191452c1d25623131919526f46b2ba5201bd71359ff",
+      "verified": true
+    },
+    "storyMetadataPath": "stories/utom-rackhall-for-uncle-sam/story.json",
+    "indexContainsStory": true,
+    "canonicalSvSeImagesDirectoryExists": false,
+    "githubPublishedBinaryAssets": 0
+  },
+  "preservedHistoricalInventoryFromPriorVerifiedBackfill": {
+    "records": 141,
+    "EXACT_ORIGINAL": 110,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 28,
+    "NOT_CREATED": 2,
+    "note": "These counts describe the earlier verified historical inventory. They are not claims that the corresponding original binary bytes remain accessible in the current runtime."
+  },
+  "canonicalLocaleHistory": {
+    "sv-SE": {"historicallyExportableExactOriginal": 11, "sourceNotExportable": ["panel_04", "panel_08", "panel_09"], "status": "INCOMPLETE"},
+    "en-US": {"historicallyExportableExactOriginal": 13, "sourceNotExportable": ["panel_06"], "status": "INCOMPLETE"},
+    "de-DE": {"historicallyExportableExactOriginal": 13, "sourceNotExportable": ["cta_13"], "status": "INCOMPLETE"},
+    "en-GB": {"historicallyExportableExactOriginal": 6, "sourceNotExportable": ["panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"], "status": "INCOMPLETE"}
+  },
+  "transport": {
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryGithubPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "reason": "This execution environment exposes no Chrome download-control surface and no connected Nextcloud write surface. The exact historical binaries and the prior 370359232-byte archive package are no longer present in the current /mnt/data runtime, and no actual source-chat render is exposed here for deterministic CHAT_RECOVERED extraction. No replacement was created."
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

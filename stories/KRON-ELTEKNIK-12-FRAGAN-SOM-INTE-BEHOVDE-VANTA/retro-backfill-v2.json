@@ -1,0 +1,72 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA",
+  "title": "FRÅGAN SOM INTE BEHÖVDE VÄNTA",
+  "checkedAt": "2026-08-24T19:36:00+02:00",
+  "indexPatchTriggerRevision": 1,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "7c623317827aaebeed74517ab76e5163c9fa9312c9f74726e0cb11bad152323b",
+    "githubReadbackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "sourceStorySha256": "7c623317827aaebeed74517ab76e5163c9fa9312c9f74726e0cb11bad152323b",
+    "sha256": "f2d8fe1fd788b3571c6820bb9ffdfc653c68e4c2f1c0b21f2b541985557feedd",
+    "githubReadbackVerified": true
+  },
+  "inventory": {
+    "exactOriginal": 68,
+    "chatRecovered": 0,
+    "derivedTranslation": 1,
+    "sourceNotExportable": 0,
+    "notCreated": 26,
+    "localInventorySha256": "7c14ed5a0d761c5b6429d689a322b7be9670359e705323882c3481568e49d87f"
+  },
+  "svSE": {
+    "canonicalImagesExactOriginal": 14,
+    "historicalQaStatus": "PASS_MANUAL_CTA_APPROVAL",
+    "pdfExactOriginal": true,
+    "socialExactOriginal": true,
+    "releaseManifestExactOriginal": true,
+    "releasePackageSha256": "0355e86a29d697cc3c2c0f01fcf78d5a51afeda440da6d665b9b2f009e933a2d",
+    "githubPublishedBinaryAssets": 0,
+    "githubStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "genericEnglishHistoricalVisuals": {
+    "locale": "en",
+    "exactOriginalCanonicalCandidates": ["cover_00", "panel_02", "panel_03"],
+    "qaStatus": "UNKNOWN",
+    "missing": ["panel_01", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+    "githubPublishedBinaryAssets": 0,
+    "githubStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "automaticTransport": {
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "reason": "No connected Chrome-download/local-capture/Nextcloud write surface is exposed to this ChatGPT runtime. The requested external automatic chain therefore cannot be initiated or read back here.",
+    "nextcloudArchiveVerified": false,
+    "manualPublisherCommandsRun": false
+  },
+  "binaryBackfill": {
+    "protocolAvailableInRepository": true,
+    "assemblerWorkflowAvailable": true,
+    "result": "GITHUB_PUBLISH_FAILED",
+    "reason": "Large exact PNG/PDF/ZIP bytes cannot all be transferred through the available in-band GitHub connector payload path in this run, and bypassing the requested automatic transport with manual publisher commands was prohibited."
+  },
+  "completeHistoryPackage": {
+    "filename": "KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA-retro-backfill-v2-complete-history.zip",
+    "size": 379387241,
+    "sha256": "55cb595b444dc10b477bd53862e7a9bd85f6a30a417c98dc79832b094698fbbe",
+    "githubPublished": false
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

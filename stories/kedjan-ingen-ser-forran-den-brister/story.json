@@ -1,0 +1,48 @@
+{
+  "storyId": "kedjan-ingen-ser-forran-den-brister",
+  "title": "KEDJAN INGEN SER — FÖRRÄN DEN BRISTER",
+  "subtitle": "Kenneth och länken mellan inköp, lager och verkstad",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "HISTORICAL_SOURCE_COMPLETE_RELEASE_QA_UNKNOWN",
+  "releaseQaStatus": "UNKNOWN_NOT_REESTABLISHED",
+  "narrativeMasterPath": "stories/kedjan-ingen-ser-forran-den-brister/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "621a6f421d38bc3c8dceae28dc5f1fe09c49e3ccd166f951609066ec9582e249",
+  "enGbStoryPath": "stories/kedjan-ingen-ser-forran-den-brister/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "92ae34ae08d08a6aa43e0be58cf3b707679da2cd29c57f7d8669d01e2e272ed5",
+  "locales": {
+    "sv-SE": {
+      "historicalCanonicalAssets": 14,
+      "sourceClassification": "COMPLETE_HISTORICAL_SOURCE",
+      "qaStatus": "UNKNOWN_NOT_REESTABLISHED",
+      "releaseEligible": false,
+      "githubPublishedBinaryAssets": 0,
+      "social": "SOURCE_NOT_EXPORTABLE"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "visualAssets": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "historicalRenderHistory": {
+    "exactOriginalNonReleaseRenders": 11,
+    "qaStatus": "UNKNOWN_NON_RELEASE_HISTORY"
+  },
+  "localRetroPackage": {
+    "filename": "kedjan-ingen-ser-forran-den-brister-retro-backfill-v2-20260824-2223.zip",
+    "size": 79957300,
+    "sha256": "df6d8803edad842987691a14a1a7bbab021db6d600baf564300494066474fd7c",
+    "publishRequestFileCount": 41
+  },
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryPublishFailureReason": "The automatic Chrome/local-capture/Nextcloud transport is not invokable from the available connected-tool surface in this run. Exact binary source bytes remain preserved in the downloadable package; no source bytes were altered, reconstructed or substituted. Canonical GitHub binary paths were read back and are absent."
+}

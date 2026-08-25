@@ -1,0 +1,10 @@
+{
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "requiredAssets": 14,
+  "exportableOriginalAssets": 11,
+  "existsButNotExportable": ["cover_00.png", "panel_01.png", "panel_07.png"],
+  "missing": ["PDF carousel"],
+  "releasePublished": false,
+  "workingArchivePublished": false
+}

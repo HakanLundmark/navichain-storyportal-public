@@ -1,0 +1,116 @@
+{
+  "schema": "navichain-storyportal-story-v2-backfill",
+  "storyId": "utom-rackhall-for-uncle-sam",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "Utom räckhåll för Uncle Sam",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "releaseStatus": "INCOMPLETE",
+  "canonicalOriginalStory": {
+    "path": "stories/utom-rackhall-for-uncle-sam/ORIGINAL_STORY.md",
+    "sourceMirrorPath": "stories/utom-rackhall-for-uncle-sam/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "2f16b6d9d2627ddd2031935064c49913cca4cbdc51e853d91bf3a0974bb12888",
+    "gitBlobSha": "b4ea0127885d9ce470937afb7967c48d27af5d9e",
+    "narrativeMaster": true,
+    "githubStatus": "PUBLISHED_AND_READ_BACK_VERIFIED"
+  },
+  "englishStory": {
+    "path": "stories/utom-rackhall-for-uncle-sam/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "2f16b6d9d2627ddd2031935064c49913cca4cbdc51e853d91bf3a0974bb12888",
+    "sha256": "7db61d3987b0a23f2f8c4191452c1d25623131919526f46b2ba5201bd71359ff",
+    "gitBlobSha": "4259cccbce19c98d1e9bfb230469a223957b9958",
+    "githubStatus": "PUBLISHED_AND_READ_BACK_VERIFIED"
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T22:04:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "currentRuntimeInventory": {
+      "records": 135,
+      "EXACT_ORIGINAL": 76,
+      "CHAT_RECOVERED": 0,
+      "DERIVED_TRANSLATION": 1,
+      "SOURCE_NOT_EXPORTABLE": 58,
+      "NOT_CREATED": 0,
+      "completeInventorySha256": "67b2337f6f5c91491d0afbcfffc3e834b02dbb892a373772ccf289f5d9c56ca2"
+    },
+    "priorInventoryHint": {
+      "checkedAt": "2026-08-24T19:39:00+02:00",
+      "records": 141,
+      "EXACT_ORIGINAL": 110,
+      "SOURCE_NOT_EXPORTABLE": 28,
+      "use": "recovery hint only; current runtime re-verification controls exportability"
+    },
+    "statusPath": "stories/utom-rackhall-for-uncle-sam/retro-backfill/v2/status.json",
+    "exportQaPath": "stories/utom-rackhall-for-uncle-sam/retro-backfill/v2/export-qa.md",
+    "missingAssetsPath": "stories/utom-rackhall-for-uncle-sam/retro-backfill/v2/MISSING_ASSETS.md",
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_NEXTCLOUD_WRITE_SURFACE",
+    "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+    "githubPublishedBinaryAssets": 0,
+    "historicalRenderArtifactsExactCurrentRuntime": 50
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "canonicalOriginalAssetCountExactCurrentRuntime": 6,
+      "githubPublishedBinaryAssets": 0,
+      "assets": {
+        "cover_00": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+        "panel_01": {"sourceClass":"EXACT_ORIGINAL","historicalQaStatus":"UNKNOWN","sourceFilename":"a_detailed_comic_style_illustration_panel_in_a_ret.png","size":3542215,"sha256":"eedb4353c556fc2f347567e8d18d3d4bb0afbc8460b9b7f9348c36db62b5c70d","githubStatus":"NOT_PUBLISHED"},
+        "panel_02": {"sourceClass":"EXACT_ORIGINAL","historicalQaStatus":"UNKNOWN","sourceFilename":"molnjuridik_på_kontoret.png","size":3151028,"sha256":"e41c872974072dca0b381a8535191a15af61f83212feb3611a403d8a3e4b7b55","githubStatus":"NOT_PUBLISHED"},
+        "panel_03": {"sourceClass":"EXACT_ORIGINAL","historicalQaStatus":"UNKNOWN","sourceFilename":"moln_lag_och_skuggor.png","size":3065087,"sha256":"8d77e5e6b89567b714ab0f700fb49b2ccef7d9304b8e7065e834c3d4e60bbb65","githubStatus":"NOT_PUBLISHED"},
+        "panel_04": {"sourceClass":"EXACT_ORIGINAL","historicalQaStatus":"UNKNOWN","sourceFilename":"a_detailed_comic_magazine_illustration_page_in_a.png","size":3753619,"sha256":"255bc31dff6eed9f88ecf69912378f71108d064d2b5d56c3de4f6875a782ce8a","githubStatus":"NOT_PUBLISHED"},
+        "panel_05": {"sourceClass":"EXACT_ORIGINAL","historicalQaStatus":"UNKNOWN","sourceFilename":"a_detailed_comic_book_style_illustration_panel_te.png","size":3792792,"sha256":"eb8b975a8e535386c6e1a7cfaf7686f93ee5158e076a66ef46b2fd0da95494b4","githubStatus":"NOT_PUBLISHED"},
+        "panel_06": {"sourceClass":"EXACT_ORIGINAL","historicalQaStatus":"UNKNOWN","sourceFilename":"fika_med_svensk_datasäkerhet.png","size":3309624,"sha256":"a101a67b145f3af8668a1f07b295fcfc2f77c1de946466fadf700ef34a73aa33","githubStatus":"NOT_PUBLISHED"},
+        "panel_07": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+        "panel_08": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+        "panel_09": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+        "panel_10": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+        "panel_11": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+        "panel_12": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+        "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"}
+      },
+      "pdf": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"},
+      "social": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalQaStatus":"UNKNOWN"}
+    },
+    "en-US": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "canonicalOriginalAssetCountExactCurrentRuntime": 0,
+      "githubPublishedBinaryAssets": 0,
+      "visuals": "SOURCE_NOT_EXPORTABLE",
+      "pdf": "SOURCE_NOT_EXPORTABLE"
+    },
+    "de-DE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "canonicalOriginalAssetCountExactCurrentRuntime": 0,
+      "githubPublishedBinaryAssets": 0,
+      "visuals": "SOURCE_NOT_EXPORTABLE",
+      "pdf": "SOURCE_NOT_EXPORTABLE"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "canonicalOriginalAssetCountExactCurrentRuntime": 0,
+      "githubPublishedBinaryAssets": 0,
+      "storyText": "DERIVED_TRANSLATION_PUBLISHED_AND_READ_BACK_VERIFIED",
+      "visuals": "SOURCE_NOT_EXPORTABLE",
+      "pdf": "NOT_CREATED_OR_NOT_VERIFIED"
+    }
+  },
+  "notes": [
+    "Current runtime re-verification overrides prior exportability hints.",
+    "Provenance and historical QA status remain separate.",
+    "Historical rejected or REBUILD_REQUIRED renders are not promoted to PASS/LOCKED.",
+    "No missing image or PDF was reconstructed, cropped/extracted, restyled or rerendered.",
+    "Binary publication remains failed until final canonical paths can be read back from GitHub."
+  ]
+}

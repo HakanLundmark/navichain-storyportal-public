@@ -1,0 +1,61 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "NC-SWF-018",
+  "storyIdAuthority": "chat-story-lock-candidate",
+  "title": "INGEN PÅ PLATS, ÄNDÅ EN PLAN",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "backfilledAt": "2026-08-23T08:32:00+02:00",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE"
+  },
+  "currentAssetsZip": "sv-SE/source/current-assets.zip",
+  "currentAssetsImageCount": 13,
+  "releaseValidCanonicalAssets": 8,
+  "currentAssets": [
+    "cover_00",
+    "cta_13",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12"
+  ],
+  "requiredAssets": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "missingOrInvalidForRelease": [
+    "panel_04",
+    "panel_06",
+    "panel_07",
+    "panel_10",
+    "panel_11",
+    "panel_12"
+  ],
+  "pdf": null,
+  "social": null,
+  "releaseZip": null,
+  "originalStory": "ORIGINAL_STORY.md",
+  "sourcesBundle": "sources/story-sources.zip",
+  "rejectedPanel04Bundle": "sv-SE/qa/panel_04-rejected-attempts.zip"
+}

@@ -1,0 +1,16 @@
+ADRESSEN SOM INTE FICK FLYTTA PÅ SIG
+
+En kund ber om en liten adressjustering. Några hundra meter. Två minuters jobb, tänker Nils.
+
+Men adressen är redan använd på bokningar, och koordinaterna är låsta.
+
+Det är inte ett hinder för hindrandets skull. Det är ett skydd mot att en ändring i delad masterdata råkar omdirigera redan planerat arbete.
+
+Nils gör därför det som faktiskt behövs: han lägger till en ny, korrekt adress för den aktuella leveransen och låter den tidigare adressen ligga kvar för det arbete som redan bygger på den.
+
+Rätt leverans får rätt adress. Resten står kvar precis där det ska.
+
+Navichain är verktyget. Nils är den som förstår varför spärren finns – och väljer rätt väg framåt.
+
+Läs mer / skapa konto:
+https://navichain.se/signup

@@ -1,0 +1,60 @@
+{
+  "schema": "navichain-binary-backfill-retry-report-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T00:42:00+02:00",
+  "protocol": "BINARY-BACKFILL-RETRY.md",
+  "githubRepository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "runtimeVerification": {
+    "canonicalCandidatesDirectlyAccessible": 5,
+    "sourceNotExportableCanonicalAssets": 9,
+    "githubPublishedCanonicalBinaryAssetsReadBack": 0,
+    "githubImagesPathReadBack": "404_NOT_FOUND",
+    "staleRecoveryHint": "The 2026-08-24T00:20+02 retry report claimed 14 runtime-accessible canonical originals plus PDF/ZIP. Each exact reported filename/path was rechecked against the current runtime and is no longer present. Those claims were treated only as recovery hints, not current source accessibility."
+  },
+  "assets": {
+    "cover_00": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_detailed_comic_book_cover_style_illustration_p.png","size":3241962,"dimensions":"1024x1536","sha256":"73af2632b443800e13192566cc516e69d3dc927eb624526768e552e58f2b34e9","qa":"REBUILD_REQUIRED_existing_candidate_branding_not_release_verified"},
+    "panel_01": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_book_style_illustration_page_panel_vintag.png","size":3163328,"dimensions":"1086x1448","sha256":"5de3f5b442231799233cb7ddf290ff58970b65aa27d7c1b7d785817281f1ee9e","qa":"approval_not_established"},
+    "panel_02": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_book_style_illustration_panel_tintin_like.png","size":2908946,"dimensions":"1086x1448","sha256":"9c04c25675f99890b1d3542fc2e8e1d11c07f59092d87f692d616b91aad9f815","qa":"approval_not_established"},
+    "panel_03": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_style_illustration_in_a_vintage_ligne_clai.png","size":3093526,"dimensions":"1086x1448","sha256":"d5dac9b7e2c2dea4074d6f41c9f2b0e647eb52104c25ddc567e9fcbf9b4485f3","qa":"approval_not_established"},
+    "panel_04": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"No exact currently mapped original binary is directly accessible in the current runtime. Historical/current-prior filenames are recovery hints only."},
+    "panel_05": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"No exact currently mapped original binary is directly accessible in the current runtime. Historical/current-prior filenames are recovery hints only."},
+    "panel_06": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"No exact currently mapped original binary is directly accessible in the current runtime. Historical/current-prior filenames are recovery hints only."},
+    "panel_07": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"tiderna_finns_redan_i_bilderna.png","size":3391371,"dimensions":"1024x1536","sha256":"1f78aa0a2ac5d2323090d96493092b7fc13556f441fec1eb935e3a90c4dea58e","qa":"approval_not_established"},
+    "panel_08": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"No exact currently mapped original binary is directly accessible in the current runtime. Historical/current-prior filenames are recovery hints only."},
+    "panel_09": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"No exact currently mapped original binary is directly accessible in the current runtime. Historical/current-prior filenames are recovery hints only."},
+    "panel_10": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"The previously inventoried exact original binary is not directly accessible in the current runtime."},
+    "panel_11": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"The previously inventoried exact original binary is not directly accessible in the current runtime."},
+    "panel_12": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"The previously inventoried exact original binary is not directly accessible in the current runtime."},
+    "cta_13": {"classification":"SOURCE_NOT_EXPORTABLE","reason":"The previously inventoried exact original binary is not directly accessible in the current runtime."}
+  },
+  "otherBinaries": {
+    "pdf": {"classification":"SOURCE_NOT_EXPORTABLE","historicalPath":"/mnt/data/klockan_som_inte_ljog_sv-SE_package/carousel/klockan_som_inte_ljog_sv-SE.pdf","reason":"Historical path from the 00:20 retry report is absent in the current runtime."},
+    "releaseZip": {"classification":"SOURCE_NOT_EXPORTABLE","historicalPath":"/mnt/data/klockan_som_inte_ljog_sv-SE_package.zip","reason":"Historical path from the 00:20 retry report is absent in the current runtime."}
+  },
+  "sourceBinaryPublication": {
+    "officialLogo": {
+      "status": "SYNCED",
+      "sourceFilename": "NAVICHAIN-OFFICIAL-LOGO.png",
+      "destinationPath": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sources/NAVICHAIN-OFFICIAL-LOGO.png",
+      "size": 15270,
+      "sha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+      "gitBlobSha": "813a548d318bad9c41ad92ef49dd012bbe2cc5c3",
+      "queueCommit": "1549594d5217f79c605cef403eb69eb2a96d7ec4",
+      "assemblerCommit": "e469ffaf3886547c0263ff5d1808ed068394480e",
+      "doneManifest": "backfill-binary-done/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-logo-20260824T0021.json",
+      "readBackVerified": true
+    }
+  },
+  "binaryTransportAttempt": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "The connected GitHub create_blob action accepts only inline string/base64 content and exposes no local-file/file-reference parameter. The five currently accessible mapped story originals are multi-megabyte binaries. The available runtime/tool boundary does not provide a safe programmatic bridge from their local bytes into repeated create_blob calls; a partial/truncated binary must not be queued. One exact initial cover chunk was created only as a transport probe, but no incomplete image manifest was queued or counted as publication.",
+    "canonicalImageQueueManifestCreated": false,
+    "canonicalImageAssemblerWorkflowTriggered": false,
+    "canonicalImagePublishedCount": 0
+  },
+  "result": "GITHUB_PUBLISH_FAILED",
+  "releaseStatusPreserved": "INCOMPLETE"
+}

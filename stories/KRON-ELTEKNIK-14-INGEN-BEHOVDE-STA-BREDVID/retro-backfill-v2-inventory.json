@@ -1,0 +1,52 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID",
+  "title": "INGEN BEHÖVDE STÅ BREDVID",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "inventoryAt": "2026-08-24T22:07:00+02:00",
+  "releaseStatus": "INCOMPLETE",
+  "retroBackfillStatus": "PARTIAL_BACKFILL",
+  "narrative": {
+    "sv-SE": {"sourceClass":"EXACT_ORIGINAL","filename":"original-story-sv-SE.md","size":9754,"sha256":"c03e64a46901922839a8fdcd2c82b80bef1e205116cf2403441d25b26809022b","repoPath":"stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/original-story-sv-SE.md","githubReadBack":"VERIFIED","narrativeMaster":true},
+    "en-GB": {"sourceClass":"DERIVED_TRANSLATION","filename":"original-story-en-GB.md","size":9957,"sha256":"316753099e20651e5ff8c24cd304ce537781471bd8c76f90e2fed08431c6edd7","sourceStorySha256":"c03e64a46901922839a8fdcd2c82b80bef1e205116cf2403441d25b26809022b","repoPath":"stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/original-story-en-GB.md","githubReadBack":"VERIFIED","narrativeMaster":false,"translationType":"faithful"},
+    "preflightOriginal": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REVISE_THEN_LOCK_READY","comment":"Exact standalone original preflight is not retained; only a later digest survives."},
+    "preflightDigest": {"sourceClass":"EXACT_ORIGINAL","filename":"preflight-review-sv-SE.md","size":1777,"sha256":"9cb8eb0355841dcac5c0bc55c6c9d353e5a99109356f24825b73ff7e99e9f50c","repoPath":"stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/preflight-review-sv-SE.md","githubReadBack":"VERIFIED"},
+    "storyLock":"NOT_CREATED","storyDna":"NOT_CREATED","continuity":"NOT_CREATED","castCharacterVehicleEnvironmentLocks":"NOT_CREATED","standaloneRealityValidation":"NOT_CREATED","standaloneLocalizationNotes":"NOT_CREATED","releaseNotes":"NOT_CREATED"
+  },
+  "sv-SE": {
+    "canonicalAssets": {
+      "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3455310,"sha256":"925db47bdc0328359982cc3035157d99fb132ff5f0eec3855fbafc3c5244919d","dimensions":[1024,1536],"intendedRepoPath":"stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/sv-SE/images/cover_00.png","githubStatus":"GITHUB_PUBLISH_FAILED"},
+      "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2876185,"sha256":"a9ba24ec66cee26a7e518cfea81598dd684efac99bcded799991ac30ac0cd058","dimensions":[1073,1466],"intendedRepoPath":"stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/sv-SE/images/panel_01.png","githubStatus":"GITHUB_PUBLISH_FAILED"},
+      "panel_02": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","priorSize":3115216,"priorSha256":"1e42411b70c66d4fd79eecab97b5afdebbd844e2c6e57d8e49ff653aa658bda1","dimensions":[1054,1492]},
+      "panel_03":{"sourceClass":"NOT_CREATED"},"panel_04":{"sourceClass":"NOT_CREATED"},"panel_05":{"sourceClass":"NOT_CREATED"},"panel_06":{"sourceClass":"NOT_CREATED"},
+      "panel_07": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","priorSize":2998843,"priorSha256":"0e16e0daf460da56fe7501b68cf15641399338780e3a689540e56a40ba8cbbf3","dimensions":[1054,1492]},
+      "panel_08":{"sourceClass":"NOT_CREATED"},"panel_09":{"sourceClass":"NOT_CREATED"},"panel_10":{"sourceClass":"NOT_CREATED"},"panel_11":{"sourceClass":"NOT_CREATED"},"panel_12":{"sourceClass":"NOT_CREATED"},"cta_13":{"sourceClass":"NOT_CREATED"}
+    },
+    "priorHistoricalRendersNowSourceNotExportable": [
+      {"filename":"prior-runtime-canonical-cover_00.png","qaStatus":"REBUILD_REQUIRED","size":3547603,"sha256":"202e323ff6105f9a487be646f45701a460d8a86fb87b4199be6a36dd857cdf01","dimensions":[1024,1536]},
+      {"filename":"cover_00-attempt-01.png","qaStatus":"REBUILD_REQUIRED","size":3374867,"sha256":"b12f03c134dc626fb90c4aaa4126a1d58ec2bcbd80d1d494ea7123f96891b6f3","dimensions":[1024,1536]},
+      {"filename":"panel_07-attempt-01.png","qaStatus":"REBUILD_REQUIRED","size":2934681,"sha256":"8517b634191abf8a5aa5c18dbed0a41911cd448e6a992804081b0a0f0e76322f","dimensions":[1054,1492]},
+      {"filename":"panel_02-attempt-produced-panel_07.png","qaStatus":"REBUILD_REQUIRED","size":2813080,"sha256":"b906b3109d45aa378c537ffe9aede55f13a896418b985f6e6bea4052facd7b30","dimensions":[1122,1402]},
+      {"filename":"multi-asset-presentation-artboard.png","qaStatus":"REBUILD_REQUIRED","size":3345286,"sha256":"74c15f8d4597686310c0edb295d414abc07e77edd16cea0e90b4e48435ce5076","dimensions":[1536,1024]},
+      {"filename":"multi-asset-storyboard-layout.png","qaStatus":"REBUILD_REQUIRED","size":3118968,"sha256":"bf0962e32c1eeec4a2139e8c1a6aed06a50b84117791dd8fdff0ee942cb7b206","dimensions":[1198,1313]},
+      {"filename":"multi-asset-full-page-layout.png","qaStatus":"REBUILD_REQUIRED","size":3120995,"sha256":"2c623253d1ff5c425d1e401d73f6f1e61097d01e15e78d1097edda756669e9af","dimensions":[1198,1313]},
+      {"filename":"multi-asset-storyboard-brochure.png","qaStatus":"REBUILD_REQUIRED","size":3089683,"sha256":"e885ea02355d30a934a18fbb1ad850c191f36f7894cc19414d222597198f218b","dimensions":[1108,1420]}
+    ]
+  },
+  "derived": {"pdfCarousel":"NOT_CREATED","linkedinSocial":"NOT_CREATED","socialImages":"NOT_CREATED","thumbnails":"NOT_CREATED","historicalReleaseManifest":"NOT_CREATED","historicalReleaseReport":"NOT_CREATED","historicalReleaseZip":"NOT_CREATED"},
+  "currentLocalArchive": {"filename":"KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID-retro-backfill-v2-20260824-2207.zip","size":17569378,"sha256":"7f9877bf25274b3c50f01058d0fa3105c858739d21a4912ece2eaf6c9607df6a","zipValidation":"PASS"},
+  "priorRetroArchiveNowSourceNotExportable": {"filename":"KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID-retro-backfill-v2-20260824.zip","size":42454892,"sha256":"24996957c719be8175f91824fd580d219e614f91c6d65c615559c3b8abff7bf9"},
+  "sourceReferences": {
+    "NAVICHAIN-OFFICIAL-LOGO.png":{"size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","dimensions":[500,300]},
+    "Korrekt QR kod till signup.png":{"size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","dimensions":[550,574]},
+    "NAVICHAIN-PRODUCT-TRUTH.md":{"size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    "Navichain_Market_Truth_MASTER_v1.0.md":{"size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"},
+    "VISUAL-REFERENCE-01-CTA.png":{"size":3273662,"sha256":"68d91301106055b9afa171004f6f921cb47f695adbbf86507ab5d12bdcb50556","dimensions":[1536,1024]},
+    "VISUAL-REFERENCE-02-PANELS.png":{"size":3941179,"sha256":"04e1929de17d9484db59b061a4d1d3c8db8e691faf566a89d56438427fbcc0a2","dimensions":[1024,1536]},
+    "VISUAL-REFERENCE-03-COVER.png":{"size":3810846,"sha256":"4616a57e7a08113d7451c744d2c526cc5f00f6ec7ad457ba435864f8fc13742e","dimensions":[1536,1024]}
+  },
+  "automaticTransport": {"chromeDownload":"UNAVAILABLE_AS_INVOKABLE_TOOL","localCapture":"UNAVAILABLE_AS_INVOKABLE_TOOL","nextcloudArchive":"UNAVAILABLE_AS_INVOKABLE_TOOL","hardenedRouter":"UNAVAILABLE_AS_INVOKABLE_TOOL","publisher":"UNAVAILABLE_AS_INVOKABLE_TOOL","githubConnector":"AVAILABLE"},
+  "summary": {"EXACT_ORIGINAL_STORY_TEXT":2,"DERIVED_TRANSLATION":1,"CURRENT_EXACT_CANONICAL_VISUALS":2,"CHAT_RECOVERABLE":0,"SOURCE_NOT_EXPORTABLE_CANONICAL_VISUALS":2,"NOT_CREATED_CANONICAL_VISUALS":10,"GITHUB_PUBLISHED_BINARY_ASSETS":0},
+  "notes": ["No rerendering/reconstruction/cropping/restyling/replacement performed.","Provenance and QA status remain separate.","No current visual is marked SYNCED because final GitHub binary read-back did not occur."]
+}

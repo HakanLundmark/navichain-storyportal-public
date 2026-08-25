@@ -1,0 +1,25 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "ingen-losen-att-krava",
+  "locale": "en-GB",
+  "sourceLocale": "sv-SE",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "qaStatus": "DERIVED_TRANSLATION_NOT_IMAGE_QA",
+  "sourceStoryPath": "stories/ingen-losen-att-krava/sources/original-story-sv-SE.md",
+  "sourceStorySha256": "28f056cf5f84d2984b2c02ef5f571cd6440f0f63c476b200ee89c7930aba7ea1",
+  "filename": "original-story-en-GB.md",
+  "size": 12537,
+  "sha256": "da2d1f90097cc056217b48aa228dbd4b97b35566e584392d7f01fb6535d01e8d",
+  "gitBlobSha": "21892a3f372df1d7bfa30b56b92a3cf8e0ffc64d",
+  "provenance": "Faithful en-GB text translation made directly from the canonical sv-SE Narrative Master. No image assets were translated or regenerated.",
+  "publicationState": "GITHUB_VERIFIED",
+  "intendedRepoPath": "stories/ingen-losen-att-krava/sources/original-story-en-GB.md",
+  "publishedPath": "stories/ingen-losen-att-krava/sources/original-story-en-GB.md",
+  "transport": {
+    "requestedPipeline": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "actual": "DIRECT_GITHUB_CONNECTOR_FALLBACK",
+    "reason": "No callable Chrome/local-capture/Nextcloud/router/publisher connector is exposed in this chat runtime. GitHub publication and read-back are available directly."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "vem-bar-ansvaret",
+  "title": "Vem bär ansvaret? — Svaret som fanns innan frågan ställdes",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "canonicalStoryPath": "stories/vem-bar-ansvaret/ORIGINAL_STORY.md",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "releaseEligibleAssetCount": 13,
+      "missingOrRejected": ["panel_09"],
+      "reason": "The only packaged panel_09 was explicitly reconstructed during packaging after the earlier image-generator runtime file was overwritten. A later panel_09 rebuild attempt was rejected as wrong-story/foreign-content. Under the backfill no-reconstruction rule there is no verified original release-eligible panel_09 to publish as canonical.",
+      "availableOutputs": {
+        "pdfCarousel": "EXISTS_AND_EXPORTABLE_BUT_STALE_INELIGIBLE_FOR_COMPLETE_RELEASE",
+        "linkedin": "EXISTS_AND_EXPORTABLE",
+        "qa": "EXISTS_AND_EXPORTABLE_BUT_DESCRIBES_PRIOR_RECONSTRUCTED_BUILD",
+        "manifest": "EXISTS_AND_EXPORTABLE_BUT_DESCRIBES_PRIOR_RECONSTRUCTED_BUILD",
+        "sources": "EXISTS_AND_EXPORTABLE"
+      }
+    }
+  },
+  "assets": {
+    "cover_00": "EXISTS_AND_EXPORTABLE",
+    "panel_01": "EXISTS_AND_EXPORTABLE",
+    "panel_02": "EXISTS_AND_EXPORTABLE",
+    "panel_03": "EXISTS_AND_EXPORTABLE",
+    "panel_04": "EXISTS_AND_EXPORTABLE",
+    "panel_05": "EXISTS_AND_EXPORTABLE",
+    "panel_06": "EXISTS_AND_EXPORTABLE",
+    "panel_07": "EXISTS_AND_EXPORTABLE",
+    "panel_08": "EXISTS_AND_EXPORTABLE",
+    "panel_09": "MISSING_RELEASE_ELIGIBLE_ORIGINAL",
+    "panel_10": "EXISTS_AND_EXPORTABLE",
+    "panel_11": "EXISTS_AND_EXPORTABLE",
+    "panel_12": "EXISTS_AND_EXPORTABLE",
+    "cta_13": "EXISTS_AND_EXPORTABLE"
+  },
+  "release": {
+    "eligible": false,
+    "releaseZipPublished": false,
+    "note": "No COMPLETE locale exists in this chat under the user's no-reconstruction rule; therefore no release ZIP is published under releases/ for this backfill."
+  },
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "inventoryPath": "stories/vem-bar-ansvaret/retro-v2/retro-backfill-v2-inventory.json",
+    "nonvisualInventoryPath": "stories/vem-bar-ansvaret/retro-v2/nonvisual-inventory.json",
+    "qaPath": "stories/vem-bar-ansvaret/retro-v2/retro-backfill-v2-export-qa.md",
+    "packageLedgerPath": "stories/vem-bar-ansvaret/retro-v2/package-ledger.json",
+    "narrativeMaster": {
+      "path": "stories/vem-bar-ansvaret/ORIGINAL_STORY.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "581f4e521327648d917517b6b5c6a4464b738be1b2eb34a8f17e74fff095c114"
+    },
+    "englishStory": {
+      "path": "stories/vem-bar-ansvaret/ORIGINAL_STORY.en-GB.md",
+      "locale": "en-GB",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "narrativeMaster": false,
+      "sha256": "cd4c853ebbce686279470097804c18a7e22e2c5b505f2cd3e505700a328d9743"
+    },
+    "sv-SE": {
+      "canonicalVisualRequired": 14,
+      "exactOriginalBytesAvailableInCurrentRuntime": 12,
+      "sourceNotExportable": ["panel_09", "cta_13"],
+      "githubPublishedCanonicalBinaryAssets": 0,
+      "githubBinaryReadBack": "NOT_PASS",
+      "historicalCandidatesPackaged": 6,
+      "releaseStatus": "INCOMPLETE"
+    },
+    "transport": {
+      "chromeLocalCaptureNextcloudRouter": "UNVERIFIED_NOT_CALLABLE_FROM_CURRENT_ASSISTANT_TOOL_SURFACE",
+      "publishPackagesCreated": true,
+      "githubTextMetadataPublished": true,
+      "githubBinaryPublishing": "PENDING_EXTERNAL_DOWNLOAD_BRIDGE_OR_BINARY_FILE_UPLOAD_CAPABILITY"
+    }
+  }
+}

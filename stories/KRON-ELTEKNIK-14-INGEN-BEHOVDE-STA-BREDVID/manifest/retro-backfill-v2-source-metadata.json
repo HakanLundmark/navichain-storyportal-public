@@ -1,0 +1,33 @@
+{
+  "schema": "navichain-story-source-metadata-v1",
+  "storyId": "KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrativeMaster": {
+    "path": "source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "c03e64a46901922839a8fdcd2c82b80bef1e205116cf2403441d25b26809022b",
+    "size": 9754,
+    "githubPath": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/original-story-sv-SE.md",
+    "githubReadBack": "VERIFIED"
+  },
+  "translation": {
+    "path": "source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sha256": "316753099e20651e5ff8c24cd304ce537781471bd8c76f90e2fed08431c6edd7",
+    "size": 9957,
+    "sourceStorySha256": "c03e64a46901922839a8fdcd2c82b80bef1e205116cf2403441d25b26809022b",
+    "githubPath": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/original-story-en-GB.md",
+    "githubReadBack": "VERIFIED"
+  },
+  "preflight": {
+    "digestPath": "source/preflight-review-sv-SE.md",
+    "digestSourceClass": "EXACT_ORIGINAL",
+    "originalPreflightSourceClass": "SOURCE_NOT_EXPORTABLE",
+    "storyLock": "NOT_CREATED"
+  }
+}

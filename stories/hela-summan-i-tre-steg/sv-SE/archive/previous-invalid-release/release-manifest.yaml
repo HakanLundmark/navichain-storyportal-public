@@ -1,0 +1,44 @@
+storyId: HELA-SUMMAN-I-TRE-STEG
+masterVersion: '1.0'
+locale: sv-SE
+brandAsset: NAVICHAIN-OFFICIAL-LOGO.png
+outputs:
+  images:
+  - images/cover_00.png
+  - images/panel_01.png
+  - images/panel_02.png
+  - images/panel_03.png
+  - images/panel_04.png
+  - images/panel_05.png
+  - images/panel_06.png
+  - images/panel_07.png
+  - images/panel_08.png
+  - images/panel_09.png
+  - images/panel_10.png
+  - images/panel_11.png
+  - images/panel_12.png
+  - images/cta_13.png
+  pdf: carousel/hela_summan_i_tre_steg_sv-SE.pdf
+  linkedin: social/linkedin-sv-SE.txt
+qr:
+  payload: https://navichain.se/signup
+  rasterDecode: PASS
+  pdfDecode: PASS
+checksums:
+  images/cover_00.png: e4569a54f39c64405b63c08a5da1e4ae11c1d92db9da32a10a1dbcc167615eed
+  images/panel_01.png: 6f3eae160329f2684317f02c72b2b77388f9cbd90f06c327d3b86c9b5e749114
+  images/panel_02.png: 1c0344270fe8bda2ecbd35b65a3ca0b4432a6fddaca3a5de0d067f844fed6910
+  images/panel_03.png: 069a887b84af0aa135eced1b1ec419f9d5a783530b48cc468d7224a10bc4e045
+  images/panel_04.png: 147d97d9d5e3aa6099f83bef9adecd13d2e3dd511d6d2610280d0187e72cabee
+  images/panel_05.png: ab85f080b125e05c0f8842be1c5e647e70987022735fca87c2e812599cab5e88
+  images/panel_06.png: 106b223840f850e6fe9723e6cd275c808a7126af6bfebc593afb2aed9008f7d6
+  images/panel_07.png: 29f919d2c2c826c21423611a470b1cef1f95d4ec60c3d67dc9ee2733d9f1d6da
+  images/panel_08.png: 96bb21a61cb05e0fafe9c28cf7c37a825fcbca939b0190dcc2cc440932c50858
+  images/panel_09.png: c14dfe04fab41609bc103645ddfff009c5db62e7775cb690c9843365a4fa45f2
+  images/panel_10.png: 1c9fb82c09b39b0f4b4e2652299578c9bb443968754a5bac874f57b72fe6cad5
+  images/panel_11.png: bf1840fc1759abe3d354d626aa6b63db923a8a0adfe86685840de2488ce6649a
+  images/panel_12.png: 88d975332b41f8b625e0a9a7150053adb74be13d1529cf224f6f79979a516b9f
+  images/cta_13.png: 288c6ddf9bebda82249bb7666f6f77d1d33a0194405195180f57e37ed223880c
+  carousel/hela_summan_i_tre_steg_sv-SE.pdf: 3d974354c0ed4f7efba2429231321663d2700c831bcc6611b2e2196c8ae92055
+  social/linkedin-sv-SE.txt: 18ae1c3a7efb747b555b5ecbc024d0dffb7d3673addde8c280f4f9568af55ff2
+  qa/pdf-qa.yaml: a6732d4533db658ce01610bfc5e404ae63b7897d2a5399fecdb8e64e6f3f2671

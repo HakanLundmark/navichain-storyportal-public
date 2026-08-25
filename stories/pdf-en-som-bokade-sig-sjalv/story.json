@@ -1,0 +1,131 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "pdf-en-som-bokade-sig-sjalv",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "PDF:EN SOM BOKADE SIG SJÄLV",
+  "subtitle": "Sandra & navichains Magic Drop-ordermottagning",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrative": {
+    "master": {
+      "locale": "sv-SE",
+      "path": "stories/pdf-en-som-bokade-sig-sjalv/ORIGINAL_STORY.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "9c40c5305018d3f294e3c70e63e4a3037091ffb0cc3d2acecf86fb33aa86932d",
+      "narrativeMaster": true
+    },
+    "translations": {
+      "en-GB": {
+        "locale": "en-GB",
+        "sourceLocale": "sv-SE",
+        "path": "stories/pdf-en-som-bokade-sig-sjalv/source/original-story-en-GB.md",
+        "translationType": "faithful",
+        "sourceClass": "DERIVED_TRANSLATION",
+        "sha256": "54ad02c98ae631ff7085bd3a2e7469b87fcb8856c4f29792b4392807c22b684e",
+        "sourceStorySha256": "9c40c5305018d3f294e3c70e63e4a3037091ffb0cc3d2acecf86fb33aa86932d",
+        "narrativeMaster": false,
+        "githubReadBackVerified": true
+      }
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "inventoryScope": "HISTORICAL_RECOVERY_HINTS_NOT_CURRENT_RUNTIME_PROOF",
+      "existsAndExportableAssetCount": 11,
+      "existsAndExportable": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10"
+      ],
+      "missing": [
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "existsButNotExportable": [],
+      "githubPublishedBinaryAssets": 0,
+      "releasePublished": false,
+      "releaseZipCreated": false,
+      "qaStatusByAsset": {
+        "cover_00": "UNKNOWN",
+        "panel_01": "REBUILD_REQUIRED",
+        "panel_02": "REBUILD_REQUIRED",
+        "panel_03": "REBUILD_REQUIRED",
+        "panel_04": "UNKNOWN",
+        "panel_05": "UNKNOWN",
+        "panel_06": "UNKNOWN",
+        "panel_07": "UNKNOWN",
+        "panel_08": "UNKNOWN",
+        "panel_09": "UNKNOWN",
+        "panel_10": "REBUILD_REQUIRED",
+        "panel_11": "NOT_CREATED",
+        "panel_12": "NOT_CREATED",
+        "cta_13": "NOT_CREATED"
+      },
+      "assetInventory": {
+        "cover_00": {"sourceFile":"pdf_en_som_bokade_sig_själv.png","bytes":3295073,"dimensions":"1055x1491","sha256":"327adf57b92e2d880187e7c21b370e9c93687755ef7966f34193fab48ac85556","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_01": {"sourceFile":"måndagskaos_bland_ordermailen.png","bytes":3394480,"dimensions":"1055x1491","sha256":"e853c7b851ec3ba2ad9797b5c805b142746abfa49f6a569060ae1abefc288929","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_02": {"sourceFile":"manuell_orderhantering_vid_skrivbordet.png","bytes":3318613,"dimensions":"1055x1491","sha256":"669faf1fae8008245c4c6af70a672f6ad210ac1b7c18771c2171323cc2a559c1","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_03": {"sourceFile":"osäkra_uppgifter_på_kontoret.png","bytes":3233009,"dimensions":"1055x1491","sha256":"3c842e93a15358f447211b0721e36467e6f5a3b3a53b050f737ccaf5a551555a","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_04": {"sourceFile":"orderkaos_på_dispatchkontoret.png","bytes":3277876,"dimensions":"1055x1491","sha256":"2c3ce69f1a517d638965a1749b2a7f7b72b8343ba3644fb2627d4514be021eb2","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_05": {"sourceFile":"en_trött_arbetsdag_i_orderhögen.png","bytes":3266738,"dimensions":"1055x1491","sha256":"48a90dc1c6a5bbdc1af3e8525efc5b64915e01df4762fd61c53eedc1ff2dec95","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_06": {"sourceFile":"första_glimten_av_en_lösning.png","bytes":3247426,"dimensions":"1055x1491","sha256":"08555dc6142580b87f380140b066ad8c670ca0bfa6c9ea0f7eff28a2ce1b4339","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_07": {"sourceFile":"imagegen.png","bytes":3199812,"dimensions":"1055x1491","sha256":"79c74fe8b5eaa416083e4283a0fdf564518ff0d4cd023365bc8d953c26a33b9b","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_08": {"sourceFile":"ai_fyller_i_sandra_granskar.png","bytes":3186885,"dimensions":"1055x1491","sha256":"00ac6720799c6ca33824624a66d8b0d20f01c160c6064d441fbb1b06bd16e656","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_09": {"sourceFile":"ett_klick_till_färdig_bokning.png","bytes":3263923,"dimensions":"1055x1491","sha256":"5278c4a6d10c4e69f7fae11f4f2d943ddfd7189b3d90d7e424c32773b914d68b","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN"},
+        "panel_10": {"sourceFile":"a_detailed_comic_book_style_illustration_in_a_vint.png","bytes":3235682,"dimensions":"1024x1536","sha256":"c0d74414955b9a44c49a1a93b24b5515f3f3b268635594ea79cc64d65ff0e4af","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","githubPublished":false}
+      },
+      "historicalPanel10Candidates": [
+        {"revision":"r01","sourceFile":"a_detailed_comic_style_poster_page_scene_overall.png","bytes":3208759,"dimensions":"1024x1536","sha256":"77e1a1d2b97c0a44c371919e9a63a5dd7536a31ddc8c22490218bc04c5617cc8","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","reason":"foreign-story-content; visible panel index 01"},
+        {"revision":"r02","sourceFile":"a_full_color_comic_book_graphic_novel_style_sing.png","bytes":3339944,"dimensions":"1024x1536","sha256":"f491f33ee9585c03d74a4a438a8ca7e30dfce5c9aecbc214870f3afe88fda471","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","reason":"foreign-story-content; wrong protagonist Lars"},
+        {"revision":"r03","sourceFile":"a_comic_book_infographic_style_illustration_ful.png","bytes":3093929,"dimensions":"1024x1536","sha256":"bcaeebfcc63b05508ee3ab6bb1a21edf312a85b7cb0dbc2fecb3b476905a8912","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","reason":"foreign-story-content; wrong panel index 02"},
+        {"revision":"r04","sourceFile":"a_comic_book_style_illustrated_poster_panel_like.png","bytes":2909092,"dimensions":"1024x1536","sha256":"7256643539ff4e95dddbd31cd66b461ff8af30c142652e4c4a3256af02b45f98","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","reason":"foreign-story-content; wrong data/compliance story"},
+        {"revision":"r05","sourceFile":"a_detailed_comic_book_style_illustration_in_a_vint.png","bytes":3235682,"dimensions":"1024x1536","sha256":"c0d74414955b9a44c49a1a93b24b5515f3f3b268635594ea79cc64d65ff0e4af","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","reason":"foreign-story-content; rest-area story; current historical candidate"}
+      ],
+      "currentRuntimeVerification": {
+        "checkedAt": "2026-08-24T19:10:00+02:00",
+        "path": "stories/pdf-en-som-bokade-sig-sjalv/backfill/retro-backfill-v2-runtime-verification.json",
+        "exactOriginalCanonicalAssetCount": 3,
+        "exactOriginalCanonicalAssetIds": ["panel_01","panel_02","panel_03"],
+        "sourceNotExportableAssets": ["cover_00","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10"],
+        "notCreatedCanonicalAssets": ["panel_11","panel_12","cta_13"],
+        "githubPublishedBinaryAssets": 0,
+        "binaryReadBack": "FAIL_IMAGES_DIRECTORY_NOT_FOUND",
+        "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME"
+      }
+    }
+  },
+  "otherContent": {
+    "originalStory": "EXACT_ORIGINAL + GITHUB_READ_BACK_VERIFIED",
+    "englishStoryEnGb": "DERIVED_TRANSLATION + GITHUB_READ_BACK_VERIFIED",
+    "pdfCarousel": "NOT_CREATED",
+    "socialLinkedIn": "NOT_CREATED",
+    "qa": "RUNTIME_VERIFICATION_PUBLISHED; HISTORICAL_CHAT_QA_SEPARATE",
+    "manifest": "RETRO_BACKFILL_V2_RUNTIME_VERIFICATION_GITHUB_READ_BACK_VERIFIED",
+    "sources": "EXACT_ORIGINAL_RUNTIME_SOURCE_FILES_AVAILABLE",
+    "releaseZip": "NOT_CREATED_AS_RELEASE"
+  },
+  "canonicalStoryPath": "stories/pdf-en-som-bokade-sig-sjalv/ORIGINAL_STORY.md",
+  "backfilledAt": "2026-08-23T10:47:00+02:00",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:10:00+02:00",
+  "notes": [
+    "Historical provenance and QA remain separate.",
+    "No missing asset was regenerated or reconstructed for backfill.",
+    "The historical assetInventory and panel_10 candidate list are retained as recovery hints only; they are not proof that those bytes remain accessible in this runtime.",
+    "Current-runtime re-verification found exact original bytes only for the current panel_01, panel_02 and panel_03 candidates; all three are REBUILD_REQUIRED and remain unpublished as binaries.",
+    "The corrected canonical cover and historical panel_04-panel_10 bytes are not present in the current runtime and therefore are SOURCE_NOT_EXPORTABLE for this execution.",
+    "panel_11, panel_12 and cta_13 were not created in this chat.",
+    "sv-SE remains INCOMPLETE and is not release-eligible."
+  ]
+}

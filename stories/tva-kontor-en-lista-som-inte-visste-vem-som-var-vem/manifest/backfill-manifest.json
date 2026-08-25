@@ -1,0 +1,25 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "tva-kontor-en-lista-som-inte-visste-vem-som-var-vem",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "TVÅ KONTOR, EN LISTA SOM INTE VISSTE VEM SOM VAR VEM",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "storyLock": "NOT_LOCKED",
+  "productTruth": "REVISE",
+  "locales": {"sv-SE": {"status": "INCOMPLETE", "validReleaseAssetCount": 0, "actualGeneratedArtifacts": 8}},
+  "canonicalReleaseAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "missingValidReleaseAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "generatedRejectedArtifacts": ["a_comic_book_style_illustrated_page_poster_over.png","a_full_frame_comic_illustration_panel_page_in_a_wa.png","a_full_page_comic_illustration_in_a_clean_ligne_cl.png","a_full_page_comic_infographic_style_poster_laid_ou.png","a_full_page_comic_style_infographic_poster_in_a_cl.png","a_vintage_comic_book_style_illustration_page_over.png","a_vintage_comic_illustration_poster_panel_in_clear.png","två_kontor_en_tydlig_lista.png"],
+  "artifactChecksums": {
+    "a_comic_book_style_illustrated_page_poster_over.png": "9cdfd6d47d0ce108ff11d368688ae164ec18915538e675bd8b54e00fe39d23ff",
+    "a_full_frame_comic_illustration_panel_page_in_a_wa.png": "f9a41833a420d11480a34c3589abe8b3a706bfadf7ae3abb4fad85e9a3a6bab9",
+    "a_full_page_comic_illustration_in_a_clean_ligne_cl.png": "fd943f71c58a1a87acbb68aeda1b5ede77c318d66894cc2b53dbcfe4d8191c2c",
+    "a_full_page_comic_infographic_style_poster_laid_ou.png": "bb954a2d36ecc8df08bc6a4046b36aad958416ece72356c0280fccdb42123e2b",
+    "a_full_page_comic_style_infographic_poster_in_a_cl.png": "aae805e79ccd3827001042ee2114cf9e9b819ac9e19406e15805de3c186ee155",
+    "a_vintage_comic_book_style_illustration_page_over.png": "bd016a1d0a722352ccc5e90d9960f195147951bf5d2e524a76c283245383ae85",
+    "a_vintage_comic_illustration_poster_panel_in_clear.png": "7ff0b61cf6186fcd119ceda69f5fb02ad8b246fc951ae07bd7ac5cb13da22f1c",
+    "två_kontor_en_tydlig_lista.png": "cf602e8fa77fe838afd89e5f5df57a910ad5a87ae3df4dddef9f7f996e2b0948"
+  },
+  "notes": ["No image was reconstructed for backfill.","Generated outputs are retained only as rejected artifacts and are not promoted to canonical release assets.","The original multi-megabyte PNGs are directly exportable locally but were not transferred through the GitHub connector because of in-chat binary payload limits."]
+}

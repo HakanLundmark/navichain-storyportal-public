@@ -1,0 +1,16 @@
+status: BLOCKED
+locale: sv-SE
+story: RÄTT NYCKEL, INTE ALLA NYCKLAR
+expected_assets: 14
+canonical_order: [cover_00,panel_01,panel_02,panel_03,panel_04,panel_05,panel_06,panel_07,panel_08,panel_09,panel_10,panel_11,panel_12,cta_13]
+blockers:
+  - panel_01 source render unavailable in active runtime
+  - panel_05 source render unavailable in active runtime
+  - panel_07 source render unavailable in active runtime
+  - panel_12 available candidate has wrong aspect ratio and story drift
+  - cta_13 available candidate contains index and unofficial/generated logo
+qr_candidate_check:
+  file: rejected/cta_13_indexed_wrong_logo_candidate_qr_valid.png
+  decoded_payload: https://navichain.se/signup
+  result: PASS_FOR_QR_ONLY
+release_allowed: false

@@ -1,0 +1,39 @@
+storyId: utgangen-besiktning-den-som-aldrig-lamnade-garden
+locale: sv-SE
+status: BLOCKED
+availableReleaseImages: 13
+requiredReleaseImages: 14
+missingAssets:
+- panel_04.png
+checks:
+  asset_count:
+    status: FAIL
+    detail: 13/14 images currently recoverable in sandbox; panel_04 missing.
+  canonical_order:
+    status: PARTIAL
+    detail: All recoverable assets use canonical filenames; panel_04 missing.
+  same_dimensions:
+    status: FAIL
+    detail: Rendered assets have mixed pixel dimensions/aspect ratios; panel_02 and
+      panel_03 are landscape.
+  panel_indices:
+    status: PARTIAL
+    detail: Visible indices present on recoverable story panels; full 01-12 sequence
+      cannot pass because panel_04 is missing.
+  official_logo:
+    status: UNRESOLVED
+    detail: Official logo source is included in project, but several generated panels
+      contain logo-like marks that were image-generated rather than deterministically
+      composited.
+  cta_qr:
+    status: FAIL
+    decoded: ''
+    expected: https://navichain.se/signup
+    approved_qr_source_decoded: https://navichain.se/signup
+  pdf_page_count:
+    status: FAIL
+    detail: PDF contains 13 pages because panel_04 is missing; required 14.
+  release:
+    status: BLOCKED
+    detail: Package is a work-in-progress archive of the current Swedish assets, not
+      a QA-passed release.

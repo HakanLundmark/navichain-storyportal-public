@@ -1,0 +1,3193 @@
+{
+  "schema": "navichain-storyportal-index-v1",
+  "stories": [
+    {
+      "storyId": "NC-INGET-ATT-DOLJA",
+      "storyIdAuthority": "existing explicit historical Story ID from current-chat backfill",
+      "title": "INGET ATT DÖLJA — Åsa & kundportalen",
+      "masterLocale": "sv-SE",
+      "masterVersion": "v1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/NC-INGET-ATT-DOLJA/story.json",
+      "narrativeMasterPath": "stories/NC-INGET-ATT-DOLJA/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "7c121a6ee26d4d870dd468cc9f8bd7d18a8befc512db5af47540915a1d7abc96",
+      "enGbStoryPath": "stories/NC-INGET-ATT-DOLJA/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "c79ce996890bafcd0dc01f6aff71d2aa7dcc1cbdf042e1f3e551915ad021ee10",
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:21:00+02:00",
+      "historicalInventory": {
+        "inventoryItems": 92,
+        "exactOriginal": 65,
+        "chatRecoverable": 2,
+        "derivedTranslations": 1,
+        "sourceNotExportable": 2,
+        "notCreated": 22,
+        "svSeCanonicalExactOriginal": 13,
+        "svSeCanonicalSourceNotExportable": [
+          "cta_13"
+        ],
+        "enGbCanonicalExactOriginal": 3,
+        "enGbCanonicalNotCreated": 11,
+        "svSeAdditionalHistoricalExactVisuals": 12,
+        "enGbAdditionalHistoricalExactVisuals": 17
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_TOOL_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "legacyNarrativeMasterPath": "stories/NC-INGET-ATT-DOLJA/ORIGINAL_STORY.md",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "inventoryPath": "stories/NC-INGET-ATT-DOLJA/qa/retro-backfill-v2.json"
+    },
+    {
+      "storyId": "sommarvikarien-som-aldrig-fick-kora",
+      "storyIdAuthority": "existing active-story backfill identifier from this source chat",
+      "title": "Sommarvikarien som aldrig fick köra — behörighetsfiltret som räddade försäkringen",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "storyLock": "NOT_LOCKED",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/sommarvikarien-som-aldrig-fick-kora/story.json",
+      "narrativeMasterPath": "stories/sommarvikarien-som-aldrig-fick-kora/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "d632803be1429467c64ca9e90320d4ed376040aff3efe3a36c498cda028e98ac",
+      "enGbStoryPath": "stories/sommarvikarien-som-aldrig-fick-kora/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "45dae6dd44db341f8049d365cf13de26f14f81370f9cf7bb93b6e4fc70897cf7",
+      "historicalExactOriginalVisualFiles": 22,
+      "canonicalHistoricalCandidates": {
+        "sv-SE": [
+          "cover_00",
+          "panel_01",
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_05",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12"
+        ]
+      },
+      "canonicalAmbiguities": {
+        "sv-SE": {
+          "panel_06": "two exact historical REBUILD_REQUIRED candidates; canonical current candidate cannot be selected without guessing"
+        }
+      },
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "panel_06",
+          "cta_13"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:37:00+02:00",
+      "historicalInventory": {
+        "exactOriginalVisualFiles": 22,
+        "canonicalExactCandidates": 12,
+        "rejectedOrSupersededExactVisualFiles": 10,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportableCanonicalAssets": 2,
+        "pdf": "NOT_CREATED",
+        "social": "NOT_CREATED"
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE",
+      "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-11-and-canonical-title",
+      "title": "DEN ANDRA SOM INGEN BOKADE",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "156feccdd386955ab63803d4c9acedbb467de3b12e3f7cd9fbcbeb4ee95c0d09",
+      "narrativeMasterQaStatus": "PREFLIGHT_PASS_WITH_CLAIM_SAFE_CORRECTIONS",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "3802dd2c5d8930b728f70886c178ac21a1c1c5854d34c8640bf2c5a8362e562f",
+      "verifiedOriginalAssets": 4,
+      "exportableCanonicalAssets": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_11"
+      ],
+      "sourceNotExportableCanonicalAssets": [
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_09",
+        "panel_10",
+        "panel_12",
+        "cta_13"
+      ],
+      "historicalExactOriginalVisualFiles": 44,
+      "chatRecoveredHistoricalFiles": 0,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:34:00+02:00",
+      "historicalInventory": {
+        "exactOriginalVisualFiles": 44,
+        "canonicalCurrentExactCandidates": 4,
+        "exactRejectedCanonicalCandidates": 2,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportableCanonicalAssets": 7,
+        "notCreatedCanonicalAssets": 1,
+        "pdf": "NOT_CREATED",
+        "social": "NOT_CREATED"
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "historicalExactRejectedCanonicalCandidates": [
+        "panel_03",
+        "panel_04"
+      ],
+      "notCreatedCanonicalAssets": [
+        "panel_08"
+      ]
+    },
+    {
+      "storyId": "tva-kontor-en-lista-som-inte-visste-vem-som-var-vem",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "TVÅ KONTOR, EN LISTA SOM INTE VISSTE VEM SOM VAR VEM",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "storyLock": "NOT_LOCKED",
+      "productTruthStatus": "REVISE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/story.json",
+      "narrativeMasterPath": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "4df2cb06cf6f7a74f5842f86c1f114ad47da1aaa1c77122dfb69acb5d61da0b9",
+      "narrativeMasterQaStatus": "PRODUCT_TRUTH_REVISE/STORY_NOT_LOCKED",
+      "enGbStoryPath": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/sources/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "77993a013f9e495808d983d71ca5213d69aa273775aa09955c05a890dce5a4b2",
+      "historicalExactOriginalVisualFiles": 8,
+      "canonicalHistoricalCandidates": {
+        "sv-SE": [
+          "cover_00",
+          "panel_11"
+        ]
+      },
+      "canonicalAmbiguities": {
+        "sv-SE": {
+          "panel_12": "two exact rejected candidates; current chronology unresolved"
+        }
+      },
+      "notCreatedCanonicalAssets": {
+        "sv-SE": [
+          "panel_01",
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "cta_13"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:07:00+02:00",
+      "historicalInventory": {
+        "exactOriginalUniqueFiles": 22,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportableCanonicalAssets": 1,
+        "notCreatedCanonicalAssets": 11
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET",
+      "storyIdAuthority": "backfill-derived-from-explicit Kron Elteknik episode 10 and canonical title in current chat",
+      "title": "VARNINGEN SOM KOM FÖRE VALET",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 4
+      },
+      "missingCanonicalAssets": {
+        "sv-SE": [],
+        "en-GB": [
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12",
+          "cta_13"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryRetryCheckedAt": "2026-08-24T00:03:00+02:00",
+      "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+      "narrativeMasterQaStatus": "REBUILD_REQUIRED",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "f82cf67a380d6a60ce244349a68e6cad0296817916f707545b987d371d6a0af7",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:27:00+02:00",
+      "historicalInventory": {
+        "exactOriginalFiles": 119,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 1,
+        "notCreated": 24
+      }
+    },
+    {
+      "storyId": "ingen-tackning-inget-tappat",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "INGEN TÄCKNING, INGET TAPPAT",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+      "locales": {
+        "sv-SE": "COMPLETE + GITHUB FAILED",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 13
+      },
+      "releaseEligibleAssets": {
+        "sv-SE": 14,
+        "en-GB": 0
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-24T17:27:00+02:00",
+      "path": "stories/ingen-tackning-inget-tappat/story.json",
+      "exactOriginalSourcesAccessible": {
+        "sv-SE": 14,
+        "en-GB": 13
+      },
+      "chatRecoveredAssetsPublished": {
+        "sv-SE": 0,
+        "en-GB": 0
+      },
+      "missingCanonicalAssets": {
+        "sv-SE": [],
+        "en-GB": [
+          "cta_13"
+        ]
+      },
+      "chatVisualRecoveryStatus": "GITHUB_PUBLISH_FAILED",
+      "chatRecoveryCheckedAt": "2026-08-24T06:31:00+02:00",
+      "narrativeMasterPath": "stories/ingen-tackning-inget-tappat/ORIGINAL_STORY.md",
+      "narrativeMasterSha256": "93b43348b7a9d2495ba105ceff3b9d15f4bc5b010c60578155a9b3fbf86d0e5c",
+      "enGBStoryPath": "stories/ingen-tackning-inget-tappat/ORIGINAL_STORY.en-GB.md",
+      "enGBStorySourceClass": "DERIVED_TRANSLATION",
+      "enGBStorySha256": "e76e070eb7f97c80ca08482de2fa927593607474ec55ed68850831bb804d4bf9",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:27:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME"
+    },
+    {
+      "storyId": "SAMMA-KUND-TVA-VARLDAR",
+      "storyIdAuthority": "existing local WIP package metadata created in this chat",
+      "title": "SAMMA KUND, TVÅ VÄRLDAR",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 13,
+      "missingOriginalAssets": [
+        "panel_10"
+      ],
+      "existsButNotExportable": [],
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T11:05:00+02:00",
+      "path": "stories/SAMMA-KUND-TVA-VARLDAR/story.json"
+    },
+    {
+      "storyId": "kretsloppet-som-gick-i-cirklar",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "KRETSLOPPET SOM GICK I CIRKLAR",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "COMPLETE + GITHUB FAILED",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 0
+      },
+      "rejectedExportableArtifacts": {
+        "en-GB": 4
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T11:01:00+02:00",
+      "path": "stories/kretsloppet-som-gick-i-cirklar/story.json",
+      "narrativeMasterPath": "stories/kretsloppet-som-gick-i-cirklar/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "58e32ea6c5be96901d5e5853dbaf462c615b733c0f967c438905594872887044",
+      "enGbStoryPath": "stories/kretsloppet-som-gick-i-cirklar/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbStorySha256": "f794bc73c4d63ac74b8f3053c75dc0ae15a577b728841846330125ef1976de16",
+      "historicalVisualArtifactsAccessible": {
+        "en-GB": 5
+      },
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:27:00+02:00",
+      "automaticTransportStatus": "UNAVAILABLE_IN_CURRENT_CHAT_RUNTIME"
+    },
+    {
+      "storyId": "ratt-siffror-samma-historia",
+      "storyIdAuthority": "backfill-derived-from-canonical-title-and-episode-34-context",
+      "title": "RÄTT SIFFROR, SAMMA HISTORIA",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "releaseReadyCanonicalAssets": 11,
+      "sourceCandidatesExportable": 13,
+      "missingOriginalAssets": [
+        "panel_01"
+      ],
+      "rebuildRequired": [
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T10:59:00+02:00",
+      "path": "stories/ratt-siffror-samma-historia/story.json"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS",
+      "storyIdAuthority": "derived from active story episode 3 + canonical title; no explicit LOCK STORY command occurred",
+      "title": "ANTECKNINGEN SOM ALDRIG SKREVS",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "sourceRenderArtifacts": 24,
+      "latestAvailableCanonicalSlots": 14,
+      "passLockedCanonicalAssets": 0,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T10:57:00+02:00",
+      "path": "stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "10a90668e12537cb477289aba4689f7e89bb6c7d9fad759b2cb0f60be9698e27",
+      "narrativeMasterStoryLockStatus": "NOT_EXECUTED",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "0978cde1980d3556774c49516fa32780d04c06e3c48e64893f7d752fef8354f3",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:09:00+02:00",
+      "historicalInventory": {
+        "directlyAccessibleVisualBinaries": 24,
+        "canonicalVisualSlots": 14,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 0
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+      "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-5-and-canonical-title",
+      "title": "KLOCKAN SOM INTE LJÖG",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "githubPublishedBinaryAssets": 0,
+      "binaryRetryCheckedAt": "2026-08-24T22:07:00+02:00",
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/story.json",
+      "githubPublishedSourceBinaries": 1,
+      "officialLogoSourceSynced": true,
+      "backfilledAt": "2026-08-24T22:07:00+02:00",
+      "sourceNarrativesPublished": 2,
+      "narrativeMasterReadBackVerified": true,
+      "enGbFaithfulTranslationReadBackVerified": true,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:07:00+02:00",
+      "exactHistoricalRenderFilesAccessible": 16,
+      "latestCanonicalOriginalBytesAccessible": 0,
+      "latestCanonicalSourceNotExportable": 14,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "8fb7f550a2e54d0d781b449c12870e0b4b368111178f3600d28b82d405450880",
+      "currentRuntimeExactHistoricalRenders": 16,
+      "automaticTransportStatus": "UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "historicalInventory": {
+        "totalIndexedItems": 74,
+        "exactOriginal": 44,
+        "chatRecovered": 0,
+        "derivedTranslations": 2,
+        "sourceNotExportable": 20,
+        "notCreated": 8,
+        "exactHistoricalRenderFiles": 16,
+        "latestCanonicalSourceNotExportable": 14
+      }
+    },
+    {
+      "storyId": "NC-LASTEN-SOM-VARNADE-SIG-SJALV",
+      "storyIdAuthority": "explicit ACTIVE STORY ID established in this chat",
+      "title": "Lasten som varnade sig själv",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/story.json",
+      "narrativeMasterPath": "stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "c7c28790b67205932cb16c883d073dccf46079cf823db8ffa345ddf105feb533",
+      "enGbStoryPath": "stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "6540466b282f583b0e9e5fe69b5fb2a3e821f7738669dd3ddbfd83587b88b194",
+      "verifiedOriginalAssets": {
+        "sv-SE": 11,
+        "en": 13
+      },
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "panel_07",
+          "panel_08",
+          "panel_09"
+        ],
+        "en": [
+          "panel_09"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:40:00+02:00",
+      "historicalInventory": {
+        "records": 80,
+        "exactOriginalRecords": 58,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 8,
+        "notCreated": 13,
+        "historicalRejectedExactOriginal": 13
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "inventoryPath": "stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/retro-backfill-v2-inventory.json"
+    },
+    {
+      "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+      "storyIdAuthority": "explicit story ID established in this chat",
+      "title": "Fem minuter till gränsen",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "exportableCanonicalReleaseAssets": 0,
+      "exportableSourceRenderFiles": 14,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T10:44:00+02:00",
+      "path": "stories/NC-FEM-MINUTER-TILL-GRANSEN/story.json",
+      "narrativeMasterPath": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/narrative-master-sv-SE.md",
+      "narrativeMasterSourceClass": "CHAT_RECOVERED",
+      "narrativeMasterSha256": "4ca3491e89e83f5436eea3d58052994105c9761caaff0418a70e7f38141ba850",
+      "enGbStoryPath": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "9badacda3f19eaec0df9f5580b1febd80b2651aafd428a07154e3e90753baff6",
+      "historicalExactOriginalCanonicalSourceRenders": 14,
+      "additionalHistoricalExactRenders": 16,
+      "exactHistoricalPdfs": 2,
+      "canonicalV11ReleasePngs": "SOURCE_NOT_EXPORTABLE",
+      "releaseZipV11": "SOURCE_NOT_EXPORTABLE",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:21:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_CALLABLE_SURFACE",
+      "nextcloudArchiveStatus": "UNVERIFIED_TOOL_UNAVAILABLE",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "canonicalHistoricalVisuals": {
+        "sv-SE": {
+          "exportable": 13,
+          "required": 14,
+          "sourceNotExportable": [
+            "cover_00"
+          ]
+        },
+        "en-GB": {
+          "exportable": 12,
+          "required": 14,
+          "sourceNotExportable": [
+            "panel_04",
+            "panel_07"
+          ]
+        }
+      },
+      "retroBackfillV2Manifest": "stories/NC-FEM-MINUTER-TILL-GRANSEN/manifest/retro-backfill-v2-current-chat.json",
+      "historicalRenderInventory": "stories/NC-FEM-MINUTER-TILL-GRANSEN/manifest/historical-render-inventory-current-chat.json"
+    },
+    {
+      "storyId": "NC-SWF-018",
+      "storyIdAuthority": "chat-story-lock-candidate",
+      "title": "INGEN PÅ PLATS, ÄNDÅ EN PLAN",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "sourceAssetCount": 13,
+      "backfilledAt": "2026-08-23T08:32:00+02:00",
+      "path": "stories/NC-SWF-018/story.json",
+      "narrativeMasterPath": "stories/NC-SWF-018/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "4bf105a72408585b0ab8962705a06d04afe005252f387bdfd78fc15042111f58",
+      "enGbStoryPath": "stories/NC-SWF-018/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "f47cb47668502689cb3450b63fd758c16ac5746c7ff354edb9f8103d36d4dcff",
+      "exactOriginalCanonicalAssetsAccessible": 13,
+      "githubPublishedBinaryAssets": 0,
+      "canonicalSourceNotExportable": [
+        "panel_04"
+      ],
+      "releaseValidCanonicalAssets": 8,
+      "rebuildRequiredOrRejected": [
+        "panel_06",
+        "panel_07",
+        "panel_10",
+        "panel_11",
+        "panel_12"
+      ],
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "UNVERIFIED",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:34:00+02:00"
+    },
+    {
+      "storyId": "NC-TWO-SYSTEMS-ONE-TRUTH",
+      "title": "Två system, en sanning",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE"
+      },
+      "path": "stories/NC-TWO-SYSTEMS-ONE-TRUTH/story.json"
+    },
+    {
+      "storyId": "lappen-som-antligen-har-en-agare",
+      "title": "Lappen som äntligen har en ägare",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/lappen-som-antligen-har-en-agare/story.json",
+      "verifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 5
+      },
+      "githubPublishedBinaryAssets": 0,
+      "narrativeMasterPath": "stories/lappen-som-antligen-har-en-agare/source/original-story-sv-SE.md",
+      "narrativeMasterSha256": "62579ead1ceac6ef45f056a60ed8018ec42c9565b03d17ae00bb5267c539d7e4",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "enGBStoryPath": "stories/lappen-som-antligen-har-en-agare/source/original-story-en-GB.md",
+      "enGBStorySourceClass": "DERIVED_TRANSLATION",
+      "enGBStoryNarrativeMaster": false,
+      "enGBStorySha256": "a2599e3b5ca716e36d9656108fd4a123782ad014933457d4161ad95a32004c80",
+      "missingCanonicalAssets": {
+        "sv-SE": [],
+        "en-GB": [
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12",
+          "cta_13"
+        ]
+      },
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:41:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "inventoryPath": "stories/lappen-som-antligen-har-en-agare/metadata/inventory.json"
+    },
+    {
+      "storyId": "LISTAN-SOM-VISAR-SINA-SKAL",
+      "title": "LISTAN SOM VISAR SINA SKÄL",
+      "masterLocale": "sv-SE",
+      "masterVersion": "v1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/LISTAN-SOM-VISAR-SINA-SKAL/story.json",
+      "storyIdAuthority": "active story title and prior story-specific backfill identifier in this source chat",
+      "narrativeMasterPath": "stories/LISTAN-SOM-VISAR-SINA-SKAL/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "440f76af5554f6471e198487d871c95948877d1ab0ee3582da20fe0137430d8c",
+      "enGbStoryPath": "stories/LISTAN-SOM-VISAR-SINA-SKAL/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "9824fdad6ad7449966219111eff85b56e01598891a20e696a87851811ec23785",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 9,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_12"
+      ],
+      "sourceNotExportableAssets": [
+        "cover_00",
+        "panel_04",
+        "panel_05",
+        "panel_11",
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:04:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "NC-PUSSLET-SOM-ALDRIG-GICK-IHOP",
+      "title": "Pusslet som aldrig gick ihop — Rasmus och jakten på ett komplett TMS",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE"
+      },
+      "path": "stories/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP/story.json",
+      "storyIdAuthority": "explicit Story ID from this active source chat and prior archival commit",
+      "narrativeMasterPath": "stories/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "SOURCE_NOT_EXPORTABLE",
+      "narrativeMasterPublishedArtifactRole": "canonical_content_copy",
+      "narrativeMasterPublishedCopySha256": "a657b4535011455078bebd05bcf98731f59be138301e30aa2259f815998d3040",
+      "enGbStoryPath": "stories/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP/source/original-story-en-GB.md",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "89dfd05502d4ef312603dca1359a0d4314cacd9876caef3c61f42e14a95f9210",
+      "historicalExactOriginalVisualFilesAccessible": 52,
+      "canonicalExactOriginalAssetsAccessible": {
+        "sv-SE": 12,
+        "en-GB-raw": 14,
+        "de-DE": 2
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:22:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "aldrig-tom-pa-vag-hem",
+      "title": "ALDRIG TOM PÅ VÄG HEM",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/aldrig-tom-pa-vag-hem/story.json"
+    },
+    {
+      "storyId": "stampeln-som-holl-pa-att-blekna",
+      "title": "STÄMPELN SOM HÖLL PÅ ATT BLEKNA",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/stampeln-som-holl-pa-att-blekna/story.json",
+      "storyLock": "NOT_LOCKED",
+      "narrativeMasterPath": "stories/stampeln-som-holl-pa-att-blekna/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "e24f8fa7e9cca1811df306491c9ba62d7feb7de3ad0db481ca87b47b7823b0c8",
+      "narrativeMasterQaStatus": "PREFLIGHT_REVISE_REQUESTED / STORY_NOT_LOCKED",
+      "enGbStoryPath": "stories/stampeln-som-holl-pa-att-blekna/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "3a89e4855943282aa3de5dc17585fe4bc4e234230a1b0fefdea159c3c3d1506f",
+      "canonicalExactOriginalAvailable": 3,
+      "canonicalExactOriginalIds": [
+        "cover_00",
+        "panel_01",
+        "panel_12"
+      ],
+      "notCreatedCanonicalAssets": [
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "cta_13"
+      ],
+      "sourceNotExportableCanonicalAssets": [],
+      "historicalRejectedRenderCount": 7,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:23:00+02:00"
+    },
+    {
+      "storyId": "kedjan-ingen-ser-forran-den-brister",
+      "title": "KEDJAN INGEN SER — FÖRRÄN DEN BRISTER",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "HISTORICAL_SOURCE_COMPLETE_RELEASE_QA_UNKNOWN",
+      "locales": {
+        "sv-SE": "HISTORICAL_SOURCE_COMPLETE_RELEASE_QA_UNKNOWN",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/kedjan-ingen-ser-forran-den-brister/story.json",
+      "storyIdAuthority": "existing active-story identifier from current-chat historical backfill",
+      "narrativeMasterPath": "stories/kedjan-ingen-ser-forran-den-brister/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "621a6f421d38bc3c8dceae28dc5f1fe09c49e3ccd166f951609066ec9582e249",
+      "enGbStoryPath": "stories/kedjan-ingen-ser-forran-den-brister/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "92ae34ae08d08a6aa43e0be58cf3b707679da2cd29c57f7d8669d01e2e272ed5",
+      "verifiedOriginalAssets": {
+        "sv-SE": 14
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:23:00+02:00",
+      "historicalInventory": {
+        "exactOriginalFiles": 36,
+        "canonicalExactOriginalVisuals": 14,
+        "historicalNonReleaseVisuals": 11,
+        "pdfs": 1,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 4,
+        "notCreated": 9
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "localRetroPackage": {
+        "filename": "kedjan-ingen-ser-forran-den-brister-retro-backfill-v2-20260824-2223.zip",
+        "size": 79957300,
+        "sha256": "df6d8803edad842987691a14a1a7bbab021db6d600baf564300494066474fd7c"
+      }
+    },
+    {
+      "storyId": "ingen-overraskning-vid-bommen",
+      "title": "INGEN ÖVERRASKNING VID BOMMEN",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/ingen-overraskning-vid-bommen/story.json",
+      "storyIdAuthority": "existing stories/index.json entry matched to the active story title in this chat",
+      "narrativeMasterPath": "stories/ingen-overraskning-vid-bommen/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "203240d36965f1007e408ce96b19f13479a7c9ad21fd07a29fa2487a9d5205d9",
+      "enGbStoryPath": "stories/ingen-overraskning-vid-bommen/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbStorySha256": "78c9ea0c507e33db54d16d07dce46f68931b75c0466ec73028076e5b69c867d0",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 10,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09"
+      ],
+      "sourceNotExportableAssets": [
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "notCreatedCanonicalAssets": [
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "rebuildRequired": [
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:13:00+02:00",
+      "narrativeMasterSourcePath": "stories/ingen-overraskning-vid-bommen/source/original-story-sv-SE.md",
+      "enGbNarrativeMaster": false,
+      "historicalRejectedUnmappedExactFiles": 26,
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "retroBackfillV2StatusPath": "stories/ingen-overraskning-vid-bommen/retro-backfill/v2/status-20260824T2213.json"
+    },
+    {
+      "storyId": "ALDRIG-SAMMA-RAD-TVA-GANGER",
+      "title": "ALDRIG SAMMA RAD TVÅ GÅNGER",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/ALDRIG-SAMMA-RAD-TVA-GANGER/story.json"
+    },
+    {
+      "storyId": "stormen-som-aldrig-nadde-oss",
+      "title": "Stormen som aldrig nådde oss",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-US": "INCOMPLETE"
+      },
+      "path": "stories/stormen-som-aldrig-nadde-oss/story.json"
+    },
+    {
+      "storyId": "samma-fraga-83-ganger-innan-lunch",
+      "title": "SAMMA FRÅGA. 83 GÅNGER. INNAN LUNCH.",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/samma-fraga-83-ganger-innan-lunch/story.json",
+      "storyLock": "NOT_VERIFIED_AS_EXECUTED",
+      "productTruthStatus": "REVISE_REQUIRED_UNSUPPORTED_AS_WRITTEN",
+      "narrativeMasterPath": "stories/samma-fraga-83-ganger-innan-lunch/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "0a7240f054e6f2a1912ccaaf0c47349b1e0f0e71fca6326ae5ecdf9877e2775f",
+      "enGbStoryPath": "stories/samma-fraga-83-ganger-innan-lunch/source/original-story-en-GB.md",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "f753da3549397a5d2eea87c171c53fdda43399a9a4c94d04459fd1a67f1495c8",
+      "historicalExactOriginalVisualFiles": 31,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "tyst-i-hytten",
+      "title": "TYST I HYTTEN — Blixtens natt genom stormen",
+      "masterLocale": "sv-SE",
+      "masterVersion": "v1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-US": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE"
+      },
+      "path": "stories/tyst-i-hytten/story.json"
+    },
+    {
+      "storyId": "NC-BJORKLUNDA-12-GRUNDEN-VAXER",
+      "title": "GRUNDEN SOM VÄXER MED FÖRETAGET",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/story.json",
+      "narrativeMasterPath": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/ORIGINAL_STORY.md",
+      "narrativeMasterSourcePath": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "83cbea86e81b0bff0513f6a0bce1492e8215d1d2894d6d108ddd40337328af2c",
+      "enGbStoryPath": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbStorySha256": "2222834ab81975e081dd787ab272ec034e0155d37df991516557f9efb1174c33",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 11,
+      "currentRuntimeHistoricalRejectedCandidateCount": 3,
+      "acceptedMasterGaps": [
+        "panel_09",
+        "panel_10"
+      ],
+      "sourceNotExportableAssets": [
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:42:00+02:00"
+    },
+    {
+      "storyId": "TVA-VALUTOR-ETT-STOPP-I-TID",
+      "title": "TVÅ VALUTOR, ETT STOPP I TID",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/TVA-VALUTOR-ETT-STOPP-I-TID/story.json"
+    },
+    {
+      "storyId": "den-forsta-turen-som-forklarade-sig-sjalv",
+      "title": "DEN FÖRSTA TUREN SOM FÖRKLARADE SIG SJÄLV",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/den-forsta-turen-som-forklarade-sig-sjalv/story.json"
+    },
+    {
+      "storyId": "flottan-i-ett-enda-ogonkast",
+      "title": "FLOTTAN, I ETT ENDA ÖGONKAST",
+      "masterLocale": "sv-SE",
+      "masterVersion": "v1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE_TEXT_TRANSLATION_AVAILABLE"
+      },
+      "path": "stories/flottan-i-ett-enda-ogonkast/story.json",
+      "storyIdAuthority": "existing active-story backfill identifier restored from historical commit 421bbcc341d1c3bcecc43877ee73b7f03dc4d8d2 and exact Narrative Master byte identity",
+      "narrativeMasterPath": "stories/flottan-i-ett-enda-ogonkast/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "91cf0e3902e72253c840be91d3e7d7fc1d5f1064b2fc95f65336ac5f7b05f4df",
+      "enGbStoryPath": "stories/flottan-i-ett-enda-ogonkast/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "4d076088972b7d81f62a1def38f76966115d1f64f368a0c16010a484ea651171",
+      "historicalExactOriginalVisualFiles": 37,
+      "canonicalHistoricalCandidates": {
+        "sv-SE": [
+          "cover_00",
+          "panel_01",
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12"
+        ],
+        "en-GB": [
+          "cover_00"
+        ]
+      },
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "cta_13"
+        ]
+      },
+      "notCreatedCanonicalAssets": {
+        "en-GB": [
+          "panel_01",
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12",
+          "cta_13"
+        ]
+      },
+      "exactOriginalPdfFiles": 1,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:27:00+02:00",
+      "historicalInventory": {
+        "exactOriginalVisualFiles": 37,
+        "canonicalSvSeExactOriginalAssets": 13,
+        "canonicalEnGbExactOriginalAssets": 1,
+        "exactOriginalPdfFiles": 1,
+        "exactOriginalSourceReferenceFiles": 7,
+        "exactOriginalNarrativeFiles": 1,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 8,
+        "notCreated": 14
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "NC-DER-FAHRER-DEN-ES-IM-SYSTEM-NICHT-GAB",
+      "title": "Chauffören som inte fanns i systemet — Så tämjde Fredrik julrusningen",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE",
+        "fr-FR": "INCOMPLETE"
+      },
+      "path": "stories/NC-DER-FAHRER-DEN-ES-IM-SYSTEM-NICHT-GAB/story.json",
+      "narrativeMasterPath": "stories/NC-DER-FAHRER-DEN-ES-IM-SYSTEM-NICHT-GAB/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "131de04441f01369d577130f8b07e88cae9bd255456a953bcdeb9b6273d4200e",
+      "enGbStoryPath": "stories/NC-DER-FAHRER-DEN-ES-IM-SYSTEM-NICHT-GAB/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "2a2bf4b2d22a1fd50b328734bf3637eaf8e464287e1d53eb0cdf2e4437964ea8",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 36,
+      "canonicalByLocale": {
+        "sv-SE": 14,
+        "en-GB": 9,
+        "de-DE": 13,
+        "fr-FR": 0
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:26:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "sourceNotExportableCanonicalAssets": {
+        "en-GB": [
+          "cover_00",
+          "panel_05",
+          "panel_10",
+          "panel_11",
+          "panel_12"
+        ],
+        "de-DE": [
+          "panel_10"
+        ],
+        "fr-FR": [
+          "cover_00"
+        ]
+      },
+      "notCreatedCanonicalAssets": {
+        "fr-FR": [
+          "panel_01",
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12",
+          "cta_13"
+        ]
+      }
+    },
+    {
+      "storyId": "facit-kom-en-manad-for-sent",
+      "storyIdSource": "derived_from_canonical_title_for_repository_path; Narrative Master contains no explicit Story ID",
+      "title": "FACIT KOM EN MÅNAD FÖR SENT",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/facit-kom-en-manad-for-sent/story.json",
+      "narrativeMasterPath": "stories/facit-kom-en-manad-for-sent/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "c936c52debffefd467f86386bdef6ae8d6e1e5ceb50f10da114db96911eafe2e",
+      "enGbStoryPath": "stories/facit-kom-en-manad-for-sent/ORIGINAL_STORY.en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "bab79e61a97da9ea7bf850025ebd3961b4791008c49dfb1e077c20a467bdccae",
+      "historicalExactOriginalVisualFiles": 16,
+      "currentCanonicalExactCandidateCount": 8,
+      "currentCanonicalExactCandidateIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07"
+      ],
+      "notCreatedCanonicalAssets": [
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "chatRecoveredHistoricalFiles": 0,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:06:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "binaryPublishFailureClass": "GITHUB_PUBLISH_FAILED"
+    },
+    {
+      "storyId": "adressen-som-inte-fick-flytta-pa-sig",
+      "title": "ADRESSEN SOM INTE FICK FLYTTA PÅ SIG",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/adressen-som-inte-fick-flytta-pa-sig/story.json",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "narrativeMasterPath": "stories/adressen-som-inte-fick-flytta-pa-sig/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "8a1f36299e080e01e831b5374dd71a517aa332c7ac46f12dfed5006df5be3ed6",
+      "enGbStoryPath": "stories/adressen-som-inte-fick-flytta-pa-sig/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "d7fc9d1f02aacf918a4f997ea99e6ba3bb61543faf8d74aa528e0132b9099ee9",
+      "historicalExactOriginalVisualFiles": 12,
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "panel_05",
+          "panel_12"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:41:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "inventoryPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/manifest/retro-backfill-v2-inventory.json"
+    },
+    {
+      "storyId": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+      "storyIdAuthority": "backfill-derived-from-canonical-title-in-active-source-chat",
+      "title": "Rabatten ingen kunde förklara — spåret som fanns kvar ändå",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE_TEXT_ONLY"
+      },
+      "path": "stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/story.json",
+      "narrativeMasterPath": "stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "ecbafe14f95212444f08f23a1e38e6c9f1486355f889578558ee205956f23876",
+      "narrativeMasterReadBackVerified": true,
+      "enGbStoryPath": "stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbStorySha256": "cf90444af2d9b9497dde33c91ae6da2f500d3bd54a0e7ccccc47ac1638f9e373",
+      "enGbNarrativeMaster": false,
+      "enGbReadBackVerified": true,
+      "currentRuntimeExactOriginalCanonicalAssetCount": 11,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11"
+      ],
+      "currentRuntimeExactOriginalHistoricalCandidateCount": 2,
+      "sourceNotExportableAssets": [
+        "panel_05",
+        "panel_12"
+      ],
+      "notCreatedCanonicalAssets": [
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:29:00+02:00"
+    },
+    {
+      "storyId": "den-sista-touchpointen",
+      "title": "Den sista touchpointen",
+      "masterLocale": "sv-SE",
+      "masterVersion": "v1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE"
+      },
+      "path": "stories/den-sista-touchpointen/story.json"
+    },
+    {
+      "storyId": "same-price-every-time",
+      "title": "SAMMA PRIS, VARJE GÅNG",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "PARTIAL_GITHUB_BACKFILL",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "COMPLETE + GITHUB FAILED",
+        "fr-FR": "COMPLETE + GITHUB FAILED",
+        "pl-PL": "COMPLETE + GITHUB FAILED"
+      },
+      "path": "stories/same-price-every-time/story.json"
+    },
+    {
+      "storyId": "RADERINGEN-SOM-STOPPADES",
+      "title": "RADERINGEN SOM STOPPADES",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "verifiedOriginalAssets": 1,
+      "backfilledAt": "2026-08-23T08:27:00+02:00",
+      "path": "stories/RADERINGEN-SOM-STOPPADES/story.json",
+      "narrativeMasterPath": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+      "enGbStoryPath": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "42c2c5c15b3cd07c958342028fa756d299425eb250f5d61e42f33890ef488f37",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "notCreatedCanonicalAssets": [],
+      "historicalExactRejectedRenderCount": 3,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:27:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_BROWSER_WRITE_SURFACE",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "LOCAL_PACKAGE_CREATED_NOT_GITHUB_PUBLISHED",
+      "sourceNotExportableCanonicalAssets": [
+        "panel_02"
+      ],
+      "currentRuntimeHistoricalAlternateExactOriginalCount": 4
+    },
+    {
+      "storyId": "innan-klockan-borjar-ticka",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "INNAN KLOCKAN BÖRJAR TICKA",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE",
+        "fr-FR": "INCOMPLETE"
+      },
+      "path": "stories/innan-klockan-borjar-ticka/story.json"
+    },
+    {
+      "storyId": "jobbet-ingen-kunde-bestrida",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "JOBBET INGEN KUNDE BESTRIDA",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/jobbet-ingen-kunde-bestrida/story.json"
+    },
+    {
+      "storyId": "vem-bar-ansvaret",
+      "title": "Vem bär ansvaret? — Svaret som fanns innan frågan ställdes",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/vem-bar-ansvaret/story.json"
+    },
+    {
+      "storyId": "samtalet-som-aldrig-kom",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "SAMTALET SOM ALDRIG KOM",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "de-DE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/samtalet-som-aldrig-kom/story.json",
+      "narrativeMasterPath": "stories/samtalet-som-aldrig-kom/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "3d050e7e8f1bb4de315a2d2f19f85cb47baa5e1a638e0094bc725b3737086dec",
+      "enGbStoryPath": "stories/samtalet-som-aldrig-kom/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "6a955e7e03ab2edd8e9f55e2fd9b91d12e3aed2ce9e04fdeda83c609be63b7f7",
+      "canonicalHistoricalAssets": {
+        "sv-SE": 12,
+        "de-DE": 14,
+        "en-GB": 3
+      },
+      "historicalNonCanonicalCandidates": {
+        "sv-SE": 1,
+        "de-DE": 0,
+        "en-GB": 1
+      },
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "cover_00",
+          "cta_13"
+        ],
+        "de-DE": [],
+        "en-GB": [
+          "cover_00",
+          "panel_01",
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "cta_13"
+        ]
+      },
+      "accessibleHistoricalPdfBinaries": {
+        "sv-SE": 2,
+        "de-DE": 2,
+        "en-GB": 1
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:25:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "inventoryPath": "stories/samtalet-som-aldrig-kom/metadata/retro-backfill-v2-inventory.json"
+    },
+    {
+      "storyId": "INTE-OTUR-ETT-MONSTER",
+      "title": "INTE OTUR. ETT MÖNSTER.",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/INTE-OTUR-ETT-MONSTER/story.json",
+      "narrativeMasterPath": "stories/INTE-OTUR-ETT-MONSTER/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "f1cc6739aff8a4881656aff0067e355dc8bf44ee02f509dc3253497b6fccc685",
+      "enGbStoryPath": "stories/INTE-OTUR-ETT-MONSTER/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "ec38afc2f8d2b297cf905f869933920aba95dadfae631e59a09ab76cbe8eba7c",
+      "historicalExactOriginalVisualFiles": 17,
+      "canonicalHistoricalAssets": {
+        "sv-SE": 10
+      },
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "panel_04",
+          "panel_05",
+          "panel_08",
+          "panel_10"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:05:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_VERIFIED_FROM_THIS_RUNTIME",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "retroBackfillStatusPath": "stories/INTE-OTUR-ETT-MONSTER/RETRO_BACKFILL_V2.json"
+    },
+    {
+      "storyId": "vatt-black-torrt-bevis",
+      "storyIdAuthority": "storySlug from portal-upload-manifest.json",
+      "title": "VÅTT BLÄCK, TORRT BEVIS",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE"
+      },
+      "path": "stories/vatt-black-torrt-bevis/story.json"
+    },
+    {
+      "storyId": "utgangen-besiktning-den-som-aldrig-lamnade-garden",
+      "storyIdAuthority": "backfill-derived-from-title",
+      "title": "Utgången besiktning — den som aldrig lämnade gården",
+      "masterLocale": "sv-SE",
+      "masterVersion": "wip-2026-08-17",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/story.json"
+    },
+    {
+      "storyId": "RATT-NYCKEL-INTE-ALLA-NYCKLAR",
+      "title": "RÄTT NYCKEL, INTE ALLA NYCKLAR",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/story.json"
+    },
+    {
+      "storyId": "INGET-ATT-LETA-EFTER",
+      "title": "INGET ATT LETA EFTER",
+      "masterLocale": "sv-SE",
+      "masterVersion": "v1.0",
+      "status": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+      "locales": {
+        "sv-SE": "COMPLETE + GITHUB FAILED",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/INGET-ATT-LETA-EFTER/story.json",
+      "narrativeMasterPath": "stories/INGET-ATT-LETA-EFTER/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "4875faf591efd2b8b62aa6517f82e9b05208cf91e6e69bb2ea687f7f4e4e8b2b",
+      "enGbStoryPath": "stories/INGET-ATT-LETA-EFTER/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "40060f35a29ae25358db115dacefbafb0edf6177c2376e21a86cb1e2f822426c",
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:23:00+02:00",
+      "historicalInventory": {
+        "inventoryItems": 60,
+        "exactOriginalPosts": 50,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 0,
+        "notCreatedPosts": 9,
+        "canonicalSvSeExactAssets": 14
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_TOOL_SURFACE",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "inventoryPath": "stories/INGET-ATT-LETA-EFTER/backfill/retro-backfill-v2-status.json"
+    },
+    {
+      "storyId": "hela-summan-i-tre-steg",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "HELA SUMMAN, I TRE STEG",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/hela-summan-i-tre-steg/story.json"
+    },
+    {
+      "storyId": "ORD-MOT-ORD",
+      "title": "Ord mot ord — skadan som bevisade sig själv",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0-staging",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "path": "stories/ORD-MOT-ORD/story.json"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-02-RESAN-TILLBAKA",
+      "title": "RESAN TILLBAKA SOM ALDRIG BEHÖVDE SKE",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/story.json"
+    },
+    {
+      "storyId": "ingen-behovde-leta-upp-ratt-person",
+      "title": "INGEN BEHÖVDE LETA UPP RÄTT PERSON",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/ingen-behovde-leta-upp-ratt-person/story.json"
+    },
+    {
+      "storyId": "innan-han-hann-tacka-nej",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "INNAN HAN HANN TACKA NEJ",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/innan-han-hann-tacka-nej/story.json",
+      "narrativeMasterPath": "stories/innan-han-hann-tacka-nej/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "3628db637d7d27cbe7170c379dba0f43d53f786924d4815711ad5474e4f83d06",
+      "narrativeMasterReadBackVerified": true,
+      "enGbStoryPath": "stories/innan-han-hann-tacka-nej/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "257f6a51e6b7ea289d3c3c70411425acbc7d025f9620d4324effb3169cc12069",
+      "enGbReadBackVerified": true,
+      "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "currentRuntimeExactOriginalHistoricalAlternateCount": 3,
+      "sourceNotExportableAssets": [
+        "panel_04"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "githubPublishedHistoricalBinaryArtifacts": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED_BINARY_TRANSPORT_UNAVAILABLE",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:57:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudStatus": "UNVERIFIED_NO_AVAILABLE_NEXTCLOUD_OR_WEBDAV_CONNECTOR",
+      "inventoryPath": "stories/innan-han-hann-tacka-nej/backfill-v2/inventory.json",
+      "qaPath": "stories/innan-han-hann-tacka-nej/backfill-v2/qa.md"
+    },
+    {
+      "storyId": "undantaget-som-aldrig-ar-tyst",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "UNDANTAGET SOM ALDRIG ÄR TYST",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/undantaget-som-aldrig-ar-tyst/story.json",
+      "narrativeMasterPath": "stories/undantaget-som-aldrig-ar-tyst/ORIGINAL_STORY.md",
+      "narrativeMasterSourcePath": "stories/undantaget-som-aldrig-ar-tyst/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "64374c28cb845ff7a6bfad5e54917bb5ef768307ab2cfa8ed1a30d7ef9bd2624",
+      "enGbStoryPath": "stories/undantaget-som-aldrig-ar-tyst/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "fca21ed7f1a330598b37d9396c5bb54c87dc3c767fcbd380358f1b7716b926e1",
+      "canonicalExactOriginalVisualAssets": 11,
+      "sourceNotExportableCanonicalAssets": [
+        "panel_01",
+        "panel_09",
+        "cta_13"
+      ],
+      "historicalExactOriginalVisualFiles": 30,
+      "historicalAlternativeOrRejectedExactVisualFiles": 19,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:14:00+02:00",
+      "inventoryPath": "stories/undantaget-som-aldrig-ar-tyst/sv-SE/manifest/retro-backfill-v2-inventory.json",
+      "qaPath": "stories/undantaget-som-aldrig-ar-tyst/sv-SE/qa/retro-backfill-v2-qa.md",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "sandningen-som-visste-vart-den-skulle",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "SÄNDNINGEN SOM VISSTE VART DEN SKULLE",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedCanonicalAssets": 14,
+      "backfilledAt": "2026-08-23T08:30:00+02:00",
+      "path": "stories/sandningen-som-visste-vart-den-skulle/story.json",
+      "narrativeMasterPath": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+      "narrativeMasterQaStatus": "SOURCE_PRESENT_NOT_EXPLICITLY_VERSION_LOCKED",
+      "enGbStoryPath": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "92744d0a088011399f161e539ab5136fdc701906347cfa2413e25c202a332c03",
+      "historicalExactOriginalCanonicalVisuals": 14,
+      "historicalQaUnknownCanonicalVisuals": 10,
+      "historicalQaRebuildRequiredCanonicalVisuals": 4,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:39:00+02:00",
+      "retroBackfillV2ManifestPath": "stories/sandningen-som-visste-vart-den-skulle/manifest/retro-backfill-v2-current-runtime.json",
+      "retroBackfillV2QaPath": "stories/sandningen-som-visste-vart-den-skulle/qa/retro-backfill-v2-current-runtime.md",
+      "historicalInventory": {
+        "exactOriginalCanonicalVisuals": 14,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportableUnboundRuntimeCandidates": 14,
+        "notCreatedEnGbVisuals": 14,
+        "historicalPdf": "EXACT_ORIGINAL_NOT_RELEASE_READY",
+        "historicalArchiveZip": "EXACT_ORIGINAL_NOT_RELEASE_READY",
+        "social": "NOT_CREATED"
+      },
+      "automaticTransportStatus": "NOT_INVOKABLE_FROM_ASSISTANT_RUNTIME"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA",
+      "storyIdAuthority": "release-manifest.json",
+      "title": "FRÅGAN SOM INTE BEHÖVDE VÄNTA",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "COMPLETE + GITHUB FAILED",
+        "en": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY"
+      },
+      "path": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "7c623317827aaebeed74517ab76e5163c9fa9312c9f74726e0cb11bad152323b",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-12-FRAGAN-SOM-INTE-BEHOVDE-VANTA/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "f2d8fe1fd788b3571c6820bb9ffdfc653c68e4c2f1c0b21f2b541985557feedd",
+      "verifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en": 3
+      },
+      "missingCanonicalAssets": {
+        "sv-SE": [],
+        "en": [
+          "panel_01",
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12",
+          "cta_13"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:36:00+02:00",
+      "historicalInventory": {
+        "exactOriginalFiles": 68,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 0,
+        "notCreated": 26
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE"
+    },
+    {
+      "storyId": "ingen-losen-att-krava",
+      "storyIdAuthority": "existing repository story path; source release manifest carries uppercase ID INGEN-LOSEN-ATT-KRAVA",
+      "title": "INGEN LÖSEN ATT KRÄVA",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+      "locales": {
+        "sv-SE": "COMPLETE + GITHUB FAILED",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedCanonicalAssets": 14,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryRetryCheckedAt": "2026-08-23T23:51:00+02:00",
+      "backfilledAt": "2026-08-23T08:45:00+02:00",
+      "path": "stories/ingen-losen-att-krava/story.json"
+    },
+    {
+      "storyId": "uppkopplad-utan-ett-enda-snitt",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "Uppkopplad utan ett enda snitt",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0-backfill-2026-08-23",
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "PARTIAL_BACKFILL",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "verifiedCanonicalAssets": 14,
+      "githubPublishedBinaryAssets": 0,
+      "narrativeMasterGithubVerified": true,
+      "englishStoryGithubVerified": true,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:11:00+02:00",
+      "path": "stories/uppkopplad-utan-ett-enda-snitt/story.json"
+    },
+    {
+      "storyId": "tio-sekunder-inte-tio-falt",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "TIO SEKUNDER, INTE TIO FÄLT",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 9,
+      "backfilledAt": "2026-08-23T08:34:00+02:00",
+      "path": "stories/tio-sekunder-inte-tio-falt/story.json",
+      "storyTranslations": {
+        "en-GB": "DERIVED_TRANSLATION"
+      },
+      "narrativeMasterSha256": "d4cee6d5699c12ab4a37d3e68d737b4ba62a67f2b71f0b87379782a755f7a44a",
+      "enGbStoryPath": "stories/tio-sekunder-inte-tio-falt/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "githubPublishedBinaryAssets": 0,
+      "exactOriginalCanonicalAssets": 9,
+      "sourceNotExportableAssets": [
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:28:00+02:00"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN",
+      "storyIdAuthority": "backfill-derived-from-canonical-title-and-explicit-kron-episode-16",
+      "title": "ETT NAMN FÖR ALLA HUSEN",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 2,
+      "backfilledAt": "2026-08-23T08:35:00+02:00",
+      "path": "stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/story.json",
+      "currentRuntimeExportableCanonicalAssets": 1,
+      "currentRuntimeExportableCanonicalAssetIds": [
+        "cover_00"
+      ],
+      "sourceNotExportableAssets": [
+        "panel_09"
+      ],
+      "missingCanonicalAssets": [
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "rebuildRequired": [
+        "cover_00",
+        "panel_09"
+      ],
+      "githubPublishedBinaryAssets": 1,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryRetryCheckedAt": "2026-08-24T00:45:00+02:00",
+      "githubPublishedCanonicalImageAssets": 0,
+      "githubPublishedSourceBinaryCount": 1,
+      "githubPublishedSourceBinaries": [
+        "sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png"
+      ],
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "0a4d46bf96a96fc6aff4e4f0d42f850b3481741cdda609af400b19fb5cec64e6",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbStorySha256": "ddf0ab5ffa51d22fbbfef1f5ccf83473108ecf7738ef33638d2ba2505cc29404",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:26:00+02:00"
+    },
+    {
+      "storyId": "NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN",
+      "storyIdAuthority": "locked story-dna from local production snapshot",
+      "title": "SVARET LÅG REDAN I PORTALEN",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "verifiedOriginalAssets": 11,
+      "backfilledAt": "2026-08-23T08:39:00+02:00",
+      "path": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/story.json",
+      "githubPublishedBinaryAssets": 0,
+      "narrativeMasterPath": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.md",
+      "narrativeMasterSha256": "e09ffc1704be11c68337df209afca2bbc5dfeff8d4eb2be05eb743fd5d23082f",
+      "enGBStoryPath": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.en-GB.md",
+      "enGBStorySourceClass": "DERIVED_TRANSLATION",
+      "enGBStorySha256": "7087017eccd85e103578a0bd55a7ab5f87308bc7111130454180dff0126029ca",
+      "sourceNotExportableAssets": [
+        "panel_02",
+        "panel_03",
+        "panel_05"
+      ],
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:26:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID",
+      "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-14-and-canonical-title",
+      "title": "INGEN BEHÖVDE STÅ BREDVID",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "verifiedOriginalAssets": 2,
+      "backfilledAt": "2026-08-23T08:46:00+02:00",
+      "path": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "c03e64a46901922839a8fdcd2c82b80bef1e205116cf2403441d25b26809022b",
+      "narrativeMasterReadBackVerified": true,
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-14-INGEN-BEHOVDE-STA-BREDVID/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "316753099e20651e5ff8c24cd304ce537781471bd8c76f90e2fed08431c6edd7",
+      "enGbStoryReadBackVerified": true,
+      "directRuntimeExactCanonicalAssets": 3,
+      "historicalExactOriginalVisualFiles": 10,
+      "sourceNotExportableCanonicalAssets": [
+        "panel_01"
+      ],
+      "notCreatedCanonicalAssets": [
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:35:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED"
+    },
+    {
+      "storyId": "den-enda-kedjan-utan-svaga-lankar",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "DEN ENDA KEDJAN UTAN SVAGA LÄNKAR",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "verifiedOriginalAssets": 13,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T08:44:00+02:00",
+      "path": "stories/den-enda-kedjan-utan-svaga-lankar/story.json",
+      "historicalBuildVersions": [
+        "v0.9",
+        "v0.10"
+      ],
+      "narrativeMasterPath": "stories/den-enda-kedjan-utan-svaga-lankar/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterGitBlobSha": "4396ccf8323364a01461ce8406cd6d1fa7c74925",
+      "narrativeMasterByteSize": 11445,
+      "enGbStoryPath": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "b932811093e8e0322f5bc6d1c7f152d10f10313df94b47c2cb27f3c753373591",
+      "sourceNotExportableCanonicalAssets": [
+        "cta_13"
+      ],
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:43:00+02:00",
+      "historicalInventory": {
+        "totalFound": 71,
+        "exactOriginal": 63,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 5,
+        "notCreated": 2,
+        "canonicalExactOriginalVisuals": 13,
+        "pdfBuilds": 2,
+        "historicalRenderCandidates": 22
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED"
+    },
+    {
+      "storyId": "NC-90-DAGARS-FORSPRANG",
+      "storyIdAuthority": "prior local release-manifest generated in this chat",
+      "title": "90 dagars försprång — Kompetensregistret som räddade miljonaffären",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 12,
+        "en-GB": 13
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T08:47:00+02:00",
+      "path": "stories/NC-90-DAGARS-FORSPRANG/story.json"
+    },
+    {
+      "storyId": "NC-90D-FORSPRANG-001",
+      "storyIdAuthority": "chat-prefight-story-id",
+      "title": "90 DAGARS FÖRSPRÅNG",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 1,
+      "backfilledAt": "2026-08-23T08:49:00+02:00",
+      "path": "stories/NC-90D-FORSPRANG-001/story.json"
+    },
+    {
+      "storyId": "prislappen-som-slutade-vara-en-gissning",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "Prislappen som slutade vara en gissning",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 14,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T08:49:00+02:00",
+      "path": "stories/prislappen-som-slutade-vara-en-gissning/story.json"
+    },
+    {
+      "storyId": "SAMMA-STRACKA-SAMMA-SVAR",
+      "storyIdAuthority": "source release-manifest.yaml and canonical title",
+      "title": "SAMMA STRÄCKA, SAMMA SVAR",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "verifiedOriginalAssets": 12,
+      "sourceNotExportableAssets": [
+        "cover_00",
+        "panel_01"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryRetryCheckedAt": "2026-08-23T23:27:00+02:00",
+      "backfilledAt": "2026-08-23T08:50:00+02:00",
+      "path": "stories/SAMMA-STRACKA-SAMMA-SVAR/story.json",
+      "narrativeMasterPath": "stories/SAMMA-STRACKA-SAMMA-SVAR/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "9103e944c6511e69979aa90065f3ea62aea18bea960b4961fee43a3385ce00c3",
+      "enGbStoryPath": "stories/SAMMA-STRACKA-SAMMA-SVAR/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "0e36bd634cabd942b1f384c182b4d18f54034840fc603aa4433bfe91e937ca71",
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "cover_00",
+          "panel_01"
+        ]
+      },
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:36:00+02:00",
+      "historicalInventory": {
+        "canonicalExactOriginalVisualSlots": 12,
+        "rejectedOrSupersededExactVisualFiles": 9,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportableCanonicalAssets": 2,
+        "svSePdf": "NOT_CREATED",
+        "enGbVisualLocale": "NOT_CREATED"
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+    },
+    {
+      "storyId": "sjalvbetjaning-aldrig-ensam",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "SJÄLVBETJÄNING, ALDRIG ENSAM",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 7,
+        "en-GB": 0
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T08:44:00+02:00",
+      "path": "stories/sjalvbetjaning-aldrig-ensam/story.json",
+      "runtimeDirectlyAccessibleBinaryArtifacts": {
+        "sv-SE": 13,
+        "en-GB": 1
+      },
+      "sourceNotExportable": {
+        "sv-SE": [
+          "cover_00"
+        ],
+        "en-GB": []
+      },
+      "missingOriginalAssets": {
+        "sv-SE": [],
+        "en-GB": [
+          "panel_01",
+          "panel_02",
+          "panel_03",
+          "panel_04",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12",
+          "cta_13"
+        ]
+      },
+      "githubPublishedSourceBinaries": 1,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryBackfillRetryReason": "The official logo binary was assembled and read back successfully. Multi-megabyte image/PDF/ZIP originals are directly accessible, but the current GitHub create_blob connector requires literal base64 content and the available tool/context transport capacity cannot carry the required complete payload set without truncation; no binary was reconstructed, cropped, substituted, or fabricated.",
+      "binaryAssemblerCommit": "a3bf938299fa6cf18e193bbd433655e59436074e",
+      "narrativeMasterPath": "stories/sjalvbetjaning-aldrig-ensam/sources/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "eee10f20781cdfe740ad92b20825b1980b991205ee62e54aa167ff9fe6db3faf",
+      "narrativeMasterGitBlobSha": "748894ca9f16fc30496aad0380259a6050c58496",
+      "enGbStoryPath": "stories/sjalvbetjaning-aldrig-ensam/sources/original-story-en-GB.md",
+      "enGbSourceLocale": "sv-SE",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "598a52207dea405e1fc4f5eb09c5bbf33449153491db862446b0c4fa192488c5",
+      "enGbStoryGitBlobSha": "cf8de4ef6a14ea25e06b0477104d01e499ba8b52",
+      "retroBackfillV2Inventory": "stories/sjalvbetjaning-aldrig-ensam/manifest/retro-backfill-v2-summary.json",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:05:00+02:00",
+      "historicalInventory": {
+        "totalItems": 99,
+        "exactOriginal": 72,
+        "chatRecovered": 0,
+        "derivedTranslation": 1,
+        "sourceNotExportable": 1,
+        "notCreated": 25,
+        "exactHistoricalRenders": {
+          "sv-SE": 36,
+          "en-GB": 6
+        },
+        "canonicalVisualExactOriginal": {
+          "sv-SE": 13,
+          "en-GB": 1
+        }
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "automaticTransportReason": "The runtime exposes downloadable sandbox files and GitHub read/write, but no Chrome-download control and no connected Nextcloud/local-capture/hardened-router/publisher connector. No manual --once/curl/publisher fallback was run.",
+      "localRetroPackages": {
+        "sv-SE": {
+          "sha256": "fba83db5419e65d0fe802a7cd618b3248962db6dc8d2d39037018d42a652b669",
+          "filesInPublishRequest": 58
+        },
+        "en-GB": {
+          "sha256": "476df16035421030b011a4eb51624210590b55d72602cb57e210857acfb3528b",
+          "filesInPublishRequest": 10
+        },
+        "fullArchiveSha256": "21ca31a8de87c3e7cedce4d87cfcf0f279a51e53c4eadc930513004cd873c79d"
+      }
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL",
+      "storyIdAuthority": "backfill-derived-from-title-and-explicit-kron-episode-8",
+      "title": "RÄTT DEL TILL RÄTT BIL",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "37cb60e6255b0a523d384920d7dfceef478b7a9e2d6748b7386a73b1da5e6e8b",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "5600c900c65c912f58aee50913c8a863cdceae7b98d70b692e76d492f2fda480",
+      "currentRuntimeCanonicalCurrentBuildExactAssets": 0,
+      "currentRuntimeDirectHistoricalRenderCandidates": 9,
+      "canonicalCurrentBuildSourceNotExportableCount": 14,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:03:00+02:00",
+      "automaticTransportStatus": "UNAVAILABLE_IN_ASSISTANT_TOOL_ENVIRONMENT"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+      "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-4-and-canonical-title",
+      "title": "MANNEN SOM SKULLE VARA PÅ TVÅ STÄLLEN",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "verifiedOriginalAssets": 14,
+      "rawRenderArtifacts": 38,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T08:52:00+02:00",
+      "path": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256Status": "NOT_RECOMPUTED_FROM_GITHUB_BYTES_THIS_PASS",
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStoryArchiveExportSha256": "d4ddf60a2cf48d5921d4fe0f8d135350cbae089221e41f7b428c327cb1643e04",
+      "canonicalHistoricalImageSlotsExactOriginal": 14,
+      "historicalExactOriginalVisualFiles": 52,
+      "chatRecoveredHistoricalFiles": 0,
+      "sourceNotExportableCanonicalAssets": [],
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:55:00+02:00",
+      "historicalInventory": {
+        "canonicalExactOriginalSlots": 14,
+        "additionalExactOriginalRenderFilesCurrentRuntime": 44,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportableCanonicalAssets": 0,
+        "historicalPdfRevisions": 4,
+        "historicalSocialUniqueRevisions": 3
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_IN_CURRENT_RUNTIME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "narrativeMasterSha256": "acd66f041f370043b8b694facc747e9355546a3e46e9672f9d865ed11614e558",
+      "enGbStorySha256": "3c747df90f39404842430891cef2e0cb22e60b14c073609ffcc1fed491acc3d5",
+      "canonicalExactOriginalAssetsAccessible": 14,
+      "historicalAdditionalRenderBytesAccessibleInCurrentRuntime": 44,
+      "historicalPdfRevisionsExactOriginal": 4,
+      "historicalSocialUniqueExactOriginal": 3
+    },
+    {
+      "storyId": "slut-pa-chansningen",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "SLUT PÅ CHANSNINGEN",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 12,
+        "en-GB": 9
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T08:49:00+02:00",
+      "path": "stories/slut-pa-chansningen/story.json"
+    },
+    {
+      "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+      "storyIdAuthority": "explicit ID established in this chat",
+      "title": "FRÅN KAOS TILL MÖNSTER",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "rawRenderArtifacts": 4,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-24T22:14:00+02:00",
+      "path": "stories/NC-FRAN-KAOS-TILL-MONSTER/story.json",
+      "historicalVerifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 13
+      },
+      "currentDirectlyAccessibleOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 14
+      },
+      "binaryBackfillRetry": "GITHUB_PUBLISH_FAILED",
+      "binaryRetryCheckedAt": "2026-08-24T22:14:00+02:00",
+      "narrativeMasterPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb",
+      "enGbStoryPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "109a9e09ab0f8fd6cd76ef19fc265fc3dfa6ca35a92dbd3706588beee0b01f0d",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:26:00+02:00",
+      "historicalInventory": {
+        "canonicalExactOriginalVisuals": {
+          "sv-SE": 14,
+          "en-GB": 14
+        },
+        "historicalGeneratedRootPngsArchivedLocally": 42,
+        "sourceAndRuleReferencesArchivedLocally": 16,
+        "chatRecovered": 0,
+        "svSeSocial": "NOT_CREATED",
+        "enGbSocial": "SOURCE_NOT_EXPORTABLE"
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "currentExactHistoricalRawMultiAssetRenders": 4
+    },
+    {
+      "storyId": "kalibreringen-som-inte-fick-vanta",
+      "storyIdAuthority": "backfill-derived-from-canonical-title-and-explicit-Ferm-Mobilkran-episode-4",
+      "title": "Kalibreringen som inte fick vänta",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 4,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T09:14:00+02:00",
+      "path": "stories/kalibreringen-som-inte-fick-vanta/story.json"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+      "storyIdAuthority": "backfill-derived-from-explicit Kron Elteknik episode 15 and canonical title in this chat",
+      "title": "TVÅ KONTOR, EN LISTA SOM INTE VISSTE VEM SOM VAR VEM",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "PARTIAL_BACKFILL",
+      "storyLock": "BLOCKED",
+      "productTruthStatus": "UNRESOLVED_REQUIRED_CLAIM",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/story.json",
+      "narrativeMasterPath": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "d2df49b22f40f387fb43e27cf30495099949b7e10d0da0216af7c2855e97ef66",
+      "narrativeMasterReadBackVerified": true,
+      "enGbStoryPath": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "b31d2574ce5adb265871e18202c74dc438730d5ba5d79047e7ba9f93e89a7747",
+      "enGbReadBackVerified": true,
+      "canonicalExactOriginalAssets": 6,
+      "canonicalExactOriginalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_10",
+        "panel_11",
+        "panel_12"
+      ],
+      "notCreatedCanonicalAssets": [
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "cta_13"
+      ],
+      "sourceNotExportableCanonicalAssets": [],
+      "historicalExactOriginalRenderFiles": 10,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:36:00+02:00",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE"
+    },
+    {
+      "storyId": "KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE",
+      "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-7-and-canonical-title",
+      "title": "PACKAD INNAN HJULEN ROLLADE",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "verifiedExportableAssetSlots": 3,
+      "rawRejectedArtifacts": 5,
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-24T00:34:52+02:00",
+      "path": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/story.json",
+      "currentRuntimeMappedAssetSlots": [
+        "panel_09",
+        "panel_10",
+        "panel_11"
+      ],
+      "unambiguousCurrentCandidateSlots": [
+        "panel_10",
+        "panel_11"
+      ],
+      "ambiguousCurrentCandidateSlots": [
+        "panel_09"
+      ],
+      "sourceNotExportableAssets": [
+        "cover_00"
+      ],
+      "sourceCandidateFiles": 6,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryRetryCheckedAt": "2026-08-24T00:34:52+02:00",
+      "retroBackfillV2": "PARTIAL_BACKFILL",
+      "sourceTranslationLocales": [
+        "en-GB"
+      ],
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillCheckedAt": "2026-08-24T19:08:00+02:00"
+    },
+    {
+      "storyId": "leveransen-som-fick-en-andra-chans",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "LEVERANSEN SOM FICK EN ANDRA CHANS",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 0
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T09:16:00+02:00",
+      "path": "stories/leveransen-som-fick-en-andra-chans/story.json"
+    },
+    {
+      "storyId": "pdf-en-som-bokade-sig-sjalv",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "PDF:EN SOM BOKADE SIG SJÄLV",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 10,
+      "missingOriginalAssets": [
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "existsButNotExportable": [],
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T10:47:00+02:00",
+      "path": "stories/pdf-en-som-bokade-sig-sjalv/story.json",
+      "narrativeMasterPath": "stories/pdf-en-som-bokade-sig-sjalv/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "9c40c5305018d3f294e3c70e63e4a3037091ffb0cc3d2acecf86fb33aa86932d",
+      "enGbStoryPath": "stories/pdf-en-som-bokade-sig-sjalv/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbStorySha256": "54ad02c98ae631ff7085bd3a2e7469b87fcb8856c4f29792b4392807c22b684e",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 3,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "panel_01",
+        "panel_02",
+        "panel_03"
+      ],
+      "historicalPanel10ExactOriginalCandidateCount": 5,
+      "sourceNotExportableAssets": [
+        "cover_00",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10"
+      ],
+      "notCreatedCanonicalAssets": [
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "rebuildRequired": [
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_10"
+      ],
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:10:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "runtimeVerificationPath": "stories/pdf-en-som-bokade-sig-sjalv/backfill/retro-backfill-v2-runtime-verification.json"
+    },
+    {
+      "storyId": "jakten-pa-spokpaketet",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "Jakten på spökpaketet – Hur Patrik hittade kontrollen vid lastkajen",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "PARTIAL_GITHUB_BACKFILL",
+      "locales": {
+        "sv-SE": "COMPLETE + GITHUB FAILED",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 14,
+        "en-GB": 0
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T10:48:00+02:00",
+      "path": "stories/jakten-pa-spokpaketet/story.json"
+    },
+    {
+      "storyId": "sex-manader-pa-fem-dagar",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "Sex månader på fem dagar",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": {
+        "sv-SE": 13,
+        "en-GB": 12
+      },
+      "existsButNotExportable": {
+        "sv-SE": [
+          "cta_13"
+        ],
+        "en-GB": [
+          "panel_03",
+          "cta_13"
+        ]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "backfilledAt": "2026-08-23T10:51:00+02:00",
+      "path": "stories/sex-manader-pa-fem-dagar/story.json"
+    },
+    {
+      "storyId": "tjugo-samtal-blev-ett",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "TJUGO SAMTAL BLEV ETT",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "verifiedOriginalAssets": 3,
+      "runtimeDirectlyAccessibleBinaryArtifacts": 9,
+      "sourceNotExportable": [],
+      "missingOriginalAssets": [
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "githubPublishedSourceBinaries": [],
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryBackfillRetryReason": "Exact original image bytes are directly accessible in the current runtime, but the requested automatic Chrome -> local capture -> Nextcloud -> hardened router -> publisher chain cannot be invoked from this runtime: Chrome control is disabled and no Nextcloud connector/mount is available. Local publish packages and publish-request files were created without altering source bytes. No binary candidate has therefore been claimed as GitHub-published or synced.",
+      "binaryRetryCheckedAt": "2026-08-24T00:27:00+02:00",
+      "path": "stories/tjugo-samtal-blev-ett/story.json",
+      "githubPublishedTextArtifacts": [
+        "stories/tjugo-samtal-blev-ett/ORIGINAL_STORY.md",
+        "stories/tjugo-samtal-blev-ett/source/original-story-en-GB.md",
+        "stories/tjugo-samtal-blev-ett/source/original-story-en-GB.meta.json",
+        "stories/tjugo-samtal-blev-ett/source/PREFLIGHT.md",
+        "stories/tjugo-samtal-blev-ett/retro-backfill/v2/status.json"
+      ],
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:26:00+02:00"
+    },
+    {
+      "storyId": "FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET",
+      "storyIdAuthority": "backfill-derived-from-canonical-title-and-explicit Ferm Mobilkran episode 2 context",
+      "title": "Behörigheten som gick ut mitt i lyftet",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "currentRuntimeExportableCanonicalAssets": 14,
+      "historicalExactRenderArtifacts": 35,
+      "sourceNotExportableAssets": [],
+      "githubPublishedBinaryAssets": 0,
+      "narrativeMasterPath": "stories/FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET/source/original-story-sv-SE.md",
+      "narrativeMasterSha256": "99ad7dd3d9955cc017b2e66e6724d55e6674256c2623b52bf63e441e9a53c4b4",
+      "enGBStoryPath": "stories/FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET/source/original-story-en-GB.md",
+      "enGBStorySourceClass": "DERIVED_TRANSLATION",
+      "enGBStorySha256": "9e392bb5c55efbc5ecf5ccdceef761a203edeb507a04bbeb149879875547e113",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T17:26:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "path": "stories/FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET/story.json"
+    },
+    {
+      "storyId": "INGET-FALLER-MELLAN-STOLARNA",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "Inget faller mellan stolarna — Henrik & navichains uppgiftsmotor",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "narrativeMasterPath": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0",
+      "enGbStoryPath": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "c56125a1b7f1e46ca84d78092adb89e34b488b63cbe1879a807c79dd4cb6233c",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12"
+      ],
+      "notCreatedCanonicalAssets": [
+        "cta_13"
+      ],
+      "rebuildRequired": [
+        "panel_11",
+        "panel_12"
+      ],
+      "historicalRawRenderFilesDirectlyAccessible": 43,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:34:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "path": "stories/INGET-FALLER-MELLAN-STOLARNA/story.json"
+    },
+    {
+      "storyId": "NC-DEN-INTEGRERADE-KUNDEN",
+      "storyIdAuthority": "existing local release package naming and canonical active-story title in this chat",
+      "title": "Den integrerade kunden",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.1.0",
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE",
+        "de-DE": "INCOMPLETE"
+      },
+      "path": "stories/NC-DEN-INTEGRERADE-KUNDEN/story.json",
+      "narrativeMasterPath": "stories/NC-DEN-INTEGRERADE-KUNDEN/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "705523a3dbc270f1f4c194fb791ef953dc528fadc4873b24a3781853251652ca",
+      "enGbStoryPath": "stories/NC-DEN-INTEGRERADE-KUNDEN/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "9eb20ee61c55ad8d38320f2d21f099eb2d0afa1a414e750b25175a3723d0293e",
+      "currentRuntimeExactOriginalCanonicalAssets": {
+        "sv-SE": 13,
+        "en-GB": 12,
+        "de-DE": 4
+      },
+      "sourceNotExportableCanonicalAssets": {
+        "sv-SE": [
+          "cta_13"
+        ],
+        "en-GB": [
+          "panel_05",
+          "cta_13"
+        ],
+        "de-DE": [
+          "cover_00",
+          "panel_05",
+          "panel_06",
+          "panel_07",
+          "panel_08",
+          "panel_09",
+          "panel_10",
+          "panel_11",
+          "panel_12",
+          "cta_13"
+        ]
+      },
+      "historicalExactOriginalFiles": 64,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:41:00+02:00",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "inventoryPath": "stories/NC-DEN-INTEGRERADE-KUNDEN/manifest/retro-backfill-v2-summary.json"
+    },
+    {
+      "storyId": "den-som-redan-var-narmast",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "DEN SOM REDAN VAR NÄRMAST",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "sourceNarrativesPublished": 2,
+      "narrativeMasterReadBackVerified": true,
+      "enGbFaithfulTranslationReadBackVerified": true,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:43:00+02:00",
+      "canonicalExactOriginalAssetsAccessible": 14,
+      "exactHistoricalRenderAttemptsAccessible": 21,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "path": "stories/den-som-redan-var-narmast/story.json"
+    },
+    {
+      "storyId": "FARGEN-SOM-VARNADE-I-TID",
+      "title": "FÄRGEN SOM VARNADE I TID",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/FARGEN-SOM-VARNADE-I-TID/story.json",
+      "narrativeMasterPath": "stories/FARGEN-SOM-VARNADE-I-TID/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "f81a029cf0d4e2b5318bf463893164d7f92a7a38572b9ea8970c13dc43422285",
+      "enGbStoryPath": "stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "775e0777c4bd8c457a8bdd6aa4047cbcbf2426b1581d633001b213260ff67df1",
+      "canonicalExactOriginalAvailable": 11,
+      "canonicalExactOriginalIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12"
+      ],
+      "sourceNotExportableAssets": [
+        "panel_06",
+        "panel_07",
+        "cta_13"
+      ],
+      "historicalExactRenderFiles": 25,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:38:00+02:00"
+    },
+    {
+      "storyId": "utom-rackhall-for-uncle-sam",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "Utom räckhåll för Uncle Sam",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-US": "INCOMPLETE",
+        "de-DE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/utom-rackhall-for-uncle-sam/story.json",
+      "narrativeMasterPath": "stories/utom-rackhall-for-uncle-sam/ORIGINAL_STORY.md",
+      "narrativeMasterSourcePath": "stories/utom-rackhall-for-uncle-sam/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "2f16b6d9d2627ddd2031935064c49913cca4cbdc51e853d91bf3a0974bb12888",
+      "narrativeMasterReadBackVerified": true,
+      "enGbStoryPath": "stories/utom-rackhall-for-uncle-sam/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "7db61d3987b0a23f2f8c4191452c1d25623131919526f46b2ba5201bd71359ff",
+      "enGbReadBackVerified": true,
+      "currentRuntimeInventory": {
+        "records": 135,
+        "exactOriginal": 76,
+        "chatRecovered": 0,
+        "derivedTranslation": 1,
+        "sourceNotExportable": 58,
+        "notCreated": 0
+      },
+      "currentRuntimeCanonicalExactOriginalAssets": {
+        "sv-SE": 6,
+        "en-US": 0,
+        "de-DE": 0,
+        "en-GB": 0
+      },
+      "currentRuntimeSvSeExactAssetIds": [
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06"
+      ],
+      "currentRuntimeSvSeSourceNotExportableAssets": [
+        "cover_00",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "historicalExactRenderArtifactsCurrentRuntime": 50,
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:04:00+02:00",
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_NEXTCLOUD_WRITE_SURFACE"
+    },
+    {
+      "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+      "title": "DEN RADERING SOM ALDRIG FICK SKE",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "narrativeMasterPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4",
+      "enGbStoryPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "f8c458a2a3bd1d6aaa7c065997b6f827b6ae7805d77ba708117f8371dc2d47a5",
+      "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+      "currentRuntimeExactOriginalCanonicalAssetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "sourceNotExportableCanonicalAssets": [
+        "panel_02"
+      ],
+      "rebuildRequiredHistorical": [
+        "cover_00",
+        "panel_02"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T19:41:00+02:00",
+      "automaticTransportStatus": "NOT_INVOKABLE_FROM_CHAT_RUNTIME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "LOCAL_PACKAGES_CREATED_NOT_GITHUB_PUBLISHED",
+      "path": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/story.json"
+    },
+    {
+      "storyId": "BRON-SOM-STOPPADE-ALLT",
+      "title": "BRON SOM STOPPADE ALLT",
+      "masterLocale": "sv-SE",
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/BRON-SOM-STOPPADE-ALLT/story.json",
+      "narrativeMasterPath": "stories/BRON-SOM-STOPPADE-ALLT/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "bd43dca4e4b4b58626aa6a208f03cc195b2abb600b62985e98f67b372f1b7650",
+      "enGbStoryPath": "stories/BRON-SOM-STOPPADE-ALLT/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "792f003e4c5ffaaea9a69a30101bf7866cad3081144effb7ddfe8cc5fd60603b",
+      "canonicalExactOriginalAvailable": 14,
+      "canonicalExactOriginalIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "svSePdfStatus": "EXACT_ORIGINAL_NOT_GITHUB_PUBLISHED",
+      "enGbHistoricalWipExactOriginal": 16,
+      "enGbNotCreatedCanonicalAssets": [
+        "panel_12",
+        "cta_13"
+      ],
+      "historicalExactOriginalVisualOrQaFiles": 85,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:10:00+02:00"
+    },
+    {
+      "storyId": "JA-SOM-BLEV-BOKAT-DIREKT",
+      "storyIdAuthority": "explicit active-story identifier from current chat",
+      "title": "JA SOM BLEV BOKAT, DIREKT",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "PARTIAL_BACKFILL",
+      "locales": {
+        "sv-SE": "COMPLETE_HISTORICAL_SOURCE_GITHUB_BINARY_FAILED",
+        "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+      },
+      "path": "stories/JA-SOM-BLEV-BOKAT-DIREKT/story.json",
+      "narrativeMasterPath": "stories/JA-SOM-BLEV-BOKAT-DIREKT/source/original-story-sv-SE.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "6bdf4920a3eff5cd3d9231c857932261bdbb40d4f37d1d6d1ba1e0049a4c5ad8",
+      "enGbStoryPath": "stories/JA-SOM-BLEV-BOKAT-DIREKT/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "b29cd0633d6ec4ece7589dc22ff4433e65aec46ecafd4d9de6e88fed6ef6fd01",
+      "historicalExactOriginalVisualAssets": 14,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:21:00+02:00",
+      "retryAt": "2026-08-24T22:34:00+02:00"
+    },
+    {
+      "storyId": "tva-flaggor-en-standard",
+      "storyIdAuthority": "backfill-derived-from-canonical-title",
+      "title": "Två flaggor, en standard",
+      "masterLocale": "sv-SE",
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "locales": {
+        "sv-SE": "INCOMPLETE",
+        "en-GB": "INCOMPLETE"
+      },
+      "path": "stories/tva-flaggor-en-standard/story.json",
+      "narrativeMasterPath": "stories/tva-flaggor-en-standard/source/original-story-sv-SE.md",
+      "legacyNarrativeMasterPath": "stories/tva-flaggor-en-standard/ORIGINAL_STORY.md",
+      "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+      "narrativeMasterSha256": "6be550ffd9651ccaf67598aa743299ec96102a4cafdd27a69ddc823e58e6182c",
+      "enGbStoryPath": "stories/tva-flaggor-en-standard/source/original-story-en-GB.md",
+      "enGbTranslationType": "faithful",
+      "enGbSourceClass": "DERIVED_TRANSLATION",
+      "enGbNarrativeMaster": false,
+      "enGbStorySha256": "3259773f51f1e16eeccde371ddd020391704452380543d5c87c76afddccaefac",
+      "githubPublishedBinaryAssets": 0,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "retroBackfillV2CheckedAt": "2026-08-24T22:26:00+02:00",
+      "historicalInventory": {
+        "inventoryItems": 72,
+        "exactOriginal": 44,
+        "derivedTranslations": 1,
+        "chatRecovered": 0,
+        "sourceNotExportable": 23,
+        "notCreated": 4,
+        "svSeCanonicalExactOriginal": 11,
+        "enGbCanonicalStoryFaithfulExactOriginal": 5,
+        "historicalRejectedVisualFiles": 14,
+        "historicalDuplicateAliasFiles": 1
+      },
+      "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_TOOL_SURFACE",
+      "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+      "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+      "inventoryPath": "stories/tva-flaggor-en-standard/manifest/retro-backfill-v2-inventory.json"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schema": "navichain-storyportal-story-v2",
+  "storyId": "lappen-som-antligen-har-en-agare",
+  "title": "Lappen som äntligen har en ägare",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "narrativeMasterPath": "stories/lappen-som-antligen-har-en-agare/source/original-story-sv-SE.md",
+  "narrativeMasterMirrorPath": "stories/lappen-som-antligen-har-en-agare/ORIGINAL_STORY.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "62579ead1ceac6ef45f056a60ed8018ec42c9565b03d17ae00bb5267c539d7e4",
+  "enGbStoryPath": "stories/lappen-som-antligen-har-en-agare/source/original-story-en-GB.md",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "a2599e3b5ca716e36d9656108fd4a123782ad014933457d4161ad95a32004c80",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "INCOMPLETE"
+  },
+  "historicalCanonicalAssets": {
+    "sv-SE": [
+      "cover_00",
+      "panel_01",
+      "panel_02",
+      "panel_03",
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ],
+    "en-GB": [
+      "cover_00",
+      "panel_01",
+      "panel_05",
+      "panel_06",
+      "panel_07"
+    ]
+  },
+  "verifiedOriginalAssets": {
+    "sv-SE": 14,
+    "en-GB": 5
+  },
+  "missingCanonicalAssets": {
+    "sv-SE": [],
+    "en-GB": [
+      "panel_02",
+      "panel_03",
+      "panel_04",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ]
+  },
+  "historicalQaPolicy": "provenance separate from QA; UNKNOWN is not upgraded",
+  "githubPublishedBinaryAssets": 0,
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:41:00+02:00",
+  "inventoryPath": "stories/lappen-som-antligen-har-en-agare/metadata/inventory.json"
+}

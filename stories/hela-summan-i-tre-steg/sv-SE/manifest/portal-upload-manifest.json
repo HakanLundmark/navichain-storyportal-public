@@ -1,0 +1,18 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "hela-summan-i-tre-steg",
+  "storySlug": "hela-summan-i-tre-steg",
+  "title": "HELA SUMMAN, I TRE STEG",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0",
+  "exportedAt": "2026-08-24T19:45:00+02:00",
+  "source": "chatgpt-current-story-chat-retro-v2",
+  "originalStory": {"path":"source/original-story-sv-SE.md","status":"present"},
+  "translations": {"en-GB":{"path":"source/original-story-en-GB.md","sourceClass":"DERIVED_TRANSLATION"}},
+  "locales": ["sv-SE"],
+  "assets": {"sv-SE":{"expected":14,"exactOriginal":13,"sourceNotExportable":["panel_06"]}},
+  "pdfs": {"sv-SE":{"status":"SOURCE_NOT_EXPORTABLE","historicalSha256":"3d974354c0ed4f7efba2429231321663d2700c831bcc6611b2e2196c8ae92055"}},
+  "social": {"sv-SE":"sv-SE/social/linkedin-sv-SE.txt"},
+  "qa": {"export":"PASS_WITH_SOURCE_GAP","releaseStatusKnown":true,"releaseStatus":"INCOMPLETE"},
+  "publishPolicy": {"portalMayImportIncompletePackage":true,"portalMayPublishIncompleteStory":false,"githubSyncAfterSuccessfulPortalImport":true}
+}

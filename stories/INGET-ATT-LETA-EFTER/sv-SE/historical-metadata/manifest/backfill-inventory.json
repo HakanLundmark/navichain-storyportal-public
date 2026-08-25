@@ -1,0 +1,124 @@
+{
+  "storyId": "INGET-ATT-LETA-EFTER",
+  "locale": "sv-SE",
+  "masterVersion": "v1.0",
+  "classification": "COMPLETE",
+  "assetCount": 14,
+  "assets": [
+    {
+      "assetId": "cover_00",
+      "filename": "cover_00.jpeg",
+      "sourceFilename": "854253F1-CB67-4206-99B5-1226320ADD61.jpeg",
+      "sha256": "d4870403811d62c39eed6c49a8b1c1147dcbab41b2c7fd806cc4a7d4e69a5f09",
+      "bytes": 931782
+    },
+    {
+      "assetId": "panel_01",
+      "filename": "panel_01.jpeg",
+      "sourceFilename": "4E4F1DF7-9CA0-4A1D-BB9C-6B32FCF9B435.jpeg",
+      "sha256": "1e58dcc21c681c514a488f916290b1d6b02315c20519297e0b510d18d9e24ddd",
+      "bytes": 836121
+    },
+    {
+      "assetId": "panel_02",
+      "filename": "panel_02.jpeg",
+      "sourceFilename": "1D52D026-F922-4C7C-9B90-E3C4E44F1E1E.jpeg",
+      "sha256": "5dcb2d911f4e93dd87129063d82d1ffc3d60bb53027a168ae85a0c4ff7146ee3",
+      "bytes": 986527
+    },
+    {
+      "assetId": "panel_03",
+      "filename": "panel_03.jpeg",
+      "sourceFilename": "11D88450-36F2-45F4-BC23-138E350B516F.jpeg",
+      "sha256": "fd57bb0d30a6f284ec333a20dd1811b27a936a89083945d12a303c01d50a338d",
+      "bytes": 810298
+    },
+    {
+      "assetId": "panel_04",
+      "filename": "panel_04.jpeg",
+      "sourceFilename": "80F0106F-753C-4A56-A2F4-61047651B653.jpeg",
+      "sha256": "477e510d1bedc1148cde230a7aa4a0caee850c12510f965ec3519ea2fecbf045",
+      "bytes": 798663
+    },
+    {
+      "assetId": "panel_05",
+      "filename": "panel_05.jpeg",
+      "sourceFilename": "DB321C6C-0CD5-401C-9E31-92B5BFC5E5F7.jpeg",
+      "sha256": "6896ededd081f06293037e64b0a80341df78c4da61d1d73035b41df625419ea8",
+      "bytes": 810059
+    },
+    {
+      "assetId": "panel_06",
+      "filename": "panel_06.jpeg",
+      "sourceFilename": "83770BA5-2BC1-423B-93A3-5AFCB8D97797.jpeg",
+      "sha256": "d1471daf4977207f2f60fbf6e56dd63f8694ac2d28f17c61171d1f5f2ca86a71",
+      "bytes": 805170
+    },
+    {
+      "assetId": "panel_07",
+      "filename": "panel_07.jpeg",
+      "sourceFilename": "C05DE745-5885-46DE-867A-A028A6B48381.jpeg",
+      "sha256": "ecd8ab90a9c5670e59a7452af50018a631a4f15836a411f9d9f8fb4e9aa3f3bc",
+      "bytes": 794051
+    },
+    {
+      "assetId": "panel_08",
+      "filename": "panel_08.jpeg",
+      "sourceFilename": "E4DEF0C1-A491-4446-A88D-4163626E99C7.jpeg",
+      "sha256": "f8632207268d0c99b423c891b66ee8afd2dc67c40f802263dc809a513f48aed5",
+      "bytes": 794874
+    },
+    {
+      "assetId": "panel_09",
+      "filename": "panel_09.jpeg",
+      "sourceFilename": "ED3A4676-7901-45CC-9788-DCB5397A0659.jpeg",
+      "sha256": "fa3fdbacc66023204e709bf4cf5f9beb23f0d67d7a5269c22a0d66ea498703c8",
+      "bytes": 822025
+    },
+    {
+      "assetId": "panel_10",
+      "filename": "panel_10.jpeg",
+      "sourceFilename": "504326C8-A639-4D08-80C8-625C0E82018A.jpeg",
+      "sha256": "95a695d14da6fbdabf622fa8d0f43bc8fabb45db5ff8a5e6d552a5fd7c42077f",
+      "bytes": 701778
+    },
+    {
+      "assetId": "panel_11",
+      "filename": "panel_11.jpeg",
+      "sourceFilename": "257EA169-EB80-44BB-A489-493724F4B6E1.jpeg",
+      "sha256": "236038f4dba39d008731d606e8a1e47412c6b913953987898ab3f86722250ced",
+      "bytes": 832836
+    },
+    {
+      "assetId": "panel_12",
+      "filename": "panel_12.jpeg",
+      "sourceFilename": "5544D7AC-56D2-49E3-9AB5-2D30349A88B2.jpeg",
+      "sha256": "5c8021eb69d30ad3b7c4c1441205ebee070189b8d95f6a9a620350770430cdfb",
+      "bytes": 843418
+    },
+    {
+      "assetId": "cta_13",
+      "filename": "cta_13.jpeg",
+      "sourceFilename": "C8F9DE30-B148-4E62-A812-32E6DDF3C0DA.jpeg",
+      "sha256": "65262ba64f6c245c6c666a2876806d44b2abcac8f655754b83f4c87ac59523e4",
+      "bytes": 793020
+    }
+  ],
+  "otherContent": {
+    "originalStory": "../ORIGINAL_STORY.md",
+    "pdf": "carousel/INGET-ATT-LETA-EFTER_sv-SE_carousel.pdf",
+    "social": "social/linkedin_post_sv-SE.md",
+    "qa": [
+      "qa/qa_report_sv-SE.md"
+    ],
+    "manifest": [
+      "manifest/asset_manifest_sv-SE.json",
+      "manifest/asset_manifest_sv-SE.csv"
+    ],
+    "sources": [
+      "sources/NAVICHAIN-OFFICIAL-LOGO.png",
+      "sources/Korrekt QR kod till signup.png",
+      "sources/NAVICHAIN-PRODUCT-TRUTH.md"
+    ]
+  }
+}

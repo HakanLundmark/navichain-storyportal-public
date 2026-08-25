@@ -1,0 +1,24 @@
+{
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "backfillResult": "METADATA_AND_SOURCE_INVENTORY_PUBLISHED",
+  "canonicalReleaseAssets": {"verifiedCurrentSources":10,"required":14},
+  "missingOrRejectedCanonicalAssets": ["panel_10","panel_11","panel_12","cta_13"],
+  "releaseZipCreated": false,
+  "reasonNoReleaseZip": "Locale is INCOMPLETE; release packaging is forbidden until required release-grade components exist.",
+  "githubRepository": "HakanLundmark/-navichain-storyportal",
+  "githubBranch": "main",
+  "publishedPaths": [
+    "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.md",
+    "stories/sandningen-som-visste-vart-den-skulle/story.json",
+    "stories/sandningen-som-visste-vart-den-skulle/manifest/inventory.json",
+    "stories/sandningen-som-visste-vart-den-skulle/manifest/backfill-summary.json",
+    "stories/sandningen-som-visste-vart-den-skulle/qa/previous-local-package-qa.txt",
+    "stories/sandningen-som-visste-vart-den-skulle/qa/backfill-qa.md",
+    "stories/sandningen-som-visste-vart-den-skulle/sources/SOURCES.md",
+    "stories/sandningen-som-visste-vart-den-skulle/sv-SE/status.json",
+    "stories/index.json"
+  ]
+}

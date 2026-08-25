@@ -1,0 +1,14 @@
+{
+  "schema":"navichain-narrative-translation-manifest-v1",
+  "storyId":"hela-summan-i-tre-steg",
+  "masterVersion":"1.0",
+  "sourceLocale":"sv-SE",
+  "locale":"en-GB",
+  "translationType":"faithful",
+  "narrativeMaster":false,
+  "sourceClass":"DERIVED_TRANSLATION",
+  "sourcePath":"source/original-story-sv-SE.md",
+  "sourceStorySha256":"198c8ae20be867bf42ad589c4d3b2675b6aa1d897edfbc6db073298bcf878087",
+  "outputPath":"source/original-story-en-GB.md",
+  "outputSha256":"92bf47a57978615e16d18b58e3e0eb08a4b58652e5bf24d604d3207f57a5b69c"
+}

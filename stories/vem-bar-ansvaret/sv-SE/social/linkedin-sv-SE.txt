@@ -1,0 +1,15 @@
+Vem bär ansvaret när farligt gods lämnar gården?
+
+Det obekväma svaret är ofta: flera personer bär olika delar av ansvaret - men informationen som behövs finns inte där när beslutet tas.
+
+I den här Navichain-berättelsen följer vi Fors Maskinuthyrning efter en vägkontroll som blottlägger glappet mellan det företaget vet och det föraren faktiskt kan se före avfärd.
+
+Poängen är inte att ett system tar över människans ansvar. Tvärtom.
+
+När ADR-information, förarbehörighet, giltighetsdatum och relevanta kontroller finns synliga i planeringen blir det lättare för Lena, Mikael och Robban att göra rätt kontroll innan transporten lämnar gården - i stället för att försöka rekonstruera svaret vid vägkanten.
+
+Navichain beräknar, validerar, flaggar och registrerar. Människan fattar beslutet.
+
+Se hela berättelsen i karusellen.
+
+navichain.se/signup

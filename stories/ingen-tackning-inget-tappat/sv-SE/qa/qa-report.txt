@@ -1,0 +1,16 @@
+RASTER QA
+- 14 canonical assets exported: PASS
+- Canonical order cover_00 -> panel_12 -> cta_13: PASS
+- Common release dimensions 1024x1536: PASS
+- Official Navichain logo asset composited deterministically on cover and CTA: PASS
+- CTA cleartext URL navichain.se/signup: PASS
+- CTA QR raster decode (QR region): PASS -> https://navichain.se/signup
+
+PDF QA
+- PDF page count: 14 PASS
+- PDF page size: 1024 x 1536 pt, common for all pages: PASS
+- PDF CTA QR decode: PASS -> https://navichain.se/signup
+- One release image per PDF page, canonical order: PASS
+
+RELEASE STATUS
+- Package assets, carousel PDF, LinkedIn copy, QA report and release manifest included.

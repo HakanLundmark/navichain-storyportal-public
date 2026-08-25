@@ -1,0 +1,58 @@
+{
+  "schema": "navichain-retro-backfill-v2-github-summary-v1",
+  "storyId": "aldrig-tom-pa-vag-hem",
+  "title": "ALDRIG TOM PÅ VÄG HEM",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T22:05:00+02:00",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/aldrig-tom-pa-vag-hem/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "dbb04043255c1149eede193b8dfe5afc452ee0636c0e3173fe722fb84c845a09",
+    "byteIdentityVerifiedAgainstHistoricalGitBlob": true
+  },
+  "enGbStory": {
+    "path": "stories/aldrig-tom-pa-vag-hem/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "sourceStorySha256": "dbb04043255c1149eede193b8dfe5afc452ee0636c0e3173fe722fb84c845a09",
+    "sha256": "73a569fe97c31baafb2166e5ac37e4f2562411d7efc16262598f9e8e5364e137"
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalRequirement": 14,
+      "exactOriginalCanonicalAssetCount": 12,
+      "exactOriginalCanonicalAssetIds": ["cover_00","panel_01","panel_02","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"],
+      "sourceNotExportable": ["panel_03","cta_13"],
+      "historicalRejectedExactOriginalRenders": 3,
+      "historicalPdf": {
+        "sourceClass": "EXACT_ORIGINAL",
+        "qaStatus": "UNKNOWN_HISTORICAL_QA / NOT_RELEASE_AUTHORITY",
+        "sha256": "bedbba8e544d87b441108874962a20a8b9ab3a15e8405d3964f69a4180b0cf5a"
+      },
+      "social": {
+        "sourceClass": "EXACT_ORIGINAL",
+        "sha256": "49c0fb20a1622e06c999479384d065665a5682b23f6ed25bca5f833958b16e95"
+      }
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "visualAssets": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "provenanceQaSeparation": true,
+  "noRerender": true,
+  "noReconstruction": true,
+  "noPdfExtractionAsCanonicalReplacement": true,
+  "githubPublishedBinaryAssets": 0,
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED_BINARY_TRANSPORT_UNAVAILABLE",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

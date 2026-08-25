@@ -1,0 +1,32 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "JA-SOM-BLEV-BOKAT-DIREKT",
+  "storySlug": "JA-SOM-BLEV-BOKAT-DIREKT",
+  "title": "JA SOM BLEV BOKAT, DIREKT",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "source": "chatgpt-current-story-chat",
+  "originalStory": {
+    "path": "ORIGINAL_STORY.md",
+    "status": "present"
+  },
+  "locales": [
+    {
+      "locale": "sv-SE",
+      "status": "COMPLETE",
+      "images": 14,
+      "pdf": true,
+      "social": true
+    },
+    {
+      "locale": "en-GB",
+      "status": "INCOMPLETE",
+      "releaseIncluded": false
+    }
+  ],
+  "publishPolicy": {
+    "portalMayImportIncompletePackage": true,
+    "portalMayPublishIncompleteStory": false,
+    "githubSyncAfterSuccessfulPortalImport": true
+  }
+}

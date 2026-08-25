@@ -1,0 +1,41 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "NC-BJORKLUNDA-12-GRUNDEN-VAXER",
+  "storySlug": "grunden-som-vaxer-med-foretaget",
+  "title": "GRUNDEN SOM VÄXER MED FÖRETAGET",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0",
+  "exportedAt": "2026-08-24T19:42:00+02:00",
+  "source": "chatgpt-current-story-chat",
+  "originalStory": {
+    "path": "source/original-story-sv-SE.md",
+    "status": "present",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "83cbea86e81b0bff0513f6a0bce1492e8215d1d2894d6d108ddd40337328af2c"
+  },
+  "translations": {
+    "en-GB": {
+      "path": "source/original-story-en-GB.md",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  },
+  "locales": ["sv-SE"],
+  "assets": {
+    "sv-SE": {
+      "canonicalExactOriginalCount": 11,
+      "rejectedHistoricalCandidateCount": 3,
+      "acceptedMissing": ["panel_09", "panel_10"],
+      "sourceNotExportable": ["cta_13"]
+    }
+  },
+  "pdfs": {"sv-SE": "SOURCE_NOT_EXPORTABLE"},
+  "social": {"sv-SE": "sv-SE/social/linkedin-sv-SE.txt"},
+  "qa": {"export": "pass", "releaseStatusKnown": true, "releaseStatus": "INCOMPLETE"},
+  "publishPolicy": {
+    "portalMayImportIncompletePackage": true,
+    "portalMayPublishIncompleteStory": false,
+    "githubSyncAfterSuccessfulPortalImport": true
+  }
+}

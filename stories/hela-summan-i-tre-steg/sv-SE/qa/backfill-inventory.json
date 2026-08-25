@@ -1,0 +1,42 @@
+{
+  "storyId": "hela-summan-i-tre-steg",
+  "title": "HELA SUMMAN, I TRE STEG",
+  "masterVersion": "1.0",
+  "masterLocale": "sv-SE",
+  "localeStatus": "INCOMPLETE",
+  "sourceIntegrity": {
+    "panel_06": "SOURCE_NOT_EXPORTABLE_AS_ORIGINAL",
+    "note": "A later reconstructed panel_06 exists locally but is not counted as an original asset."
+  },
+  "assetInventory": {
+    "expected": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "exportableOriginals": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "missingOriginals": ["panel_06"],
+    "exportableOriginalCount": 13
+  },
+  "nonCanonicalExportable": ["imagegen.png","navichain_delbetalningar_i_praktiken.png","panel_06_hela_summan_i_tre_steg_sv-SE.png","panel_06_reconstructed.png","retro_kontorsaffisch_med_betald_faktura.png","tre_delbetalningar_på_kontoret.png","åsa_håller_betalningarna_samlade.png"],
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "social/linkedin-sv-SE.txt": "EXISTS_AND_EXPORTABLE",
+    "sources/story-brief-sv-SE.md": "EXISTS_AND_EXPORTABLE",
+    "sources/product-truth.md": "EXISTS_AND_EXPORTABLE_LOCALLY",
+    "sources/NAVICHAIN-OFFICIAL-LOGO.png": "EXISTS_AND_EXPORTABLE_LOCALLY",
+    "previousReleasePdf": "EXISTS_AND_EXPORTABLE_BUT_NOT_VALID_AS_RELEASE",
+    "previousReleaseZip": "EXISTS_AND_EXPORTABLE_BUT_NOT_VALID_AS_RELEASE"
+  },
+  "sha256OriginalAssets": {
+    "cover_00": "e4569a54f39c64405b63c08a5da1e4ae11c1d92db9da32a10a1dbcc167615eed",
+    "panel_01": "6f3eae160329f2684317f02c72b2b77388f9cbd90f06c327d3b86c9b5e749114",
+    "panel_02": "1c0344270fe8bda2ecbd35b65a3ca0b4432a6fddaca3a5de0d067f844fed6910",
+    "panel_03": "069a887b84af0aa135eced1b1ec419f9d5a783530b48cc468d7224a10bc4e045",
+    "panel_04": "147d97d9d5e3aa6099f83bef9adecd13d2e3dd511d6d2610280d0187e72cabee",
+    "panel_05": "ab85f080b125e05c0f8842be1c5e647e70987022735fca87c2e812599cab5e88",
+    "panel_07": "29f919d2c2c826c21423611a470b1cef1f95d4ec60c3d67dc9ee2733d9f1d6da",
+    "panel_08": "96bb21a61cb05e0fafe9c28cf7c37a825fcbca939b0190dcc2cc440932c50858",
+    "panel_09": "c14dfe04fab41609bc103645ddfff009c5db62e7775cb690c9843365a4fa45f2",
+    "panel_10": "1c9fb82c09b39b0f4b4e2652299578c9bb443968754a5bac874f57b72fe6cad5",
+    "panel_11": "bf1840fc1759abe3d354d626aa6b63db923a8a0adfe86685840de2488ce6649a",
+    "panel_12": "88d975332b41f8b625e0a9a7150053adb74be13d1529cf224f6f79979a516b9f",
+    "cta_13": "288c6ddf9bebda82249bb7666f6f77d1d33a0194405195180f57e37ed223880c"
+  }
+}

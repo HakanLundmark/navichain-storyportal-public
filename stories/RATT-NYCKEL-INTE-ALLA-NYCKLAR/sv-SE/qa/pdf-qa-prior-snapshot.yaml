@@ -1,0 +1,3 @@
+status: BLOCKED
+reason: carousel contains explicit QA-block placeholder pages
+release_allowed: false

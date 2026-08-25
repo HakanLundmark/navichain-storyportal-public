@@ -1,0 +1,62 @@
+{
+  "storyId": "aldrig-tom-pa-vag-hem",
+  "title": "ALDRIG TOM PÅ VÄG HEM",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "canonicalAssetRequirement": 14,
+  "exportableCanonicalAssets": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12"
+  ],
+  "missingCanonicalAssets": [
+    {
+      "assetId": "panel_03",
+      "classification": "MISSING",
+      "reason": "No approved/current canonical source file is directly available; the later wrong-story render is rejected and cannot substitute."
+    },
+    {
+      "assetId": "cta_13",
+      "classification": "EXISTS_BUT_NOT_EXPORTABLE",
+      "reason": "Previously generated and QR-validated in this chat, but its original PNG binary is no longer directly accessible in the active runtime."
+    }
+  ],
+  "publishedTextPaths": [
+    "stories/index.json",
+    "stories/aldrig-tom-pa-vag-hem/story.json",
+    "stories/aldrig-tom-pa-vag-hem/ORIGINAL_STORY.md",
+    "stories/aldrig-tom-pa-vag-hem/sv-SE/social/linkedin-sv-SE.txt",
+    "stories/aldrig-tom-pa-vag-hem/sv-SE/manifest/source-availability.json",
+    "stories/aldrig-tom-pa-vag-hem/sv-SE/qa/backfill-inventory.json",
+    "stories/aldrig-tom-pa-vag-hem/sv-SE/sources/REALITY_VALIDATION.md",
+    "stories/aldrig-tom-pa-vag-hem/BACKFILL_STATUS.json"
+  ],
+  "localExportableButNotPublishedBinaries": [
+    "12 canonical PNG assets",
+    "historical 14-page PDF carousel",
+    "rejected panel_03 wrong-story render"
+  ],
+  "githubBinaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+  "githubBinaryPublishReason": "The connected GitHub write actions exposed in this session do not accept a local file path/file object for arbitrary repository binary uploads. They accept text or base64 payload strings only. The source binaries were therefore not altered, reconstructed, or substituted.",
+  "priorReleaseArtifactsNotExportable": [
+    "cta_13 original PNG",
+    "prior release ZIP",
+    "prior release QA YAML files",
+    "prior release-manifest YAML"
+  ],
+  "releaseZipCreated": false,
+  "releaseZipReason": "Locale is INCOMPLETE; no complete release package may be published.",
+  "noSyntheticReplacementUsed": true,
+  "verifiedQrDestinationFromPriorChat": "https://navichain.se/signup",
+  "backfillPerformedAt": "2026-08-23T01:00:00+02:00"
+}

@@ -1,0 +1,43 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "NC-DER-FAHRER-DEN-ES-IM-SYSTEM-NICHT-GAB",
+  "storySlug": "chaufforen-som-inte-fanns-i-systemet",
+  "title": "Chauffören som inte fanns i systemet — Så tämjde Fredrik julrusningen",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrativeMasterPath": "stories/NC-DER-FAHRER-DEN-ES-IM-SYSTEM-NICHT-GAB/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "131de04441f01369d577130f8b07e88cae9bd255456a953bcdeb9b6273d4200e",
+  "enGbStoryPath": "stories/NC-DER-FAHRER-DEN-ES-IM-SYSTEM-NICHT-GAB/source/original-story-en-GB.md",
+  "enGbSourceLocale": "sv-SE",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "2a2bf4b2d22a1fd50b328734bf3637eaf8e464287e1d53eb0cdf2e4437964ea8",
+  "locales": {
+    "sv-SE": {"releaseStatus":"INCOMPLETE","historicalCanonicalExactOriginalAssets":14,"historicalCanonicalSourceNotExportable":0,"githubPublishedCanonicalImages":0,"pdfExactOriginal":1},
+    "en-GB": {"releaseStatus":"INCOMPLETE","historicalCanonicalExactOriginalAssets":9,"historicalCanonicalSourceNotExportable":5,"githubPublishedCanonicalImages":0,"pdfExactOriginal":3},
+    "de-DE": {"releaseStatus":"INCOMPLETE","historicalCanonicalExactOriginalAssets":13,"historicalCanonicalSourceNotExportable":1,"githubPublishedCanonicalImages":0,"pdfExactOriginal":2,"note":"cta_13 exact accessible file is an earlier genuine historical candidate with QA REBUILD_REQUIRED; the later QR-corrected CTA is SOURCE_NOT_EXPORTABLE."},
+    "fr-FR": {"releaseStatus":"INCOMPLETE","historicalCanonicalExactOriginalAssets":0,"historicalCanonicalSourceNotExportable":1,"historicalCanonicalNotCreated":13,"githubPublishedCanonicalImages":0}
+  },
+  "retroBackfillV2": {
+    "checkedAt":"2026-08-24T22:26:00+02:00",
+    "status":"PARTIAL_BACKFILL",
+    "inventoryTotalItems":163,
+    "exactOriginalArtifacts":115,
+    "derivedTranslations":1,
+    "chatRecovered":0,
+    "sourceNotExportable":32,
+    "notCreated":15,
+    "exportableArtifacts":116,
+    "githubPublishedBinaryAssets":0,
+    "narrativeMasterGithubReadBack":"PASS",
+    "enGbStoryGithubReadBack":"PASS",
+    "automaticTransportStatus":"BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus":"NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryTransportStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+    "metadataStatus":"TEXT_SOURCE_READBACK_PASS_BINARY_METADATA_PENDING",
+    "packageSha256":{"sv-SE":"8cea11a89a878522d2cb10ffb4eca767054a9aef2443b63bb3e7d07f9d353fff","en-GB":"c291e71736ad0da69eee86fb745b779f804a77df11d6f9d01595bc0c7e23118a","de-DE":"94fbb9fa8670ae234483f056a8150052e93b39321359c97090307778e3d74a96"}
+  }
+}

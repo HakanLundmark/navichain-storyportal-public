@@ -1,0 +1,16 @@
+{
+  "cover_00": {"source":"varningen_som_kom_före_valet.png","output":"cover_00.png","source_size":[1055,1491],"release_size":[1055,1491]},
+  "panel_01": {"source":"yvonne_koordinerar_rätt_uppdrag.png","output":"panel_01.png","source_size":[1055,1491],"release_size":[1055,1491]},
+  "panel_02": {"source":"personalprofil_med_giltigheter.png","output":"panel_02.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_03": {"source":"serietecknad_eltekniker_vid_entrén.png","output":"panel_03.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_04": {"source":"rutinbesiktning_vid_entrén.png","output":"panel_04.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_05": {"source":"a_detailed_comic_book_panel_illustration_scene.png","output":"panel_05.png","source_size":[1536,1024],"release_size":[1055,1491]},
+  "panel_06": {"source":"stress_vid_planeringsbordet.png","output":"panel_06.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_07": {"source":"datumet_finns_på_profilen.png","output":"panel_07.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_08": {"source":"kontroll_före_valet_аанаcontinues.png","output":"panel_08.png","source_size":[1055,1491],"release_size":[1055,1491]},
+  "panel_09": {"source":"rätt_val_vid_rätt_tidpunkt.png","output":"panel_09.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_10": {"source":"rätt_person_rätt_behörighet_rätt_ögonblick.png","output":"panel_10.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_11": {"source":"godkänt_papper_vid_nästa_fastighet.png","output":"panel_11.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "panel_12": {"source":"rätt_person_rätt_ögonblick.png","output":"panel_12.png","source_size":[1024,1536],"release_size":[1055,1491]},
+  "cta_13": {"source":"rätt_behörighet_rätt_jobb.png","output":"cta_13.png","source_size":[1024,1536],"release_size":[1055,1491]}
+}

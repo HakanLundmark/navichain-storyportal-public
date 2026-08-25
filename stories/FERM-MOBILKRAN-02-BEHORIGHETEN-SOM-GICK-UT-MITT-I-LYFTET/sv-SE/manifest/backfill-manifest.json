@@ -1,0 +1,17 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET",
+  "storyIdAuthority": "backfill-derived-from-canonical-title-and-explicit Ferm Mobilkran episode 2 context",
+  "title": "Behörigheten som gick ut mitt i lyftet",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {"sv-SE": "INCOMPLETE"},
+  "canonicalOriginalStory": "ORIGINAL_STORY.md",
+  "exportableAssetSlots": 14,
+  "approvedLockedAssetSlots": null,
+  "pdf": {"path": "sv-SE/pdf/production-draft-carousel.pdf", "state": "STALE_PRODUCTION_DRAFT"},
+  "social": {"state": "MISSING"},
+  "releaseZip": {"state": "NOT_CREATED_INCOMPLETE_LOCALE"},
+  "qa": "sv-SE/qa/backfill-qa.json"
+}

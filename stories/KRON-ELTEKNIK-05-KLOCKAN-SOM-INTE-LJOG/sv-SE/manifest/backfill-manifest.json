@@ -1,0 +1,25 @@
+{
+  "schema": "navichain-backfill-manifest-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "createdAt": "2026-08-23T11:03:00+02:00",
+  "requiredAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "exportability": {"existsAndExportable":14,"existsButNotExportable":0,"missing":0},
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "EXISTS_AND_EXPORTABLE_WORKING_BUILD",
+    "social": "MISSING",
+    "QA": "EXISTS_AND_EXPORTABLE_NOT_PASSED",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": "EXISTS_AND_EXPORTABLE",
+    "releaseZip": "EXISTS_AND_EXPORTABLE_WORKING_BUILD_NOT_RELEASE"
+  },
+  "githubPublication": {
+    "completeLocaleReleasePublished": false,
+    "publishedBinaryAssets": 0,
+    "releaseZipPublished": false,
+    "reason": "Locale does not satisfy COMPLETE release requirements; visual release QA failed and LinkedIn/social copy is missing."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema": "navichain-retro-backfill-v2-report",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "title": "FRÅN KAOS TILL MÖNSTER",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T22:14:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "result": "GITHUB_PUBLISH_FAILED",
+  "rules": {
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedOrRestyled": false,
+    "provenanceSeparatedFromQa": true
+  },
+  "narrative": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "githubPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-sv-SE.md",
+      "githubReadBack": "PASS",
+      "narrativeMaster": true
+    },
+    "en-GB": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "githubPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-en-GB.md",
+      "githubReadBack": "PASS",
+      "narrativeMaster": false
+    }
+  },
+  "currentRuntimeVisualInventory": {
+    "canonicalSingleAssetExactBytes": {"sv-SE":0,"en-GB":0},
+    "sourceNotExportableCanonicalSlots": {
+      "sv-SE": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "en-GB": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+    },
+    "exactHistoricalRawMultiAssetRenders": [
+      {"filename":"a_detailed_dramatic_comic_book_illustration_in_cl.png","size":3577114,"dimensions":[1024,1536],"sha256":"94d375c2058b7d90858da01e93f7d08bf688bc5824fb9275164cf7d8e5d83118","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED"},
+      {"filename":"a_full_color_comic_book_storyboard_page_in_a_clean.png","size":2915393,"dimensions":[1536,1024],"sha256":"b7ff7b94501746db32ad5163ed4afd5bb46d42b83a4be6988e64fc5c33742ed2","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED"},
+      {"filename":"a_full_color_comic_page_with_a_3x3_grid_of_panels.png","size":2654431,"dimensions":[1402,1122],"sha256":"365cf1e2d19698f45272efe346e7f356c4c69edd1f5b2ed559cfb6b7f9dcc3bf","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED"},
+      {"filename":"a_full_page_comic_book_graphic_novel_illustratio.png","size":3785002,"dimensions":[1024,1536],"sha256":"b9ef7a4520048bfc54e3377773f43f845e8929ab2df571cc9bc97392870288ff","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED"}
+    ],
+    "sourceReferenceFilesExact": 16
+  },
+  "localTransportArtifacts": {
+    "packageFile": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-current-runtime-sv-SE.package.zip",
+    "packageSha256": "0bc5af1d519ef2def4760f302b0acfc60ea13599361b8bd43d86dd0cb20e2568",
+    "publishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-current-runtime-sv-SE.publish.json",
+    "wrappedPublishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-current-runtime-sv-SE.publish.zip",
+    "combinedArchive": "NC-FRAN-KAOS-TILL-MONSTER-retro-backfill-v2-current-runtime-complete.zip",
+    "combinedArchiveSize": 24677712,
+    "combinedArchiveSha256": "f2bdf76df2743c6f55f7f3e345076fea427111f67ed566c2357c7f72af7d6f48"
+  },
+  "automaticTransport": {
+    "chromeDownloadTriggeredByAssistant": false,
+    "nextcloudArchiveVerified": false,
+    "hardenedRouterVerified": false,
+    "publisherVerified": false,
+    "githubBinaryReadBackVerified": false,
+    "githubPublishedBinaryAssetsThisRun": 0,
+    "reason": "No assistant-accessible Chrome download bridge, Nextcloud connector, hardened-router control or local publisher action is exposed in this runtime. Nextcloud plugin discovery returned no available plugin. The exact raw PNGs are too large to transport through the connector's text/base64 payload within the available context without an external binary channel. No manual --once/curl/direct-publisher substitute was used."
+  },
+  "metadata": {
+    "storyJsonReadBack": "PASS",
+    "storiesIndexJsonReadBack": "PASS",
+    "githubPublishedBinaryAssets": 0
+  },
+  "sync": false,
+  "finalStatus": "GITHUB_PUBLISH_FAILED"
+}

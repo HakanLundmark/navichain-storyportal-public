@@ -1,0 +1,29 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "stampeln-som-holl-pa-att-blekna",
+  "checkedAt": "2026-08-24T22:23:00+02:00",
+  "narrativeMaster": {"path": "stories/stampeln-som-holl-pa-att-blekna/source/original-story-sv-SE.md", "sourceClass": "EXACT_ORIGINAL", "qaStatus": "PREFLIGHT_REVISE_REQUESTED / STORY_NOT_LOCKED", "sha256": "e24f8fa7e9cca1811df306491c9ba62d7feb7de3ad0db481ca87b47b7823b0c8"},
+  "enGb": {"path": "stories/stampeln-som-holl-pa-att-blekna/source/original-story-en-GB.md", "sourceClass": "DERIVED_TRANSLATION", "translationType": "faithful", "narrativeMaster": false, "sourceStorySha256": "e24f8fa7e9cca1811df306491c9ba62d7feb7de3ad0db481ca87b47b7823b0c8", "sha256": "3a89e4855943282aa3de5dc17585fe4bc4e234230a1b0fefdea159c3c3d1506f"},
+  "canonicalAssets": {
+    "cover_00": {"filename":"cover_00.png","size":3001404,"sha256":"3f3dc2f119b34c3c48a4a92e5712fd404a18150cab8bbd7433b3c9ae95eeca7b","dimensions":[1055,1491],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"UNKNOWN","currentQaRevalidation":"REBUILD_REQUIRED","githubPath":"stories/stampeln-som-holl-pa-att-blekna/sv-SE/images/cover_00.png","githubPublished":false},
+    "panel_01": {"filename":"panel_01.png","size":2908785,"sha256":"efa3355f4620ab11356f4fd7eb4daef2996fb46f01aae7fd42fe077e27098639","dimensions":[1055,1491],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"UNKNOWN","currentQaRevalidation":"REBUILD_REQUIRED","githubPath":"stories/stampeln-som-holl-pa-att-blekna/sv-SE/images/panel_01.png","githubPublished":false},
+    "panel_12": {"filename":"panel_12.png","size":3044753,"sha256":"3a6cb2cb277731e2fa1c76d4abb5069bdcaca412e13b733217fa16d1c4d5a988","dimensions":[1122,1402],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"UNKNOWN","currentQaRevalidation":"REBUILD_REQUIRED","githubPath":"stories/stampeln-som-holl-pa-att-blekna/sv-SE/images/panel_12.png","githubPublished":false}
+  },
+  "notCreatedCanonicalAssets": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","cta_13"],
+  "rejectedHistoricalRenders": [
+    {"filename":"a_clean_corporate_report_cover_slide_style_design.png","size":1856577,"sha256":"fdf6ea0b247c28c44aed932a63d5d632f95e30ce701ea397e9aa8380ac180264","dimensions":[1536,1024],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"REJECTED / FOREIGN_STORY_CONTENT","githubPublished":false},
+    {"filename":"a_clean_corporate_report_cover_slide_style_layou.png","size":1990728,"sha256":"13031dd9cfabff4f198be1f95b67bc20f40d09aaa9a8258ba6b63cfcdb84df9c","dimensions":[1536,1024],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"REJECTED / FOREIGN_STORY_CONTENT","githubPublished":false},
+    {"filename":"a_clean_corporate_report_slide_layout_wide_landsc.png","size":2327357,"sha256":"57ae3ded23457824e0e02997bce68d7638f55e10d8a94245c386a8108fb6a921","dimensions":[1536,1024],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"REJECTED / FOREIGN_STORY_CONTENT","githubPublished":false},
+    {"filename":"a_clean_corporate_report_slide_style_image_cover_p.png","size":1954866,"sha256":"98a9c1881ff3729be6fafe6af38647183359401329610e301b43247b7d568c0b","dimensions":[1536,1024],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"REJECTED / FOREIGN_STORY_CONTENT","githubPublished":false},
+    {"filename":"a_wide_high_resolution_infographic_report_slide.png","size":1884189,"sha256":"a8da18a427a412354691a12579404ae737e28265a0617d877d847bd33f5e1ec2","dimensions":[1536,1024],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"REJECTED / FOREIGN_STORY_CONTENT","githubPublished":false},
+    {"filename":"a_wide_professional_report_cover_slide_style_imag.png","size":1799546,"sha256":"6bf6d519da433d58a575a41cf7b6d0b705a3efea0971242bc315beaf9221659b","dimensions":[1536,1024],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"REJECTED / FOREIGN_STORY_CONTENT","githubPublished":false},
+    {"filename":"wide_infographic_slide_report_page_with_a_corpor.png","size":2375826,"sha256":"fdf6391b2eaff39729e64a6a23b7b5952c42f18c7dceb8a79bb346ce01b9a153","dimensions":[1536,1024],"sourceClass":"EXACT_ORIGINAL","qaStatusHistorical":"REJECTED / FOREIGN_STORY_CONTENT","githubPublished":false}
+  ],
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED",
+  "chatRecovered": [],
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "githubBinaryStatus": "GITHUB_PUBLISH_FAILED",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

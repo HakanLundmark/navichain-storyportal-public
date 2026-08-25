@@ -1,0 +1,12 @@
+{
+  "storyId": "ut-ur-svarta-ladan",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "a7d3efcdefa34af22d951b44357cd4e3429bd699720a2b58390ea1887be1e466",
+  "size": 10497,
+  "sha256": "76ac78541b85ff396a8383eed1ad4fa8797eea04c827bd6cfe470c1c17939468",
+  "masterVersion": "1.0"
+}

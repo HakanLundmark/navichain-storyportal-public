@@ -1,0 +1,24 @@
+{
+  "schema": "navichain-story-text-v1",
+  "storyId": "slut-pa-chansningen",
+  "masterVersion": "1.0",
+  "narrativeMaster": {
+    "path": "ORIGINAL_STORY.md",
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "gitBlobSha": "d81004b1af2401328d28d0fd00ec6591799323e3",
+    "sha256": "fb4819f90c23f3efdd82116e536a18f748b6fcd4a5d842df9d23f62caaa69523",
+    "narrativeMaster": true
+  },
+  "translations": [
+    {
+      "path": "source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "fb4819f90c23f3efdd82116e536a18f748b6fcd4a5d842df9d23f62caaa69523",
+      "narrativeMaster": false
+    }
+  ]
+}

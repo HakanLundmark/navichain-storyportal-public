@@ -1,0 +1,33 @@
+{
+  "storyId": "den-enda-kedjan-utan-svaga-lankar",
+  "locale": "sv-SE",
+  "classification": "INCOMPLETE",
+  "assets": [
+    {"assetId":"cover_00","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"jonas_och_suveränitetsrevisionen.png","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_01","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"säkra_leveranser_skyddad_data.png","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_02","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_book_infographic_style_illustration_in_a.png","approvalState":"REBUILD_REQUIRED","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_03","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_illustration_style_scene_in_a_corporate_of.png","approvalState":"REBUILD_REQUIRED","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_04","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_detailed_comic_style_illustration_panel_looking.png","approvalState":"REBUILD_REQUIRED","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_05","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_book_illustrated_poster_panel_scene_in_a.png","approvalState":"REBUILD_REQUIRED","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_06","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_illustration_style_office_scene_framed_li.png","approvalState":"REBUILD_REQUIRED","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_07","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_detailed_comic_style_illustration_poster_scene.png","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_08","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_single_comic_book_infographic_style_illustrati.png","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_09","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_infographic_style_illustration_page_panel.png","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_10","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_detailed_comic_infographic_illustration_scene_in.png","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_11","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_detailed_comic_illustration_style_office_scene_i.png","approvalState":"REBUILD_REQUIRED_wrong_story_scene","githubBinaryPublish":"FAILED"},
+    {"assetId":"panel_12","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_illustration_style_poster_scene_in_an_offi.png","approvalState":"REBUILD_REQUIRED_wrong_story_scene","githubBinaryPublish":"FAILED"},
+    {"assetId":"cta_13","availability":"EXISTS_AND_EXPORTABLE","sourceFilename":"bevisa_varje_länk_i_kedjan.png","approvalState":"REBUILD_REQUIRED_brand_critical_logo_not_deterministic","githubBinaryPublish":"FAILED"}
+  ],
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE_AND_PUBLISHED",
+    "languageVersions": "MISSING",
+    "PDF": "MISSING",
+    "social": "MISSING",
+    "releaseQA": "MISSING",
+    "releaseManifest": "MISSING",
+    "releaseZIP": "MISSING",
+    "userConfirmedLogo": "EXISTS_AND_EXPORTABLE_NOT_PUBLISHED_BINARY",
+    "productTruth": "EXISTS_AND_EXPORTABLE_NOT_PUBLISHED_SOURCE_FILE",
+    "marketTruth": "EXISTS_AND_EXPORTABLE_NOT_PUBLISHED_SOURCE_FILE"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "storyId": "SAMMA-STRACKA-SAMMA-SVAR",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "publishedTextFilesUnderStory": 9,
+  "publishedBinaryAssets": 0,
+  "indexUpdated": true,
+  "binaryPublishFailure": "GitHub connector exposes text-file writes and blob creation requiring caller-supplied base64, but no local-file upload parameter. The 11 PNG originals and existing working ZIP are locally exportable but could not be transferred through the connector without reconstructing/guessing content.",
+  "releaseZipPublished": false,
+  "verifiedAt": "2026-08-23T08:50:00+02:00"
+}

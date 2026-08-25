@@ -1,0 +1,113 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "facit-kom-en-manad-for-sent",
+  "storyIdSource": "derived_from_canonical_title_for_repository_path; Narrative Master contains no explicit Story ID",
+  "title": "FACIT KOM EN MÅNAD FÖR SENT",
+  "subtitle": "Ingrid & jakten på ett TMS byggt för morgondagen",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionStatus": "MISSING_NOT_ESTABLISHED_IN_CHAT",
+  "status": "INCOMPLETE",
+  "canonicalStory": "stories/facit-kom-en-manad-for-sent/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/facit-kom-en-manad-for-sent/ORIGINAL_STORY.md",
+    "sourceMirrorPath": "stories/facit-kom-en-manad-for-sent/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 10936,
+    "sha256": "c936c52debffefd467f86386bdef6ae8d6e1e5ceb50f10da114db96911eafe2e",
+    "gitBlobSha": "b8e70216206d58abf0ed98e631bd470a698c4abb",
+    "githubReadBackVerified": true,
+    "narrativeMaster": true
+  },
+  "translations": {
+    "en-GB": {
+      "path": "stories/facit-kom-en-manad-for-sent/ORIGINAL_STORY.en-GB.md",
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "c936c52debffefd467f86386bdef6ae8d6e1e5ceb50f10da114db96911eafe2e",
+      "size": 11296,
+      "sha256": "bab79e61a97da9ea7bf850025ebd3961b4791008c49dfb1e077c20a467bdccae",
+      "gitBlobSha": "7a99e6f8d45afec8975cd58326e86a3a29183248",
+      "githubTextReadBackVerified": true
+    }
+  },
+  "retroBackfillV2": {
+    "executedAt": "2026-08-24T22:06:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "rerendered": false,
+    "reconstructed": false,
+    "cropped": false,
+    "substituted": false,
+    "provenanceQaSeparation": true,
+    "exactOriginalHistoricalRenderFiles": 16,
+    "chatRecoveredHistoricalRenderFiles": 0,
+    "currentCanonicalSlotsWithExactOriginalCandidate": [
+      "cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07"
+    ],
+    "notCreatedCanonicalSlots": ["panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "githubPublishedBinaryAssets": 0,
+    "qaInventoryPath": "stories/facit-kom-en-manad-for-sent/sv-SE/qa/retro-backfill-v2-inventory.json",
+    "automaticTransportRequested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "automaticTransportInvokableFromRuntime": false,
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+    "binaryPublishFailureClass": "GITHUB_PUBLISH_FAILED",
+    "binaryPublishReason": "The exact historical PNG bytes are directly accessible in this chat runtime, but no callable Chrome-download/local-capture/Nextcloud/hardened-router/publisher action is exposed. The connected GitHub blob action accepts inline utf-8/base64 content rather than a local file path; transferring the multi-megabyte originals through the model-to-tool payload cannot be guaranteed byte-exact. No binary was reconstructed, substituted, transcoded or partially published.",
+    "localArchive": {
+      "filename": "facit-kom-en-manad-for-sent-retro-backfill-v2-archive.zip",
+      "size": 86200693,
+      "sha256": "31b586bc33b32920624bf5b2544dfa547a6517603561ef684ade8a6d94a70d2c",
+      "zipVerified": true
+    },
+    "svSePublishPackage": {
+      "filename": "facit-kom-en-manad-for-sent-sv-SE-retro-backfill-v2-package.zip",
+      "size": 74896148,
+      "sha256": "3c46fcf16e3d93ff8afa1627355ae4b739cd8a6a91a337228f7043714ff56f5f",
+      "requestFile": "facit-kom-en-manad-for-sent-sv-SE.publish.json",
+      "requestSha256": "31219999cfdf77a3797ff7856dc9f195d9d60d962f08084ff48b2ecb5c7928f7",
+      "requestWrapperFile": "facit-kom-en-manad-for-sent-sv-SE.publish.zip",
+      "requestWrapperSha256": "31d6ed28b41ee904c41169d53efd829bdbaae2a3a4f1478170d1afd93f4eb1f7",
+      "packageVerified": true
+    },
+    "enGbPublishPackage": {
+      "filename": "facit-kom-en-manad-for-sent-en-GB-retro-backfill-v2-package.zip",
+      "size": 5167,
+      "sha256": "42ee48af7d02c86a640d80d19512b14742ab9374e17b4b8169926326bb59aec9",
+      "requestFile": "facit-kom-en-manad-for-sent-en-GB.publish.json",
+      "requestSha256": "04d106fecba1ce3f5f88d8300a51c0cffd5802ec8661f18cc4f2ca633775af44",
+      "requestWrapperFile": "facit-kom-en-manad-for-sent-en-GB.publish.zip",
+      "requestWrapperSha256": "f92d0c6e2ee4dbc80bd139c405823248b01c148705126839729dc6c214b9ed4e",
+      "packageVerified": true
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredOriginalAssets": 14,
+      "canonicalSlotsWithCurrentExactCandidate": 8,
+      "historicalExactOriginalVisualFiles": 16,
+      "githubPublishedOriginalAssets": 0,
+      "notCreated": ["panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "releaseQa": "NOT_CREATED",
+      "releaseManifest": "NOT_CREATED",
+      "releaseZip": "NOT_CREATED_AS_RELEASE"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "images": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "sourceReferences": {
+    "officialLogo": {"filename":"NAVICHAIN-OFFICIAL-LOGO.png","sourceClass":"EXACT_ORIGINAL","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","dimensions":"500x300"},
+    "signupQr": {"filename":"Korrekt QR kod till signup.png","sourceClass":"EXACT_ORIGINAL","size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","dimensions":"550x574","decodedPayload":"https://navichain.se/signup"}
+  }
+}

@@ -1,0 +1,76 @@
+storyId: INGEN-LOSEN-ATT-KRAVA
+masterVersion: '1.0'
+locale: sv-SE
+createdAt: '2026-08-20T17:08:13.630856+00:00'
+brandAsset: assets/brand/NAVICHAIN-OFFICIAL-LOGO.png
+qr:
+  payload: https://navichain.se/signup
+  rasterDecode: PASS
+  pdfDecode: PASS
+outputs:
+  images:
+  - asset: cover_00
+    file: images/cover_00.png
+    dimensions: [1055, 1491]
+    sha256: d2f95667ca3b419d726232a604ab3ca5c1411652602f26508b89c2e0b3110a5b
+  - asset: panel_01
+    file: images/panel_01.png
+    dimensions: [1055, 1491]
+    sha256: 6fddf541288762df5a9a4edaf36de8b77f220d470bfe77222e08e1a3b05636ca
+  - asset: panel_02
+    file: images/panel_02.png
+    dimensions: [1055, 1491]
+    sha256: 4507227df098b53082e282eaff427faf71353ebb6b7130df230b48fac1dc0dcd
+  - asset: panel_03
+    file: images/panel_03.png
+    dimensions: [1055, 1491]
+    sha256: 00cccbc2a5cfc237a8e602ee5cdac62c8847314fd1bb01cd0ca70442a8ae2ca1
+  - asset: panel_04
+    file: images/panel_04.png
+    dimensions: [1055, 1491]
+    sha256: 25109acc3dcef6787b4dc63f9d30db2f95f3b1b7f6b6673d1cc064f53afb5faa
+  - asset: panel_05
+    file: images/panel_05.png
+    dimensions: [1055, 1491]
+    sha256: a651d1547e61fd776b21f9d22762c454566ce934bb6e80c8e4a75b09c0a9a6cb
+  - asset: panel_06
+    file: images/panel_06.png
+    dimensions: [1055, 1491]
+    sha256: 31c18605976dc4a1e98ccd73e3b39288e4e3988d02809f20bf6465cc90a14fbd
+  - asset: panel_07
+    file: images/panel_07.png
+    dimensions: [1055, 1491]
+    sha256: 32bbeca527202f65af2c7e6fc8c883f1310342a584cb7e269917047a1cb3070e
+  - asset: panel_08
+    file: images/panel_08.png
+    dimensions: [1055, 1491]
+    sha256: fa683fe53707a049963230b8c2b85331179a1dea4e8e574067fc895cc050c7cd
+  - asset: panel_09
+    file: images/panel_09.png
+    dimensions: [1055, 1491]
+    sha256: 2d77e534a5f72b4f772be1215c2c42653c9c869d35b70e7504370de2c3252463
+  - asset: panel_10
+    file: images/panel_10.png
+    dimensions: [1055, 1491]
+    sha256: ea4a7b609b0bfa7ee94ea22dc95ca041a12cc4bf4963d3287334d43eb69c2c6c
+  - asset: panel_11
+    file: images/panel_11.png
+    dimensions: [1055, 1491]
+    sha256: b45d69b4a091a24ad7c46625d2a5553b88c113e7d77969b9d6c3ccd4970fbf2b
+  - asset: panel_12
+    file: images/panel_12.png
+    dimensions: [1055, 1491]
+    sha256: a97af525e1f1139b013b3efabf6cba8e3c46bce53c37d2a8ee61810687a5d57a
+  - asset: cta_13
+    file: images/cta_13.png
+    dimensions: [1055, 1491]
+    sha256: 5c46f15faa83edbf41dbb87248207caa57034c0727b56422185da7c84aa53956
+  pdf:
+    file: carousel/ingen-losen-att-krava_sv-SE.pdf
+    sha256: 5726383cca9b3d9dcc2448cc6d37bf017c26c5514667a3d00b3f3fd4655b012b
+    pages: 14
+  linkedin: social/linkedin-sv-SE.txt
+qa:
+  raster: PASS
+  pdf: PASS
+  release: PASS

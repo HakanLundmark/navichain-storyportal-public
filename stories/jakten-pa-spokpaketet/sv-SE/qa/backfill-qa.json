@@ -1,0 +1,26 @@
+{
+  "storyId": "jakten-pa-spokpaketet",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "generatedForBackfill": true,
+  "checks": {
+    "originalAssetsExportable": {
+      "status": "PASS",
+      "count": 14,
+      "expected": 14,
+      "order": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+    },
+    "dimensions": {"status":"PASS","expected":"1024x1536","allMatch":true},
+    "pdf": {"status":"PASS","pages":14,"expectedPages":14,"sha256":"5cb0d00fe79fa074ae468ae1f814ddec9f202c7955081f2946dbe19166f60551"},
+    "ctaQr": {"status":"PASS","decoded":"https://navichain.se/signup","expected":"https://navichain.se/signup"},
+    "canonicalAssetMapping": {"status":"PASS","basis":"directly accessible original PNG files from this chat; no PDF extraction or regeneration used"},
+    "englishLocale": {
+      "status": "INCOMPLETE",
+      "exportableOriginalAssets": 0,
+      "existsButNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09"],
+      "missing": ["panel_10","panel_11","panel_12","cta_13"],
+      "exportablePdf": "Hunting-the-Ghost-Package-EN-karusell.pdf",
+      "pdfPages": 10
+    }
+  }
+}

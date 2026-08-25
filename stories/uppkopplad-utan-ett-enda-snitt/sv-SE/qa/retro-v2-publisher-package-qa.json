@@ -1,0 +1,35 @@
+{
+  "schema": "navichain-retro-v2-publisher-package-qa",
+  "storyId": "uppkopplad-utan-ett-enda-snitt",
+  "checkedAt": "2026-08-24T19:11:00+02:00",
+  "sv-SE": {
+    "packageFile": "uppkopplad-utan-ett-enda-snitt-sv-SE-retro-v2-publish-package.zip",
+    "packageSize": 348659322,
+    "packageSha256": "7419af938c660e0cba7182f36e7ebfdaeb076a9a41b9556fd176013dc53da8cf",
+    "publishRequestFile": "uppkopplad-utan-ett-enda-snitt-sv-SE.publish.json",
+    "publishRequestSha256": "06332519c6bcd75250fac0531ada396e47e93f6beb1d156cf4f11115f9b4486e",
+    "wrappedPublishRequestFile": "uppkopplad-utan-ett-enda-snitt-sv-SE.publish.zip",
+    "wrappedPublishRequestSha256": "0cb9bdc714e1511b2602ae3fba362a4ea107ceda7cd86185c36b93bf85111c37",
+    "fileCount": 38,
+    "zipIntegrity": "PASS",
+    "archiveNamesPresent": true,
+    "sizesMatch": true,
+    "fileSha256Match": true
+  },
+  "en-GB": {
+    "packageFile": "uppkopplad-utan-ett-enda-snitt-en-GB-retro-v2-publish-package.zip",
+    "packageSize": 9560,
+    "packageSha256": "a21def871c643a5b29e8001ff9d64dd39d37ab03c05b5f254c4d9a4bbaf8417f",
+    "publishRequestFile": "uppkopplad-utan-ett-enda-snitt-en-GB.publish.json",
+    "publishRequestSha256": "dd4855c8a5e4f5ebdd84043b7657a15b237e489709bd8726476bbcc54abd8d6b",
+    "wrappedPublishRequestFile": "uppkopplad-utan-ett-enda-snitt-en-GB.publish.zip",
+    "wrappedPublishRequestSha256": "8969e5c2eb5a47ec66d7e3e08ba71032d45a9fb7bf311d630e4690d411c34b1d",
+    "fileCount": 2,
+    "zipIntegrity": "PASS",
+    "archiveNamesPresent": true,
+    "sizesMatch": true,
+    "fileSha256Match": true
+  },
+  "transportExecution": "NOT_VERIFIED",
+  "note": "Package/request integrity is local-only QA. It does not prove Chrome download, Nextcloud archive, router/publisher execution or GitHub binary publication."
+}

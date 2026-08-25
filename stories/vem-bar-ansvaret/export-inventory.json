@@ -1,0 +1,42 @@
+{
+  "storyId": "vem-bar-ansvaret",
+  "masterVersion": "1.0",
+  "inventoryBasis": "Active-story materials directly present in the chat/runtime and the previously created complete-package ZIP. No image was regenerated for this backfill.",
+  "narrativeMaster": {
+    "ORIGINAL_STORY.md": "EXISTS_AND_EXPORTABLE"
+  },
+  "locales": {
+    "sv-SE": {
+      "classification": "INCOMPLETE",
+      "releaseEligibleAssets": {
+        "cover_00": {"state":"EXISTS_AND_EXPORTABLE","sha256":"2faccf4ec6f0a1bc001517f958fe9240f982e320045d9b4abf9a010a4ce64e96","bytes":3301959},
+        "panel_01": {"state":"EXISTS_AND_EXPORTABLE","sha256":"ec8fd91a28bf114d04a2470811ceb4aea7a6a0dcde88d8bbdc91a2dc29d94625","bytes":3152237},
+        "panel_02": {"state":"EXISTS_AND_EXPORTABLE","sha256":"d635a88ca4360460b1f6f314e437b562d9d64ad2a5ccece3819349ad5f21aed5","bytes":3269284},
+        "panel_03": {"state":"EXISTS_AND_EXPORTABLE","sha256":"9b7aa9833154ebc7cc92d7551252a58ba98aa13474807390d197eec2cdb8f1c0","bytes":3133914},
+        "panel_04": {"state":"EXISTS_AND_EXPORTABLE","sha256":"380a98704addbcd6710b4bada1954cefc909d9aab206e37e51a9620864bb59ae","bytes":3198780},
+        "panel_05": {"state":"EXISTS_AND_EXPORTABLE","sha256":"203458fb3d77b9900db34e5db1855619f0a07f3ca35572232653a4fbfb6ac1c1","bytes":3142680},
+        "panel_06": {"state":"EXISTS_AND_EXPORTABLE","sha256":"5165656249528c2f8450deaaf3e2aeafb7a48e457f59011927a3c6784dced372","bytes":2974025},
+        "panel_07": {"state":"EXISTS_AND_EXPORTABLE","sha256":"8625254904cc6206b4651aef9b805da43f96ca5d57d64e7c9d576b26b9a3a314","bytes":3032770},
+        "panel_08": {"state":"EXISTS_AND_EXPORTABLE","sha256":"63e894478ec8b1cc49a0ff0dee61a3e9f9ad26413437ba1b5c98dd21bb4e9409","bytes":2937476},
+        "panel_09": {"state":"MISSING_RELEASE_ELIGIBLE_ORIGINAL","reason":"The package README and raster QA explicitly state panel_09 was reconstructed during packaging after the earlier image-generator runtime original had been overwritten. Later rebuild outputs were rejected for wrong-story/foreign-content. The backfill rule forbids reconstructing or substituting that original."},
+        "panel_10": {"state":"EXISTS_AND_EXPORTABLE","sha256":"4fe3dac607fd9a0324b3ef519859dead6d057a3465642168d04311126cb5d8eb","bytes":3060932},
+        "panel_11": {"state":"EXISTS_AND_EXPORTABLE","sha256":"9bec67e9186f053d5fbf990793e529f7ba723a5642d3b2b2f41057508a00dfe9","bytes":3038809},
+        "panel_12": {"state":"EXISTS_AND_EXPORTABLE","sha256":"475d83878a5c52cdc5dbd5817a3e32d086d5d9939302089a0c38143f6e3a29b5","bytes":3046491},
+        "cta_13": {"state":"EXISTS_AND_EXPORTABLE","source":"artwork/originals/cta_13_verified.png","sha256":"6676caf56736e683d16334f07eb6eb2346d56eb29d156d2c584115cc3941c593","bytes":2831576}
+      },
+      "otherContent": {
+        "pdfCarousel": {"state":"EXISTS_AND_EXPORTABLE_BUT_PRIOR_BUILD_NOT_RELEASE_ELIGIBLE","sha256":"963a94f6ddf9018a3d37dcc11cda0fe52fefa65d98e21964e419b32a704e832e","bytes":63246425},
+        "linkedin": {"state":"EXISTS_AND_EXPORTABLE","sha256":"b6785c7259bfdb0856713c958fe7c7f383653ce5a63428635191e25ff5d98207"},
+        "qa": "EXISTS_AND_EXPORTABLE_BUT_PRIOR_BUILD_REFERENCES_RECONSTRUCTED_PANEL_09",
+        "manifest": "EXISTS_AND_EXPORTABLE_BUT_PRIOR_BUILD_REFERENCES_RECONSTRUCTED_PANEL_09",
+        "sources": "EXISTS_AND_EXPORTABLE",
+        "priorReleaseZip": {"state":"EXISTS_AND_EXPORTABLE_BUT_NOT_ELIGIBLE_FOR_RELEASE_PUBLICATION","sha256":"1ded4ba7bdb2f24ba4c407f3001c06d2f684e2bf200d9cabbdcf0f66c15b01ef","bytes":89620367}
+      }
+    }
+  },
+  "githubBinaryPublishing": {
+    "status": "GITHUB_PUBLISH_FAILED_FOR_BINARY_ASSETS",
+    "reason": "The connected GitHub write surface available in this chat exposes UTF-8 text writes and git blob creation from inline string/base64 content, but no connector file-upload parameter. The directly accessible PNG/PDF/ZIP binaries are multi-megabyte and cannot be safely transferred through the inline tool payload without altering them. They are therefore not claimed as uploaded or synced.",
+    "textMetadataPublishing": "EXECUTED"
+  }
+}

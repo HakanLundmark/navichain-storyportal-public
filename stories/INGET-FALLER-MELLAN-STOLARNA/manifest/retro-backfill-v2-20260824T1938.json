@@ -1,0 +1,55 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "INGET-FALLER-MELLAN-STOLARNA",
+  "executedAt": "2026-08-24T19:38:00+02:00",
+  "inventory": {
+    "total": 121,
+    "exactOriginal": 114,
+    "chatRecovered": 0,
+    "derivedTranslation": 1,
+    "sourceNotExportable": 6
+  },
+  "narrativeMaster": {
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-sv-SE.md",
+    "sha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0",
+    "size": 7882,
+    "sourceClass": "EXACT_ORIGINAL",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-en-GB.md",
+    "sha256": "c56125a1b7f1e46ca84d78092adb89e34b488b63cbe1879a807c79dd4cb6233c",
+    "size": 8146,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "githubReadBackVerified": true
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exactOriginalCanonicalCandidates": 14,
+      "githubPublishedCanonicalImages": 0,
+      "currentReleaseEligible": false,
+      "reason": "Historical candidate bytes are available locally but canonical binary paths are not published; historical/current release QA remains blocking."
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "exactOriginalCanonicalCandidates": 8,
+      "sourceNotExportableCanonicalMappings": ["panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "githubPublishedCanonicalImages": 0,
+      "currentReleaseEligible": false
+    }
+  },
+  "packages": [
+    {"locale":"sv-SE","file":"INGET-FALLER-MELLAN-STOLARNA-sv-SE-retro-v2.zip","size":45227756,"sha256":"4d69c67a1b757981fd61e8e117082d652985cfa7212edfe14c8e7bb9d39d20e1"},
+    {"locale":"en-GB","file":"INGET-FALLER-MELLAN-STOLARNA-en-GB-retro-v2.zip","size":24744336,"sha256":"692cc6bfd3c1c9078b3e9de5595128027aaa142f6c755d7d0c94cccfc234373a"},
+    {"locale":"history","file":"INGET-FALLER-MELLAN-STOLARNA-history-retro-v2.zip","size":577224259,"sha256":"56ed31795217e0c9757ee2fab2cbde64ad3b4022da147f65129459cf7f358d18"}
+  ],
+  "transport": {
+    "chromeDownload": "UNAVAILABLE_IN_CURRENT_TOOL_RUNTIME",
+    "nextcloudArchive": "NOT_EXECUTED_NO_CONNECTED_NEXTCLOUD_WRITE_SURFACE",
+    "hardenedRouterPublisher": "NOT_TRIGGERED_WITHOUT_CHROME_NEXTCLOUD_HANDOFF",
+    "githubTextMetadata": "EXECUTED",
+    "githubBinaries": "GITHUB_PUBLISH_FAILED_NO_DIRECT_HTTPS_PACKAGE_URL"
+  }
+}

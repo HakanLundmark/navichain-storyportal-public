@@ -1,0 +1,19 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "kretsloppet-som-gick-i-cirklar",
+  "storySlug": "kretsloppet-som-gick-i-cirklar",
+  "title": "KRETSLOPPET SOM GICK I CIRKLAR",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "exportedAt": "2026-08-23T11:01:00+02:00",
+  "source": "chatgpt-current-story-chat",
+  "originalStory": {"path":"ORIGINAL_STORY.md","status":"present"},
+  "locales": [
+    {"locale":"sv-SE","status":"COMPLETE_LOCAL_SOURCE_GITHUB_FAILED","localCanonicalAssetCount":14,"githubCanonicalAssetCount":0},
+    {"locale":"en-GB","status":"INCOMPLETE","releaseImages":[]}
+  ],
+  "pdfs": {"sv-SE":null,"en-GB":null},
+  "social": {"sv-SE":null,"en-GB":null},
+  "qa": {"export":"pass","releaseStatusKnown":false,"githubBinarySync":"failed"},
+  "publishPolicy": {"portalMayImportIncompletePackage":true,"portalMayPublishIncompleteStory":false,"githubSyncAfterSuccessfulPortalImport":true}
+}

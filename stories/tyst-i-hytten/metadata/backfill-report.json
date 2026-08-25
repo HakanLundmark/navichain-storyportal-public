@@ -1,0 +1,42 @@
+{
+  "schema": "navichain-chat-backfill-report-v1",
+  "storyId": "tyst-i-hytten",
+  "title": "TYST I HYTTEN — Blixtens natt genom stormen",
+  "masterVersion": "v1.0",
+  "masterLocale": "sv-SE",
+  "narrativeMaster": {"status":"EXISTS_AND_EXPORTABLE","path":"ORIGINAL_STORY.md","source":"verbatim user message"},
+  "locales": {
+    "sv-SE": {"status":"INCOMPLETE","exportableOriginalAssets":11,"notExportable":["panel_05","panel_08","panel_09"]},
+    "en-US": {"status":"INCOMPLETE","exportableOriginalAssets":10,"notExportable":["panel_10","panel_11","panel_12","cta_13"]}
+  },
+  "pdfs": {"sv-SE":"EXISTS_AND_EXPORTABLE","en-US":"EXISTS_AND_EXPORTABLE"},
+  "social": {"sv-SE":"EXISTS_AND_EXPORTABLE","en-US":"MISSING"},
+  "qa": "MISSING_AS_STANDALONE_ARTIFACT",
+  "releaseZipCreated": false,
+  "binaryGitHubTransportConstraint": "Connected GitHub write tools expose UTF-8 create_file/update_file and create_blob with inline string/base64 content, but no local-file parameter. Large original PNG/PDF binaries cannot be transferred from the local runtime without reconstructing or transcoding; they are not published.",
+  "noReconstruction": true,
+  "noPdfExtractionAsImageReplacement": true,
+  "githubPublication": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "uniquePublishedFiles": 6,
+    "publishedPaths": [
+      "stories/tyst-i-hytten/ORIGINAL_STORY.md",
+      "stories/tyst-i-hytten/story.json",
+      "stories/tyst-i-hytten/metadata/backfill-report.json",
+      "stories/tyst-i-hytten/sv-SE/manifest/source-inventory.json",
+      "stories/tyst-i-hytten/sv-SE/social/linkedin.txt",
+      "stories/tyst-i-hytten/en-US/manifest/source-inventory.json"
+    ],
+    "writeCommits": [
+      "098aa9793bae63fdbe49d1caea4a852ea0e42539",
+      "62add89fac90a1c15b31327298bb6c80f8a81551",
+      "471b6dbc0faf9a3a7f9dada6914c18b2243591db",
+      "88971c3375eeb26123f9e43c4e5afac2917b9700",
+      "2c9990e9101012dccdf14efb0fb393d68b9a00b8",
+      "2464396ad539749464b6f4dad840a3e29b0a9a3e"
+    ],
+    "readBackVerified": true,
+    "localeReleaseStatus": "INCOMPLETE"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL",
+  "storyIdAuthority": "backfill-derived-from-title-and-explicit-kron-episode-8",
+  "title": "RÄTT DEL TILL RÄTT BIL",
+  "subtitle": "Micke, Rasmus, Daniel och paketet som räckte till alla",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "historicalCurrentBuildSlotsRecorded": 14,
+      "currentRuntimeCanonicalCurrentBuildExactAssets": 14,
+      "currentRuntimeDirectHistoricalRenderCandidates": 17,
+      "canonicalCurrentBuildSourceNotExportable": [],
+      "historicalReferencedButCurrentlySourceNotExportable": 8,
+      "pdf": "EXISTS_AND_EXPORTABLE",
+      "social": "NOT_CREATED",
+      "qa": "CURRENT_BUILD_NOT_RELEASE_LOCKED",
+      "manifest": "EXISTS_AND_EXPORTABLE",
+      "releaseZip": "EXISTS_AND_EXPORTABLE_CURRENT_BUILD_NOT_RELEASE",
+      "githubPublishedBinaryAssets": 0,
+      "releasePath": null
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "textOnly": true,
+      "narrativeMaster": false,
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "storyTextPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.md",
+      "storyTextSha256": "5600c900c65c912f58aee50913c8a863cdceae7b98d70b692e76d492f2fda480",
+      "metadataPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.meta.json",
+      "visualAssets": 0,
+      "githubReadBack": "PASS"
+    }
+  },
+  "originalStory": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "path": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/ORIGINAL_STORY.md",
+    "size": 10451,
+    "sha256": "37cb60e6255b0a523d384920d7dfceef478b7a9e2d6748b7386a73b1da5e6e8b",
+    "githubBlobSha": "c00de13e7510cfa25bc33a1d5979b909d77f5116",
+    "githubReadBack": "PASS"
+  },
+  "sourceTranslations": {
+    "en-GB": {
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "37cb60e6255b0a523d384920d7dfceef478b7a9e2d6748b7386a73b1da5e6e8b",
+      "path": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.md",
+      "metadataPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.meta.json",
+      "size": 10532,
+      "sha256": "5600c900c65c912f58aee50913c8a863cdceae7b98d70b692e76d492f2fda480",
+      "githubBlobSha": "18755642b476655a2060a8e6875515d90dfd44f4",
+      "githubReadBack": "PASS"
+    }
+  },
+  "sourceInventory": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/manifest/source-inventory.json",
+  "retroBackfillV2Inventory": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/manifest/retro-backfill-v2-inventory.json",
+  "sourceMetadata": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/source-metadata.json",
+  "currentBuildManifest": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/manifest/current-build-manifest.json",
+  "qaStatus": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/qa/qa-status.txt",
+  "retroBackfillV2QA": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/qa/RETRO-BACKFILL-v2.md",
+  "missingReleaseComponents": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/MISSING_RELEASE_COMPONENTS.md",
+  "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:07:00+02:00",
+    "sourceStatus": "PARTIAL_BACKFILL",
+    "exactOriginalCanonicalAssets": 14,
+    "exactOriginalHistoricalRenderFiles": 17,
+    "exactProjectSourceReferenceFilesArchived": 17,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "historicalReferencedButCurrentlySourceNotExportable": 8,
+    "pdf": "EXACT_ORIGINAL_EXISTS_AND_EXPORTABLE",
+    "historicalCurrentBuildZip": "EXACT_ORIGINAL_EXISTS_AND_EXPORTABLE_NOT_RELEASE",
+    "socialLinkedIn": "NOT_CREATED",
+    "localRetroArchive": {
+      "filename": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL-retro-backfill-v2-archive-20260824-1907.zip",
+      "size": 269543645,
+      "sha256": "1c8b08bfb3a6323248a3cdb16f14b3ab7b7b77ac70f1b9a483b41d69b19f3599"
+    },
+    "localPublisherPackage": {
+      "filename": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL-sv-SE-retro-backfill-v2-package-20260824-1907.zip",
+      "size": 272593548,
+      "sha256": "af7698948148b2537c15f1c78058b06e856cd54c862fc9d365a5ee1fbc7f6012",
+      "fileCount": 36
+    },
+    "publishRequest": {
+      "filename": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL-sv-SE.publish.json",
+      "size": 12626,
+      "sha256": "8f3b961a5db5bd5ba9eb377183f14bd6a77a9d83d1e69fc837e84e4444c83169",
+      "wrappedFilename": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL-sv-SE.publish.zip",
+      "wrappedSize": 3042,
+      "wrappedSha256": "6368be1cb4c1788f348f43de471056c4661350316b8df8386233f739740e7b63"
+    },
+    "chromeDownload": "UNAVAILABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "nextcloudArchive": "UNAVAILABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "hardenedRouter": "NOT_INVOKABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "publisher": "NOT_INVOKABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "directGitHubBinaryRetry": "GITHUB_PUBLISH_FAILED",
+    "binaryFailureReason": "The exact multi-megabyte binary sources are directly accessible locally, but the connected GitHub blob API requires literal base64 text and exposes no mounted-file argument. The complete payload set cannot be transferred through the available connector without truncation; no incomplete queue manifest was fabricated.",
+    "metadataReadBack": "PASS"
+  },
+  "historicalBinaryRetryProbe": {
+    "assetId": "cover_00",
+    "rawChunkSize": 8192,
+    "rawChunkSha256": "7fe9b3a378c5f125800f2e2ab9ce774bee5e783a7da3002dabcdeb3e8d905c79",
+    "blobSha": "a6c922ec653fc9a7ad551eb65cd4919550cffc9b",
+    "queued": false,
+    "publishedCanonicalPath": false
+  },
+  "backfilledAt": "2026-08-24T19:07:00+02:00"
+}

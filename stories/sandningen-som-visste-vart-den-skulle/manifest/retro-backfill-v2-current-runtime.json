@@ -1,0 +1,106 @@
+{
+  "schema": "navichain-retro-backfill-v2-current-runtime-v1",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "title": "SÄNDNINGEN SOM VISSTE VART DEN SKULLE",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "inventoryAt": "2026-08-24T19:39:00+02:00",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrativeMaster": {
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "byteSize": 9537,
+    "sha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+    "gitBlobSha": "e0488893ef2b29f91966eecce9a57a708f990ded",
+    "narrativeMaster": true,
+    "readBackVerified": true,
+    "qaStatus": "SOURCE_PRESENT_NOT_EXPLICITLY_VERSION_LOCKED"
+  },
+  "englishStory": {
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+    "byteSize": 9945,
+    "sha256": "92744d0a088011399f161e539ab5136fdc701906347cfa2413e25c202a332c03",
+    "gitBlobSha": "d6e6a8566c09da9cd45b94cad4171b89f986cb33",
+    "readBackVerified": true
+  },
+  "narrativeComponents": {
+    "manus": "EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER",
+    "storyboard": "EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER",
+    "storyDNA": "EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER",
+    "continuity": "EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER",
+    "castLock": "EXACT_ORIGINAL_EMBEDDED_IN_NARRATIVE_MASTER",
+    "characterLockSeparateFile": "NOT_CREATED",
+    "vehicleEnvironmentLockSeparateFile": "NOT_CREATED",
+    "preflight": "EXACT_ORIGINAL_EMBEDDED_REVISIONS",
+    "storyLock": "NOT_CREATED_OR_NOT_VERIFIED",
+    "productTruthAssessment": "EXACT_ORIGINAL_EMBEDDED_PLUS_VERIFIED_PRODUCT_TRUTH_SOURCE",
+    "realityValidation": "EXACT_ORIGINAL_EMBEDDED_REVISIONS_NO_SEPARATE_REPORT",
+    "correctionLogs": "EXACT_ORIGINAL_EMBEDDED_REVISIONS",
+    "releaseNotes": "EXACT_ORIGINAL_EMBEDDED_LOCK_RELEASE_NOTE",
+    "localizationNotes": "EXACT_ORIGINAL_EMBEDDED_PLUS_EN_GB_TRANSLATION"
+  },
+  "sv-SE": {
+    "historicalSourceInventoryStatus": "COMPLETE_FOR_CANONICAL_VISUAL_SLOTS_IN_CURRENT_RUNTIME",
+    "exactOriginalHistoricalRenderCount": 14,
+    "githubPublishedBinaryAssets": 0,
+    "releaseStatus": "INCOMPLETE_NOT_RELEASE_READY",
+    "assets": [
+      {"assetId":"cover_00","filename":"sändningen_som_visste_vart_den_skulle.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3738150,"sha256":"fc058ff5f33ca1a634a66c089014e238cf4a7c050243899663ce5cb64700ed50","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/cover_00.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_01","filename":"en_order_tre_adresser.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3709257,"sha256":"5c893c69db29f23c823983798ca56cd547ba45d1e21ad1c7c4fd830c1df7e98a","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_01.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_02","filename":"tre_bokningar_ingen_koppling.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3661510,"sha256":"9d69ec66645f07ce6379787fe3abf170ac207c4d9da28f45af28dcded281dd84","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_02.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_03","filename":"imagegen.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3526798,"sha256":"c7220e29f5b5ff3ee4476694f4029fd79da1776386b0fc3d417525098906d1eb","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_03.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_04","filename":"robban_granskar_dagens_rutt.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3462835,"sha256":"99d905a9c2c81568e46e88c53c47121af4086eb67175293ae8345a60f70d1563","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_04.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_05","filename":"tre_formulär_en_felkod.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3574008,"sha256":"babd89a18776fbf8621c9145e3bd8fec118d14d7f9db721f38e75588f3e06e7a","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_05.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_06","filename":"trött_vid_skrivbordet_i_regnet.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3651233,"sha256":"c4b5f864027f49e008558800d21d132b94cc59d299716a92fd362f849772482e","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_06.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_07","filename":"sammanhängande_flöde_på_kontoret.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3617128,"sha256":"deae934e69720a7b232aa0862dc1b155ec3e4c9d536241a3baddf56564af745f","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_07.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_08","filename":"noggrann_bokningskontroll_på_kontoret.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3534273,"sha256":"fc55f39c91b6b33ed1781ac5f159fdd43bb0e27960cb1754c6846679199c3984","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_08.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_09","filename":"masterbokning_med_tre_transportben.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":"1024x1536","size":3510004,"sha256":"8727742c74ba50f1848790d46fd57fe50a0a4482da17bcff52df4d83d9175a6a","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_09.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_10","filename":"a_comic_book_panel_illustration_style_image_ful.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":"1024x1536","size":3109968,"sha256":"91b5da635a7d3b6d45104c29d72a2d0c1ced4ac71afaea20bc1132589647dc25","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_10.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_11","filename":"a_comic_illustration_style_panel_scene_in_an_offic.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":"1086x1448","size":2687521,"sha256":"609ebcef1e2a0f1ea0f1ffb6fc81bf45ba08eddc251206e61e66fc1504a74fa2","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_11.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"panel_12","filename":"a_comic_book_style_illustrated_panel_poster_scen.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":"1086x1448","size":2695103,"sha256":"b1d873a6fb93f6a94c6971147e245d423cb1149a44a43af857b74c619c74ff8f","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/panel_12.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"},
+      {"assetId":"cta_13","filename":"en_sammanhållen_transportkedja_dakota.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":"1024x1536","size":3442160,"sha256":"90cd18578b6e9dcd5b8b58ea0433a47f81a0a0f5b2cec7d8b6f772f32ac93be8","intendedRepoPath":"stories/sandningen-som-visste-vart-den-skulle/sv-SE/images/cta_13.png","publishStatus":"PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED"}
+    ],
+    "additionalHistoricalBinaryArtifacts": [
+      {"type":"alternate_render","assetId":"panel_10","filename":"a_comic_illustration_style_panel_poster_overall_s.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2652062,"sha256":"72f86fde8201e10fd200cfa51de2a908258dea9cdc5ca6cd8e411bacf277b468"},
+      {"type":"historical_pdf","filename":"sandningen_som_visste_vart_den_skulle_sv-SE.pdf","sourceClass":"EXACT_ORIGINAL","qaStatus":"NOT_RELEASE_READY","size":62640585,"sha256":"b5ca281d1128decbb6bfc098a7740a2ac4ee6f78d6f0f55b8945a1285f841fef"},
+      {"type":"historical_archive_zip","filename":"sandningen_som_visste_vart_den_skulle_sv-SE_current_package.zip","sourceClass":"EXACT_ORIGINAL","qaStatus":"NOT_RELEASE_READY","size":89762031,"sha256":"af20429e360bf2d6cb81df19e90eae603d4f970f37bc9cb60d624a948c8aa600"}
+    ]
+  },
+  "en-GB": {
+    "visuals": "NOT_CREATED_AS_VALID_LOCALE_SET",
+    "notCreatedVisualSlots": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "releaseStatus": "INCOMPLETE"
+  },
+  "derivedReleaseAssets": {
+    "releaseGradePdf": "NOT_CREATED",
+    "linkedinSocialCopy": "NOT_CREATED",
+    "socialImages": "NOT_CREATED",
+    "thumbnails": "NOT_CREATED_AS_SEPARATE_VERIFIED_ARTIFACTS",
+    "releaseZip": "NOT_CREATED"
+  },
+  "publisherPackages": {
+    "sv-SE": {"filename":"sandningen-som-visste-vart-den-skulle-sv-SE.retro-v2-current-package.zip","size":203009399,"sha256":"30ffb22283aaab81fc461bdb62c59b6b68540682d8d0038d12912961aa2cdc76","fileCount":20,"localIntegrity":"PASS","requestFilename":"sandningen-som-visste-vart-den-skulle-sv-SE.publish.json","requestSha256":"a3c471b7901e279a723ebeee7a3bee5c23776701ee80ed38d119306cd35b319d","requestWrapperFilename":"sandningen-som-visste-vart-den-skulle-sv-SE.publish.zip","requestWrapperSha256":"33241daef9602e408f43243516db0ebde08cb7aa54b46a2f796086bb41430489"},
+    "en-GB": {"filename":"sandningen-som-visste-vart-den-skulle-en-GB.retro-v2-current-package.zip","size":10103,"sha256":"7bf453d87f638f899bae220417423368868d893d432308f09bc43be0cacadd72","fileCount":1,"localIntegrity":"PASS","requestFilename":"sandningen-som-visste-vart-den-skulle-en-GB.publish.json","requestSha256":"24f27d2c156bdb2574663bf648fa14eaf207b0000e1d1c73ee8c2485b33ad37c","requestWrapperFilename":"sandningen-som-visste-vart-den-skulle-en-GB.publish.zip","requestWrapperSha256":"2b32b7ff74aff7f0e773adca4098e148c1fe4ba6d5ffca0d6ae79b43e3800567"},
+    "completeArchive": {"filename":"sandningen-som-visste-vart-den-skulle-retro-backfill-v2-current-complete.zip","size":417770734,"sha256":"c56c140ef23049bbdc1ef09dfe355a9036194c45499ef6510a2ed751119da755","zipIntegrity":"PASS"}
+  },
+  "automaticTransport": {
+    "requested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "status": "NOT_INVOKABLE_FROM_ASSISTANT_RUNTIME",
+    "reason": "No browser-control/Chrome-download action and no connected Nextcloud/local-capture/hardened-router/publisher action is exposed. GitHub connector can write text but cannot upload these local binary files as file parameters. Repository binary workflows require either pre-created Git blobs or a runner-reachable HTTPS package URL; neither can be supplied from the local sandbox without an external transport action.",
+    "githubBinaryPublication": "GITHUB_PUBLISH_FAILED",
+    "githubBinaryReadBack": "NOT_POSSIBLE_BECAUSE_BINARY_PUBLICATION_DID_NOT_RUN"
+  },
+  "sourceNotExportable": {
+    "count": 14,
+    "class": "SOURCE_NOT_EXPORTABLE",
+    "reason": "Additional generic render files exist in the runtime, but their exact association with this ACTIVE STORY and canonical asset IDs cannot be established without uncertainty; they were not used or substituted."
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

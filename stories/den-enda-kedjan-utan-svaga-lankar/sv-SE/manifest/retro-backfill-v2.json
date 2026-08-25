@@ -1,0 +1,64 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "den-enda-kedjan-utan-svaga-lankar",
+  "title": "DEN ENDA KEDJAN UTAN SVAGA LÄNKAR",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "checkedAt": "2026-08-24T19:43:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/den-enda-kedjan-utan-svaga-lankar/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "gitBlobSha": "4396ccf8323364a01461ce8406cd6d1fa7c74925",
+    "size": 11445,
+    "githubReadBack": "PASS"
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "b932811093e8e0322f5bc6d1c7f152d10f10313df94b47c2cb27f3c753373591",
+    "githubReadBack": "PASS"
+  },
+  "svSEVisuals": {
+    "canonicalSlots": 14,
+    "exactOriginalAccessible": 13,
+    "chatRecovered": 0,
+    "sourceNotExportable": ["cta_13"],
+    "githubPublishedBinaryAssets": 0,
+    "githubImagesDirectoryReadBack": "ABSENT"
+  },
+  "historicalDerived": {
+    "pdfCarousels": [
+      {"version":"v0.10","sourceClass":"EXACT_ORIGINAL","size":72883282,"sha256":"9e4cc610461f373b766b4bd1d10a924c2c45b0d157f3675c662520a03f66966c","githubPublished":false},
+      {"version":"v0.9","sourceClass":"EXACT_ORIGINAL","size":71168380,"sha256":"a751c8bdf213f20854be2aba0a6c99b799b8a3ba4c4392ff4bbb81659f726dfe","githubPublished":false}
+    ],
+    "pdfQaRasters": 14,
+    "historicalRenderCandidates": 22,
+    "analysisMontages": 3
+  },
+  "localPackages": {
+    "fullHistoricalArchive": {"filename":"den-enda-kedjan-utan-svaga-lankar-retro-backfill-v2-20260824.zip","size":446264659,"sha256":"7d0ad3f60756f8f0bc5fa99ef7f7ad1eb2f54c3ef4c621e5bba0c1e7e999b9bb","zipTest":"PASS"},
+    "publisherPackage": {"filename":"den-enda-kedjan-utan-svaga-lankar-sv-SE-retro-v2-package.zip","size":185513205,"sha256":"d87f76dffe6038a85add776dde82c6c510e95f8ff28cf45183e5c28c4a6ff7ae"},
+    "publishRequest": {"filename":"den-enda-kedjan-utan-svaga-lankar-sv-SE.publish.json","sha256":"1607c8988c638c369e0287d2de2678975f1d7f492b020f01c61f69cebe82c792"},
+    "publishRequestWrapper": {"filename":"den-enda-kedjan-utan-svaga-lankar-sv-SE.publish.zip","sha256":"0e4645ae79d5ee0cf0f2821ee57c9fcc639965e1978f9b5073f4b48a443e8840"}
+  },
+  "transport": {
+    "automaticChain": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchive": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "githubBinaryPublish": "GITHUB_PUBLISH_FAILED",
+    "reason": "No Chrome-download/Nextcloud write connector is available in this assistant session, and GitHub has no local-file binary upload parameter. No binary was transcoded, reconstructed, cropped or substituted."
+  },
+  "inventoryTotals": {
+    "totalFound": 71,
+    "exactOriginal": 63,
+    "chatRecovered": 0,
+    "derivedTranslation": 1,
+    "sourceNotExportable": 5,
+    "notCreated": 2,
+    "githubPublishedAndReadBackVerified": 2
+  }
+}

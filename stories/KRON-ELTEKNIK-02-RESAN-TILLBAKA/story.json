@@ -1,0 +1,90 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-02-RESAN-TILLBAKA",
+  "title": "RESAN TILLBAKA SOM ALDRIG BEHÖVDE SKE",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionNote": "No formal LOCK STORY master-version identifier is directly verifiable in this chat.",
+  "status": "INCOMPLETE",
+  "originalStory": "ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/ORIGINAL_STORY.md",
+    "githubBlobSha": "0d5903dbdf40d321ca799b2cd4a84a7f74b86ecc",
+    "originalChatByteIdentityClaimed": false,
+    "note": "The canonical repository copy was read back and preserved. Exact original-chat byte identity is not claimed because that original chat byte stream is not mounted in the current runtime."
+  },
+  "derivedNarratives": {
+    "en-GB": {
+      "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "localSha256": "ee31cb45df7792f64cfcabaf2eac0e6fd9a440a9cf57d545f16ecc48a5bcc07b",
+      "githubPublished": true
+    }
+  },
+  "canonicalAssetIds": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/sv-SE",
+      "sourceClass": "EXACT_ORIGINAL",
+      "assetCount": 14,
+      "pdf": true,
+      "pdfPages": 14,
+      "social": false,
+      "formalReleaseQa": false,
+      "releaseManifest": false,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/en-GB",
+      "exactOriginalVisualCount": 2,
+      "assetCount": 2,
+      "notCreatedAssetIds": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "pdf": false,
+      "social": false,
+      "formalReleaseQa": false,
+      "releaseManifest": false,
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED"
+    }
+  },
+  "retroBackfillV2": {
+    "executedAt": "2026-08-24T17:28:00+02:00",
+    "result": "PARTIAL_BACKFILL",
+    "inventoryTotalItems": 92,
+    "classificationCounts": {
+      "EXACT_ORIGINAL": 59,
+      "CHAT_RECOVERED": 0,
+      "DERIVED_TRANSLATION": 1,
+      "SOURCE_NOT_EXPORTABLE": 15,
+      "NOT_CREATED": 17
+    },
+    "canonicalSvSeExactVisuals": 14,
+    "enGbExactVisuals": 2,
+    "previousCanonicalVisualsSourceNotExportable": 14,
+    "narrativeMasterGithubVerified": true,
+    "enGbTranslationGithubPublished": true,
+    "binaryGithubPublishedThisRun": 0,
+    "automaticTransport": {
+      "chromeDownload": "NOT_EXECUTABLE_FROM_CURRENT_TOOL_SURFACE",
+      "localCapture": "NOT_VERIFIED",
+      "nextcloudArchive": "NOT_VERIFIED",
+      "hardenedRouter": "NOT_VERIFIED",
+      "publisher": "NOT_VERIFIED"
+    },
+    "localBackfillArtifactsPrepared": true,
+    "releaseEligible": false
+  },
+  "notes": [
+    "No image was regenerated, reconstructed, cropped, restyled or substituted for this retro backfill.",
+    "Source provenance and historical QA status remain separate.",
+    "The sv-SE exact historical package contains 14 current candidate images and a 14-page PDF, but it is not a release PASS.",
+    "The en-GB story text is a faithful DERIVED_TRANSLATION and is not the Narrative Master."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "den-sista-touchpointen",
+  "masterVersion": "v1.0",
+  "checkedAt": "2026-08-24T19:42:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "narrative": {
+    "sv-SE": {"sourceClass":"EXACT_ORIGINAL","sha256":"3f733481f8df123b4a30f86040c28b1690f924f9afe41489099a105a91330fe6","repoPath":"stories/den-sista-touchpointen/source/original-story-sv-SE.md","narrativeMaster":true},
+    "en-GB": {"sourceClass":"DERIVED_TRANSLATION","translationType":"faithful","sourceLocale":"sv-SE","sha256":"64c47954d795e743f41ede73fd2bff92ca97a4eb47a544ca74e5aa854f50441b","repoPath":"stories/den-sista-touchpointen/source/original-story-en-GB.md","narrativeMaster":false}
+  },
+  "canonicalVisuals": {
+    "sv-SE": {
+      "EXACT_ORIGINAL": ["panel_01","panel_02","panel_03","panel_05","panel_06","panel_07","panel_09","panel_11","panel_12","cta_13"],
+      "SOURCE_NOT_EXPORTABLE": ["cover_00","panel_04","panel_08","panel_10"],
+      "qaStatus": "UNKNOWN_PER_ASSET",
+      "pdf": {"sourceClass":"EXACT_ORIGINAL","filename":"den_sista_touchpointen_sv-SE.pdf","size":14661787,"sha256":"7de9b501c34280a49879eb0c037aaf6ce57009d5e9444b26ce13c0601fe76dbe"}
+    },
+    "en-GB": {
+      "EXACT_ORIGINAL": ["cover_00","panel_02","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "SOURCE_NOT_EXPORTABLE": ["panel_01","panel_03"],
+      "qaStatus": "UNKNOWN_PER_ASSET",
+      "pdf": {"sourceClass":"EXACT_ORIGINAL","filename":"the_last_touchpoint_en-GB.pdf","size":72822408,"sha256":"c447f39b1966a162854ee8ab708090946b70e9bf0ef9fd888639e1ef843827be"}
+    },
+    "de-DE": {
+      "EXACT_ORIGINAL": ["panel_01","panel_02"],
+      "NOT_CREATED": ["cover_00","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "qaStatus": "panel_01/panel_02 UNKNOWN",
+      "historicalRejectedExactOriginalCount": 11,
+      "historicalRejectedQaStatus": "REJECTED_DIVERGENT",
+      "pdf": "NOT_CREATED"
+    }
+  },
+  "derivedHistoricalArtifacts": {
+    "pdfFallbacks": {"sv-SE":["cover_00","panel_04","panel_08","panel_10"],"en-GB":["panel_01","panel_03"]},
+    "policy": "Preserved only as historical derived artifacts. They are not canonical original render bytes and are not published to canonical image paths."
+  },
+  "unexportableProjectRecords": ["Story DNA","Continuity Contract","cast/character/vehicle/environment lock files","preflight report","Story Lock record","story-specific Product Truth assessment","Reality Validation report","correction log","release notes","localization notes","original social copy","original raster QA","original PDF QA","original release manifests","original release ZIPs"],
+  "localPackages": {
+    "fullArchive":"den-sista-touchpointen-retro-backfill-v2-20260824.zip",
+    "sv-SE":"den-sista-touchpointen-retro-v2-sv-SE.zip",
+    "en-GB":"den-sista-touchpointen-retro-v2-en-GB.zip",
+    "de-DE":"den-sista-touchpointen-retro-v2-de-DE.zip"
+  },
+  "transport": {
+    "chromeDownload":"NOT_EXECUTABLE_FROM_AVAILABLE_CHAT_TOOL_SURFACE",
+    "nextcloudArchive":"NOT_EXECUTED_NO_NEXTCLOUD_WRITE_CONNECTOR",
+    "githubBinaryAssembler":"PRESENT_AND_VERIFIED_IN_REPOSITORY",
+    "binaryPublish":"GITHUB_PUBLISH_FAILED_AUTOMATIC_TRANSPORT_UNAVAILABLE"
+  },
+  "finalStatus":"PARTIAL_BACKFILL"
+}

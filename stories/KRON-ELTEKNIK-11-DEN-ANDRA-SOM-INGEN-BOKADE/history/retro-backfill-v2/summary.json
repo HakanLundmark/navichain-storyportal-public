@@ -1,0 +1,58 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary-v1",
+  "storyId": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE",
+  "checkedAt": "2026-08-24T19:34:00+02:00",
+  "masterLocale": "sv-SE",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "156feccdd386955ab63803d4c9acedbb467de3b12e3f7cd9fbcbeb4ee95c0d09",
+    "narrativeMaster": true
+  },
+  "enGbStory": {
+    "path": "stories/KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "sourceLocale": "sv-SE",
+    "narrativeMaster": false,
+    "sha256": "3802dd2c5d8930b728f70886c178ac21a1c1c5854d34c8640bf2c5a8362e562f"
+  },
+  "visualInventory": {
+    "directlyAccessibleExactHistoricalRenderFiles": 44,
+    "chatRecovered": 0,
+    "currentCanonicalExactCandidates": [
+      {"assetId":"cover_00","filename":"den_andra_som_ingen_bokade.png","size":3024204,"dimensions":"1055x1491","sha256":"9ee99f757533b3e055d04e10817f3126c1a190b92cfacfeac67b543941998c98","qaStatus":"UNKNOWN_CURRENT_CANDIDATE"},
+      {"assetId":"panel_01","filename":"arbetsuppdrag_med_säkerhet_i_fokus.png","size":3156574,"dimensions":"1024x1536","sha256":"bae6535442f84171d37656ea0426f2d57941b68b41837efcd73cc60bf2e7277e","qaStatus":"UNKNOWN_CURRENT_CANDIDATE"},
+      {"assetId":"panel_02","filename":"a_detailed_comic_illustration_scene_in_a_clean_lin.png","size":2828501,"dimensions":"1122x1402","sha256":"1f6dcabc90919afc51f0e00d4d1859cb116d10ebf4ef41e0b3e7788c5b07179e","qaStatus":"UNKNOWN_CURRENT_CANDIDATE"},
+      {"assetId":"panel_11","filename":"elektrikerna_anländer_till_arbetsplatsen.png","size":3436803,"dimensions":"1024x1536","sha256":"a687187a0e6f7a187b10364c777f1ae7898cf0f76c651a1fa3d0ef7c4ac492e6","qaStatus":"UNKNOWN_CURRENT_CANDIDATE"}
+    ],
+    "exactRejectedCanonicalCandidates": [
+      {"assetId":"panel_03","filename":"a_comic_illustration_style_panel_scene_highly_det.png","size":2722125,"dimensions":"1085x1450","sha256":"d7b3826210b5658c43cfb7bda804f8b01bad6b28c594395754ee299b1ef4dc6d","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED:FOREIGN_STORY_CONTENT"},
+      {"assetId":"panel_04","filename":"a_comic_book_style_poster_page_scene_in_a_warehous.png","size":2596328,"dimensions":"1085x1450","sha256":"118245bcf71400d4dc42035025e8fa0a7826e37141255c4690074e20a3a52ee4","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED:FOREIGN_STORY_CONTENT"}
+    ],
+    "canonicalSourceNotExportable": ["panel_05","panel_06","panel_07","panel_09","panel_10","panel_12","cta_13"],
+    "canonicalNotCreated": ["panel_08"],
+    "githubPublishedBinaryAssets": 0
+  },
+  "derivedReleaseAssets": {
+    "pdf": "NOT_CREATED",
+    "linkedinSocial": "NOT_CREATED",
+    "historicalReleaseZip": "NOT_CREATED"
+  },
+  "localArchive": {
+    "file": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE-retro-backfill-v2-20260824-1934.zip",
+    "size": 141673773,
+    "sha256": "ef6b0c8613d45d6e01973cbcd2b2ba1e02557f1399bdff9efb6ce39ba4fc9f6e",
+    "fileCount": 66,
+    "zipIntegrity": "PASS"
+  },
+  "automaticTransport": {
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchive": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE"
+  },
+  "binaryBackfill": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "Exact multi-megabyte historical image bytes are locally accessible, but no safe file-valued GitHub/Nextcloud transport is connected in this runtime and the automatic Chrome-download bridge cannot be invoked from available tools. No binary is claimed published."
+  }
+}

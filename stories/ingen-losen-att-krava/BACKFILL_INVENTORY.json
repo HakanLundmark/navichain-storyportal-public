@@ -1,0 +1,101 @@
+{
+  "schema": "navichain-retro-backfill-inventory-v2",
+  "storyId": "ingen-losen-att-krava",
+  "title": "INGEN LÖSEN ATT KRÄVA",
+  "masterLocale": "sv-SE",
+  "inventoryScope": "Material actually evidenced for this story and material directly accessible in the current chat/runtime. Historical metadata is evidence of creation but is not treated as current byte availability.",
+  "recoveryPolicy": "CHAT-VISUAL-RECOVERY.md",
+  "transportRequested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+  "transportAvailableInThisRuntime": false,
+  "transportFallbackUsed": "Direct connected GitHub write/read-back for UTF-8 narrative and metadata only.",
+  "narrative": [
+    {
+      "itemType": "ORIGINAL_STORY_NARRATIVE_MASTER",
+      "locale": "sv-SE",
+      "filename": "original-story-sv-SE.md",
+      "sourceLocation": "stories/ingen-losen-att-krava/ORIGINAL_STORY.md",
+      "byteAvailability": "AVAILABLE_FROM_GITHUB_CANONICAL_SOURCE",
+      "size": 12272,
+      "sha256": "28f056cf5f84d2984b2c02ef5f571cd6440f0f63c476b200ee89c7930aba7ea1",
+      "gitBlobSha": "dcf23961cc4092421fa764996f730536df6327ea",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "CANONICAL_SOURCE_TEXT_NO_IMAGE_QA_STATE",
+      "intendedRepoPath": "stories/ingen-losen-att-krava/sources/original-story-sv-SE.md",
+      "exportStatus": "GITHUB_VERIFIED",
+      "comment": "Byte identity verified because the new source copy and the pre-existing canonical ORIGINAL_STORY.md have the same Git blob SHA."
+    },
+    {
+      "itemType": "ORIGINAL_STORY_TRANSLATION",
+      "locale": "en-GB",
+      "filename": "original-story-en-GB.md",
+      "sourceLocation": "direct faithful translation of sv-SE Narrative Master",
+      "byteAvailability": "CREATED_IN_THIS_BACKFILL",
+      "size": 12537,
+      "sha256": "da2d1f90097cc056217b48aa228dbd4b97b35566e584392d7f01fb6535d01e8d",
+      "gitBlobSha": "21892a3f372df1d7bfa30b56b92a3cf8e0ffc64d",
+      "provenance": "DERIVED_TRANSLATION",
+      "qaStatus": "DERIVED_TRANSLATION_NOT_IMAGE_QA",
+      "intendedRepoPath": "stories/ingen-losen-att-krava/sources/original-story-en-GB.md",
+      "exportStatus": "GITHUB_VERIFIED",
+      "comment": "Faithful en-GB text translation only; no locale images were generated."
+    }
+  ],
+  "visualAssets": {
+    "sv-SE": [
+      {"assetId":"cover_00","filename":"cover_00.png","dimensions":[1055,1491],"size":null,"sha256":"d2f95667ca3b419d726232a604ab3ca5c1411652602f26508b89c2e0b3110a5b","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/cover_00.png","exportStatus":"SOURCE_NOT_EXPORTABLE","comment":"Historical release output is evidenced and QA PASS, but neither exact bytes nor the actual render is exposed in this current chat/runtime."},
+      {"assetId":"panel_01","filename":"panel_01.png","dimensions":[1055,1491],"size":null,"sha256":"6fddf541288762df5a9a4edaf36de8b77f220d470bfe77222e08e1a3b05636ca","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_01.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_02","filename":"panel_02.png","dimensions":[1055,1491],"size":null,"sha256":"4507227df098b53082e282eaff427faf71353ebb6b7130df230b48fac1dc0dcd","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_02.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_03","filename":"panel_03.png","dimensions":[1055,1491],"size":null,"sha256":"00cccbc2a5cfc237a8e602ee5cdac62c8847314fd1bb01cd0ca70442a8ae2ca1","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_03.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_04","filename":"panel_04.png","dimensions":[1055,1491],"size":null,"sha256":"25109acc3dcef6787b4dc63f9d30db2f95f3b1b7f6b6673d1cc064f53afb5faa","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_04.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_05","filename":"panel_05.png","dimensions":[1055,1491],"size":null,"sha256":"a651d1547e61fd776b21f9d22762c454566ce934bb6e80c8e4a75b09c0a9a6cb","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_05.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_06","filename":"panel_06.png","dimensions":[1055,1491],"size":null,"sha256":"31c18605976dc4a1e98ccd73e3b39288e4e3988d02809f20bf6465cc90a14fbd","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_06.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_07","filename":"panel_07.png","dimensions":[1055,1491],"size":null,"sha256":"32bbeca527202f65af2c7e6fc8c883f1310342a584cb7e269917047a1cb3070e","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_07.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_08","filename":"panel_08.png","dimensions":[1055,1491],"size":null,"sha256":"fa683fe53707a049963230b8c2b85331179a1dea4e8e574067fc895cc050c7cd","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_08.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_09","filename":"panel_09.png","dimensions":[1055,1491],"size":null,"sha256":"2d77e534a5f72b4f772be1215c2c42653c9c869d35b70e7504370de2c3252463","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_09.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_10","filename":"panel_10.png","dimensions":[1055,1491],"size":null,"sha256":"ea4a7b609b0bfa7ee94ea22dc95ca041a12cc4bf4963d3287334d43eb69c2c6c","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_10.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_11","filename":"panel_11.png","dimensions":[1055,1491],"size":null,"sha256":"b45d69b4a091a24ad7c46625d2a5553b88c113e7d77969b9d6c3ccd4970fbf2b","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_11.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_12","filename":"panel_12.png","dimensions":[1055,1491],"size":null,"sha256":"a97af525e1f1139b013b3efabf6cba8e3c46bce53c37d2a8ee61810687a5d57a","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/panel_12.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"cta_13","filename":"cta_13.png","dimensions":[1055,1491],"size":null,"sha256":"5c46f15faa83edbf41dbb87248207caa57034c0727b56422185da7c84aa53956","historicalEvidence":"sv-SE/manifest/release-manifest.yaml","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/images/cta_13.png","exportStatus":"SOURCE_NOT_EXPORTABLE","comment":"Manifest records valid official logo source and QR decode PASS, but the CTA raster itself is not available in the current runtime."}
+    ],
+    "en-GB": [
+      {"assetId":"cover_00","filename":"cover_00_en-GB_integrated.png","dimensions":null,"size":2794651,"sha256":"22e50c1a1c1e9410c956a57c80c233c1a100516b2e2247a3226cd6f1afaa1f4f","historicalEvidence":"story.json identifiableRejectedRuntimeArtifacts","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"REJECTED","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/cover_00.png","exportStatus":"SOURCE_NOT_EXPORTABLE","comment":"Historical rejected candidate; publishing it would not make it approved."},
+      {"assetId":"panel_01","filename":"a_full_color_comic_graphic_novel_style_illustratio.png","dimensions":null,"size":3093002,"sha256":"8198edbbbcb6ee744dea827baa4fbbe2ae827a6d23c33ec11aec8cecfd87478c","historicalEvidence":"story.json identifiableRejectedRuntimeArtifacts","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_01.png","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+      {"assetId":"panel_02","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_02.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_03","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_03.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_04","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_04.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_05","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_05.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_06","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_06.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_07","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_07.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_08","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_08.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_09","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_09.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_10","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_10.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_11","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_11.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"panel_12","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/panel_12.png","exportStatus":"NOT_CREATED"},
+      {"assetId":"cta_13","provenance":"NOT_CREATED","qaStatus":"UNKNOWN","intendedRepoPath":"stories/ingen-losen-att-krava/en-GB/images/cta_13.png","exportStatus":"NOT_CREATED"}
+    ]
+  },
+  "historicalNonCanonicalCandidates": [
+    {"locale":"sv-SE","assetId":"cover_00","historicalRuntimePath":"/mnt/data/a_detailed_comic_illustration_cover_scene_in_a_ret.png","size":3138039,"dimensions":[1536,1024],"sha256":"c605efb4dc8b0fd9a491edf1f980e16357c2fe2ec9fc0ea7b9890c2164a6022a","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"NOT_RELEASE_READY","evidence":"metadata/backfill.json"},
+    {"locale":"sv-SE","assetId":"panel_01","historicalRuntimePath":"/mnt/data/a_comic_book_style_scene_with_a_clean_illustrated.png","size":2667367,"dimensions":[1087,1447],"sha256":"e905c60258b3d46608434edbd4eff3fa11906afa1d62bf7bc60944cbcbffc070","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"NOT_RELEASE_READY","evidence":"metadata/backfill.json"}
+  ],
+  "derivedAndRelease": [
+    {"itemType":"PDF_CAROUSEL","locale":"sv-SE","filename":"ingen-losen-att-krava_sv-SE.pdf","sourceLocation":"historical runtime path in story.json","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","pages":14,"size":68648164,"sha256":"5726383cca9b3d9dcc2448cc6d37bf017c26c5514667a3d00b3f3fd4655b012b","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/carousel/ingen-losen-att-krava_sv-SE.pdf","exportStatus":"SOURCE_NOT_EXPORTABLE"},
+    {"itemType":"RELEASE_ZIP","locale":"sv-SE","filename":"INGEN-LOSEN-ATT-KRAVA-v1.0-sv-SE-release-FINAL.zip","sourceLocation":"historical runtime path in story.json","byteAvailability":"NOT_AVAILABLE_IN_CURRENT_RUNTIME","size":98564643,"sha256":"354d78ae9212482a610d2f60d083aec028d135481f3e290ea459a7c27dfb583f","provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"PASS","intendedRepoPath":null,"exportStatus":"SOURCE_NOT_EXPORTABLE","comment":"No existing canonical repository path for the historical ZIP was inferred."},
+    {"itemType":"LINKEDIN_COPY","locale":"sv-SE","filename":"linkedin-sv-SE.txt","sourceLocation":"GitHub main","byteAvailability":"AVAILABLE_FROM_GITHUB","size":628,"sha256":"23c57acd11324af23ab118f99befdb56b6e5c4e132087fb102c40e52a30bee85","gitBlobSha":"d0d939beaf4d4f45ab98a682b30546c9835d4f0d","provenance":"EXACT_ORIGINAL","qaStatus":"PUBLISHED_TEXT_NO_IMAGE_QA_STATE","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/social/linkedin-sv-SE.txt","exportStatus":"GITHUB_VERIFIED"},
+    {"itemType":"RELEASE_MANIFEST","locale":"sv-SE","filename":"release-manifest.yaml","sourceLocation":"GitHub main","byteAvailability":"AVAILABLE_FROM_GITHUB","size":2680,"sha256":"17e3ea589ce46030a2ef4fc1018c8520819a82166ebb6d9f09c11767b258a415","gitBlobSha":"65d699b7b51fc06de1e0e5f23ebdf0bd34c3b34b","provenance":"EXACT_ORIGINAL","qaStatus":"RELEASE_PASS_RECORDED","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/manifest/release-manifest.yaml","exportStatus":"GITHUB_VERIFIED"},
+    {"itemType":"RASTER_QA_REPORT","locale":"sv-SE","filename":"raster-qa.yaml","sourceLocation":"GitHub main","byteAvailability":"AVAILABLE_FROM_GITHUB","size":492,"sha256":"7290b8ef4beaa7a3605885bc15d451091fee7f8fd00e6c1fb0297b8b760a5374","gitBlobSha":"72d6afa8abdc3d4b1a4287bf57d9878f8daeaf6f","provenance":"EXACT_ORIGINAL","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/qa/raster-qa.yaml","exportStatus":"GITHUB_VERIFIED"},
+    {"itemType":"PDF_QA_REPORT","locale":"sv-SE","filename":"pdf-qa.yaml","sourceLocation":"GitHub main","byteAvailability":"AVAILABLE_FROM_GITHUB","size":287,"sha256":"d19ab925499b727125a692844927c377f6f8ca98cefaf563c6c71c45e024d07f","gitBlobSha":"5f0b003287c998f6a828fe9f59a3c092ad567a07","provenance":"EXACT_ORIGINAL","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/qa/pdf-qa.yaml","exportStatus":"GITHUB_VERIFIED"},
+    {"itemType":"REALITY_VALIDATION","locale":"sv-SE","filename":"reality-validation.yaml","sourceLocation":"GitHub main","byteAvailability":"AVAILABLE_FROM_GITHUB","size":229,"sha256":"6a65be483d66c3b777009ed25ba6ec28aac120bd211bfa0c15f7e7f413cced7d","gitBlobSha":"d52434c35ebaed86b57d861b7d12024d1c58808a","provenance":"EXACT_ORIGINAL","qaStatus":"PASS","intendedRepoPath":"stories/ingen-losen-att-krava/sv-SE/sources/reality-validation.yaml","exportStatus":"GITHUB_VERIFIED"}
+  ],
+  "currentRuntimeReferenceAssets": [
+    {"itemType":"OFFICIAL_LOGO_REFERENCE","locale":"shared","filename":"NAVICHAIN-OFFICIAL-LOGO.png","sourceLocation":"/mnt/data/NAVICHAIN-OFFICIAL-LOGO.png","byteAvailability":"AVAILABLE","dimensions":[500,300],"size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","provenance":"EXACT_ORIGINAL","qaStatus":"BRAND_REFERENCE","intendedRepoPath":"assets/brand/NAVICHAIN-OFFICIAL-LOGO.png","exportStatus":"NOT_PUBLISHED_IN_THIS_RUN","comment":"Shared project reference, not a story render."},
+    {"itemType":"SIGNUP_QR_REFERENCE","locale":"shared","filename":"Korrekt QR kod till signup.png","sourceLocation":"/mnt/data/Korrekt QR kod till signup.png","byteAvailability":"AVAILABLE","dimensions":[550,574],"size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","provenance":"EXACT_ORIGINAL","qaStatus":"REFERENCE_ASSET","intendedRepoPath":null,"exportStatus":"NOT_PUBLISHED_NO_ESTABLISHED_CANONICAL_PATH","comment":"The validated CTA QR payload is https://navichain.se/signup; no new repository path was guessed for this shared reference."
+    }
+  ],
+  "notes": [
+    "The older metadata/backfill.json records two early non-release-ready sv-SE candidates. A later release-manifest.yaml records a distinct complete 14-image sv-SE release set with raster/PDF/release QA PASS. Both records are preserved rather than conflated.",
+    "The current chat/runtime does not expose the historical 14 release image bytes or their actual rendered images, so CHAT_RECOVERED cannot be claimed for them here.",
+    "The current portal screenshot is not a comic render and is not used as a recovered asset.",
+    "No image was rerendered, reconstructed, cropped, restyled or substituted during this backfill."
+  ]
+}

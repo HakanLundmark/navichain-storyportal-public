@@ -1,0 +1,16 @@
+{
+  "storyId": "den-enda-kedjan-utan-svaga-lankar",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-sv-SE.md",
+  "sourceStoryGitBlobSha": "4396ccf8323364a01461ce8406cd6d1fa7c74925",
+  "sourceStorySha256": "00b0a3d32417fc3f6dc0c992be5eabc888ee8e9ffe6348b64388e4e2d64f8b40",
+  "translationPath": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-en-GB.md",
+  "translationGitBlobSha": "475ccd964dd28dd0d68070a7e8b18857665597f0",
+  "translationSha256": "b932811093e8e0322f5bc6d1c7f152d10f10313df94b47c2cb27f3c753373591",
+  "readBackVerified": true,
+  "note": "The legacy Markdown frontmatter contains sourceStorySha256:null. This sidecar and story.json carry the verified source SHA-256 without altering the already-published translation bytes."
+}

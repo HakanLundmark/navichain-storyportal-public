@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-narrative-source-v1",
+  "storyId": "ingen-ringde-anda-visste-han",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sha256": "ae2f2b6070bb8938122c6ae64023bf4418615ab66a80aab9f0950d1fb0a7b2df",
+  "size": 8263,
+  "path": "stories/ingen-ringde-anda-visste-han/source/original-story-sv-SE.md",
+  "githubBlobSha": "9135ec616c107e40737cd81d5aa5859dd0447d84",
+  "githubReadBackVerified": true,
+  "storyLockStatus": "NOT_FORMALLY_VERSIONED_IN_CHAT",
+  "note": "Exact Narrative Master source bytes were published to the dedicated source path and verified by Git blob identity. The older root ORIGINAL_STORY.md remains a one-byte-short historical copy lacking the source file's final newline."
+}

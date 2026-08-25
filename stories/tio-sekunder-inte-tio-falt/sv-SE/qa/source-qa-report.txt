@@ -1,0 +1,24 @@
+Story: TIO SEKUNDER, INTE TIO FÄLT
+Locale: sv-SE
+Package type: WORKING PACKAGE - NOT RELEASE
+
+VALID / story-consistent in current filesystem:
+- cover_00
+- panel_01
+- panel_02
+- panel_03
+- panel_04
+- panel_05
+- panel_06
+- panel_08
+
+REBUILD_REQUIRED:
+- panel_07: valid prior render is not available as a separate file in the current runtime; placeholder inserted.
+- panel_09: current available file is story-contaminated / wrong scene.
+- panel_10: current available file is story-contaminated / wrong scene.
+- panel_11: current available file is story-contaminated / wrong scene.
+- panel_12: current available file is story-contaminated / wrong scene.
+- cta_13: current available file is generic/wrong story and QR/logo release validation is not established.
+
+Release status: BLOCKED.
+Reason: project rules require 14/14 PASS/LOCKED, story isolation, correct logo, and validated CTA QR/URL.

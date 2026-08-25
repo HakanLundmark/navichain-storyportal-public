@@ -1,0 +1,60 @@
+{
+  "schema": "navichain-retro-backfill-v2-result",
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "checkedAt": "2026-08-24T22:27:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+    "githubReadback": "PASS"
+  },
+  "englishStory": {
+    "path": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "sourceLocale": "sv-SE",
+    "narrativeMaster": false,
+    "sha256": "42c2c5c15b3cd07c958342028fa756d299425eb250f5d61e42f33890ef488f37",
+    "sourceStorySha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+    "githubReadback": "PASS"
+  },
+  "canonicalVisuals": {
+    "sv-SE": {
+      "exactOriginalExportable": 13,
+      "sourceNotExportable": ["panel_02"],
+      "githubPublished": 0,
+      "githubReadback": "NO_CANONICAL_IMAGE_DIRECTORY_PRESENT",
+      "releaseStatus": "INCOMPLETE"
+    },
+    "en-GB": {
+      "derivedTextOnly": true,
+      "visualsCreated": 0,
+      "releaseStatus": "INCOMPLETE"
+    }
+  },
+  "historicalAlternateRenders": {
+    "exactOriginalExportable": 4,
+    "qaStatus": "UNKNOWN",
+    "githubPublished": 0
+  },
+  "binaryRetryPackage": {
+    "created": true,
+    "filename": "RADERINGEN-SOM-STOPPADES-sv-SE-retro-v2-binary-retry.zip",
+    "size": 55539595,
+    "sha256": "b3207db6a71d2de33454016502d9e17bca356fd518a6a19148ff7af1cbc1ebcf",
+    "publishRequestFiles": 20,
+    "localPackageIntegrity": "PASS"
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_BROWSER_WRITE_SURFACE",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "LOCAL_PACKAGE_CREATED_NOT_GITHUB_PUBLISHED",
+  "githubTextMetadataStatus": "PUBLISHED_AND_READBACK_VERIFIED",
+  "storyJsonReadback": "PASS",
+  "indexMetadataReadback": "PASS",
+  "runInventoryReadback": "PASS",
+  "runQaReadback": "PASS",
+  "publishRequestReadback": "PASS",
+  "releaseStatus": "INCOMPLETE",
+  "completeSynced": false
+}

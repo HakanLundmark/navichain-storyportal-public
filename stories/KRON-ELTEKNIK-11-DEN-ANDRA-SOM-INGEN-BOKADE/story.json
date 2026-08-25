@@ -1,0 +1,79 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-11-and-canonical-title",
+  "title": "DEN ANDRA SOM INGEN BOKADE",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+  },
+  "originalStory": "ORIGINAL_STORY.md",
+  "narrativeMasterPath": "stories/KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "156feccdd386955ab63803d4c9acedbb467de3b12e3f7cd9fbcbeb4ee95c0d09",
+  "narrativeMasterQaStatus": "PREFLIGHT_PASS_WITH_CLAIM_SAFE_CORRECTIONS",
+  "enGbStoryPath": "stories/KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "3802dd2c5d8930b728f70886c178ac21a1c1c5854d34c8640bf2c5a8362e562f",
+  "verifiedOriginalAssets": 4,
+  "exportableCanonicalAssets": ["cover_00", "panel_01", "panel_02", "panel_11"],
+  "missingCanonicalAssets": ["panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_12", "cta_13"],
+  "historicalExactRejectedCanonicalCandidates": ["panel_03", "panel_04"],
+  "sourceNotExportableCanonicalAssets": ["panel_05", "panel_06", "panel_07", "panel_09", "panel_10", "panel_12", "cta_13"],
+  "notCreatedCanonicalAssets": ["panel_08"],
+  "historicalExactOriginalVisualFiles": 44,
+  "chatRecoveredHistoricalFiles": 0,
+  "runtimeDirectlyAccessibleOriginalBinaries": {
+    "canonical": ["cover_00", "panel_01", "panel_02", "panel_11"],
+    "rebuildRequiredCandidates": ["panel_03", "panel_04"],
+    "historicalVisualFiles": 44
+  },
+  "runtimeSourceFiles": {
+    "cover_00": "den_andra_som_ingen_bokade.png",
+    "panel_01": "arbetsuppdrag_med_säkerhet_i_fokus.png",
+    "panel_02": "a_detailed_comic_illustration_scene_in_a_clean_lin.png",
+    "panel_03": "a_comic_illustration_style_panel_scene_highly_det.png",
+    "panel_04": "a_comic_book_style_poster_page_scene_in_a_warehous.png",
+    "panel_11": "elektrikerna_anländer_till_arbetsplatsen.png"
+  },
+  "rebuildRequired": ["panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_09", "panel_10", "panel_12", "cta_13"],
+  "githubPublishedCanonicalAssets": 0,
+  "githubPublishedBinaryAssets": 0,
+  "pdf": null,
+  "social": null,
+  "releaseZip": null,
+  "retroArchivePackage": {
+    "file": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE-retro-backfill-v2-20260824-1934.zip",
+    "size": 141673773,
+    "sha256": "ef6b0c8613d45d6e01973cbcd2b2ba1e02557f1399bdff9efb6ce39ba4fc9f6e"
+  },
+  "publishPackages": {
+    "sv-SE": {
+      "file": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE-sv-SE-publish.zip",
+      "size": 12321327,
+      "sha256": "f1ab03e625d572bb856561c61bb322268e62add8e4c4ae81852f5d5b4f69a742"
+    },
+    "en-GB": {
+      "file": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE-en-GB-publish.zip",
+      "size": 3466,
+      "sha256": "31faf33b01d176be1a014bbf30baf100b8dcb6e9963f58b5d7fbb43473faec46"
+    }
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:34:00+02:00",
+  "backfilledAt": "2026-08-23T08:51:00+02:00",
+  "paths": {
+    "sv-SE": "sv-SE/",
+    "manifest": "sv-SE/manifest/backfill-manifest.json",
+    "qa": "sv-SE/qa/export-qa.md"
+  }
+}

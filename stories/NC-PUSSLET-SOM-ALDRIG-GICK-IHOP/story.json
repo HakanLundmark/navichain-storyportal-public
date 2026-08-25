@@ -1,0 +1,54 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "NC-PUSSLET-SOM-ALDRIG-GICK-IHOP",
+  "slug": "pusslet-som-aldrig-gick-ihop",
+  "title": "Pusslet som aldrig gick ihop — Rasmus och jakten på ett komplett TMS",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "narrativeMasterPath": "stories/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "SOURCE_NOT_EXPORTABLE",
+  "narrativeMasterPublishedArtifactRole": "canonical_content_copy",
+  "narrativeMasterPublishedCopySha256": "a657b4535011455078bebd05bcf98731f59be138301e30aa2259f815998d3040",
+  "narrativeMasterOriginalAttachmentByteIdentityClaimed": false,
+  "enGbStoryPath": "stories/NC-PUSSLET-SOM-ALDRIG-GICK-IHOP/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "89dfd05502d4ef312603dca1359a0d4314cacd9876caef3c61f42e14a95f9210",
+  "locales": {
+    "sv-SE": {
+      "masterVersion": "1.0",
+      "status": "INCOMPLETE",
+      "canonicalExactOriginalAssetsAccessible": 12,
+      "generatedNotRecovered": ["panel_08", "panel_09"],
+      "githubPublishedBinaryAssets": 0
+    },
+    "en-GB": {
+      "masterVersion": "1.1",
+      "status": "INCOMPLETE",
+      "exactOriginalRawRendersAccessible": 14,
+      "finalPostProcessedStandaloneReleaseImages": "SOURCE_NOT_EXPORTABLE",
+      "githubPublishedBinaryAssets": 0
+    },
+    "de-DE": {
+      "masterVersion": null,
+      "status": "INCOMPLETE",
+      "canonicalExactOriginalAssetsAccessible": 2,
+      "sourceNotExportableCanonical": ["panel_01", "panel_02", "panel_03", "panel_05"],
+      "notCreated": ["panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "historicalExactOriginalVisualFilesAccessible": 52,
+  "historicalPdfOutputsAccessible": 2,
+  "socialCopiesPublished": ["sv-SE", "en-GB"],
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:22:00+02:00",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "githubPublishedBinaryAssets": 0,
+  "provenanceQaSeparated": true,
+  "noRerenderOrReconstructionUsed": true
+}

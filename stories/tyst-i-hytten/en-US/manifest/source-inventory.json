@@ -1,0 +1,29 @@
+{
+  "schema": "navichain-chat-backfill-inventory-v1",
+  "storyId": "tyst-i-hytten",
+  "masterVersion": "v1.0",
+  "locale": "en-US",
+  "status": "INCOMPLETE",
+  "requiredAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "exportableOriginalAssetCount": 10,
+  "exportableOriginalAssets": {
+    "cover_00": {"bytes":3150994,"sha256":"5aa6725cd335ad028f007f7f9da2463fcc0caaaf24d00db4104318af07398d02","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_01": {"bytes":3035597,"sha256":"afcb4d0b6e60e103023598e0d9d9e84dfec3a2b43892a97e6e82638a3e00d9db","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_02": {"bytes":2952665,"sha256":"77556ab65bd43c1e9d5d8a9c8ab13fb5d1a2c8c20c1edcb8128027d5b3c75ade","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_03": {"bytes":2999580,"sha256":"8c06a654bddbb8d670f6fb2504381ce06cb04a23db10ac829d4608ef07b65239","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_04": {"bytes":2877648,"sha256":"14b93dc459ee86abf21ad98e0db77c1b944320cdafce1a32b4407df61333a61e","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_05": {"bytes":2885232,"sha256":"6c5a1bd2cc133bfae84593a5ab91dc6a9849f24752f16088c792f08e235f6cd4","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_06": {"bytes":3086792,"sha256":"ee29c6a1924fca0de952a3fd44000841fb75c5279c2418dd56f91b9e6de06877","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_07": {"bytes":3211365,"sha256":"3571998f2dadce702de69ac4c75710e33e5f2a6935a56781723003f6fa1eca11","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_08": {"bytes":3031443,"sha256":"35c331d1379fc8d5631317d80fdfef7d85f13d6404a7bf3e3bccef1a94fd7f5a","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+    "panel_09": {"bytes":3151171,"sha256":"4804daec2ffbea15ece8b0a847ec889f7534c5fa937adce83f4d84768e87d46a","localStatus":"EXISTS_AND_EXPORTABLE","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"}
+  },
+  "existsButNotExportableOriginalAssets": ["panel_10","panel_11","panel_12","cta_13"],
+  "missingOriginalAssets": [],
+  "pdf": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"Quiet-in-the-Cab-EN-carousel.pdf","bytes":4742392,"sha256":"68544098bc17389d22bd855fe4a2e4792cc5566db1801b025967dcc6cbfd9a18","githubBinaryPublish":"BLOCKED_BY_CONNECTOR_FILE_TRANSPORT"},
+  "social": {"status":"MISSING"},
+  "qa": {"status":"MISSING","note":"No standalone QA artifact was created in this chat."},
+  "releaseManifestBeforeBackfill": {"status":"MISSING"},
+  "releaseZip": {"created":false,"reason":"locale incomplete"},
+  "classificationRule": "INCOMPLETE because exactly 14 original image assets are not all directly exportable."
+}

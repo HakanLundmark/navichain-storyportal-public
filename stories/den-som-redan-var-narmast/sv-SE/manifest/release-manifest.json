@@ -1,0 +1,31 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "den-som-redan-var-narmast",
+  "title": "DEN SOM REDAN VAR NÄRMAST",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "backfillStatus": "COMPLETE",
+  "creativeQaStatus": "RELEASE_BLOCKED_REBUILDS_REMAIN",
+  "assets": [
+    {"assetId":"cover_00","file":"images/cover_00.png","sourceFile":"a_full_color_comic_book_graphic_novel_style_illust.png","bytes":3533600,"dimensions":[1024,1536],"sha256":"ba4083e7daf33a1e81dd20ded589d5e3c527a587bb2a6c1c281fb5edf3fbf655","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_01","file":"images/panel_01.png","sourceFile":"a_comic_book_graphic_novel_panel_scene_in_a_retr.png","bytes":3690359,"dimensions":[1024,1536],"sha256":"6cde237d32e555d7fe1b41da224297950bb3188072ac3a0915d37c61861b19cb","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_02","file":"images/panel_02.png","sourceFile":"a_comic_book_graphic_novel_style_poster_illustra.png","bytes":3357813,"dimensions":[1024,1536],"sha256":"5a4eded2ded7e195367eaf30e8836c36eebdef6f092b3b25334f72a077316ea4","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_03","file":"images/panel_03.png","sourceFile":"andra_gissningen_akut_servicekaos.png","bytes":3591576,"dimensions":[1024,1536],"sha256":"2a6ee7788bc34a972556820d7b5978911523ff1f4e9fc53211151f0759c44a78","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_04","file":"images/panel_04.png","sourceFile":"a_detailed_comic_book_graphic_novel_panel_in_vin.png","bytes":3517077,"dimensions":[1024,1536],"sha256":"1a005b6c804e1a19915104ee50112600aedd36ac3c70c8abf6a5b1b52e002f00","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_05","file":"images/panel_05.png","sourceFile":"a_detailed_comic_book_style_infographic_panel_scen.png","bytes":3346040,"dimensions":[1024,1536],"sha256":"e8c19a8e34c3beabd513ac87195df3b311b33b15e18fc61a62b42ca01ff6fbfb","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_06","file":"images/panel_06.png","sourceFile":"a_comic_book_graphic_novel_style_panel_vintage.png","bytes":3369054,"dimensions":[1024,1536],"sha256":"63ba2e0d1c845ed3f1ba0786d16c90a7597caf0ea6a8749e79e401605df80a6e","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_07","file":"images/panel_07.png","sourceFile":"a_detailed_comic_illustration_style_panel_scene_in.png","bytes":2952275,"dimensions":[1024,1536],"sha256":"1245b124ceccb2d622980df6b89602f2ebd7a90d45505f425a258a2b0805ebbe","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_08","file":"images/panel_08.png","sourceFile":"yvonne_upptäcker_den_riktiga_fordonskartan.png","bytes":3536312,"dimensions":[1024,1536],"sha256":"0b6154b9113c84c34df94a63a85a90f9fe33cd897d2f5822e83567772bf6e97a","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_09","file":"images/panel_09.png","sourceFile":"a_detailed_comic_infographic_poster_scene_in_a_war.png","bytes":2967245,"dimensions":[1024,1536],"sha256":"bd6e8505447d789170c09b7150aff7327d68bdbd98ba7128cbb9f4916ac33025","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_10","file":"images/panel_10.png","sourceFile":"rasmus_får_det_närmaste_uppdraget.png","bytes":3450060,"dimensions":[1024,1536],"sha256":"529f4212dc72f730658a837cbeff13aa81f2e40eb204fe20d2bf181e3783fbb3","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_11","file":"images/panel_11.png","sourceFile":"a_detailed_comic_book_style_illustration_poster_wi.png","bytes":3197116,"dimensions":[1024,1536],"sha256":"50b891e61b8fd7656e797e20ef5dc76c425e26c3256c4752794c770e0fc003a7","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"panel_12","file":"images/panel_12.png","sourceFile":"a_comic_style_illustrated_poster_infographic_pan.png","bytes":3249001,"dimensions":[1024,1536],"sha256":"b99bc02aed1a8bef319305e06f7e3c8a1b5625dfcfc97a114d4edf5fc210a489","status":"EXISTS_AND_EXPORTABLE"},
+    {"assetId":"cta_13","file":"images/cta_13.png","sourceFile":"a_vintage_comic_illustration_style_advert_poster_o.png","bytes":3443617,"dimensions":[1024,1536],"sha256":"41ab20e5c28bd581f09aeb86469bc812229850773621c8fe7518c1e85028f568","status":"EXISTS_AND_EXPORTABLE"}
+  ],
+  "assetCount": 14,
+  "attemptCount": 21,
+  "pdf": "carousel/den-som-redan-var-narmast-sv-SE.pdf",
+  "social": null,
+  "qa": ["qa/backfill-qa.txt"],
+  "sources": ["sources/NAVICHAIN-PRODUCT-TRUTH.md","sources/Navichain_Market_Truth_MASTER_v1.0.md","sources/NAVICHAIN-OFFICIAL-LOGO.png","sources/Korrekt QR kod till signup.png","sources/00-PROJECT-INSTRUCTIONS.md","sources/02-CREATIVE-VALIDATION-RULES.md","sources/03-PRODUCTION-BUILD-RELEASE.md","sources/04-LOCALIZATION-RULES.md","sources/05-ALL-TEMPLATES.yaml"]
+}

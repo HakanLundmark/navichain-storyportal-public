@@ -1,0 +1,91 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "innan-han-hann-tacka-nej",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "INNAN HAN HANN TACKA NEJ",
+  "subtitle": "Mia och de tre veckorna som blev några minuter",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionNote": "No explicit master version was assigned in the source chat.",
+  "status": "INCOMPLETE",
+  "originalStory": "ORIGINAL_STORY.md",
+  "narrativeMasterPath": "stories/innan-han-hann-tacka-nej/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "3628db637d7d27cbe7170c379dba0f43d53f786924d4815711ad5474e4f83d06",
+  "narrativeMasterGitBlobSha": "845ca0ccd2a52d5ac7a0ee678d88b2d3a7b65ec7",
+  "narrativeMasterNarrativeMaster": true,
+  "enGbStoryPath": "stories/innan-han-hann-tacka-nej/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "257f6a51e6b7ea289d3c3c70411425acbc7d025f9620d4324effb3169cc12069",
+  "enGbGitBlobSha": "3883e6c3f732a3e7f3aeec31debcc293d148d73a",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "githubPublishedCanonicalImageAssetCount": 0,
+      "currentRuntimeExactCanonicalCandidateCount": 13,
+      "sourceNotExportableCanonicalVisuals": ["panel_04"],
+      "historicalAlternateExactCandidateCount": 3,
+      "canonicalInventoryPath": "stories/innan-han-hann-tacka-nej/backfill-v2/inventory.json",
+      "pdf": "EXACT_ORIGINAL_HISTORICAL_OUTPUT_LOCAL_ONLY_NOT_RELEASE_ELIGIBLE",
+      "pdfNote": "Historical PDF contains a reconstructed panel_04 substitute and is preserved only as a historical derived output; it is not used as a canonical image source.",
+      "social": "ALREADY_EXISTS_ON_GITHUB",
+      "qa": "RETRO_BACKFILL_V2_QA_PRESENT",
+      "manifest": "RETRO_BACKFILL_V2_INVENTORY_PRESENT",
+      "releaseZip": "EXACT_ORIGINAL_HISTORICAL_OUTPUT_LOCAL_ONLY_NOT_RELEASE_ELIGIBLE"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "storyPath": "stories/innan-han-hann-tacka-nej/source/original-story-en-GB.md",
+      "imageAssetCount": 0,
+      "releaseEligible": false
+    }
+  },
+  "sources": [
+    {"sourceFilename":"NAVICHAIN-PRODUCT-TRUTH.md","status":"EXACT_ORIGINAL_RUNTIME_SOURCE","sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    {"sourceFilename":"Navichain_Market_Truth_MASTER_v1.0.md","status":"EXACT_ORIGINAL_RUNTIME_SOURCE","sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"},
+    {"sourceFilename":"NAVICHAIN-OFFICIAL-LOGO.png","status":"EXACT_ORIGINAL_RUNTIME_PROJECT_REFERENCE","sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db"},
+    {"sourceFilename":"Korrekt QR kod till signup.png","status":"EXACT_ORIGINAL_RUNTIME_PROJECT_REFERENCE","sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e"}
+  ],
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T20:04:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "inventoryPath": "stories/innan-han-hann-tacka-nej/backfill-v2/inventory.json",
+    "qaPath": "stories/innan-han-hann-tacka-nej/backfill-v2/qa.md",
+    "exactOriginalCanonicalVisualCandidates": 13,
+    "exactOriginalHistoricalAlternateVisualCandidates": 3,
+    "chatRecovered": 0,
+    "sourceNotExportableCanonicalVisuals": 1,
+    "derivedTranslations": 1,
+    "githubTextPublication": "PASS_READ_BACK_VERIFIED",
+    "githubPublishedCanonicalBinaryAssets": 0,
+    "githubPublishedHistoricalBinaryArtifacts": 0,
+    "githubCanonicalImagesDirectoryReadBack": "ABSENT_404",
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudStatus": "UNVERIFIED_NO_AVAILABLE_NEXTCLOUD_OR_WEBDAV_CONNECTOR",
+    "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED_BINARY_TRANSPORT_UNAVAILABLE",
+    "localPackage": {
+      "filename": "innan-han-hann-tacka-nej-retro-backfill-v2-20260824.zip",
+      "size": 99485247,
+      "sha256": "70ccf4726342ae0292f1809d92db7d3ec87bc4c70e404ea4886e910593bc8588",
+      "zipIntegrity": "PASS"
+    },
+    "publishRequest": {
+      "filename": "innan-han-hann-tacka-nej-sv-SE.publish.json",
+      "wrapper": "innan-han-hann-tacka-nej-sv-SE.publish.zip",
+      "schema": "navichain-local-publish-request-v1"
+    },
+    "releaseStatus": "INCOMPLETE"
+  },
+  "backfill": {
+    "source": "current-chat",
+    "inventoryRule": "no reconstruction or regeneration",
+    "localeComplete": false,
+    "reason": "Retro Backfill v2 verified exact current runtime bytes for 13 canonical sv-SE visual candidates and three historical alternate candidates. panel_04 remains SOURCE_NOT_EXPORTABLE because its original standalone binary is unavailable and the historical ZIP substitute is explicitly reconstructed. A faithful en-GB text translation is published and read back. Large local binaries could not be transported to GitHub through the connected tool surface, and the Chrome/Nextcloud hop is not invokable from this session.",
+    "backfilledAt": "2026-08-24T20:04:00+02:00"
+  }
+}

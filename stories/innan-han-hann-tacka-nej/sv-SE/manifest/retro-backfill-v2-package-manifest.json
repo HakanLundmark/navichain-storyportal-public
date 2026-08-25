@@ -1,0 +1,50 @@
+{
+  "schema": "navichain-retro-backfill-v2-package-manifest",
+  "storyId": "innan-han-hann-tacka-nej",
+  "createdAt": "2026-08-24T19:40:00+02:00",
+  "releasePackage": false,
+  "transportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "packages": {
+    "svSEPackage": {
+      "filename": "innan-han-hann-tacka-nej-sv-SE-retro-backfill-v2.zip",
+      "size": 20284703,
+      "sha256": "23aa2ef6af3db50d7bd0b2a61081b3053e274da4e491f88ae8438bd925f0619d"
+    },
+    "enGBPackage": {
+      "filename": "innan-han-hann-tacka-nej-en-GB-retro-backfill-v2.zip",
+      "size": 4596,
+      "sha256": "b4f89ce3cf45d10fdca4b6a03f756f4382aa8f3a581365fb1b6270749996acb9"
+    },
+    "svSEPublishRequest": {
+      "filename": "innan-han-hann-tacka-nej-sv-SE.publish.json",
+      "size": 4260,
+      "sha256": "57f914ab4c5cee6fd8edac0f5e9f39b135eae26b590af2c76f62b7449cf3e694"
+    },
+    "enGBPublishRequest": {
+      "filename": "innan-han-hann-tacka-nej-en-GB.publish.json",
+      "size": 729,
+      "sha256": "228cb92afa547a63f96bfa951f05ec866f0caa874a7d5e985a917b3eef4bd7f0"
+    },
+    "svSEPublishWrapper": {
+      "filename": "innan-han-hann-tacka-nej-sv-SE.publish.zip",
+      "size": 1350,
+      "sha256": "653007bda8d3992840bbbee40de4ecd84c7037046aa12e883f87792e2889e975"
+    },
+    "enGBPublishWrapper": {
+      "filename": "innan-han-hann-tacka-nej-en-GB.publish.zip",
+      "size": 600,
+      "sha256": "49c99ee4203ce6ebe9819da6f66d5dd7c0fe9ff83306b1249d5c3ca15862235d"
+    },
+    "fullArchive": {
+      "filename": "innan-han-hann-tacka-nej-retro-backfill-v2-full-archive.zip",
+      "size": 20298642,
+      "sha256": "ec828ff5008b0da3e4076875ee184580826dc6e0dc0b4c3d013c6591e5829ede"
+    }
+  },
+  "notes": [
+    "These are historical backfill transport packages, not release packages.",
+    "No image was rerendered, reconstructed, cropped, restyled, filled in, redrawn, or substituted.",
+    "The three exact visual binaries in the sv-SE package are older historical candidates and are targeted to history/ paths, not canonical images/ paths.",
+    "The en-GB package contains only a faithful text translation and no locale-native visual assets."
+  ]
+}

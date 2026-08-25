@@ -1,0 +1,32 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "KRON-ELTEKNIK-11-DEN-ANDRA-SOM-INGEN-BOKADE",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-11-and-canonical-title",
+  "title": "DEN ANDRA SOM INGEN BOKADE",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "exportedAt": "2026-08-23T08:51:00+02:00",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableCanonicalAssetCount": 4,
+      "requiredCanonicalAssetCount": 14,
+      "exportableAssets": ["cover_00", "panel_01", "panel_02", "panel_11"],
+      "missingCanonicalAssets": ["panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_12", "cta_13"],
+      "existsButNotExportable": []
+    }
+  },
+  "pdfs": {},
+  "social": {},
+  "qa": {
+    "preflightValidation": "sv-SE/qa/preflight-validation.md",
+    "exportInventory": "sv-SE/qa/export-qa.md",
+    "releaseStatusKnown": false
+  },
+  "publishPolicy": {
+    "completeRelease": false,
+    "incompleteStoryMayBeStored": true,
+    "incompleteStoryMustNotBeMarkedReleased": true
+  }
+}

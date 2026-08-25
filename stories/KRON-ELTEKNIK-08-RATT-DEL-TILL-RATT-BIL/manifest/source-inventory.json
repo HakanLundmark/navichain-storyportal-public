@@ -1,0 +1,26 @@
+{
+  "schema": "navichain-storyportal-source-inventory-v1",
+  "storyId": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL",
+  "title": "RÄTT DEL TILL RÄTT BIL",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "inventoryTimestamp": "2026-08-23T08:48:00+02:00",
+  "localeStatus": {"sv-SE": "INCOMPLETE"},
+  "canonicalReleaseAssets": {
+    "required": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "passLockedCount": 0,
+    "sourceCandidateAssetIds": ["panel_08","panel_09"],
+    "missingOrNotReleaseReady": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "renderedSourceFiles": [
+    {"sourceFile":"a_full_page_comic_storyboard_poster_in_a_clean_lig.png","locale":"sv-SE","role":"cover_attempt","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"multi-panel/storyboard output; not a standalone cover master","sizeBytes":3276482,"dimensions":{"width":1024,"height":1536},"sha256":"4869f27e1a080e2800ce9e78a30e9df105d58e30d40c181e86e1090b975b5cf8"},
+    {"sourceFile":"a_full_page_comic_storyboard_image_in_a_clean_lign.png","locale":"sv-SE","role":"cover_attempt","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"multi-panel/storyboard output; not a standalone cover master","sizeBytes":2893001,"dimensions":{"width":1536,"height":1024},"sha256":"56949bb3ecda21206a098b956cf4ea937a2f9e622868bb241167e6dfb4f6489d"},
+    {"sourceFile":"a_full_comic_storyboard_style_poster_in_a_retro_ti.png","locale":"sv-SE","role":"cover_attempt","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"multi-panel/storyboard output; not a standalone cover master","sizeBytes":3351969,"dimensions":{"width":1536,"height":1024},"sha256":"f5c8a8e7f770e7e52ac7fd6692b0a649448d052dad5795f842f5074bf2ebf95e"},
+    {"sourceFile":"a_full_page_comic_storyboard_poster_in_a_clean_ti.png","locale":"sv-SE","role":"cover_attempt","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"multi-panel/storyboard output; not a standalone cover master","sizeBytes":2959451,"dimensions":{"width":1156,"height":1361},"sha256":"3ec029cfaf9354820aed2e8739d8464b183d8f55ae79bed85a49dfa8b6036127"},
+    {"sourceFile":"a_full_color_comic_illustration_panel_page_vintag.png","locale":"sv-SE","role":"panel_08_candidate","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"standalone panel 08 candidate; not explicitly PASS/LOCKED and contains pre-correction procurement framing","sizeBytes":3680582,"dimensions":{"width":1024,"height":1536},"sha256":"e2e062655b112a71672b0e5e8e3c1af2b23217613d5daeecabc9a6e8ebfa1553"},
+    {"sourceFile":"a_full_page_comic_style_illustration_with_a_warm_v.png","locale":"sv-SE","role":"panel_08_candidate","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"standalone panel 08 candidate; not explicitly PASS/LOCKED and contains pre-correction procurement framing","sizeBytes":3163939,"dimensions":{"width":1024,"height":1536},"sha256":"1458e5ca637341844aec94318b33e24deac3f4dfa4e3a57036b9cbdb4eca53de"},
+    {"sourceFile":"a_comic_book_infographic_style_illustration_scene.png","locale":"sv-SE","role":"panel_08_candidate","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"standalone panel 08 candidate; not explicitly PASS/LOCKED and contains pre-correction procurement framing","sizeBytes":3590605,"dimensions":{"width":1024,"height":1536},"sha256":"77a774cfecc4f53d4f7bfdc8ea2258a98fd6eef16ee60b5f770da4d79fc543dc"},
+    {"sourceFile":"a_detailed_comic_illustration_scene_in_a_warehouse.png","locale":"sv-SE","role":"panel_09_candidate","availability":"EXISTS_AND_EXPORTABLE","approvalState":"REBUILD_REQUIRED","releaseMaster":false,"note":"standalone panel 09 candidate; not explicitly PASS/LOCKED and depicts an unverified service-booking view","sizeBytes":3349874,"dimensions":{"width":1024,"height":1536},"sha256":"ac6e5e6da62a0f4b88d070b4779d19857f3ee3bdaa08c910e664b6284fc12936"}
+  ],
+  "otherContent": {"ORIGINAL_STORY.md":"EXISTS_AND_EXPORTABLE","PDF":"MISSING","social":"MISSING","fullReleaseQA":"MISSING","releaseManifest":"MISSING","productTruthSource":"EXISTS_AND_EXPORTABLE","marketTruthSource":"EXISTS_AND_EXPORTABLE"}
+}

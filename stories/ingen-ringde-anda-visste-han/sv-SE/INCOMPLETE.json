@@ -1,0 +1,10 @@
+{
+  "storyId": "ingen-ringde-anda-visste-han",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "requiredOriginalAssets": 14,
+  "exportableOriginalAssets": 13,
+  "existsButNotExportable": ["panel_10"],
+  "releasePublished": false,
+  "reason": "The original panel_10 binary is not directly exportable from the active chat file environment. No PDF extraction or image regeneration was used as a substitute."
+}

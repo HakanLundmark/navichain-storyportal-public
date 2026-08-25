@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "FARGEN-SOM-VARNADE-I-TID",
+  "checkedAt": "2026-08-24T19:38:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {"locale":"sv-SE","path":"stories/FARGEN-SOM-VARNADE-I-TID/ORIGINAL_STORY.md","sourceClass":"EXACT_ORIGINAL","size":10926,"sha256":"f81a029cf0d4e2b5318bf463893164d7f92a7a38572b9ea8970c13dc43422285","githubReadBackVerified":true},
+  "englishStory": {"locale":"en-GB","path":"stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.md","metadataPath":"stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.meta.json","sourceLocale":"sv-SE","sourceClass":"DERIVED_TRANSLATION","translationType":"faithful","narrativeMaster":false,"size":9268,"sha256":"775e0777c4bd8c457a8bdd6aa4047cbcbf2426b1581d633001b213260ff67df1","sourceStorySha256":"f81a029cf0d4e2b5318bf463893164d7f92a7a38572b9ea8970c13dc43422285","githubReadBackVerified":true,"metadataReadBackVerified":true},
+  "canonicalVisuals": {"required":14,"exactOriginalAvailable":11,"exactOriginalIds":["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_08","panel_09","panel_10","panel_11","panel_12"],"sourceNotExportable":["panel_06","panel_07","cta_13"],"githubPublishedBinaryAssets":0,"inventoryPath":"stories/FARGEN-SOM-VARNADE-I-TID/retro-backfill/v2/canonical-assets.json"},
+  "historicalRenders": {"sourceClass":"EXACT_ORIGINAL","count":25,"qaStatus":"UNKNOWN","githubPublishedBinaryAssets":0,"inventoryPath":"stories/FARGEN-SOM-VARNADE-I-TID/retro-backfill/v2/historical-renders.json"},
+  "derivedReleaseAssets": {"pdf":"NOT_CREATED","linkedinSocial":"SOURCE_NOT_EXPORTABLE","socialImages":"NOT_CREATED","releaseManifest":"NOT_CREATED","historicalReleaseZip":"NOT_CREATED"},
+  "packages": {"archive":{"filename":"fargen-som-varnade-i-tid-retro-backfill-v2-20260824-1938.zip","size":121241659,"sha256":"455913ed4213c92ff8648a3fbbc1199d3dd06b0e0893bff9e559218474b79119"},"svSE":{"filename":"fargen-som-varnade-i-tid-sv-SE-retro-v2-publish.zip","size":109950943,"sha256":"c5a7324fa7873a44384025eb242e38eb8cb07022e6497dd0393b090d0b3e7431"},"enGB":{"filename":"fargen-som-varnade-i-tid-en-GB-retro-v2-publish.zip","size":4411,"sha256":"4f5cb6c6277e17b5162005d8867d80d76e42a76bdb6fe2c465975aa3c9730b72"}},
+  "transport": {"chromeControlAvailable":false,"nextcloudConnectorAvailable":false,"automaticChainInvoked":false,"nextcloudArchiveStatus":"NOT_INVOKED","binaryGitHubPublished":0,"status":"GITHUB_PUBLISH_FAILED","reason":"The assistant runtime cannot invoke the user-side Chrome download bridge or a connected Nextcloud/router/publisher action. Exact binaries are packaged but no binary is counted as GitHub-published without read-back."},
+  "metadata": {"storyJsonUpdatedAndReadBack":false,"storiesIndexUpdated":false,"storiesIndexReadBackVerified":false,"statusJsonReadBack":false}
+}

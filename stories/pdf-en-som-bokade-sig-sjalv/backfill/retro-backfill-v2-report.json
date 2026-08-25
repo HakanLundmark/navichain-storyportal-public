@@ -1,0 +1,106 @@
+{
+  "schema": "navichain-retro-backfill-v2-report",
+  "storyId": "pdf-en-som-bokade-sig-sjalv",
+  "generatedAt": "2026-08-24T19:10:00+02:00",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 10691,
+    "sha256": "9c40c5305018d3f294e3c70e63e4a3037091ffb0cc3d2acecf86fb33aa86932d",
+    "githubPath": "stories/pdf-en-som-bokade-sig-sjalv/ORIGINAL_STORY.md",
+    "githubReadBack": "PASS",
+    "narrativeMaster": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "size": 10822,
+    "sha256": "54ad02c98ae631ff7085bd3a2e7469b87fcb8856c4f29792b4392807c22b684e",
+    "sourceStorySha256": "9c40c5305018d3f294e3c70e63e4a3037091ffb0cc3d2acecf86fb33aa86932d",
+    "githubPath": "stories/pdf-en-som-bokade-sig-sjalv/source/original-story-en-GB.md",
+    "githubReadBack": "PASS",
+    "narrativeMaster": false,
+    "provenancePath": "stories/pdf-en-som-bokade-sig-sjalv/source/original-story-en-GB.meta.json"
+  },
+  "historicalSourceBrief": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 10509,
+    "sha256": "c00d68fe0c75f15fb7a6c714438b4b329914140407cd631996a9ccfef0f3fcd2",
+    "gitBlobSha": "0bc8a37d59edd80a515ac93fba05aa5128265519",
+    "githubPath": "stories/pdf-en-som-bokade-sig-sjalv/source/history/Inklistrad-markdown.md",
+    "githubReadBack": "PASS"
+  },
+  "visuals": {
+    "requiredCanonicalSlots": 14,
+    "currentRuntimeExactOriginalCanonicalAssetCount": 3,
+    "currentRuntimeExactOriginalCanonicalAssetIds": ["panel_01","panel_02","panel_03"],
+    "sourceNotExportableCanonicalAssetIds": ["cover_00","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10"],
+    "notCreatedCanonicalAssetIds": ["panel_11","panel_12","cta_13"],
+    "githubPublishedBinaryAssets": 0,
+    "githubImagesDirectoryReadBack": "404_NOT_FOUND",
+    "qa": {
+      "cover_00": "UNKNOWN",
+      "panel_01": "REBUILD_REQUIRED",
+      "panel_02": "REBUILD_REQUIRED",
+      "panel_03": "REBUILD_REQUIRED",
+      "panel_04": "UNKNOWN",
+      "panel_05": "UNKNOWN",
+      "panel_06": "UNKNOWN",
+      "panel_07": "UNKNOWN",
+      "panel_08": "UNKNOWN",
+      "panel_09": "UNKNOWN",
+      "panel_10": "REBUILD_REQUIRED",
+      "panel_11": "NOT_CREATED",
+      "panel_12": "NOT_CREATED",
+      "cta_13": "NOT_CREATED"
+    },
+    "additionalDirectExactHistoricalRenders": 8,
+    "chatRecovered": 0
+  },
+  "sourceAssets": [
+    {"filename":"NAVICHAIN-OFFICIAL-LOGO.png","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","sourceClass":"EXACT_ORIGINAL","githubPublished":false},
+    {"filename":"Korrekt QR kod till signup.png","size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","sourceClass":"EXACT_ORIGINAL","githubPublished":false},
+    {"filename":"VISUAL-REFERENCE-01-CTA.png","sourceClass":"EXACT_ORIGINAL","githubPublished":false},
+    {"filename":"VISUAL-REFERENCE-02-PANELS.png","sourceClass":"EXACT_ORIGINAL","githubPublished":false},
+    {"filename":"VISUAL-REFERENCE-03-COVER.png","sourceClass":"EXACT_ORIGINAL","githubPublished":false}
+  ],
+  "derivedRelease": {
+    "pdfCarousel": "NOT_CREATED",
+    "socialLinkedIn": "NOT_CREATED",
+    "releaseZip": "NOT_CREATED_AS_RELEASE"
+  },
+  "automaticTransport": {
+    "requestedChain": "ChatGPT → Chrome download → local capture → Nextcloud archive → hardened router → publisher → GitHub",
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "detail": "The current chat runtime exposes no browser-download, local-capture, Nextcloud or publisher action. The connected GitHub tool does not accept a local binary file parameter, so the exact multi-megabyte PNGs cannot be transported through the required automatic chain from this runtime."
+  },
+  "localBackfillArtifacts": {
+    "runtimeBinaryPackage": {
+      "filename": "pdf-en-som-bokade-sig-sjalv-retro-backfill-v2-runtime-binaries.zip",
+      "size": 47604928,
+      "sha256": "913424ded648ed39119281fb262216f27b6417a1f40d799c9cfb9debc29417eb"
+    },
+    "publishRequest": {
+      "filename": "pdf-en-som-bokade-sig-sjalv-sv-SE-retro-v2-runtime.publish.json",
+      "size": 6085,
+      "sha256": "10b55e2a451b131e57f7aba071212a267daed948fbab70da8342e95cd44268e4"
+    },
+    "publishRequestWrapper": {
+      "filename": "pdf-en-som-bokade-sig-sjalv-sv-SE-retro-v2-runtime.publish.zip",
+      "size": 1816,
+      "sha256": "1253362e4bd740678d4a8e0dd38c940f2d4ca800fc4dfcb9fb85b3ae7724e1a7"
+    }
+  },
+  "metadata": {
+    "storyJsonReadBack": "PASS_CURRENT_RUNTIME_VERIFICATION_RECORDED",
+    "runtimeVerificationPath": "stories/pdf-en-som-bokade-sig-sjalv/backfill/retro-backfill-v2-runtime-verification.json",
+    "runtimeVerificationReadBack": "PASS",
+    "indexReadBack": "PASS_CURRENT_RUNTIME_COUNT_3",
+    "indexCurrentRuntimeExactOriginalCanonicalAssetCount": 3,
+    "indexCommitSha": "489f54eb6b7d355d632bf8b851cb6d9bde3c250c",
+    "indexReadBackVerified": true
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

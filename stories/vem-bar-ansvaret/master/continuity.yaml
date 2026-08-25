@@ -1,0 +1,20 @@
+continuityContract:
+  storyId: vem-bar-ansvaret
+  protagonist: Mikael Fors
+  supportingCharacters:
+  - Lena Bark
+  - Robban Ek
+  - Anette Sund
+  company: Fors Maskinuthyrning AB
+  vehicles:
+  - modern European COE flatbed truck
+  allowedTopics:
+  - ADR
+  - driver certificates
+  - dispatch planning
+  - documentation
+  - roadside inspection
+  forbiddenElements:
+  - foreign story conflict
+  - US long-nose truck
+  - IT support character

@@ -1,0 +1,65 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "RATT-NYCKEL-INTE-ALLA-NYCKLAR",
+  "title": "RÄTT NYCKEL, INTE ALLA NYCKLAR",
+  "subtitle": "Oskar och trafikledaren som fick exakt det hon behövde — och inget annat",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "originalStory": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/ORIGINAL_STORY.md",
+  "sourceTexts": {
+    "narrativeMaster": {
+      "locale": "sv-SE",
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "path": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/source/original-story-sv-SE.md",
+      "sha256": "cffc930ff4034f7d7c1dba6052f120f3c823ddbcf72cf28db32bb0c5ce665161",
+      "githubReadBack": "PASS"
+    },
+    "englishStory": {
+      "locale": "en-GB",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "narrativeMaster": false,
+      "path": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/source/original-story-en-GB.md",
+      "sha256": "4549fdb6e2844da64cadcb4e9570c7752a6c28e995dcdf3c953981415a9c31c6",
+      "sourceStorySha256": "cffc930ff4034f7d7c1dba6052f120f3c823ddbcf72cf28db32bb0c5ce665161",
+      "githubReadBack": "PASS"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "path": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/sv-SE/",
+      "requiredAssets": 14,
+      "exactOriginalHistoricalCanonicalAssets": 12,
+      "chatRecoverableHistoricalCanonicalAssets": 0,
+      "sourceNotExportable": ["panel_02", "panel_07"],
+      "historicalAlternativeOrRejectedExactBinaries": 12,
+      "githubPublishedBinaryAssets": 0,
+      "githubReadBackVerifiedBinaryAssets": 0,
+      "qaFailures": ["panel_12: REBUILD_REQUIRED (historical continuity/story-drift failure retained)", "cta_13: REBUILD_REQUIRED (historical brand-critical logo failure retained)"]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE_TEXT_ONLY",
+      "visualLocaleBuildCreated": false,
+      "sourceText": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/source/original-story-en-GB.md"
+    }
+  },
+  "pdf": "SOURCE_NOT_EXPORTABLE_HISTORICAL_BLOCKED_DRAFT",
+  "releasePublished": false,
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "inventory": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/metadata/retro-backfill-v2-2026-08-24-r2.json",
+    "statusFile": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/BACKFILL_STATUS.json",
+    "fullArchiveCreated": true,
+    "binaryPublishPackageCreated": true,
+    "publishRequestCreated": true,
+    "nextcloudArchiveVerified": false,
+    "hardenedRouterVerified": false,
+    "publisherVerified": false,
+    "binaryGitHubPublishStatus": "NOT_VERIFIED"
+  },
+  "previousChatBackfillInventory": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/metadata/chat-backfill-inventory-2026-08-23.json"
+}

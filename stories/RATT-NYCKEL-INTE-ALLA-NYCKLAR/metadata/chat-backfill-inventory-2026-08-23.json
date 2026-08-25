@@ -1,0 +1,38 @@
+{
+  "schema": "navichain-chat-backfill-inventory-v1",
+  "storyId": "RATT-NYCKEL-INTE-ALLA-NYCKLAR",
+  "title": "RÄTT NYCKEL, INTE ALLA NYCKLAR",
+  "masterVersion": "1.0",
+  "masterLocale": "sv-SE",
+  "localeStatus": "INCOMPLETE",
+  "sourceScope": "active ChatGPT conversation and directly accessible runtime/package only",
+  "canonicalAssets": {
+    "cover_00": {"status":"EXISTS_AND_EXPORTABLE","sha256":"8297de6ead57cdb006169347c3b6c1849e159fa00e414d40c8e8168a881d39c7","bytes":3025181},
+    "panel_01": {"status":"EXISTS_AND_EXPORTABLE","sha256":"44db8caa7f3b774b52d2b0725b0186d0891a54cdb9d32a8577932857fa4ca9e1","bytes":3141436},
+    "panel_02": {"status":"EXISTS_BUT_NOT_EXPORTABLE","reason":"Produced earlier in this chat, but the canonical/original binary is not directly accessible now. Reconstruction or regeneration is forbidden for backfill."},
+    "panel_03": {"status":"EXISTS_AND_EXPORTABLE","sha256":"470b838d4c0ff8d50d18c4664425dd954d9314339291acb7c94252d8d0069630","bytes":3079537},
+    "panel_04": {"status":"EXISTS_AND_EXPORTABLE","sha256":"a1af9b71e71e4e5ccb7064d1beb68b62e36177a7780c625874a1694040305f7c","bytes":3013131},
+    "panel_05": {"status":"EXISTS_AND_EXPORTABLE","sha256":"f846697c5bd90459252ddea3bd1a72e7c74586ae105f5e42bf1ffeebe348ad5f","bytes":2991146},
+    "panel_06": {"status":"EXISTS_AND_EXPORTABLE","sha256":"48dbb2cceaadb524718a35bf92d1f6f442ef99d4e7374d57bb8b0ff6e9749f55","bytes":2978204},
+    "panel_07": {"status":"EXISTS_BUT_NOT_EXPORTABLE","reason":"Produced earlier in this chat, but the canonical/original binary is not directly accessible now. Reconstruction or regeneration is forbidden for backfill."},
+    "panel_08": {"status":"EXISTS_AND_EXPORTABLE","sha256":"68df614bed022b5572db31b62b89e8ebbb6e157ddb4d4ef07aa02faf4f9defac","bytes":2955570},
+    "panel_09": {"status":"EXISTS_AND_EXPORTABLE","sha256":"ac68bc47b67e9785e9b3a124dbe48b415a347686dd8cee7d2bd4888213e32224","bytes":2921942},
+    "panel_10": {"status":"EXISTS_AND_EXPORTABLE","sha256":"743db7b1341e5ce08be30ad487c0f9e362810269694ad113e8ac2bed4349227c","bytes":2977665},
+    "panel_11": {"status":"EXISTS_AND_EXPORTABLE","sha256":"369438c041250a04e95599184d7a2c5bcdb8e28cd5919e2ab5b197ebfb18f23f","bytes":3128355},
+    "panel_12": {"status":"EXISTS_AND_EXPORTABLE","sha256":"f9422b82ea70326e6b48847480c2b84be168465386f3cf1383499488b41695dd","bytes":3536563,"qa":"FAIL_CONTINUITY"},
+    "cta_13": {"status":"EXISTS_AND_EXPORTABLE","sha256":"9112cce4109c44e220c1de1da1b9f1d1207ca5271ee38179806771fc3bee686e","bytes":2917281,"qa":"FAIL_BRAND"}
+  },
+  "counts": {"required":14,"existsAndExportable":12,"existsButNotExportable":2,"missing":0},
+  "otherContent": {
+    "ORIGINAL_STORY":"EXISTS_AND_EXPORTABLE",
+    "PDF":"MISSING_NOT_BUILT",
+    "social":"EXISTS_AND_EXPORTABLE",
+    "QA":"EXISTS_AND_EXPORTABLE",
+    "manifest":"EXISTS_AND_EXPORTABLE",
+    "sources":"EXISTS_AND_EXPORTABLE_LOCALLY"
+  },
+  "binaryGitHubPublish": {
+    "status":"GITHUB_PUBLISH_FAILED",
+    "reason":"The connected GitHub write interface in this session exposes UTF-8 contents writes and blob text/base64 strings but no local-file upload parameter for arbitrary local PNGs. Exact multi-megabyte binaries were not reconstructed, substituted, or regenerated."
+  }
+}

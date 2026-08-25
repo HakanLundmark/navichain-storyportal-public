@@ -1,0 +1,40 @@
+{
+  "story": "KRETSLOPPET SOM GICK I CIRKLAR",
+  "locale": "sv-SE",
+  "asset_count": 14,
+  "order": [
+    "cover_00.png",
+    "panel_01.png",
+    "panel_02.png",
+    "panel_03.png",
+    "panel_04.png",
+    "panel_05.png",
+    "panel_06.png",
+    "panel_07.png",
+    "panel_08.png",
+    "panel_09.png",
+    "panel_10.png",
+    "panel_11.png",
+    "panel_12.png",
+    "cta_13.png"
+  ],
+  "logo_reference": "66B97C7C-A5F8-4CA2-B239-6A2084D8A3F0.png",
+  "qr_payload": "https://navichain.se/signup",
+  "note": "Asset package only. Images are named in canonical story order. GitHub binary sync not completed by this backfill.",
+  "assets": {
+    "cover_00.png": {"source":"cover_00_final.png","size_px":[1024,1536],"sha256":"9f4f7deee07c219c1d65b34fc6d55e4215df349299ba697e469a364d729e15e5"},
+    "panel_01.png": {"source":"41_hämtställen_en_karta_ingen_överblick.png","size_px":[1024,1536],"sha256":"dc8a1dd7bd077709a3fdca930b4c214050e9298cde295b8bb7fc914f3de201c0"},
+    "panel_02.png": {"source":"pontus_vid_lastkajen.png","size_px":[1024,1536],"sha256":"02c641d10da03a540a9bfdb224c81a0bac8d59e79542ca9a4bfeaf8d0a1eb5e9"},
+    "panel_03.png": {"source":"överfullt_igen_vid_ringcentrum.png","size_px":[1024,1536],"sha256":"4995c1d539920f01b7dd7159ce93116eb85ff2674969a5daed266d1c6a00f573"},
+    "panel_04.png": {"source":"trött_samtal_på_solvik_retur.png","size_px":[1024,1536],"sha256":"8b488f08c31bfb93a67fad624199c278cc3b33405818d919599c3c36c79e2149"},
+    "panel_05.png": {"source":"kvällsskiftet_adresser_i_ordning.png","size_px":[1024,1536],"sha256":"0c49c8c4d5c0c1114d02f1afc225481fe6023250c501d94c6f9941e0bd2caa25"},
+    "panel_06.png": {"source":"övertid_vid_ringcentrum.png","size_px":[1024,1536],"sha256":"7afbef2585401790d4ce29e60fd25b904e573e82cd9da607629a5b4b3b473a3b"},
+    "panel_07.png": {"source":"en_rutt_ett_stopp_full_koll.png","size_px":[1024,1536],"sha256":"e6a442fe8b7eae16e6a2db7b2b5ddddeb790a2e2308d774d081bd87489e508ef"},
+    "panel_08.png": {"source":"samordnad_runda_vid_ringcentrum.png","size_px":[1024,1536],"sha256":"a33c1fe545048517fc554eb0d32f4a21b9b55b6f8940729993aa519831bbce36"},
+    "panel_09.png": {"source":"ett_stopp_tre_kunder_klara.png","size_px":[1024,1536],"sha256":"6fae56b2d44649283af5c82b5aa1f986b509a1806cc01fd880ed704363fb15f3"},
+    "panel_10.png": {"source":"a_comic_book_ligne_claire_style_illustrated_pane.png","size_px":[1024,1536],"sha256":"fd8987072e5023a3a351c82e034648b1d2b905897b1f33b62bbe19f238aba11e"},
+    "panel_11.png": {"source":"a_comic_book_graphic_novel_panel_style_illustrat.png","size_px":[1024,1536],"sha256":"5578ab0312dfe362ee9863d6a1ed8afb043fbe908df8449faf34ac9dcec9265d"},
+    "panel_12.png": {"source":"morgondagens_tur_är_klar.png","size_px":[1024,1536],"sha256":"3f710317be1b4f150ec4824dc19718f0c9cf3e5f4f435d6fa32c39ae6f1357b7"},
+    "cta_13.png": {"source":"cta_13_navichain_correct_logo_qr.png","size_px":[1024,1536],"sha256":"a7f906c9e52de19f4ef06c29119392a0e4aa4bea4a9b2c6b0a31578247f895f7"}
+  }
+}

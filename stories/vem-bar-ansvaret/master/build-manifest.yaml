@@ -1,0 +1,5 @@
+buildManifest:
+  storyId: vem-bar-ansvaret
+  masterVersion: '1.0'
+  locales:
+    sv-SE: composed

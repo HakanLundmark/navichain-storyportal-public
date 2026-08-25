@@ -1,0 +1,15 @@
+{
+  "storyId": "leveransen-som-fick-en-andra-chans",
+  "title": "LEVERANSEN SOM FICK EN ANDRA CHANS",
+  "locale": "en-GB",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionAuthority": "not explicitly set in chat",
+  "backfillDate": "2026-08-23",
+  "source": "current ChatGPT conversation",
+  "canonicalAssetCount": 0,
+  "status": "INCOMPLETE",
+  "existsButNotExportable": ["panel_05_attempt_01_REBUILD_REQUIRED", "panel_05_attempt_02_REBUILD_REQUIRED"],
+  "missingCanonicalAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "githubPublishedBinaryAssets": 0
+}

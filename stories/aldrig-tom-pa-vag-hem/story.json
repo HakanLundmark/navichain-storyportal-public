@@ -1,0 +1,61 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "aldrig-tom-pa-vag-hem",
+  "title": "ALDRIG TOM PÅ VÄG HEM",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0",
+  "canonicalStoryPath": "stories/aldrig-tom-pa-vag-hem/ORIGINAL_STORY.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "dbb04043255c1149eede193b8dfe5afc452ee0636c0e3173fe722fb84c845a09",
+  "enGbStoryPath": "stories/aldrig-tom-pa-vag-hem/source/original-story-en-GB.md",
+  "enGbSourceLocale": "sv-SE",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "73a569fe97c31baafb2166e5ac37e4f2562411d7efc16262598f9e8e5364e137",
+  "protagonist": {
+    "name": "Sara Lund",
+    "role": "Trafikledare",
+    "company": "Björklunda Åkeri AB"
+  },
+  "supportingCharacters": [
+    {
+      "name": "Robban Ek",
+      "role": "Chaufför",
+      "company": "Björklunda Åkeri AB"
+    }
+  ],
+  "primaryCapability": "Runs — Hitta returlaster",
+  "productTruthEnglishTerm": "Runs — Find return loads",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "exactOriginalCanonicalAssets": 12,
+      "sourceNotExportable": [
+        "panel_03",
+        "cta_13"
+      ],
+      "historicalPdf": "EXACT_ORIGINAL_NOT_RELEASE_AUTHORITY",
+      "social": "EXACT_ORIGINAL"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "visualAssets": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "historicalRejectedExactOriginalRenderCount": 3,
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:05:00+02:00",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED_BINARY_TRANSPORT_UNAVAILABLE",
+  "inventoryPath": "stories/aldrig-tom-pa-vag-hem/manifest/retro-backfill-v2-inventory.json",
+  "qaPath": "stories/aldrig-tom-pa-vag-hem/qa/retro-backfill-v2-qa.md",
+  "noSyntheticReplacementUsed": true,
+  "githubPublishedHistoricalBinaryArtifacts": 0,
+  "automaticTransportReason": "Current assistant runtime exposes downloadable sandbox files and GitHub text/Git-object actions, but no Chrome download control and no connected Nextcloud/local-capture/hardened-router/publisher write surface. No manual --once/curl/Python publisher fallback was run."
+}

@@ -1,0 +1,77 @@
+{
+  "schema": "navichain-retro-backfill-v2-readback-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "checkedAt": "2026-08-24T19:03:00+02:00",
+  "result": "PARTIAL_BACKFILL",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "verified": {
+    "narrativeMaster": {
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/ORIGINAL_STORY.md",
+      "size": 9872,
+      "sha256": "797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310",
+      "gitBlobSha": "96a4b992dcd3da176f53b68c9b787709ac3bd9d1",
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "readBack": "PASS"
+    },
+    "englishStory": {
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/source/original-story-en-GB.md",
+      "size": 10160,
+      "sha256": "8fb7f550a2e54d0d781b449c12870e0b4b368111178f3600d28b82d405450880",
+      "gitBlobSha": "42dcb2080b19983ab8d08b51e96cfe0c3c609f0c",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "narrativeMaster": false,
+      "sourceStorySha256": "797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310",
+      "readBack": "PASS"
+    },
+    "retroStatus": {
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/metadata/retro-backfill-v2-status-2026-08-24T1903+02.json",
+      "gitBlobSha": "726bda536be3cddd197f9e001bae440b44e2bbec",
+      "readBack": "PASS"
+    },
+    "storyJson": {
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/story.json",
+      "gitBlobSha": "a5e55c2557c22d2759a2891f4b5ffe55ac052fd7",
+      "status": "INCOMPLETE",
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "githubPublishedBinaryAssets": 0,
+      "readBack": "PASS"
+    },
+    "storiesIndex": {
+      "path": "stories/index.json",
+      "indexPatchCommit": "0158c46cc1f9beaf35b75fe7ed0b546e9bec4f2b",
+      "indexNormalizeCommit": "e5beb492ecf0207c0752de628179ce3461de12c2",
+      "gitBlobShaAtVerifiedReadBack": "170618d05ed99b7ae99f22f963cd64551e88d74f",
+      "targetStatus": "INCOMPLETE",
+      "locales": {"sv-SE":"INCOMPLETE","en-GB":"INCOMPLETE"},
+      "sourceNarrativesPublished": 2,
+      "retroBackfillV2Status": "PARTIAL_BACKFILL",
+      "exactHistoricalRenderFilesAccessible": 37,
+      "latestCanonicalOriginalBytesAccessible": 0,
+      "latestCanonicalSourceNotExportable": 14,
+      "githubPublishedBinaryAssets": 0,
+      "readBack": "PASS"
+    },
+    "officialLogo": {
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sources/NAVICHAIN-OFFICIAL-LOGO.png",
+      "size": 15270,
+      "sha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+      "gitBlobSha": "813a548d318bad9c41ad92ef49dd012bbe2cc5c3",
+      "readBack": "PASS"
+    }
+  },
+  "binaryVerification": {
+    "canonicalImageDirectory": "NOT_FOUND",
+    "canonicalImagesPublished": 0,
+    "latestCanonicalSourceNotExportable": 14,
+    "historicalPdf": "SOURCE_NOT_EXPORTABLE",
+    "historicalReleaseZip": "SOURCE_NOT_EXPORTABLE",
+    "automaticLocalPublisherChain": "UNAVAILABLE_UNVERIFIED",
+    "manualFallbackUsed": false,
+    "status": "GITHUB_PUBLISH_FAILED"
+  },
+  "releaseStatusPreserved": "INCOMPLETE"
+}

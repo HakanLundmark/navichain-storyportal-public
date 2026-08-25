@@ -1,0 +1,125 @@
+{
+  "story": "RESAN TILLBAKA SOM ALDRIG BEHÖVDE SKE",
+  "locale": "sv-SE",
+  "asset_count": 14,
+  "canonical_order": [
+    "cover_00.png",
+    "panel_01.png",
+    "panel_02.png",
+    "panel_03.png",
+    "panel_04.png",
+    "panel_05.png",
+    "panel_06.png",
+    "panel_07.png",
+    "panel_08.png",
+    "panel_09.png",
+    "panel_10.png",
+    "panel_11.png",
+    "panel_12.png",
+    "cta_13.png"
+  ],
+  "assets": [
+    {
+      "asset": "cover_00.png",
+      "width": 1055,
+      "height": 1491,
+      "ratio": 0.70758,
+      "sha256": "1109c20c8bba3918fd313f2b61653dc6431296a335c5dadba754393bd21f1fce"
+    },
+    {
+      "asset": "cta_13.png",
+      "width": 1024,
+      "height": 1536,
+      "ratio": 0.66667,
+      "sha256": "843d092aa8019e0fe459460bb0408f8b9107e4f6f183343768bc1b26ebdab1fe"
+    },
+    {
+      "asset": "panel_01.png",
+      "width": 1071,
+      "height": 1469,
+      "ratio": 0.72907,
+      "sha256": "060a4964d6d6374c908ab301831779dd5ba28333aa55c7230d5d55bd26e5169e"
+    },
+    {
+      "asset": "panel_02.png",
+      "width": 1070,
+      "height": 1470,
+      "ratio": 0.72789,
+      "sha256": "29661931b94ef7065e0734f119982c49e9e9370ea397a11674472e634e97baa6"
+    },
+    {
+      "asset": "panel_03.png",
+      "width": 1069,
+      "height": 1472,
+      "ratio": 0.72622,
+      "sha256": "a2517346d4f0b61d9840df402ba0ea2bef4d0385cbe1a8dd739714ac36baffde"
+    },
+    {
+      "asset": "panel_04.png",
+      "width": 1024,
+      "height": 1536,
+      "ratio": 0.66667,
+      "sha256": "90c3c49394143e75fcdfe20cad74d6a8bbcbcee76f0d3075e9f24406f58f6d8b"
+    },
+    {
+      "asset": "panel_05.png",
+      "width": 1074,
+      "height": 1464,
+      "ratio": 0.73361,
+      "sha256": "44cb138fa93aa8902bf9c60fca4f95bee55b0bae15e9866f43127da84ea134b2"
+    },
+    {
+      "asset": "panel_06.png",
+      "width": 1023,
+      "height": 1537,
+      "ratio": 0.66558,
+      "sha256": "484fd7fb6aaf4ffbd24dfa0e6e42263f23510fe7f01b6f631631aaff28e1934e"
+    },
+    {
+      "asset": "panel_07.png",
+      "width": 1045,
+      "height": 1505,
+      "ratio": 0.69435,
+      "sha256": "782cb612d27c67a28dc1cbd0c8eeb43181eee18d7f4edb0e9316127c2bba8a77"
+    },
+    {
+      "asset": "panel_08.png",
+      "width": 1024,
+      "height": 1536,
+      "ratio": 0.66667,
+      "sha256": "b9777c304343aaffaf6ca8af7e90fc4020edaabbc38db0fdc5eceb82ae808f96"
+    },
+    {
+      "asset": "panel_09.png",
+      "width": 1024,
+      "height": 1536,
+      "ratio": 0.66667,
+      "sha256": "0d69275b9535e9efb605c955761956d7cc40ea639fef2351c9d9ce6c45856198"
+    },
+    {
+      "asset": "panel_10.png",
+      "width": 1024,
+      "height": 1536,
+      "ratio": 0.66667,
+      "sha256": "9255a61f926253d7ccc1fc8a22d5c019279c5a21fcde8f8c0f48bb13beaf325f"
+    },
+    {
+      "asset": "panel_11.png",
+      "width": 1024,
+      "height": 1536,
+      "ratio": 0.66667,
+      "sha256": "20f01adda09404dabde371f991051dba5f6a309726dd654d90d0c66122ed50f2"
+    },
+    {
+      "asset": "panel_12.png",
+      "width": 1024,
+      "height": 1536,
+      "ratio": 0.66667,
+      "sha256": "5832fc0cc9850d3c31a072e93cbc4735bbcd3a2fc532faaee60b42201de5eb97"
+    }
+  ],
+  "brand_source": "sources/NAVICHAIN-OFFICIAL-LOGO.png",
+  "qr_reference": "sources/Korrekt QR kod till signup.png",
+  "cta_url": "https://navichain.se/signup",
+  "package_state": "production_snapshot_not_release_locked"
+}

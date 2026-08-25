@@ -1,0 +1,30 @@
+{
+  "storyId": "NC-INGET-ATT-DOLJA",
+  "slug": "inget-att-dolja",
+  "title": "INGET ATT DÖLJA — Åsa & kundportalen",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {"status": "INCOMPLETE", "exportableImages": 13, "requiredImages": 14},
+    "en-GB": {"status": "INCOMPLETE", "exportableImages": 3, "requiredImages": 14}
+  },
+  "originalStory": "stories/NC-INGET-ATT-DOLJA/ORIGINAL_STORY.md",
+  "primaryCapability": "Customer Portal / external visibility",
+  "protagonist": "Åsa Berndtsson",
+  "supportingCharacter": "Mats Öhman",
+  "currentChatBackfill": {
+    "date": "2026-08-23",
+    "sourcePolicy": "current-chat-only-no-reconstruction",
+    "status": "INCOMPLETE",
+    "newFilesPublished": [
+      "stories/NC-INGET-ATT-DOLJA/qa/current-chat-source-note.txt"
+    ],
+    "pdf": {
+      "locale": "sv-SE",
+      "evidence": "14-page carousel and QR verification are stated in the directly accessible current-chat source note",
+      "binaryStatus": "EXISTS_BUT_NOT_EXPORTABLE"
+    },
+    "releaseDecision": "No locale marked COMPLETE or SYNCED because the current runtime does not expose all 14 original image binaries and the PDF binary for export."
+  }
+}

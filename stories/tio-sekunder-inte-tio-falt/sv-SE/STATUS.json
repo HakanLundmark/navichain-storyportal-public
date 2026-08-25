@@ -1,0 +1,15 @@
+{
+  "storyId": "tio-sekunder-inte-tio-falt",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "verifiedExportableAssetCount": 9,
+  "requiredAssetCount": 14,
+  "missing": [],
+  "existsButNotExportable": ["panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "pdf": "WORKING_ONLY_NOT_RELEASE",
+  "social": "MISSING",
+  "qa": "EXISTS_AND_EXPORTABLE",
+  "manifest": "EXISTS_AND_EXPORTABLE",
+  "sources": "EXISTS_AND_EXPORTABLE"
+}

@@ -1,0 +1,17 @@
+{
+  "storyId": "KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "../ORIGINAL_STORY.md",
+  "sourceStorySize": 10128,
+  "sourceStorySha256": "0a4d46bf96a96fc6aff4e4f0d42f850b3481741cdda609af400b19fb5cec64e6",
+  "translationPath": "original-story-en-GB.md",
+  "translationSize": 10384,
+  "translationSha256": "ddf0ab5ffa51d22fbbfef1f5ccf83473108ecf7738ef33638d2ba2505cc29404",
+  "translationGitBlobSha1": "5f8cd8678be7eefab2db45741d33d8b3dc068af1",
+  "qaStatus": "TEXT_TRANSLATION_VERIFIED_STRUCTURE_NOT_RELEASE_LOCALE_RENDER",
+  "note": "Direct translation from the canonical sv-SE Narrative Master. No image locale build was created or implied. Product/Reality preflight corrections remain separate historical QA and were not silently substituted into the source story."
+}

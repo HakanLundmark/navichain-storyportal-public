@@ -1,0 +1,61 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "ingen-overraskning-vid-bommen",
+  "checkedAt": "2026-08-24T22:13:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "canonicalPath": "stories/ingen-overraskning-vid-bommen/ORIGINAL_STORY.md",
+    "sourcePath": "stories/ingen-overraskning-vid-bommen/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 11876,
+    "sha256": "203240d36965f1007e408ce96b19f13479a7c9ad21fd07a29fa2487a9d5205d9",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/ingen-overraskning-vid-bommen/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 10323,
+    "sha256": "78c9ea0c507e33db54d16d07dce46f68931b75c0466ec73028076e5b69c867d0",
+    "sourceStorySha256": "203240d36965f1007e408ce96b19f13479a7c9ad21fd07a29fa2487a9d5205d9",
+    "githubReadBackVerified": true
+  },
+  "canonicalExactOriginalAssets": [
+    {"assetId":"cover_00","qaStatus":"UNKNOWN","size":3117846,"dimensions":[1055,1491],"sha256":"bb6e8705d0c2c8ebd7c857d7b9fd8238433c0dd7c6dfcdf201cc691e143a21b8"},
+    {"assetId":"panel_01","qaStatus":"UNKNOWN","size":3232421,"dimensions":[1055,1491],"sha256":"af7d3d1ad9a62981ea533d0da6768566e72f177b7643cafca4acd8ea082b9c72"},
+    {"assetId":"panel_02","qaStatus":"UNKNOWN","size":3044008,"dimensions":[1055,1491],"sha256":"d74dbcd575344636d183e1cab881571d7d57202a86f22101c0182f9cbcbac301"},
+    {"assetId":"panel_03","qaStatus":"UNKNOWN","size":3138543,"dimensions":[1055,1491],"sha256":"2edcae7f7515d848ebf9221c51bf0ad6d321c7e66c673d4033160a5de0350c3f"},
+    {"assetId":"panel_04","qaStatus":"UNKNOWN","size":3077341,"dimensions":[1055,1491],"sha256":"caf4ae6f586ba5ae98868de9975e21fac7a25c0513d3698d5c2b261744158627"},
+    {"assetId":"panel_05","qaStatus":"UNKNOWN","size":3038756,"dimensions":[1055,1491],"sha256":"d73c7c751013f93c24eb84047ef1c8718d4b269320a2548d2b36274b13dc3314"},
+    {"assetId":"panel_06","qaStatus":"UNKNOWN","size":3081662,"dimensions":[1055,1491],"sha256":"ed14545676c183e5dd0524481da22f040844cb7488653bfcda9d5d9d0161e2e7"},
+    {"assetId":"panel_07","qaStatus":"UNKNOWN","size":2922281,"dimensions":[1055,1491],"sha256":"8aaf2b113cf65b48bcb9a24d6738807a85fb2aae83cf107a17ceb146b49c8831"},
+    {"assetId":"panel_08","qaStatus":"UNKNOWN","size":2896035,"dimensions":[1055,1491],"sha256":"2ec18a21ff020ff7f33ba84a2948872fea472164d6a3cdf43ed92831151984ac"},
+    {"assetId":"panel_09","qaStatus":"UNKNOWN","size":3100247,"dimensions":[1055,1491],"sha256":"19bd3de506c4483d9fb3ebd8257fd6edf462fd59fb7d7817ab7f4fac217f37e6"}
+  ],
+  "sourceNotExportableCanonicalAssets": {
+    "panel_10": "Historical attempts existed but the correct canonical original cannot be selected without guessing; REBUILD_REQUIRED/foreign-story failures occurred.",
+    "panel_11": "Historical generation occurred but exact canonical bytes are no longer directly accessible or safely identifiable.",
+    "panel_12": "Historical generation occurred but exact canonical bytes are no longer directly accessible or safely identifiable.",
+    "cta_13": "A historical final CTA existed and its QR was validated to https://navichain.se/signup, but the final original binary is no longer directly accessible."
+  },
+  "historicalRejectedUnmappedExactFiles": 26,
+  "historicalRejectedUnmappedQaStatus": "REJECTED_FOREIGN_STORY_CONTENT",
+  "derivedReleaseAssets": {"pdf":"NOT_CREATED","linkedinSocial":"NOT_CREATED","socialImages":"NOT_CREATED","releaseManifest":"NOT_CREATED"},
+  "localPackages": {
+    "archive": {"filename":"ingen-overraskning-vid-bommen-retro-backfill-v2-20260824-2213.zip","size":120018523,"sha256":"5e57ac5052f61fc992e91928030b889ba3cc406a959dbaf89f98b080bcb61e10"},
+    "svSePublishPackage": {"filename":"ingen-overraskning-vid-bommen-sv-SE-retro-v2-publish.zip","size":30505047,"sha256":"b26cb004371d4136611bf3fdac82d2886acb4b19644834ea08d5a2e446844530","fileCount":11},
+    "enGbPublishPackage": {"filename":"ingen-overraskning-vid-bommen-en-GB-retro-v2-publish.zip","size":4250,"sha256":"be3c7febf7b260a311263b889ef88bd69e95239ceb7dc3c5f3347e30c0da239a","fileCount":1}
+  },
+  "transport": {
+    "automaticChainStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryGitHubPublished": 0,
+    "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "reason": "The requested Chrome/local-capture/Nextcloud/router/publisher chain is not invokable from this runtime. The GitHub binary assembler exists, but the connected GitHub action has no local-file argument for the multi-megabyte PNG originals; local packages and publish requests were generated without claiming binary publication."
+  },
+  "releaseEligibility": {"sv-SE":false,"en-GB":false},
+  "finalStatus": "PARTIAL_BACKFILL"
+}

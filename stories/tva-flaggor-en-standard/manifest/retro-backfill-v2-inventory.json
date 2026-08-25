@@ -1,0 +1,136 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "tva-flaggor-en-standard",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "Två flaggor, en standard",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "checkedAt": "2026-08-24T22:26:00+02:00",
+  "narrativeMaster": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "path": "stories/tva-flaggor-en-standard/source/original-story-sv-SE.md",
+    "legacyPath": "stories/tva-flaggor-en-standard/ORIGINAL_STORY.md",
+    "size": 10763,
+    "sha256": "6be550ffd9651ccaf67598aa743299ec96102a4cafdd27a69ddc823e58e6182c",
+    "historicalGitBlob": "aefde1db59c427f76b9cb1168df7e7c921144e4c",
+    "qaStatus": "N/A"
+  },
+  "englishStory": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "path": "stories/tva-flaggor-en-standard/source/original-story-en-GB.md",
+    "size": 11430,
+    "sha256": "3259773f51f1e16eeccde371ddd020391704452380543d5c87c76afddccaefac",
+    "sourceStorySha256": "6be550ffd9651ccaf67598aa743299ec96102a4cafdd27a69ddc823e58e6182c",
+    "qaStatus": "N/A"
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalExactOriginal": {
+        "cover_00": {"sourceFilename":"cross_border_partnership_at_sunrise.png","size":3602261,"dimensions":"1024x1536","sha256":"8a38b9481a6ce69efa70809514103e95946e43dc72a917b12a558fd1b68983ac","qaStatus":"UNKNOWN"},
+        "panel_01": {"sourceFilename":"union_letter_in_the_port_office.png","size":3668150,"dimensions":"1024x1536","sha256":"c61da0951d7fb748c66a5135c3105d18eb81cc9c9a34d047bf1711d08b660d1b","qaStatus":"UNKNOWN"},
+        "panel_02": {"sourceFilename":"harbour_audit_uncertain_data_storage.png","size":3613990,"dimensions":"1024x1536","sha256":"ada713532332c92198c8dbe95b132cec41b0694719bfcca8b12de4a98dfec422","qaStatus":"UNKNOWN"},
+        "panel_03": {"sourceFilename":"rostock_trelleborg_fastlåst_samarbete.png","size":3757419,"dimensions":"1024x1536","sha256":"042b271642d9d2598dcf30beee07f7d9971e58b370634c875c3b09e3d0612d95","qaStatus":"UNKNOWN"},
+        "panel_04": {"sourceFilename":"trelleborg_ramp_ett_spår_att_följa.png","size":3641622,"dimensions":"1024x1536","sha256":"d5f1ac352a3c3f684ba6a08acc74634cd87a5c38c9ec561f066db82919ea316f","qaStatus":"UNKNOWN"},
+        "panel_05": {"sourceFilename":"rostock_öppenhet_skapar_förtroende.png","size":3798305,"dimensions":"1024x1536","sha256":"b726fbea0b1124b89069cb3a14e75b84d6145752d1e1cdfdaa28a21b4ed8bfe9","qaStatus":"UNKNOWN"},
+        "panel_06": {"sourceFilename":"dataflödet_klart_och_spårbart.png","size":3710911,"dimensions":"1024x1536","sha256":"949ba7cbf0734aed5a12a8013cffad193c472781d0d40914b5324279b63fed31","qaStatus":"UNKNOWN"},
+        "panel_07": {"sourceFilename":"överenskommelse_vid_rostocks_hamn.png","size":3743114,"dimensions":"1024x1536","sha256":"beaa6e69940c89ab99dba5c01a6b18395628c389035ad2ee39edd6b8fb98d5ad","qaStatus":"UNKNOWN"},
+        "panel_11": {"sourceFilename":"a_full_color_comic_illustration_poster_page_in_a_c.png","size":3215661,"dimensions":"1024x1536","sha256":"b7f5b1a50214eae945c2896f61d8a0521e54539ddfc8329245e0f0ad8d7de2fe","qaStatus":"UNKNOWN"},
+        "panel_12": {"sourceFilename":"a_detailed_comic_style_infographic_illustration_sc.png","size":3168560,"dimensions":"1024x1536","sha256":"3f6020afaf3f8f3fac2254a2621b60856c4300ba17e73360f72941ca7a92edc6","qaStatus":"UNKNOWN"},
+        "cta_13": {"sourceFilename":"a_comic_illustration_style_advertisement_poster_sc.png","size":2948970,"dimensions":"1024x1536","sha256":"b39607738b2d7f54c01f705f2fb6742989ef561ed117c66cb40d7381deaeda1b","qaStatus":"UNKNOWN","releaseFinding":"brand-critical logo and QR were not release-verified; historical bytes retained unchanged"}
+      },
+      "sourceNotExportable": {
+        "panel_08": "No directly accessible original binary can be verified; no replacement created.",
+        "panel_09": "Historical generation is evidenced, but original bytes are not directly accessible.",
+        "panel_10": "No directly accessible original binary can be verified; no replacement created."
+      },
+      "rejectedExactHistorical": [
+        {"assetId":"cta_13","sourceFilename":"a_full_color_comic_illustration_style_promotional.png","size":3049775,"dimensions":"1024x1536","sha256":"e2a110308d37fe8a1bcdf37c3c4d8881305e0e9d46395dfcf5f6e41400cc6e78","qaStatus":"REJECTED"},
+        {"assetId":"cta_13","sourceFilename":"a_wide_clean_illustrated_promotional_scene_set_a.png","size":2475905,"dimensions":"1536x1024","sha256":"32dd93480d323d3e9dd3e7469ad3deeed3c8224dbbf86c6402ee89febb8aac46","qaStatus":"REJECTED"},
+        {"assetId":"cta_13","sourceFilename":"wide_clean_comic_illustration_style_promotional_s.png","size":2849902,"dimensions":"1536x1024","sha256":"c8a1cadbfe2b4a976c3202079ef2c0ffe590202009ca51eb7f2380f0de235c56","qaStatus":"REJECTED"},
+        {"assetId":"cta_13","sourceFilename":"wide_illustrated_poster_comic_style_scene_at_a_fer.png","size":2725572,"dimensions":"1536x1024","sha256":"875522aafe3044a1c5515d0d5f1e58d9088adb338a3e5f4f3abc99719a92d2e7","qaStatus":"REJECTED"}
+      ]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "canonicalStoryFaithfulExactOriginal": {
+        "cover_00": {"sourceFilename":"imagegen.png","size":3037609,"dimensions":"1055x1491","sha256":"27b96ee687b0d86a5a82e6a61cd5703557fb426ed336a5c486766858078bad4c","qaStatus":"UNKNOWN"},
+        "panel_01": {"sourceFilename":"a_comic_book_illustrated_poster_style_page_warm.png","size":3122902,"dimensions":"1024x1536","sha256":"8f3fe5c599aaefcb58d92a41e0f679c8a1113fbde9ea2aea4d0e2e3a5475b484","qaStatus":"UNKNOWN"},
+        "panel_02": {"sourceFilename":"revisorns_fråga_i_trelleborg.png","size":3414215,"dimensions":"1024x1536","sha256":"41fadedbd69371d57d048129e79b27875fde857619712650ccae4d724d87fc3c","qaStatus":"UNKNOWN"},
+        "panel_03": {"sourceFilename":"a_comic_illustration_style_business_scene_in_a_spl.png","size":3132592,"dimensions":"1024x1536","sha256":"2dedea1c6df6613e5e5c19ef439917a4c783294940476f34f985169d9f81a86a","qaStatus":"UNKNOWN"},
+        "panel_06": {"sourceFilename":"tydlig_datahantering_i_svensk_hamnmiljö.png","size":3213858,"dimensions":"1024x1536","sha256":"c11d5b213a8182fffae1a2ee171cc14fb2e2d62bfcf18a7d59d9dc6bb7f13f80","qaStatus":"UNKNOWN"}
+      },
+      "sourceNotExportable": {
+        "panel_04": "No story-faithful original binary is exportable; divergent historical render retained separately as REJECTED.",
+        "panel_05": "Story-faithful render existed historically, but its original binary was overwritten/not directly accessible.",
+        "panel_07": "No story-faithful original binary is directly exportable.",
+        "panel_08": "No story-faithful original binary is directly exportable.",
+        "panel_09": "No story-faithful original binary is directly exportable.",
+        "panel_10": "No story-faithful original binary is directly exportable.",
+        "panel_11": "No story-faithful original binary is directly exportable.",
+        "panel_12": "No story-faithful original binary is directly exportable.",
+        "cta_13": "No valid story-faithful CTA binary is directly exportable."
+      },
+      "rejectedExactHistorical": [
+        {"assetId":"panel_04","sourceFilename":"a_comic_book_infographic_style_poster_scene_in_a.png","size":3040663,"dimensions":"1024x1536","sha256":"9d53f48fe8168c7148562bf1ffdc088e48966951e31e72ce99453fc09f359aa0","qaStatus":"REJECTED"},
+        {"assetId":"panel_06","sourceFilename":"a_comic_book_infographic_style_illustration_in_a.png","size":3107601,"dimensions":"1024x1536","sha256":"90e5cd957201cb87700fc4bd315d464830ab3894a0966d0f26cd727a4f27b1b6","qaStatus":"REJECTED"},
+        {"assetId":"panel_07","sourceFilename":"a_comic_infographic_style_poster_illustration_ret.png","size":3109525,"dimensions":"1024x1536","sha256":"6478d298418b214ca48d902e11937e64e86ef03c69a7fe2a31eec670ef460db2","qaStatus":"REJECTED"},
+        {"assetId":"panel_08","sourceFilename":"a_comic_infographic_style_illustration_poster_ful.png","size":3190917,"dimensions":"1024x1536","sha256":"15e1eb531abad23658d2098b7076731dbc5ddaeddfb67c6253b8e8957b1a47a7","qaStatus":"REJECTED"},
+        {"assetId":"panel_08","sourceFilename":"a_full_color_comic_infographic_style_illustration.png","size":2994230,"dimensions":"1024x1536","sha256":"5769a59c15e7466750296a400bf5ef5a663f14d67143966154a6b18d96167aba","qaStatus":"REJECTED"},
+        {"assetId":"panel_09","sourceFilename":"a_comic_book_infographic_style_poster_page_wide.png","size":3130645,"dimensions":"1024x1536","sha256":"8b0ca8fc9ad4f70ab9c1b44cc1eba10db61477ced8dabdbb96d45e6efe2578a2","qaStatus":"REJECTED"},
+        {"assetId":"panel_10","sourceFilename":"a_comic_book_infographic_style_poster_illustrati.png","size":3053899,"dimensions":"1024x1536","sha256":"e6a2f54280321c88736cdddfb0ed13ec92089923886fd2bf29c2d2f3c6522696","qaStatus":"REJECTED"},
+        {"assetId":"panel_11","sourceFilename":"a_comic_style_infographic_page_poster_overall_s.png","size":3258656,"dimensions":"1024x1536","sha256":"982ee35ea1a6bc481f3f49788170759462de3634ca60054b5ee84695758cb228","qaStatus":"REJECTED"},
+        {"assetId":"panel_12","sourceFilename":"a_comic_book_advertisement_style_illustration_ove.png","size":3169825,"dimensions":"1024x1536","sha256":"6660e73ee59ae273fb0ff846197e5903908a9b722416f947c2a826e3cfe42d20","qaStatus":"REJECTED"},
+        {"assetId":"cta_13","sourceFilename":"a_detailed_illustrated_advertisement_comic_style_p.png","size":3101185,"dimensions":"1024x1536","sha256":"0d3a5b075090e9933b1123cd3028f6e14373e35c29ec283518a346d64ede503a","qaStatus":"REJECTED"}
+      ],
+      "duplicateAliasExactOriginal": {"assetId":"cover_00","sourceFilename":"två_flaggor_en_standard.png","size":3037609,"dimensions":"1055x1491","sha256":"27b96ee687b0d86a5a82e6a61cd5703557fb426ed336a5c486766858078bad4c","qaStatus":"UNKNOWN"}
+    }
+  },
+  "processArtifacts": {
+    "preflight": {"sourceClass":"SOURCE_NOT_EXPORTABLE","comment":"Preflight is evidenced by the Narrative Master CTA note, but exact standalone text is not directly recoverable."},
+    "storyDNA": {"sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    "continuity": {"sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    "castCharacterVehicleEnvironmentLocks": {"sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    "storyLock": {"sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    "productTruthAssessment": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "realityValidation": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN"},
+    "correctionLogs": {"sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    "releaseNotes": {"sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    "localizationNotes": {"sourceClass":"SOURCE_NOT_EXPORTABLE"}
+  },
+  "derivedOutputs": {
+    "sv-SE-pdf": "NOT_CREATED",
+    "sv-SE-social": "NOT_CREATED",
+    "en-GB-pdf": "NOT_CREATED",
+    "en-GB-social": "NOT_CREATED"
+  },
+  "sourceReferences": {
+    "officialLogo": {"size":15270,"dimensions":"500x300","sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db"},
+    "signupQr": {"size":367480,"dimensions":"550x574","sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e"},
+    "productTruth": {"size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    "marketTruth": {"size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"}
+  },
+  "packages": {
+    "sv-SE": {"file":"tva-flaggor-en-standard-sv-SE-retro-v2.zip","sha256":"bf568176eb564530d26481d902e29ebfb0126bb720615a76057c0e29ae6de227","files":18},
+    "en-GB": {"file":"tva-flaggor-en-standard-en-GB-retro-v2.zip","sha256":"7a599152a15706858b221ca7918860a5f49cdbc650eb794217549ef53ec66742","files":17},
+    "completeLocalArchive": {"file":"tva-flaggor-en-standard-retro-backfill-v2-complete-20260824-2226.zip","sha256":"pending-rebuilt-after-final-metadata"}
+  },
+  "transport": {
+    "chromeDownload": "NOT_EXECUTED_NO_BROWSER_AUTOMATION_SURFACE",
+    "nextcloudArchive": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "manualPublisherFallbackUsed": false,
+    "githubPublishedBinaryAssets": 0
+  },
+  "summary": {
+    "inventoryItems": 72,
+    "exactOriginal": 44,
+    "derivedTranslation": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 23,
+    "notCreated": 4
+  }
+}

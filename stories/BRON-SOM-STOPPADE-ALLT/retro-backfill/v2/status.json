@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "BRON-SOM-STOPPADE-ALLT",
+  "masterVersion": "1.0",
+  "masterLocale": "sv-SE",
+  "checkedAt": "2026-08-24T22:10:00+02:00",
+  "result": "PARTIAL_BACKFILL",
+  "narrativeMaster": {"status":"EXACT_ORIGINAL","path":"stories/BRON-SOM-STOPPADE-ALLT/ORIGINAL_STORY.md","sha256":"bd43dca4e4b4b58626aa6a208f03cc195b2abb600b62985e98f67b372f1b7650"},
+  "enGBStory": {"status":"DERIVED_TRANSLATION","path":"stories/BRON-SOM-STOPPADE-ALLT/source/original-story-en-GB.md","sha256":"792f003e4c5ffaaea9a69a30101bf7866cad3081144effb7ddfe8cc5fd60603b"},
+  "svSE": {"canonicalVisualExactOriginal":14,"canonicalVisualRequired":14,"pdf":"EXACT_ORIGINAL","releaseStatus":"INCOMPLETE","missingReleaseSupport":["social","raster release QA","PDF release QA","release manifest","standalone reality validation"]},
+  "enGB": {"visualReleaseStatus":"INCOMPLETE","historicalWipExactOriginal":16,"canonicalPanel12":"NOT_CREATED","canonicalCta13":"NOT_CREATED","pdf":"NOT_CREATED","social":"NOT_CREATED"},
+  "transport": {"requestedChain":"ChatGPT → Chrome download → local capture → Nextcloud archive → hardened router → publisher → GitHub","automaticChainCallable":false,"blocker":"No callable Chrome download bridge / Nextcloud or local publisher integration is available in this assistant session. GitHub mobile import requires a direct HTTPS package URL; GitHub binary blob action requires inline content and has no local-file parameter.","binaryGitHubStatus":"GITHUB_PUBLISH_FAILED","textGitHubStatus":"PUBLISHED_PENDING_READBACK"},
+  "provenanceCounts": {"EXACT_ORIGINAL":119,"DERIVED_TRANSLATION":2,"SOURCE_NOT_EXPORTABLE":24,"NOT_CREATED":7},
+  "releaseEligibility": {"sv-SE":false,"en-GB":false}
+}

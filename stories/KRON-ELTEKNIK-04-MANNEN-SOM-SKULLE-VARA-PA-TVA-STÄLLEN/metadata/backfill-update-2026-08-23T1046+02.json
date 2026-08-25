@@ -1,0 +1,40 @@
+{
+  "schema": "navichain-storyportal-backfill-delta-v1",
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "locale": "sv-SE",
+  "timestamp": "2026-08-23T10:46:00+02:00",
+  "classification": "INCOMPLETE",
+  "requiredAssetSlots": 14,
+  "exportableRequiredAssetSlots": 14,
+  "missingRequiredAssetSlots": [],
+  "existsButNotExportable": [],
+  "newlyExportableSincePriorBackfill": [
+    {
+      "assetId": "cta_13",
+      "sourceFile": "se_krocken_innan_den_händer.png",
+      "status": "EXISTS_AND_EXPORTABLE",
+      "sha256": "d519fc7126f946b61826c455cbb6fa4c05a1139c05a249a1ee23b1e74570ebd9",
+      "bytes": 3289009,
+      "dimensions": [1024,1536],
+      "releaseQualification": "UNDERKÄND_NOT_RELEASE_MASTER",
+      "reason": "Produced after prior backfill, but not a release-qualified CTA: it contains unsupported/incorrect story-product claims and the brand-critical logo is not established as deterministic official-source compositing."
+    }
+  ],
+  "additionalRawRenderArtifact": {
+    "file": "krocken_är_löst_med_navichain.png",
+    "status": "EXISTS_AND_EXPORTABLE",
+    "sha256": "4f9332a6b7252300d4a0e43a301f4896a92934c15297873fdc0630a8a233f3b9",
+    "bytes": 3266355,
+    "dimensions": [1024,1536],
+    "releaseQualification": "UNDERKÄND_WRONG_STORY_OR_ASSET_FUNCTION"
+  },
+  "releaseBlockers": [
+    "The chat now has an exportable source image for all 14 asset slots, but no verified 14/14 PASS/LOCKED release-master set.",
+    "Several panels were explicitly identified in-chat as wrong-story/underkända and later attempts continued to diverge from the canonical original story.",
+    "PDF carousel was not produced for this story.",
+    "LinkedIn/social release copy was not produced for this story.",
+    "Complete release QA and release manifest were not produced.",
+    "Release ZIP was not produced."
+  ],
+  "publicationDecision": "Do not publish a COMPLETE locale release or release ZIP. Preserve the canonical ORIGINAL_STORY and backfill metadata only; do not reconstruct or regenerate assets during backfill."
+}

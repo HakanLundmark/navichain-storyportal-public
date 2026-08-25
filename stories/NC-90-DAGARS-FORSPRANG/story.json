@@ -1,0 +1,49 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "NC-90-DAGARS-FORSPRANG",
+  "storyIdAuthority": "explicit Story ID established in this chat during preflight",
+  "title": "90 dagars försprång — Kompetensregistret som räddade miljonaffären",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "INCOMPLETE"
+  },
+  "runtimeInventory": {
+    "sv-SE": {
+      "canonicalAssetSlots": 14,
+      "directlyAccessibleOriginalAssets": 12,
+      "sourceNotExportable": ["panel_01", "panel_05"],
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "EXISTS_AND_EXPORTABLE"
+    },
+    "en-GB": {
+      "canonicalAssetSlots": 14,
+      "directlyAccessibleOriginalAssets": 13,
+      "sourceNotExportable": ["cta_13"],
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "EXISTS_AND_EXPORTABLE"
+    }
+  },
+  "binaryBackfillRetry": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "checkedAt": "2026-08-24T00:19:00+02:00",
+    "failureStage": "source-bytes-to-git-blob",
+    "attemptedLocale": "sv-SE",
+    "attemptedAsset": "cover_00",
+    "sourceFile": "90_dagar_till_full_koll.png",
+    "sourceBytes": 3502190,
+    "sourceSha256": "9a3b269a81dfcaea34d4c67bad010db812a544e470bc718939c8b51d3b1b3581",
+    "expectedGitBlobSha": "35a8280269e6ad03050d548a2911621e532fed8b",
+    "returnedBlobShaFromRuntimePathString": "090519f4d15680c09ee9289463c7dc31313c7730",
+    "githubCanonicalPath": "stories/NC-90-DAGARS-FORSPRANG/sv-SE/images/cover_00.png",
+    "readBack": "ABSENT",
+    "reason": "The connected GitHub blob write surface accepts inline base64 text but has no local-file argument. Supplying the runtime pathname produced a 24-byte blob representing the decoded pathname rather than the 3,502,190-byte PNG. The incorrect orphan blob was not queued or attached. Exact multi-megabyte source bytes therefore could not be safely transported to the binary-backfill queue from this runtime without reconstructing or substituting content, which is forbidden."
+  },
+  "paths": {
+    "originalStory": "stories/NC-90-DAGARS-FORSPRANG/ORIGINAL_STORY.md",
+    "sv-SE": "stories/NC-90-DAGARS-FORSPRANG/sv-SE/",
+    "en-GB": "stories/NC-90-DAGARS-FORSPRANG/en-GB/"
+  }
+}

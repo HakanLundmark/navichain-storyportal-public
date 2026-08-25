@@ -1,0 +1,12 @@
+{
+  "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "CHAT_RECOVERED",
+  "recoveryMethod": "deterministic text export of the canonical Narrative Master directly available in the source chat; byte-matched to the pre-existing GitHub ORIGINAL_STORY.md",
+  "size": 8556,
+  "sha256": "1d6c7e518e07205563fae843d2cd700874ac768655433421b2d58ca7cf667f20",
+  "gitBlobShaOfMatchedCanonicalText": "a2c450c2b5754179256131acdb388d562500b070",
+  "path": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-sv-SE.md",
+  "note": "This provenance does not claim equality with hidden ChatGPT message serialization bytes. It does claim equality with the canonical story text already established from this chat."
+}

@@ -1,0 +1,7 @@
+Fyra mobilkranar. Fyra uppdrag. Och ett problem som blev dyrt först när kunden stod och väntade: Mats visste var kranarna skulle vara, men inte alltid var de faktiskt befann sig.
+
+I den här Navichain-berättelsen går Ferm Mobilkran AB från telefonsamtal och gissningar till telematik och Fleet Map. Med rapporterande enheter kan Mats se flottan på en gemensam karta och fatta nästa beslut med bättre underlag - medan människan fortfarande bestämmer vad som ska hända.
+
+Poängen är inte mer IT. Det är mindre osäkerhet i en vardag där varje stillastående maskin och varje försenat lyft kostar.
+
+Se berättelsen och prova Navichain: navichain.se/signup

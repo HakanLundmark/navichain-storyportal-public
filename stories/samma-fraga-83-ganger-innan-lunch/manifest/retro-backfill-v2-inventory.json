@@ -1,0 +1,31 @@
+{
+  "schema":"navichain-retro-backfill-v2-inventory-summary",
+  "storyId":"samma-fraga-83-ganger-innan-lunch",
+  "masterLocale":"sv-SE",
+  "masterVersion":null,
+  "narrativeMaster":{"sourceClass":"EXACT_ORIGINAL","size":9686,"sha256":"0a7240f054e6f2a1912ccaaf0c47349b1e0f0e71fca6326ae5ecdf9877e2775f","gitBlobSha":"4dcce47ab7ac927d3e79be87daf972bf56c00d63","qaStatus":"HISTORICAL_CANONICAL_STORY_TEXT_SOURCE; STORY_LOCK_NOT_VERIFIED"},
+  "englishStory":{"sourceClass":"DERIVED_TRANSLATION","locale":"en-GB","translationType":"faithful","narrativeMaster":false,"size":10262,"sha256":"f753da3549397a5d2eea87c171c53fdda43399a9a4c94d04459fd1a67f1495c8"},
+  "canonicalSlots":[
+    {"assetId":"cover_00","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_CURRENT_CHAT_RENDER","file":"imagegen.png","size":3417056,"dimensions":[1055,1491],"sha256":"132493e7ec8b3b37a642d3bcd0a3854031274e5eb374ede1fe91da2181e4ca18","intendedPath":"stories/samma-fraga-83-ganger-innan-lunch/sv-SE/images/cover_00.png","githubPublished":false},
+    {"assetId":"panel_01","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED/FORBIDDEN_NONCANON_OR_FAILED_RENDER","historicalCandidates":["a_comic_graphic_novel_panel_scene_in_warm_vinta.png","a_detailed_comic_illustration_style_office_scene_w.png"],"canonicalPath":null,"githubPublished":false},
+    {"assetId":"panel_02","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_CURRENT_CHAT_RENDER","file":"a_detailed_comic_illustration_scene_in_an_office.png","size":3502800,"dimensions":[1536,1024],"sha256":"eb29bd9a1acd01badd42a28b8a5c6ea5c2b8c5703810b5ba7f5857d0c1621b91","intendedPath":"stories/samma-fraga-83-ganger-innan-lunch/sv-SE/images/panel_02.png","githubPublished":false},
+    {"assetId":"panel_03","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_CURRENT_CHAT_RENDER","file":"a_detailed_comic_panel_scene_like_a_storyboard_or.png","size":3423638,"dimensions":[1536,1024],"sha256":"b3ec2ab6a5a51959c0d82a73511e7745dfb2bbb11fc94382863b875f0807934c","intendedPath":"stories/samma-fraga-83-ganger-innan-lunch/sv-SE/images/panel_03.png","githubPublished":false},
+    {"assetId":"panel_04","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_CURRENT_CHAT_RENDER","file":"a_comic_book_illustrated_panel_scene_clean_lign.png","size":3149724,"dimensions":[1536,1024],"sha256":"f9280ed62e028529fcef1e1fe8d11c4df6b8caac770df001bbb957e86fb7576a","intendedPath":"stories/samma-fraga-83-ganger-innan-lunch/sv-SE/images/panel_04.png","githubPublished":false},
+    {"assetId":"panel_05","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_CURRENT_CHAT_RENDER","file":"kaffesamtal_i_transportfikarummet.png","size":3033995,"dimensions":[1448,1086],"sha256":"7c7f3ab9c74829915864a4adaf15dff80f64b2ff5c1f6613682a7697c871b6e7","intendedPath":"stories/samma-fraga-83-ganger-innan-lunch/sv-SE/images/panel_05.png","githubPublished":false},
+    {"assetId":"panel_06","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN_CURRENT_CHAT_RENDER","file":"ingen_manual_bara_ett_reglage.png","size":3787171,"dimensions":[1024,1536],"sha256":"7c115ee4a70fc4e77b72dbe2cfe17149b9865877e70f91daa96e9582daefd963","intendedPath":"stories/samma-fraga-83-ganger-innan-lunch/sv-SE/images/panel_06.png","githubPublished":false},
+    {"assetId":"panel_07","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED/FORBIDDEN_NONCANON_OR_FAILED_RENDER","historicalCandidates":["a_detailed_comic_graphic_novel_style_panel_in_a.png","a_full_color_comic_illustration_panel_in_a_clean_l.png","a_full_color_comic_illustration_style_scene_in_an.png"],"canonicalPath":null,"githubPublished":false},
+    {"assetId":"panel_08","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED/FORBIDDEN_NONCANON_OR_FAILED_RENDER","historicalCandidates":["a_comic_graphic_illustration_style_workplace_scene.png"],"canonicalPath":null,"githubPublished":false},
+    {"assetId":"panel_09","sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED","githubPublished":false},
+    {"assetId":"panel_10","sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED","githubPublished":false},
+    {"assetId":"panel_11","sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED","githubPublished":false},
+    {"assetId":"panel_12","sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED","githubPublished":false},
+    {"assetId":"cta_13","sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED","githubPublished":false}
+  ],
+  "historicalVisualInventory":{"exactOriginalPngFiles":31,"canonicalHistoricalCandidatesWithUnknownQa":6,"historicalRejectedOrNoncanonicalPngFiles":25,"chatRecovered":0,"sourceNotExportable":0,"qaInventoryJpeg":{"sourceClass":"EXACT_ORIGINAL","size":707417,"dimensions":[1200,2380],"sha256":"84469e25a25e62d818e18f35ceb8d501d3fc2a25494ddcc7bd49e21ec2a8d22c","githubPublished":false}},
+  "historicalTextArtifacts":{"manus":"PRESENT_WITHIN_NARRATIVE_MASTER","storyboard":"PRESENT_WITHIN_NARRATIVE_MASTER","illustratorNotes":"PRESENT_WITHIN_NARRATIVE_MASTER","storyDNA":"NOT_CREATED_AS_SEPARATE_ARTIFACT","continuity":"NOT_CREATED_AS_SEPARATE_ARTIFACT","castLock":"NOT_CREATED_AS_SEPARATE_ARTIFACT","characterLock":"NOT_CREATED_AS_SEPARATE_ARTIFACT","vehicleEnvironmentLock":"NOT_CREATED_AS_SEPARATE_ARTIFACT","preflight":"NOT_CREATED_AS_SEPARATE_ARTIFACT","storyLock":"NOT_VERIFIED_AS_EXECUTED","realityValidation":"NOT_CREATED_AS_SEPARATE_HISTORICAL_ARTIFACT","correctionLog":"NOT_CREATED","releaseNotes":"NOT_CREATED","localizationNotes":"NOT_CREATED"},
+  "derivedReleaseAssets":{"pdf":"NOT_CREATED","linkedinSocialCopy":"NOT_CREATED","socialImages":"NOT_CREATED","releaseManifest":"NOT_CREATED","releaseReport":"NOT_CREATED","releaseZip":"NOT_CREATED"},
+  "fullPerFileInventoryLocalArtifact":"samma-fraga-83-ganger-innan-lunch-retro-backfill-v2-inventory.json",
+  "automaticTransportStatus":"BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus":"NOT_EXECUTABLE_FROM_CURRENT_CHAT_RUNTIME",
+  "binaryGithubStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+}

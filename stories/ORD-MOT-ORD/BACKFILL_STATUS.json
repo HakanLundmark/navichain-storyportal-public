@@ -1,0 +1,24 @@
+{
+  "storyId": "ORD-MOT-ORD",
+  "locale": "sv-SE",
+  "masterVersion": "1.0-staging",
+  "status": "INCOMPLETE",
+  "sourceInventory": {
+    "requiredCanonicalImages": 14,
+    "existsAndExportableCanonicalImages": 13,
+    "missingCanonicalImages": ["panel_07"],
+    "existsButNotExportableCanonicalImages": []
+  },
+  "github": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "publishedTextMetadata": true,
+    "publishedCanonicalImages": 0,
+    "binaryPublishLimitation": "The connected GitHub write actions available in this execution do not accept local binary file references; no multi-megabyte PNG is claimed as uploaded without read-back verification."
+  },
+  "releaseZip": {
+    "created": false,
+    "reason": "Locale is incomplete because canonical panel_07 is missing. Existing local ZIP is staging-only and is not a release ZIP."
+  },
+  "syncClaim": "NOT_SYNCED_AS_COMPLETE_RELEASE"
+}

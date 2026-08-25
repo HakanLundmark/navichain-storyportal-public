@@ -1,0 +1,134 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "ingen-tackning-inget-tappat",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "INGEN TÄCKNING, INGET TAPPAT",
+  "subtitle": "Robban och appen som kommer ihåg det han inte kunde skicka än",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+  "locales": {
+    "sv-SE": "COMPLETE + GITHUB FAILED",
+    "en-GB": "INCOMPLETE"
+  },
+  "narrativeArtifacts": {
+    "master": {
+      "path": "ORIGINAL_STORY.md",
+      "locale": "sv-SE",
+      "narrativeMaster": true,
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 9672,
+      "sha256": "93b43348b7a9d2495ba105ceff3b9d15f4bc5b010c60578155a9b3fbf86d0e5c",
+      "gitBlobSha": "f1dd3be8b2a44f9054c2e290ad2a1066f0f2f128",
+      "githubReadBackVerified": true
+    },
+    "enGB": {
+      "path": "ORIGINAL_STORY.en-GB.md",
+      "locale": "en-GB",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "93b43348b7a9d2495ba105ceff3b9d15f4bc5b010c60578155a9b3fbf86d0e5c",
+      "size": 9957,
+      "sha256": "e76e070eb7f97c80ca08482de2fa927593607474ec55ed68850831bb804d4bf9",
+      "gitBlobSha": "0b8d4f169176e51a4e2851b160206f0475604819",
+      "githubReadBackVerified": true
+    }
+  },
+  "svSE": {
+    "assetCount": 14,
+    "exactOriginalSourcesAccessible": 14,
+    "githubPublishedBinaryAssets": 0,
+    "githubPublishedSourceBinaries": 1,
+    "chatRecoveredAssetsPublished": 0,
+    "verifiedPublishedSourcePaths": [
+      "sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png"
+    ],
+    "pdf": "sv-SE/carousel/ingen_tackning_inget_tappat_sv-SE_carousel.pdf",
+    "social": "sv-SE/social/linkedin-sv-SE.txt",
+    "qa": [
+      "sv-SE/qa/qa-report.txt",
+      "sv-SE/qa/backfill-inventory.json",
+      "sv-SE/qa/github-publish-status.json",
+      "sv-SE/qa/chat-recovery-inventory-2026-08-24.json"
+    ],
+    "manifest": "sv-SE/manifest/release-manifest.json",
+    "sources": [
+      "sv-SE/sources/NAVICHAIN-PRODUCT-TRUTH.md",
+      "sv-SE/sources/Navichain_Market_Truth_MASTER_v1.0.md",
+      "sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png"
+    ],
+    "recoveryStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "enGB": {
+    "assetSlotsWithDirectlyAccessibleRenderFiles": 13,
+    "exactOriginalSourcesAccessible": 13,
+    "githubPublishedBinaryAssets": 0,
+    "chatRecoveredAssetsPublished": 0,
+    "releaseEligibleAssets": 0,
+    "missing": [
+      "cta_13"
+    ],
+    "qa": [
+      "en-GB/qa/backfill-inventory.json",
+      "en-GB/qa/chat-recovery-inventory-2026-08-24.json"
+    ],
+    "status": "INCOMPLETE",
+    "recoveryStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "binaryBackfillRetry": {
+    "queueCommit": "8af31110d57bee5d2ce46c6305f48b3f4ed0f90b",
+    "assemblerCommit": "3851a90262d22d38e9b8b02194291bd367ec3718",
+    "verifiedSourceBinaryCount": 1,
+    "verifiedCanonicalImageBinaryCount": 0,
+    "blockingStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "chatVisualRecovery": {
+    "checkedAt": "2026-08-24T06:31:00+02:00",
+    "protocolVersion": "current main",
+    "sv-SE": {
+      "EXACT_ORIGINAL_SOURCE_ACCESSIBLE": 14,
+      "CHAT_RECOVERED_PUBLISHED": 0,
+      "SOURCE_NOT_EXPORTABLE": 0,
+      "MISSING": 0,
+      "GITHUB_PUBLISHED_CANONICAL_IMAGES": 0
+    },
+    "en-GB": {
+      "EXACT_ORIGINAL_SOURCE_ACCESSIBLE": 13,
+      "CHAT_RECOVERED_PUBLISHED": 0,
+      "SOURCE_NOT_EXPORTABLE": 0,
+      "MISSING": 1,
+      "GITHUB_PUBLISHED_CANONICAL_IMAGES": 0
+    }
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T17:27:00+02:00",
+    "inventoryRecords": 126,
+    "historicalRawRenderFiles": 72,
+    "packages": {
+      "sv-SE": {
+        "file": "ingen-tackning-inget-tappat-sv-SE-retro-backfill-v2.zip",
+        "size": 114167507,
+        "sha256": "84dd87abd90360d001cdf081f1ae856f550bcc87f7f58acc95b72b36ea2b801d"
+      },
+      "en-GB": {
+        "file": "ingen-tackning-inget-tappat-en-GB-retro-backfill-v2.zip",
+        "size": 42168875,
+        "sha256": "c76e7248d9d11b2356462a5b307b2cce216b0c9e3d56f7001f65a75baf3a3036"
+      },
+      "history": {
+        "file": "ingen-tackning-inget-tappat-history-retro-backfill-v2.zip",
+        "size": 228218565,
+        "sha256": "a260aec3771171ac9a85f192bdf508c636d3c23928f460c3cb43fe541b32ba5a"
+      }
+    },
+    "publishRequestsValidated": true,
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "automaticTransportReason": "This ChatGPT runtime has no connected Chrome-download or Nextcloud/local-capture control surface. Packages and publish requests were created and checksum-validated, but the assistant cannot initiate the user's browser download or observe the downstream local/Nextcloud/router/publisher chain.",
+    "githubBinaryReadBackVerified": false,
+    "finalStatus": "PARTIAL_BACKFILL"
+  },
+  "githubPublishFailure": "Exact historical binary files remain byte-accessible locally, but canonical image/PDF/archive publication has not been completed through the requested automatic Chrome -> local capture -> Nextcloud -> router -> publisher chain because that browser/local automation surface is not connected to this runtime. No binary was rerendered, reconstructed, cropped, restyled or substituted.",
+  "backfilledAt": "2026-08-24T17:27:00+02:00"
+}

@@ -1,0 +1,30 @@
+storyId: HELA-SUMMAN-I-TRE-STEG
+locale: sv-SE
+assetCount: 14
+expectedAssetCount: 14
+allSameDimensions: true
+dimensions:
+- 1055
+- 1491
+assetOrder:
+- cover_00
+- panel_01
+- panel_02
+- panel_03
+- panel_04
+- panel_05
+- panel_06
+- panel_07
+- panel_08
+- panel_09
+- panel_10
+- panel_11
+- panel_12
+- cta_13
+ctaQrDecode: https://navichain.se/signup
+ctaQrExpected: https://navichain.se/signup
+ctaQrPass: true
+notes:
+- All 14 release image filenames are present in canonical order.
+- Panel 06 was reconstructed during packaging from panel 05 after its temporary generated file was overwritten.
+status: PASS_WITH_NOTE

@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-story-translation-v1",
+  "storyId": "FARGEN-SOM-VARNADE-I-TID",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/FARGEN-SOM-VARNADE-I-TID/ORIGINAL_STORY.md",
+  "sourceStorySha256": "f81a029cf0d4e2b5318bf463893164d7f92a7a38572b9ea8970c13dc43422285",
+  "sha256": "775e0777c4bd8c457a8bdd6aa4047cbcbf2426b1581d633001b213260ff67df1",
+  "size": 9268,
+  "createdAt": "2026-08-24T19:38:00+02:00",
+  "notes": "Direct faithful translation from the canonical sv-SE Narrative Master; no image locale build was created."
+}

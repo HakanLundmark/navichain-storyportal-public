@@ -1,0 +1,63 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "ut-ur-svarta-ladan",
+  "checkedAt": "2026-08-24T22:21:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "locale": "sv-SE",
+    "path": "stories/ut-ur-svarta-ladan/ORIGINAL_STORY.md",
+    "size": 10376,
+    "sha256": "a7d3efcdefa34af22d951b44357cd4e3429bd699720a2b58390ea1887be1e466",
+    "gitBlobSha1": "3da4343bd9fa4077281732273b7f5d11ca944093",
+    "githubReadBack": "PASS"
+  },
+  "englishStory": {
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "path": "stories/ut-ur-svarta-ladan/source/original-story-en-GB.md",
+    "size": 10497,
+    "sha256": "76ac78541b85ff396a8383eed1ad4fa8797eea04c827bd6cfe470c1c17939468",
+    "githubReadBack": "PASS"
+  },
+  "inventory": {
+    "exactOriginalVisualFiles": 44,
+    "unambiguousCanonicalVisualFiles": {"sv-SE": 7, "en-GB": 6, "de-DE": 4},
+    "exactOriginalPdfFiles": 2,
+    "exactSourceReferenceBinaries": 5,
+    "rejectedHistoricalCompositeFiles": 3,
+    "localInventoryCreated": true
+  },
+  "binaryBackfill": {
+    "githubPublishedCanonicalVisualAssets": 0,
+    "githubVerifiedCanonicalVisualAssets": 0,
+    "githubPublishedPdfFiles": 0,
+    "githubVerifiedPdfFiles": 0,
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "Exact historical binary bytes are directly accessible in this runtime and local publish packages were built unchanged. The connected GitHub write surface does not accept local binary file paths, while this chat has no controllable Chrome-download or Nextcloud/WebDAV write surface to hand the packages to the installed automatic router/publisher chain. Large binaries therefore cannot be transported into the Git blob assembler from this runtime without an unsupported manual transport workaround. No binary is claimed as published or synced."
+  },
+  "localPackages": {
+    "sv-SE": {"filename":"ut-ur-svarta-ladan-sv-SE-retro-backfill-v2.zip","size":98460564,"publishRequest":"ut-ur-svarta-ladan-sv-SE.publish.json","publishRequestWrapper":"ut-ur-svarta-ladan-sv-SE.publish.zip"},
+    "en-GB": {"filename":"ut-ur-svarta-ladan-en-GB-retro-backfill-v2.zip","size":85317264,"publishRequest":"ut-ur-svarta-ladan-en-GB.publish.json","publishRequestWrapper":"ut-ur-svarta-ladan-en-GB.publish.zip"},
+    "de-DE": {"filename":"ut-ur-svarta-ladan-de-DE-retro-backfill-v2.zip","size":14077020,"publishRequest":"ut-ur-svarta-ladan-de-DE.publish.json","publishRequestWrapper":"ut-ur-svarta-ladan-de-DE.publish.zip"},
+    "sourceReferences": "ut-ur-svarta-ladan-source-references-retro-backfill-v2.zip"
+  },
+  "transport": {
+    "chromeDownloadControlAvailable": false,
+    "nextcloudWriteConnectorAvailable": false,
+    "automaticNextcloudRouterPublisherChainInvoked": false,
+    "directGithubTextWritesAvailable": true,
+    "directGithubBinaryPathParameterAvailable": false
+  },
+  "metadata": {
+    "storyJson": "PARTIAL_BACKFILL",
+    "storyJsonReadBack": "PASS",
+    "statusJsonReadBackBeforeFinalization": "PASS",
+    "qaReadBack": "PASS",
+    "storiesIndexExists": true,
+    "finalStatusJsonReadBack": "PENDING_THIS_WRITE"
+  }
+}

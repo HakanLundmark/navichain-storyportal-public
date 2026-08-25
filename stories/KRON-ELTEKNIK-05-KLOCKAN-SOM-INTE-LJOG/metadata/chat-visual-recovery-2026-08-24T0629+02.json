@@ -1,0 +1,49 @@
+{
+  "schema": "navichain-chat-visual-recovery-attempt-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T06:29:00+02:00",
+  "protocols": ["CHAT-VISUAL-RECOVERY.md", "BINARY-BACKFILL-RETRY.md"],
+  "runtimeInventory": {
+    "requiredCanonicalAssets": 14,
+    "exactOriginalDirectlyAccessible": 14,
+    "chatRecoveredNeeded": 0,
+    "sourceNotExportable": 0
+  },
+  "assets": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","size":3179510,"sha256":"d2aa9b8bab46e624154ffd5a1b591347352832b61b19114639a87c5697a437dd"},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","size":3025309,"sha256":"afec561cc9855290a5ebcd73ab8ccf46c4d03dbc6f3eaae37d66878efea296cf"},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","size":3222644,"sha256":"c14a6aa73759a2053535ef2ae7d2807c7758008f9a12c80d1be63ef388ddbd28"},
+    "panel_03": {"sourceClass":"EXACT_ORIGINAL","size":3279523,"sha256":"3fbf56d03d1da0a0c26c6c555f1e1fd9cca59ee39ca30575db08bc5332adaafc"},
+    "panel_04": {"sourceClass":"EXACT_ORIGINAL","size":2977535,"sha256":"82db779e1389def1dbd27be110e6a30dc80a84ed604648ddde419b88f0ec1ff9"},
+    "panel_05": {"sourceClass":"EXACT_ORIGINAL","size":3383447,"sha256":"045e2501ebbdbdf2897c30de9114645dfe34feeaca4c4756f31a320633b0bc60"},
+    "panel_06": {"sourceClass":"EXACT_ORIGINAL","size":2849412,"sha256":"ba1c68ed60097dec0e886583fdb948e853d0517ae3106601a91eff9fb2e714a2"},
+    "panel_07": {"sourceClass":"EXACT_ORIGINAL","size":3160155,"sha256":"3b87492d3ecf408fe800f7cc4fece252d73477df02d487eee92bb787dba0ce0e"},
+    "panel_08": {"sourceClass":"EXACT_ORIGINAL","size":2830859,"sha256":"7abe0aef5b9e5d800105454e31f1fd0e07c7f0220d84a4d316a7980e94acb228"},
+    "panel_09": {"sourceClass":"EXACT_ORIGINAL","size":2912196,"sha256":"38e38e60e523e45904df28ace0a6f85f9a507dad73cf91cb82303cc31b6d0833"},
+    "panel_10": {"sourceClass":"EXACT_ORIGINAL","size":2669132,"sha256":"244edb9e90b18e48dcfe758b024bd3a36c64d310e3b68f3f5b8e1553146a37ea"},
+    "panel_11": {"sourceClass":"EXACT_ORIGINAL","size":2963197,"sha256":"915839405e48cd9017c1597797c3ad1c2058dbd82ad8636849bb0a5dbfa420c2"},
+    "panel_12": {"sourceClass":"EXACT_ORIGINAL","size":2846639,"sha256":"3cfef19705c9d8efaff16bd3539d05fc7f2256c19ba50c60cd0a85302949ac7a"},
+    "cta_13": {"sourceClass":"EXACT_ORIGINAL","size":1345750,"sha256":"c4cacd9f142ca27e3646ebf1846c93ec24812830611907c5d6665d677683103b"}
+  },
+  "transportIntegrityTest": {
+    "result": "FAILED",
+    "method": "local exact chunk -> base64 -> GitHub create_blob -> compare returned Git blob SHA-1 to locally computed Git object SHA-1",
+    "tests": [
+      {"rawChunkSize":49152,"expectedGitBlobSha":"484eee9f64934fea127b5944c67b86b0df9c3d18","returnedGitBlobSha":"a30fd2268cd44ea25bd3f8ad82399ac70b914880","match":false},
+      {"rawChunkSize":16384,"expectedGitBlobSha":"0f6fc785943bb365e5475cdc48b5b49194912cf9","returnedGitBlobSha":"75c3604d3966df22ecc1461558eb51d785ef68fc","match":false}
+    ],
+    "orphanTestBlobsReferencedByQueue": false
+  },
+  "publication": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "queueManifestCreated": false,
+    "assemblerWorkflowTriggered": false,
+    "canonicalImageFilesReadBack": 0,
+    "canonicalImagesDirectoryReadBack": "404_NOT_FOUND",
+    "storyJsonUpdatedAfterBinaryReadBack": false,
+    "storiesIndexUpdatedAfterBinaryReadBack": false
+  },
+  "reason": "The connected GitHub create_blob action exposes only inline string/base64 input and no local-file/file-reference parameter. Integrity tests show that moving multi-kilobyte runtime binary chunks through the available model/tool argument boundary does not preserve the exact chunk bytes. Creating a v2 queue from mismatched chunk blobs would violate the binary-backfill protocol. No CHAT_RECOVERED fallback applies because exact original bytes are directly accessible for all 14 canonical assets; the failure is transport, not source recovery."
+}

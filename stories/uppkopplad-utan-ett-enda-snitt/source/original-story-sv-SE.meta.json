@@ -1,0 +1,11 @@
+{
+  "schema": "navichain-narrative-master-v1",
+  "storyId": "uppkopplad-utan-ett-enda-snitt",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sha256": "f95f183e2e02fd3346f6f8f6f016a85f58b2db8f9fcda89136f4b3519d17e3ba",
+  "size": 8515,
+  "path": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-sv-SE.md",
+  "githubReadBackVerified": true
+}

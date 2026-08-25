@@ -1,0 +1,51 @@
+{
+  "schema": "navichain-binary-backfill-retry-report-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-23T23:30:00+02:00",
+  "protocol": "BINARY-BACKFILL-RETRY.md",
+  "githubRepository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "runtimeVerification": {
+    "currentCanonicalCandidatesDirectlyAccessible": 10,
+    "historicalCanonicalCandidatesNoLongerDirectlyAccessible": 4,
+    "githubPublishedCanonicalBinaryAssetsReadBack": 0,
+    "githubImagesPathReadBack": "404_NOT_FOUND"
+  },
+  "assets": {
+    "cover_00": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"klockan_som_inte_ljög.png","size":3013908,"dimensions":"1055x1491","sha256":"18db96fe610219b9ccfe65aa69a9ff5738a864e213560a332da47b0973b24931","qa":"REBUILD_REQUIRED_brand_critical_logo_not_verified_as_deterministic_official_composite"},
+    "panel_01": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_single_comic_style_illustration_panel_vintage.png","size":3017600,"dimensions":"1149x1369","sha256":"8210939cfaf28b44c0027d0172349b93d29fc663c05571bed7909ebdb0a3d602","qa":"approval_not_established"},
+    "panel_02": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"veckans_arbete_i_kvitton.png","size":2856060,"dimensions":"1122x1402","sha256":"4bc6741de5f6a56083ce18bb63aacaa0b912e2f69f66a84e6c4b6ed0b90575d2","qa":"approval_not_established"},
+    "panel_03": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"fakturadilemma_på_kontoret.png","size":2865173,"dimensions":"1122x1402","sha256":"c93d51fab787c7ebdd2d600468ab3e48784e510b54101b620868760741a47bb6","qa":"approval_not_established"},
+    "panel_04": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_illustration_style_scene_in_a_warm_vintage.png","size":3003451,"dimensions":"1148x1370","sha256":"51e8e6fb9d52fde6d4fcaac4b89106779a21f844d0d6d6c9386493cbae25870e","qa":"REBUILD_REQUIRED_navichain_mark_visible_before_panel_07"},
+    "panel_05": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_book_illustrated_panel_in_a_warm_retro_i.png","size":3164367,"dimensions":"1149x1369","sha256":"c6dace9a9b56183b20fe3360ddcfe080dabc8abf75aca79c5537a3f0ceb8e3ec","qa":"approval_not_established"},
+    "panel_06": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_detailed_comic_book_style_illustration_panel_s.png","size":3237401,"dimensions":"1148x1370","sha256":"5967a7326386b3c578c58b918e2fcbf13eab6b73602b3cf23479a79ad565c3a8","qa":"approval_not_established"},
+    "panel_07": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_book_style_office_scene_in_a_warm_slightl.png","size":3160761,"dimensions":"1148x1370","sha256":"edc4bc30a928918a41b25ee41f759f06df6c64beb4aea2456dc76903bec74ee6","qa":"approval_not_established"},
+    "panel_08": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"ankomstbevis_vid_elskåpet.png","size":3353454,"dimensions":"1024x1536","sha256":"d167bcc1fd2e4cf8c48e8b3bff765f64d93a22d132161a1f9b7148c2eec3e533","qa":"REBUILD_REQUIRED_product_truth_unresolved_for_service_time_anchor"},
+    "panel_09": {"classification":"EXISTS_AND_EXPORTABLE","sourceFilename":"signatur_och_tidsstämplar_på_jobbet.png","size":3265861,"dimensions":"1024x1536","sha256":"f686d589324f64be27b761f7ffe82cb22a46db808636aff411739a6c09ca2212","qa":"REBUILD_REQUIRED_product_truth_unresolved_for_service_time_anchor"},
+    "panel_10": {"classification":"SOURCE_NOT_EXPORTABLE","historicalHintFilename":"a_comic_style_illustration_of_an_office_scene_pan.png","historicalSha256":"244edb9e90b18e48dcfe758b024bd3a36c64d310e3b68f3f5b8e1553146a37ea","reason":"historically inventoried but exact original bytes are not directly accessible in current runtime"},
+    "panel_11": {"classification":"SOURCE_NOT_EXPORTABLE","historicalHintFilename":"a_comic_book_style_panel_illustration_of_an_office.png","historicalSha256":"915839405e48cd9017c1597797c3ad1c2058dbd82ad8636849bb0a5dbfa420c2","reason":"historically inventoried but exact original bytes are not directly accessible in current runtime"},
+    "panel_12": {"classification":"SOURCE_NOT_EXPORTABLE","historicalHintFilename":"a_full_color_comic_illustration_style_poster_like.png","historicalSha256":"3cfef19705c9d8efaff16bd3539d05fc7f2256c19ba50c60cd0a85302949ac7a","reason":"historically inventoried but exact original bytes are not directly accessible in current runtime"},
+    "cta_13": {"classification":"SOURCE_NOT_EXPORTABLE","historicalHintFilename":"cta_13_klockan_som_inte_ljog_final.png","historicalSha256":"c4cacd9f142ca27e3646ebf1846c93ec24812830611907c5d6665d677683103b","reason":"historically inventoried but exact original bytes are not directly accessible in current runtime"}
+  },
+  "directlyAccessibleNonCanonicalSourceRenders": [
+    {"sourceFilename":"a_full_page_comic_book_style_cover_illustration_in.png","sha256":"58b94fa8543476414c0ec99fbe88ec6c54dc6431c4b88e25848ace425fec3c5b","state":"superseded_cover_wrong_logo"},
+    {"sourceFilename":"arbetsveckan_i_handskfacket.png","sha256":"0060fc6c522aeb9869242f3a64b22a5e5f2303ca2f524fc71375e0dd1e28639d","state":"alternate_panel_02"},
+    {"sourceFilename":"a_comic_book_illustrated_office_scene_in_warm_vi.png","sha256":"1eb2041bb69fc024006ea6b58b1d434732998ef673c954fa8bdfe75abf20bb4c","state":"divergent_panel_08_REBUILD_REQUIRED"},
+    {"sourceFilename":"a_detailed_comic_illustration_panel_scene_in_warm.png","sha256":"00da35029d9b4ebef52fe1ca42a72af5085a00ee32c89864c135a199e6308582","state":"divergent_panel_09_REBUILD_REQUIRED"},
+    {"sourceFilename":"a_comic_illustration_style_panel_scene_in_a_truck.png","sha256":"b0f11b748790457f30924ce5161e86ad61329d7ce1dbf06855166184591b7de9","state":"divergent_panel_09_REBUILD_REQUIRED"},
+    {"sourceFilename":"a_comic_book_graphic_novel_style_illustration_p.png","sha256":"50cf246866f518b63a733bfda686ed8a33d2badbdde2f843aa3c2ec81582e549","state":"divergent_panel_09_REBUILD_REQUIRED"}
+  ],
+  "otherHistoricalBinaries": {
+    "pdf": {"classification":"SOURCE_NOT_EXPORTABLE","historicalPath":"/mnt/data/klockan_som_inte_ljog_sv-SE_package/carousel/klockan_som_inte_ljog_sv-SE.pdf"},
+    "releaseZip": {"classification":"SOURCE_NOT_EXPORTABLE","historicalPath":"/mnt/data/klockan_som_inte_ljog_sv-SE_package.zip"}
+  },
+  "binaryTransportAttempt": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "The connected GitHub surface exposes create_blob(content, encoding) but no file-parameter binary upload action. The active connector invocation contract does not permit embedding local file bytes/base64 into tool arguments, so the exact runtime binary cannot be passed to create_blob without violating the connector contract. No queue manifest was fabricated and no binary was reconstructed or substituted.",
+    "queueManifestCreated": false,
+    "assemblerWorkflowTriggered": false
+  },
+  "result": "INCOMPLETE"
+}

@@ -1,0 +1,109 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "den-som-redan-var-narmast",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "DEN SOM REDAN VAR NÄRMAST",
+  "subtitle": "Yvonne, Rasmus och gissningen som kostade fyrtiofem minuter",
+  "series": "Kron Elteknik",
+  "episode": 6,
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "sourceCompleteness": "COMPLETE_AT_SOURCE_RUNTIME",
+  "creativeQaStatus": "RELEASE_BLOCKED_REBUILDS_REMAIN",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "sourceExactOriginalAssetCount": 14,
+      "githubPublishedAssetCount": 0,
+      "visualReleaseQa": "NOT_PASSED",
+      "historicalQa": {
+        "UNKNOWN": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_08"],
+        "REBUILD_REQUIRED": ["panel_07","panel_09","panel_10","panel_11","panel_12","cta_13"]
+      },
+      "historicalExactRenderAttempts": 21,
+      "historicalPdfCount": 2,
+      "historicalSocialCopyCount": 1,
+      "releasePublished": false
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "narrativeTranslation": "PUBLISHED_READBACK_VERIFIED",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "visualAssetsPublished": 0,
+      "releasePublished": false
+    }
+  },
+  "narrativeTextArtifacts": {
+    "sv-SE": {
+      "path": "stories/den-som-redan-var-narmast/ORIGINAL_STORY.md",
+      "sourceClass": "CHAT_RECOVERED",
+      "narrativeMaster": true,
+      "size": 10144,
+      "sha256": "53788a77f250773b063559caf2a98f1d55f325df8bd59d00cdf3dd61ce7b41c6",
+      "gitBlobSha": "91c5a9c0ee898028ef8b2ef2dc4389cf525125e5",
+      "readBackVerified": true
+    },
+    "en-GB": {
+      "path": "stories/den-som-redan-var-narmast/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "narrativeMaster": false,
+      "sourceStorySha256": "53788a77f250773b063559caf2a98f1d55f325df8bd59d00cdf3dd61ce7b41c6",
+      "size": 10296,
+      "sha256": "f744b28b37e1bad46f2a18162f58490a03e539e83d5d0647674cc1aa7293bd2a",
+      "gitBlobSha": "1692496d0655d98d561d603b48071b649d2a595e",
+      "readBackVerified": true
+    }
+  },
+  "canonicalAssets": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3533600,"sha256":"ba4083e7daf33a1e81dd20ded589d5e3c527a587bb2a6c1c281fb5edf3fbf655","githubPublished":false},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3690359,"sha256":"6cde237d32e555d7fe1b41da224297950bb3188072ac3a0915d37c61861b19cb","githubPublished":false},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3357813,"sha256":"5a4eded2ded7e195367eaf30e8836c36eebdef6f092b3b25334f72a077316ea4","githubPublished":false},
+    "panel_03": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3591576,"sha256":"2a6ee7788bc34a972556820d7b5978911523ff1f4e9fc53211151f0759c44a78","githubPublished":false},
+    "panel_04": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3517077,"sha256":"1a005b6c804e1a19915104ee50112600aedd36ac3c70c8abf6a5b1b52e002f00","githubPublished":false},
+    "panel_05": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3346040,"sha256":"e8c19a8e34c3beabd513ac87195df3b311b33b15e18fc61a62b42ca01ff6fbfb","githubPublished":false},
+    "panel_06": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3369054,"sha256":"63ba2e0d1c845ed3f1ba0786d16c90a7597caf0ea6a8749e79e401605df80a6e","githubPublished":false},
+    "panel_07": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2952275,"sha256":"1245b124ceccb2d622980df6b89602f2ebd7a90d45505f425a258a2b0805ebbe","githubPublished":false},
+    "panel_08": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3536312,"sha256":"0b6154b9113c84c34df94a63a85a90f9fe33cd897d2f5822e83567772bf6e97a","githubPublished":false},
+    "panel_09": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2967245,"sha256":"bd6e8505447d789170c09b7150aff7327d68bdbd98ba7128cbb9f4916ac33025","githubPublished":false},
+    "panel_10": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3450060,"sha256":"529f4212dc72f730658a837cbeff13aa81f2e40eb204fe20d2bf181e3783fbb3","githubPublished":false},
+    "panel_11": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3197116,"sha256":"50b891e61b8fd7656e797e20ef5dc76c425e26c3256c4752794c770e0fc003a7","githubPublished":false},
+    "panel_12": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3249001,"sha256":"b99bc02aed1a8bef319305e06f7e3c8a1b5625dfcfc97a114d4edf5fc210a489","githubPublished":false},
+    "cta_13": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3443617,"sha256":"41ab20e5c28bd581f09aeb86469bc812229850773621c8fe7518c1e85028f568","githubPublished":false}
+  },
+  "historicalDerivedOutputs": {
+    "originalAssetsCarousel": {"sourceClass":"EXACT_ORIGINAL","size":10069598,"sha256":"76edc78b2053d6b533dd25e0f5bd344dfa43d30149ece4ab2910d0ef193819ea","githubPublished":false},
+    "resizedDraftCarousel": {"sourceClass":"EXACT_ORIGINAL","size":70984320,"sha256":"2d3a6dc8415b7f06cdfde0fa483c2a2c142a58a190464e312ba0d163a68210c0","githubPublished":false},
+    "linkedinSvSE": {"sourceClass":"EXACT_ORIGINAL","size":400,"sha256":"612c61c976b784f8662cb92ddc0e6cabf159d840dfd760966b33bb3d607ea177","githubPublished":false},
+    "releaseZip": {"sourceClass":"EXACT_ORIGINAL","size":55084513,"sha256":"05407ff46ffb59749a9b8a8f179f68a0f96c028f3328635bca0e6f9fcd58f9a7","githubPublished":false},
+    "attemptsZip": {"sourceClass":"EXACT_ORIGINAL","size":66610509,"sha256":"f8c2f026d07230806daf59c9cfe5dae48697fe217586656068555af04e33d05b","githubPublished":false},
+    "draftPackageZip": {"sourceClass":"EXACT_ORIGINAL","size":101424550,"sha256":"ef0d7938d1c0f977487d2005719b64e9282e23d2c8b0c79f30e3ea13f13fec80","githubPublished":false}
+  },
+  "validationLog": "stories/den-som-redan-var-narmast/source/preflight-correction-log-sv-SE.md",
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "checkedAt": "2026-08-24T19:43:00+02:00",
+    "sourceInventoryCounts": {"totalIndexedItems":82,"EXACT_ORIGINAL":70,"CHAT_RECOVERABLE":2,"DERIVED_TRANSLATION":1,"SOURCE_NOT_EXPORTABLE":0,"NOT_CREATED":9},
+    "canonicalExactOriginalAccessible": 14,
+    "historicalExactRenderAttemptsAccessible": 21,
+    "githubPublishedBinaryAssets": 0,
+    "automaticTransport": {
+      "requested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+      "chromeControlAvailable": false,
+      "nextcloudConnectorAvailable": false,
+      "manualOnceCurlPythonPublisherFallbackUsed": false,
+      "status": "UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE"
+    }
+  },
+  "githubBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "githubBackfillReason": "All 14 canonical PNG source bytes and additional historical binaries are locally accessible, but the current assistant tool surface cannot invoke the requested Chrome/local-capture/Nextcloud/router chain and the GitHub connector has no local-file binary upload parameter. Text and metadata are published directly; binary files remain unsynced without reconstructing or transcoding them.",
+  "githubPublishedBinaryAssets": 0,
+  "binaryPublication": "GITHUB_PUBLISH_FAILED",
+  "canonicalOriginalStory": "stories/den-som-redan-var-narmast/ORIGINAL_STORY.md",
+  "qa": "stories/den-som-redan-var-narmast/sv-SE/qa/retro-backfill-v2-export-qa.md",
+  "manifest": "stories/den-som-redan-var-narmast/sv-SE/manifest/retro-backfill-v2-manifest.json",
+  "latestRetroBackfillStatus": "stories/den-som-redan-var-narmast/metadata/retro-backfill-v2-status-2026-08-24T1943+02.json"
+}

@@ -1,0 +1,13 @@
+{
+  "schema": "navichain-storyportal-release-manifest-v1",
+  "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "canonicalAssetsPresent": ["cover_00", "panel_01"],
+  "canonicalAssetsMissing": ["panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+  "pdf": null,
+  "social": null,
+  "releaseZip": null,
+  "releaseAllowed": false
+}

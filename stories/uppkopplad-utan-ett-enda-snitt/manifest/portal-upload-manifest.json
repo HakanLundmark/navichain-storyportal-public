@@ -1,0 +1,18 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "uppkopplad-utan-ett-enda-snitt",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "storySlug": "uppkopplad-utan-ett-enda-snitt",
+  "title": "Uppkopplad utan ett enda snitt",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0-backfill-2026-08-23",
+  "exportedAt": "2026-08-23T08:31:00+02:00",
+  "source": "chatgpt-current-story-chat",
+  "originalStory": {"path": "ORIGINAL_STORY.md", "status": "present"},
+  "locales": ["sv-SE"],
+  "assets": {"sv-SE": ["sv-SE/images/cover_00.png","sv-SE/images/panel_01.png","sv-SE/images/panel_02.png","sv-SE/images/panel_03.png","sv-SE/images/panel_04.png","sv-SE/images/panel_05.png","sv-SE/images/panel_06.png","sv-SE/images/panel_07.png","sv-SE/images/panel_08.png","sv-SE/images/panel_09.png","sv-SE/images/panel_10.png","sv-SE/images/panel_11.png","sv-SE/images/panel_12.png","sv-SE/images/cta_13.png"]},
+  "pdfs": {"sv-SE": "sv-SE/pdf/uppkopplad-utan-ett-enda-snitt_sv-SE.pdf"},
+  "social": {"sv-SE": "sv-SE/social/linkedin-sv-SE.txt"},
+  "qa": {"export": "pass", "releaseStatusKnown": false, "finalReleasePassAsserted": false},
+  "publishPolicy": {"portalMayImportIncompletePackage": true, "portalMayPublishIncompleteStory": false, "githubSyncAfterSuccessfulPortalImport": true}
+}

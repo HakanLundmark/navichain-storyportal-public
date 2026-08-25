@@ -1,0 +1,43 @@
+{
+  "storyId": "ingen-ringde-anda-visste-han",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "Ingen ringde — ändå visste han",
+  "subtitle": "Gunilla, Robban och kommunikationen som aldrig stör vägen framme",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrativeMasterLock": "not_formally_versioned_in_chat",
+  "status": "INCOMPLETE",
+  "locales": {"sv-SE": "INCOMPLETE"},
+  "verifiedOriginalAssets": 13,
+  "requiredOriginalAssets": 14,
+  "missing": [],
+  "existsButNotExportable": ["panel_10"],
+  "exportableAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_11","panel_12","cta_13"],
+  "githubPublishedBinaryAssets": 0,
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "EXISTS_AND_EXPORTABLE",
+    "social": "MISSING",
+    "QA": "MISSING",
+    "manifest": "MISSING",
+    "sources": "MISSING"
+  },
+  "pdf": "stories/ingen-ringde-anda-visste-han/sv-SE/carousel/navichain_ingen_ringde_sv-SE_pdf_karusell.pdf",
+  "backfilledAt": "2026-08-23T10:50:00+02:00",
+  "notes": [
+    "Locale is not a complete release because panel_10 original source render is not directly exportable.",
+    "No replacement was reconstructed from the PDF or regenerated."
+  ],
+  "narrativeMasterPath": "stories/ingen-ringde-anda-visste-han/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "ae2f2b6070bb8938122c6ae64023bf4418615ab66a80aab9f0950d1fb0a7b2df",
+  "enGbStoryPath": "stories/ingen-ringde-anda-visste-han/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "4d354eb5df5998f8c25b14fc67f5667b8fbe573725be99d034f2286674424d3c",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:03:00+02:00",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "retroBackfillV2StatusPath": "stories/ingen-ringde-anda-visste-han/metadata/retro-backfill-v2-status.json"
+}

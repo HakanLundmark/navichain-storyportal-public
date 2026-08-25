@@ -1,0 +1,49 @@
+{
+  "schema": "navichain-retro-backfill-v2-locale-status",
+  "storyId": "NC-INGET-ATT-DOLJA",
+  "locale": "sv-SE",
+  "masterVersion": "v1.0",
+  "status": "INCOMPLETE",
+  "narrativeMaster": true,
+  "canonicalVisualAssets": {
+    "required": 14,
+    "sourceExportable": 13,
+    "githubPublished": 0,
+    "sourceClassCounts": {
+      "EXACT_ORIGINAL": 13,
+      "CHAT_RECOVERED": 0,
+      "SOURCE_NOT_EXPORTABLE": 1,
+      "NOT_CREATED": 0
+    },
+    "exactOriginal": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"],
+    "sourceNotExportable": ["cta_13"],
+    "qaStatus": "canonical source bytes inventoried; historical package mechanical QA was PASS, strict release certification remained REVIEW_REQUIRED"
+  },
+  "pdf": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "count": 2,
+    "githubPublished": 0,
+    "qaStatus": "PARTIAL_QA_VERIFIED",
+    "files": [
+      {"filename":"inget_att_dolja_sv-SE_pdf_karusell.pdf","size":16039302,"sha256":"1e29a3f2f0af513c9ab31f22239b7d3909a82ab71cb321ecf09d87bf78aa3613","pages":14},
+      {"filename":"inget_att_dolja_sv-SE-package-carousel.pdf","size":55876498,"sha256":"2821539570adc203056315a5c480d682c3d9d1be09cd61b17bb9aba579bed2ee","pages":14}
+    ],
+    "verifiedFacts": ["14 pages", "canonical order cover_00 through cta_13 for the earlier carousel", "CTA QR historically decoded to https://navichain.se/signup"]
+  },
+  "social": {
+    "path": "stories/NC-INGET-ATT-DOLJA/sv-SE/social/linkedin-sv-SE.txt",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "c536b86a07e1118e68b44ad69f95e87f716018743e7c4f381197e12443a4b855",
+    "qaStatus": "UNKNOWN"
+  },
+  "historicalAdditionalExactVisuals": 12,
+  "localPublishPackage": {
+    "filename": "NC-INGET-ATT-DOLJA-v1.0-sv-SE-retro-backfill-v2.zip",
+    "size": 147542812,
+    "sha256": "1861e162a225e0448ef2c03436c61037ad8d6d56c3dd91cbb1a12c904a4382eb",
+    "fileCount": 53,
+    "publishRequest": "NC-INGET-ATT-DOLJA-sv-SE.publish.json"
+  },
+  "releaseEligible": false,
+  "blockingReason": "Final canonical cta_13 original bytes are SOURCE_NOT_EXPORTABLE; no binary from this locale has been verified at its canonical GitHub path in this run."
+}

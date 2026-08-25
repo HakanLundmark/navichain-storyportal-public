@@ -1,0 +1,61 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "SAMMA-KUND-TVA-VARLDAR",
+  "generatedAt": "2026-08-24T17:25:00+02:00",
+  "inventoryItems": 107,
+  "classifications": {
+    "EXACT_ORIGINAL": 89,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 11,
+    "NOT_CREATED": 6
+  },
+  "canonicalVisualAssets": {
+    "foundExactOriginal": 14,
+    "githubPublishedAndVerified": 0,
+    "qa": {
+      "panel_10": "REBUILD_REQUIRED",
+      "cta_13": "REBUILD_REQUIRED",
+      "others": "UNKNOWN unless separately proven"
+    }
+  },
+  "narrativeMaster": {
+    "path": "stories/SAMMA-KUND-TVA-VARLDAR/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "61a5b45408be5276d0df02047e340f47176d8232da41181d9b9a70df25a9d965",
+    "readBack": "PASS"
+  },
+  "englishStory": {
+    "path": "stories/SAMMA-KUND-TVA-VARLDAR/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sha256": "58fd53574281dc90200f2bba10167f4166267d03d1880b22f85625be3d835d1b",
+    "readBack": "PASS"
+  },
+  "localPackages": {
+    "fullHistoricalExport": {
+      "filename": "SAMMA-KUND-TVA-VARLDAR-retro-backfill-v2-historical-export.zip",
+      "size": 599411038,
+      "sha256": "65bcfae737d9783b26e1b7aff75adffd794310fb3969e2d95a7066451dd4f5b9"
+    },
+    "svSEPublisherPackage": {
+      "filename": "SAMMA-KUND-TVA-VARLDAR-sv-SE-retro-backfill-v2.package.zip",
+      "size": 299680409,
+      "sha256": "b12b218317cd84d753a2fc2306dbce207d78500a4a4d8dce33f1c031c821656e",
+      "files": 47
+    },
+    "enGBPublisherPackage": {
+      "filename": "SAMMA-KUND-TVA-VARLDAR-en-GB-retro-backfill-v2.package.zip",
+      "size": 11668,
+      "sha256": "5bd27831a6ab0d690870c6efc583fe4b42646698199ea34c9f30141c47929e5f",
+      "files": 2
+    }
+  },
+  "automaticTransport": {
+    "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "status": "UNAVAILABLE_FROM_THIS_CHAT_RUNTIME",
+    "nextcloudArchiveVerified": false,
+    "publisherVerified": false
+  },
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "finalBackfillStatus": "PARTIAL_BACKFILL"
+}

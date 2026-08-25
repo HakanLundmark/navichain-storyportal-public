@@ -1,0 +1,24 @@
+{
+  "schema": "navichain-story-source-metadata-v1",
+  "storyId": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "37cb60e6255b0a523d384920d7dfceef478b7a9e2d6748b7386a73b1da5e6e8b",
+    "size": 10451
+  },
+  "translations": [
+    {
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "37cb60e6255b0a523d384920d7dfceef478b7a9e2d6748b7386a73b1da5e6e8b",
+      "path": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.md",
+      "sha256": "5600c900c65c912f58aee50913c8a863cdceae7b98d70b692e76d492f2fda480",
+      "size": 10532
+    }
+  ]
+}

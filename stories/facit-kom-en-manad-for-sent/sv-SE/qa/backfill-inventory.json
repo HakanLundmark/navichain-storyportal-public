@@ -1,0 +1,37 @@
+{
+  "storyId": "facit-kom-en-manad-for-sent",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "classification": "INCOMPLETE",
+  "inventoryAt": "2026-08-23T10:50:00+02:00",
+  "canonicalOriginalStory": "EXISTS_AND_EXPORTABLE",
+  "requiredReleaseAssets": [
+    "cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"
+  ],
+  "existsAndExportable": [
+    "cover_00","panel_01","panel_02","panel_03","panel_04","panel_05"
+  ],
+  "existsButNotExportable": [],
+  "missing": [
+    "panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"
+  ],
+  "nonCanonicalRejectedArtifacts": {
+    "count": 4,
+    "reason": "MULTI_ASSET_RENDER",
+    "state": "EXISTS_AND_EXPORTABLE_REJECTED"
+  },
+  "otherContent": {
+    "pdfCarousel": "MISSING",
+    "linkedinSocialCopy": "MISSING",
+    "releaseQa": "MISSING",
+    "releaseManifest": "MISSING",
+    "releaseZip": "MISSING"
+  },
+  "github": {
+    "originalStoryPublished": true,
+    "storyMetadataPublished": true,
+    "originalPngBinariesPublished": false,
+    "binaryPublishFailure": "GITHUB_PUBLISH_FAILED",
+    "reason": "The connected GitHub write action available for direct file publishing in this session is UTF-8 text oriented. Original PNG binaries were not reconstructed, transcoded, extracted from PDFs, or replaced with generated alternatives."
+  }
+}

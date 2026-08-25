@@ -1,0 +1,16 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "BRON-SOM-STOPPADE-ALLT",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/BRON-SOM-STOPPADE-ALLT/ORIGINAL_STORY.md",
+  "sourceStorySize": 2107,
+  "sourceStorySha256": "bd43dca4e4b4b58626aa6a208f03cc195b2abb600b62985e98f67b372f1b7650",
+  "translatedStorySize": 2182,
+  "translatedStorySha256": "792f003e4c5ffaaea9a69a30101bf7866cad3081144effb7ddfe8cc5fd60603b",
+  "createdAt": "2026-08-24T22:10:00+02:00",
+  "note": "Direct faithful en-GB translation of the canonical sv-SE Narrative Master. Not a visual locale build and not a Narrative Master."
+}

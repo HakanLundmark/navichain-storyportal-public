@@ -1,0 +1,17 @@
+{
+  "schema": "navichain-story-translation-provenance-v1",
+  "storyId": "pdf-en-som-bokade-sig-sjalv",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/pdf-en-som-bokade-sig-sjalv/ORIGINAL_STORY.md",
+  "sourceStoryGitBlobSha": "6679b1171b2bfcc326750253562b68d92cc2f21f",
+  "sourceStorySha256": "9c40c5305018d3f294e3c70e63e4a3037091ffb0cc3d2acecf86fb33aa86932d",
+  "translationPath": "stories/pdf-en-som-bokade-sig-sjalv/source/original-story-en-GB.md",
+  "translationGitBlobSha": "4530a4a473024e75ec41341781f165329f7f8ae3",
+  "translationSize": 10822,
+  "verifiedAt": "2026-08-24T19:10:00+02:00",
+  "verification": "Read back from GitHub main and compared semantically against the canonical sv-SE Narrative Master. No plot, chronology, protagonist, company, capability or business-problem drift detected."
+}

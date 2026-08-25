@@ -1,0 +1,32 @@
+{
+  "schema": "navichain-backfill-inventory-v1",
+  "storyId": "ingen-tackning-inget-tappat",
+  "locale": "en-GB",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "canonicalReleaseAssets": {
+    "cover_00": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "a_clean_illustrated_poster_cover_style_scene_in_a.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_01": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "skogsvägen_utan_signal.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_02": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "skogskontroll_med_väntande_inspektionsbilder.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_03": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "förlorad_signal_dubbelt_arbete.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_04": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "a_comic_illustration_style_panel_inked_line_art_w.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_05": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "a_comic_book_graphic_novel_style_illustration_pa.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_06": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "a_full_color_comic_illustration_panel_scene_in_a_c.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_07": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "a_comic_book_graphic_novel_style_panel_full_upr.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_08": {"state": "EXISTS_AND_EXPORTABLE", "runtimeFile": "a_comic_graphic_novel_style_illustration_panel_vi.png", "releaseEligible": false, "qa": "REBUILD_REQUIRED_FOREIGN_STORY_OR_CONTINUITY_DRIFT"},
+    "panel_09": {"state": "MISSING", "releaseEligible": false},
+    "panel_10": {"state": "MISSING", "releaseEligible": false},
+    "panel_11": {"state": "MISSING", "releaseEligible": false},
+    "panel_12": {"state": "MISSING", "releaseEligible": false},
+    "cta_13": {"state": "MISSING", "releaseEligible": false}
+  },
+  "existsAndExportableCount": 9,
+  "missing": ["panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+  "existsButNotExportable": [],
+  "releaseBlockers": [
+    "only 9/14 required asset slots have directly accessible render files",
+    "all accessible EN-GB render attempts are REBUILD_REQUIRED due foreign-story/continuity drift from the sv-SE master",
+    "no EN-GB PDF/social/QA/release manifest/ZIP"
+  ],
+  "backfilledAt": "2026-08-23T11:10:43+02:00"
+}

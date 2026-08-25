@@ -1,0 +1,65 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "NC-SWF-018",
+  "title": "INGEN PÅ PLATS, ÄNDÅ EN PLAN",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/NC-SWF-018/ORIGINAL_STORY.md",
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 11226,
+    "sha256": "4bf105a72408585b0ab8962705a06d04afe005252f387bdfd78fc15042111f58",
+    "githubReadBackVerified": true
+  },
+  "enGBStory": {
+    "path": "stories/NC-SWF-018/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "size": 11122,
+    "sha256": "f47cb47668502689cb3450b63fd758c16ac5746c7ff354edb9f8103d36d4dcff",
+    "githubReadBackVerified": true
+  },
+  "canonicalVisualSlots": 14,
+  "exactOriginalCanonicalAssetsAccessible": 13,
+  "githubPublishedBinaryAssets": 0,
+  "canonicalSourceNotExportable": ["panel_04"],
+  "historicalRejectedAttemptsAccessible": 3,
+  "localeReleaseStatus": "INCOMPLETE",
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED",
+  "releaseZip": "NOT_CREATED",
+  "binaryPublication": "GITHUB_PUBLISH_FAILED",
+  "binaryFailureReason": "Exact historical bytes are locally available, but this assistant runtime cannot invoke the ChatGPT-to-Chrome local capture/Nextcloud/router/publisher chain and the GitHub connector has no local-file streaming parameter for create_blob. Rerendering/reconstruction was not used.",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "UNVERIFIED",
+  "checkedAt": "2026-08-24T19:34:00+02:00",
+  "assets": [
+    {"assetId":"cover_00","locale":"sv-SE","filename":"cover_00.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3133851,"sha256":"b535ebe60982cea47463e11545c8efd90ac56f97ecba89ccdf2342d52571e09c","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/cover_00.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_01","locale":"sv-SE","filename":"panel_01.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3038668,"sha256":"10422eeb032a4868c5b2bcc5ac59b80d4dff7c502d39c7e1bf35f3464972d2b7","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_01.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_02","locale":"sv-SE","filename":"panel_02.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3126356,"sha256":"f81111dec240842862452869bb9cd1630909f818577d2b23dc5279a8cfdce6f0","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_02.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_03","locale":"sv-SE","filename":"panel_03.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3008743,"sha256":"6c3c5af2e856c96791ad62ba311f0207914aaa4bf3c0ad7074407d1fb4b9e4a6","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_03.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_04","locale":"sv-SE","filename":null,"provenance":"SOURCE_NOT_EXPORTABLE","qaStatus":"MISSING_CANONICAL_ASSET","size":null,"sha256":null,"dimensions":null,"path":"stories/NC-SWF-018/sv-SE/images/panel_04.png","publishStatus":"SOURCE_NOT_EXPORTABLE"},
+    {"assetId":"panel_05","locale":"sv-SE","filename":"panel_05.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3020733,"sha256":"09e9e1bdda5214c2eceef924dbfb2db87b5711878b864db15623c9ca2a74a823","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_05.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_06","locale":"sv-SE","filename":"panel_06.png","provenance":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2937293,"sha256":"b6d9c8c90c37a0a344f30247aa8f52fa014e5e08cca540f44d972d2e2284e61e","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_06.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_07","locale":"sv-SE","filename":"panel_07.png","provenance":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":2997490,"sha256":"f14567bffca85aec14fd2424d0e8949dc805dd605af3a0a8841139ce3be92640","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_07.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_08","locale":"sv-SE","filename":"panel_08.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2982247,"sha256":"8c73c5777e6e8dbab57a3cff6f0550a6ecb86979e070a5e6b2aeb3416eb3dd2e","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_08.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_09","locale":"sv-SE","filename":"panel_09.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2915445,"sha256":"de81ef933d594aa5bbbd308e59451e358f714320a24140e64cfe6c102668343e","dimensions":{"width":1055,"height":1491},"path":"stories/NC-SWF-018/sv-SE/images/panel_09.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_10","locale":"sv-SE","filename":"panel_10.png","provenance":"EXACT_ORIGINAL","qaStatus":"REJECTED","size":3014430,"sha256":"817139ee58817d69e641a450e2297ac3c51268dd026efe5e3edd3698577a3573","dimensions":{"width":1448,"height":1086},"path":"stories/NC-SWF-018/sv-SE/images/panel_10.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_11","locale":"sv-SE","filename":"panel_11.png","provenance":"EXACT_ORIGINAL","qaStatus":"REJECTED","size":2957056,"sha256":"6b15221d58b3184f75b2970d25caf666a5573f136035d3bb20a384b9f8b1b043","dimensions":{"width":1448,"height":1086},"path":"stories/NC-SWF-018/sv-SE/images/panel_11.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_12","locale":"sv-SE","filename":"panel_12.png","provenance":"EXACT_ORIGINAL","qaStatus":"REJECTED","size":3070754,"sha256":"213dcf5c2d1a1d9bf10c03f8ee03a7e28e078ec34c66b0af0a66080f0c3504af","dimensions":{"width":1448,"height":1086},"path":"stories/NC-SWF-018/sv-SE/images/panel_12.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"cta_13","locale":"sv-SE","filename":"cta_13.png","provenance":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2934986,"sha256":"3c1683db9366787538c5e4337ae520b05d71f21dd9dec47afad11d02f003d211","dimensions":{"width":1086,"height":1448},"path":"stories/NC-SWF-018/sv-SE/images/cta_13.png","publishStatus":"GITHUB_PUBLISH_FAILED"}
+  ],
+  "rejectedPanel04Attempts": [
+    {"filename":"rejected-attempt-01.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED","size":3089367,"sha256":"e16113253ba51160f2f0d7654f3384d3e166914aec7fcc24879a345f799b75bd","dimensions":{"width":1024,"height":1536},"path":"stories/NC-SWF-018/sv-SE/history/panel_04/rejected-attempt-01.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"filename":"rejected-attempt-02.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED","size":3380314,"sha256":"90c29923d0abdda377b331fb9d99fb721c18e64f15ea548c579b6060f2d1c688","dimensions":{"width":1024,"height":1536},"path":"stories/NC-SWF-018/sv-SE/history/panel_04/rejected-attempt-02.png","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"filename":"rejected-attempt-03.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED","size":3137794,"sha256":"50283d2adf56e8ac3833477a02aa39b4dbe6464225bd68fc56a279ab7cc90fc6","dimensions":{"width":1086,"height":1448},"path":"stories/NC-SWF-018/sv-SE/history/panel_04/rejected-attempt-03.png","publishStatus":"GITHUB_PUBLISH_FAILED"}
+  ],
+  "historicalArchives": {
+    "current-assets.zip": {"sourceClass":"EXACT_ORIGINAL","size":38975359,"sha256":"93d8685c1518b80ed1301c84525a195b1242c15b8569baaeedd1aa1e55b58aaa","publishStatus":"GITHUB_PUBLISH_FAILED"},
+    "panel_04-rejected-attempts.zip": {"sourceClass":"SOURCE_NOT_EXPORTABLE","note":"Historical container bytes unavailable; 3 exact member images remain accessible."},
+    "story-sources.zip": {"sourceClass":"SOURCE_NOT_EXPORTABLE","note":"Historical container bytes unavailable; identified source members remain accessible."}
+  }
+}

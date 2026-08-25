@@ -1,0 +1,50 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "TVA-VALUTOR-ETT-STOPP-I-TID",
+  "masterVersion": "1.0",
+  "masterLocale": "sv-SE",
+  "narrativeMaster": {
+    "path": "stories/TVA-VALUTOR-ETT-STOPP-I-TID/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "9543f3eb8175fd8d61c6476f2e1be381ba2afd69436712858926808fb8334c11",
+    "gitBlobIdentityVerified": "83000a3b341f5b305456ab74003cac36e7af328c"
+  },
+  "enGBStory": {
+    "path": "stories/TVA-VALUTOR-ETT-STOPP-I-TID/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sha256": "dc6b1b42453bea1d65658b1a70b8803f3ba8594280c771f129e04a4601fe2cdc",
+    "narrativeMaster": false
+  },
+  "canonicalVisuals": {
+    "sv-SE": {
+      "exactOriginalAccessible": 13,
+      "sourceNotExportable": ["panel_09"],
+      "notCreated": []
+    },
+    "en-GB": {
+      "exactCanonicalPublishable": 0,
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"],
+      "notCreated": ["cta_13"],
+      "exactHistoricalRenderAttemptsAvailable": 21
+    }
+  },
+  "historicalDerived": {
+    "svSeDraftPdf": "EXACT_ORIGINAL_DRAFT_BINARY_LOCAL",
+    "svSeHistoricalPackageZip": "EXACT_ORIGINAL_DRAFT_BINARY_LOCAL",
+    "svSeSocial": "EXACT_ORIGINAL_LOCAL",
+    "svSeHistoricalQaManifestSources": "EXACT_ORIGINAL_LOCAL"
+  },
+  "automaticTransport": {
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloud": "UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE",
+    "hardenedRouter": "UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE",
+    "publisher": "UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE",
+    "githubDirect": "AVAILABLE"
+  },
+  "githubBinaryBackfill": {
+    "canonicalImagesPublished": 0,
+    "smallReferenceBinaryQueueAttempted": true,
+    "status": "PARTIAL"
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

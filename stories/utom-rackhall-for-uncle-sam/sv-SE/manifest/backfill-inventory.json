@@ -1,0 +1,20 @@
+{
+  "storyId": "utom-rackhall-for-uncle-sam",
+  "title": "Utom räckhåll för Uncle Sam",
+  "masterVersion": null,
+  "inventory": {
+    "ORIGINAL_STORY.md": "EXISTS_AND_EXPORTABLE",
+    "sv-SE": {
+      "EXISTS_AND_EXPORTABLE": ["panel_01","panel_02","panel_03","panel_04","panel_05"],
+      "EXISTS_BUT_NOT_EXPORTABLE": ["master/PREFLIGHT-STORYBOARD-SV-SE.md","master/project-status.yaml"],
+      "MISSING": ["cover_00","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","PDF carousel","LinkedIn/social copy"]
+    },
+    "en-US": {
+      "EXISTS_AND_EXPORTABLE": [],
+      "EXISTS_BUT_NOT_EXPORTABLE": ["out_of_reach_of_uncle_sam_en-US_carousel.pdf"],
+      "MISSING": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","LinkedIn/social copy","QA","manifest"]
+    }
+  },
+  "localeValidation": {"sv-SE":"INCOMPLETE","en-US":"INCOMPLETE"},
+  "releaseZipCreated": false
+}

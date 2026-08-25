@@ -1,0 +1,12 @@
+{
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "acd66f041f370043b8b694facc747e9355546a3e46e9672f9d865ed11614e558",
+  "sha256": "3c747df90f39404842430891cef2e0cb22e60b14c073609ffcc1fed491acc3d5",
+  "size": 10094,
+  "sourceEvidence": "Direct faithful translation created during Retro Backfill v2 from the canonical sv-SE Narrative Master; no visual locale build was created."
+}

@@ -1,0 +1,45 @@
+{
+  "schema": "navichain-storyportal-backfill-inventory-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-5-and-canonical-title",
+  "title": "KLOCKAN SOM INTE LJÖG",
+  "subtitle": "En navichain story — Daniel, Siv och timmarna som äntligen stämde",
+  "series": "Kron Elteknik",
+  "episode": 5,
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "backfilledAt": "2026-08-23T10:54:00+02:00",
+  "originalStory": {"status":"EXISTS_AND_EXPORTABLE","path":"ORIGINAL_STORY.md","source":"user-authored canonical story text in this chat"},
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetSlots": 14,
+      "exportableAssetSlots": 9,
+      "missing": ["panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "existsButNotExportable": [],
+      "pdf": "MISSING",
+      "social": "MISSING",
+      "releaseQA": "MISSING",
+      "releaseManifest": "MISSING",
+      "releaseZip": "MISSING"
+    }
+  },
+  "assets": {
+    "cover_00": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"REBUILD_REQUIRED_brand_critical_logo_not_deterministically_composited","sourceFilename":"klockan_som_inte_ljög.png","bytes":3013908,"sha256":"18db96fe610219b9ccfe65aa69a9ff5738a864e213560a332da47b0973b24931"},
+    "panel_01": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"approval_not_established","sourceFilename":"a_single_comic_style_illustration_panel_vintage.png","bytes":3017600,"sha256":"8210939cfaf28b44c0027d0172349b93d29fc663c05571bed7909ebdb0a3d602"},
+    "panel_02": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"approval_not_established","sourceFilename":"veckans_arbete_i_kvitton.png","bytes":2856060,"sha256":"4bc6741de5f6a56083ce18bb63aacaa0b912e2f69f66a84e6c4b6ed0b90575d2"},
+    "panel_03": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"approval_not_established","sourceFilename":"fakturadilemma_på_kontoret.png","bytes":2865173,"sha256":"c93d51fab787c7ebdd2d600468ab3e48784e510b54101b620868760741a47bb6"},
+    "panel_04": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"REBUILD_REQUIRED_navichain_logo_visible_before_panel_07","sourceFilename":"a_comic_illustration_style_scene_in_a_warm_vintage.png","bytes":3003451,"sha256":"51e8e6fb9d52fde6d4fcaac4b89106779a21f844d0d6d6c9386493cbae25870e"},
+    "panel_05": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"approval_not_established","sourceFilename":"a_comic_book_illustrated_panel_in_a_warm_retro_i.png","bytes":3164367,"sha256":"c6dace9a9b56183b20fe3360ddcfe080dabc8abf75aca79c5537a3f0ceb8e3ec"},
+    "panel_06": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"approval_not_established","sourceFilename":"a_detailed_comic_book_style_illustration_panel_s.png","bytes":3237401,"sha256":"5967a7326386b3c578c58b918e2fcbf13eab6b73602b3cf23479a79ad565c3a8"},
+    "panel_07": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"approval_not_established","sourceFilename":"a_comic_book_style_office_scene_in_a_warm_slightl.png","bytes":3160761,"sha256":"edc4bc30a928918a41b25ee41f759f06df6c64beb4aea2456dc76903bec74ee6"},
+    "panel_08": {"classification":"EXISTS_AND_EXPORTABLE","state":"current","qaState":"REBUILD_REQUIRED_foreign_story_content_and_unsupported_template_claim","sourceFilename":"a_comic_book_illustrated_office_scene_in_warm_vi.png","bytes":3062513,"sha256":"1eb2041bb69fc024006ea6b58b1d434732998ef673c954fa8bdfe75abf20bb4c"}
+  },
+  "extraSourceRenders": {
+    "cover_00_superseded": {"classification":"EXISTS_AND_EXPORTABLE","state":"superseded","qaState":"wrong_navichain_logo","sourceFilename":"a_full_page_comic_book_style_cover_illustration_in.png","bytes":3403711,"sha256":"58b94fa8543476414c0ec99fbe88ec6c54dc6431c4b88e25848ace425fec3c5b"},
+    "panel_02_alternate": {"classification":"EXISTS_AND_EXPORTABLE","state":"alternate","qaState":"not_selected_as_current_panel_02","sourceFilename":"arbetsveckan_i_handskfacket.png","bytes":2957207,"sha256":"0060fc6c522aeb9869242f3a64b22a5e5f2303ca2f524fc71375e0dd1e28639d"}
+  },
+  "productTruthStatus": "NOT_RELEASE_PASS",
+  "productTruthNote": "Preflight in this chat identified an unresolved central claim around using two service-proof timestamps as work-time anchors; no locked corrected Narrative Master was produced.",
+  "releaseStatus": "INCOMPLETE"
+}

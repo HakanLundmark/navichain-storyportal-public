@@ -1,0 +1,64 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "vatt-black-torrt-bevis",
+  "checkedAt": "2026-08-24T17:26:00+02:00",
+  "masterLocale": "sv-SE",
+  "narrativeMaster": {
+    "path": "stories/vatt-black-torrt-bevis/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "a91364e0d3773e89cd0d796c327f82ad7b5b67fd9eef773f6fed70166a97b1bf",
+    "githubVerified": true
+  },
+  "englishStory": {
+    "path": "stories/vatt-black-torrt-bevis/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "a91364e0d3773e89cd0d796c327f82ad7b5b67fd9eef773f6fed70166a97b1bf",
+    "sha256": "f66c1e5731f6f0d20f3cd22ebad6a317d047013f6525d9b8027118924d1bfe52",
+    "githubVerified": true
+  },
+  "visualInventory": {
+    "sv-SE": {
+      "exactOriginal": [
+        {"assetId":"panel_01","size":3760635,"sha256":"650ee098f73e3f9f197ac602d0873aa63a14d2679943b55565cf79dd77e14844","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_02","size":3728464,"sha256":"1a107349a42a02c0ade6c2f6196731d54d1ee4e0096350a523c0621e0247b051","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_03","size":3746249,"sha256":"f8b032e1eb24c25b10f5f062908305066253092abef15a1f02195084e734ac9d","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_04","size":3615134,"sha256":"1ba2b5b1d6492088f9ce34388d5a225e39dbc6e74856d3c56b0c7844d6a87435","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_05","size":3697071,"sha256":"29c6b5bd81e4bcc628c2eb763d6c6d2cedf54b614d2656b91b2dd70b08592eaf","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_06","size":3427319,"sha256":"d4ed764c1ae208d68674707c7b3cb12174d973f4bbf5de96f454a16c2325a989","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_07","size":3649506,"sha256":"b62dc43858c4cfd6bda9e182b980579d1261affdf09a67233f98995f68480e9a","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_08","size":3620789,"sha256":"9852beff614e870939a962c1dfffde58b3076d244e3e488c6f70afa17567bdc3","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_09","size":3520665,"sha256":"3c1bdd25588e3b4767b3c7b53654e5b6c1408588958ea2351bce77185810bf5b","dimensions":"1024x1536","qaStatus":"UNKNOWN"},
+        {"assetId":"panel_10","size":3277268,"sha256":"f3550a1f766844040c6b4dfbbd9f62b2968fdddce08943e95191c0b05a14e090","dimensions":"1536x1024","qaStatus":"REBUILD_REQUIRED"},
+        {"assetId":"panel_11","size":3611236,"sha256":"fc5374ca9ec3fba50a17904af2126003414b72a5b23e6df0f97ec908bfcbd130","dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED"},
+        {"assetId":"panel_12","size":3464208,"sha256":"caadcca39e9c555ab7b570b45b7742f047d4bf9a66bf9d2beee630f5c66793f0","dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED"}
+      ],
+      "sourceNotExportable": ["cover_00"],
+      "notCreated": ["cta_13"]
+    },
+    "en-GB": {
+      "exactOriginal": [
+        {"assetId":"panel_09","size":3137793,"sha256":"2e54821c82c58534d54b55689bf7aeaabe5a2f95a56ba29c5a9b7f419019869e","dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED"},
+        {"assetId":"panel_10","size":3112494,"sha256":"7a2b00af9f2121f36815a9ab268a12818e5bbc7f24082169be8461c72c3145c3","dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED"},
+        {"assetId":"panel_11","size":3650574,"sha256":"04a8bea770eb3d48d0625b0770dad641e93e60adb469145cdfc3c5121c6a946f","dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED"},
+        {"assetId":"panel_12","size":3403401,"sha256":"e2bcbad7ac882190b62422c575703b36db1a9f24b3247f4f09335acdc7af90d4","dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED"}
+      ],
+      "additionalExactHistoricalRevision": {"assetId":"panel_11","size":3515490,"sha256":"f6f5be7cbf8f672b091afbdf5b692f352682bd731f0de8dc546372a935c55f0d","dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED"},
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","cta_13","PDF carousel"]
+    },
+    "de-DE": {
+      "sourceNotExportable": ["panel_01","panel_02","panel_03"],
+      "notCreated": ["cover_00","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","PDF carousel","social/LinkedIn copy"]
+    }
+  },
+  "localPublishPackages": {
+    "sv-SE": {"file":"vatt-black-torrt-bevis-sv-SE-retro-v2.zip","sha256":"4044648a4c7a965662d7481a1cd6a528419b9f067b63f3519ed0c6b85540c231","files":13},
+    "en-GB-panel11-rev1": {"file":"vatt-black-torrt-bevis-en-GB-panel11-rev1-retro-v2.zip","sha256":"9c4de993f06f4e6c10d15a25fc76d20b2d6ef47ea980a5e36ed71574a8ede2ac","files":1},
+    "en-GB": {"file":"vatt-black-torrt-bevis-en-GB-retro-v2.zip","sha256":"a06c455eaeefd7a42c9fb0f2f43fa7a8eac1059518c328511a6c52465e5c0d28","files":5}
+  },
+  "githubPublishedBinaryAssets": 0,
+  "binaryStatus": "GITHUB_PUBLISH_FAILED",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

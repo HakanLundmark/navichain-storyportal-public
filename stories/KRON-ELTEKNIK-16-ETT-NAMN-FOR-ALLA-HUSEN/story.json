@@ -1,0 +1,58 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN",
+  "storyIdAuthority": "backfill-derived-from-canonical-title-and-explicit-kron-episode-16",
+  "title": "ETT NAMN FÖR ALLA HUSEN",
+  "subtitle": "Cornelia, Birgitta och familjen av byggnader som äntligen hängde ihop",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "source": "current_chat_backfill_2026-08-23",
+  "originalStory": "ORIGINAL_STORY.md",
+  "narrativeSources": {
+    "sv-SE": {"path":"ORIGINAL_STORY.md","narrativeMaster":true,"sourceClass":"EXACT_ORIGINAL","size":10128,"sha256":"0a4d46bf96a96fc6aff4e4f0d42f850b3481741cdda609af400b19fb5cec64e6","gitBlobSha1":"85e5e3fb59ada4fe1fbb168604bd27622a66a878","verifiedReadBack":true},
+    "en-GB": {"path":"source/original-story-en-GB.md","sourceLocale":"sv-SE","narrativeMaster":false,"translationType":"faithful","sourceClass":"DERIVED_TRANSLATION","sourceStorySha256":"0a4d46bf96a96fc6aff4e4f0d42f850b3481741cdda609af400b19fb5cec64e6","size":10384,"sha256":"ddf0ab5ffa51d22fbbfef1f5ccf83473108ecf7738ef33638d2ba2505cc29404","gitBlobSha1":"5f8cd8678be7eefab2db45741d33d8b3dc068af1","verifiedReadBack":true}
+  },
+  "locales": {
+    "sv-SE": {
+      "status":"INCOMPLETE","canonicalAssetSlots":14,"existsAndExportableCanonicalAssets":2,"existsButNotExportableCanonicalAssets":0,"releaseEligibleAssets":0,
+      "existsAndExportable":["cover_00","panel_09"],"existsButNotExportable":[],
+      "missing":["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_10","panel_11","panel_12","cta_13"],
+      "rebuildRequired":["cover_00","panel_09"],"githubPublishedCanonicalAssets":[],"githubPublishedCanonicalImageAssets":0,
+      "githubPublishedSourceBinaries":["sources/NAVICHAIN-OFFICIAL-LOGO.png"],"githubPublishedSourceBinaryCount":1,
+      "pdf":null,"social":null,"releaseQa":null,"releaseManifest":null,"releaseZip":null
+    },
+    "en-GB": {
+      "status":"INCOMPLETE","textOnly":true,"narrativeMaster":false,"translationType":"faithful","storyTextPath":"source/original-story-en-GB.md","storyTextSourceClass":"DERIVED_TRANSLATION","storyTextVerifiedReadBack":true,"canonicalAssetSlots":14,"githubPublishedCanonicalImageAssets":0,
+      "missing":["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "pdf":null,"social":null,"releaseQa":null,"releaseManifest":null,"releaseZip":null
+    }
+  },
+  "exportableNonCanonicalRenderArtifacts": 4,
+  "sourceNotExportableHistoricalVisualArtifacts": 4,
+  "githubPublishedBinaryAssets": 1,
+  "githubPublishedCanonicalImageAssets": 0,
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryRetryCheckedAt": "2026-08-24T22:20:00+02:00",
+  "retroBackfillV2": {
+    "checkedAt":"2026-08-24T22:20:00+02:00","status":"PARTIAL_BACKFILL","narrativeMasterStatus":"GITHUB_VERIFIED","enGbStoryStatus":"GITHUB_VERIFIED","binaryStatus":"GITHUB_PUBLISH_FAILED","metadataStatus":"PENDING_READBACK_AFTER_WRITE","indexVerifiedReadBack":true,"automaticTransport":"CHROME_NEXTCLOUD_CHAIN_NOT_AVAILABLE_TO_CURRENT_ASSISTANT_RUNTIME",
+    "localHistoricalExportPackage":{"filename":"KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN-retro-backfill-v2-20260824.zip","sizeBytes":29845345,"sha256":"4095f01ecea10ec399a2950b8fda3b323d8bf9df43812253f18ead316815c3a9"},
+    "svSePublishPackage":{"filename":"KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN-sv-SE-retro-backfill-v2-package.zip","sha256":"3116c5867d13fd652f0f006b32a0d515c85eae70cebe28dd94c8ef6d8d2b9da6"},
+    "enGbPublishPackage":{"filename":"KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN-en-GB-retro-backfill-v2-package.zip","sha256":"c326eef0043a78b2d5b5f182570017e923099d6445cb1106eaa90a14699845ff"}
+  },
+  "binaryPublish": {
+    "status":"PARTIAL_SOURCE_PUBLISHED_CANONICAL_IMAGE_FAILED",
+    "sourceLogo":{"localPath":"/mnt/data/NAVICHAIN-OFFICIAL-LOGO.png","sizeBytes":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","gitBlobSha1":"813a548d318bad9c41ad92ef49dd012bbe2cc5c3","githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png","verifiedReadBack":true,"queueDoneManifest":"backfill-binary-done/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN-sv-SE-logo-20260824T0045.json"},
+    "cover_00":{"localPath":"/mnt/data/ett_namn_för_alla_husen.png","sizeBytes":3294510,"sha256":"435573398540fab174715cd58447f5a3d5e5694a85bc17cde3428b8e241b7066","gitBlobSha1Expected":"1065e1c19f23d74e2888c13debc24042d0625116","canonicalDestination":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/cover_00.png","verifiedReadBack":false,"finalPathReadBack":"NOT_FOUND","status":"GITHUB_PUBLISH_FAILED"},
+    "panel_09":{"localPath":"/mnt/data/a_vintage_comic_illustration_style_office_scene_in.png","sizeBytes":2789746,"sha256":"38ddb3231657aefe65578796586a9f414f4fab7240e3ac40ea0b1d3a1586fbb9","gitBlobSha1Expected":"17c5459b0a1aeb0bd1e9dea6486e62b8aa9eeecb","canonicalDestination":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_09.png","verifiedReadBack":false,"finalPathReadBack":"NOT_FOUND","status":"GITHUB_PUBLISH_FAILED"},
+    "failureReason":"Exact binary bytes are locally accessible, but the current assistant runtime cannot control the Chrome/Nextcloud/hardened-router chain and the GitHub connector exposes no local-file binary upload parameter. No replacement or reconstructed binary was submitted."
+  },
+  "notes": [
+    "The user-provided source story remains byte-identical in ORIGINAL_STORY.md and is the sv-SE Narrative Master for historical backfill.",
+    "The en-GB text version is a faithful direct translation from sv-SE, not a Narrative Master and not an image locale build.",
+    "cover_00 and panel_09 are currently accessible EXACT_ORIGINAL historical standalone binaries; both retain REBUILD_REQUIRED QA and are not release eligible.",
+    "Four additional currently accessible exact historical image binaries are REJECTED / MULTI_ASSET_RENDER and are retained only as historical artifacts.",
+    "Three older rejected multi-asset binaries and one older cover candidate are known from prior backfill metadata but are no longer byte-accessible; they remain SOURCE_NOT_EXPORTABLE and were not reconstructed.",
+    "The official Navichain logo source is already GitHub-published and read-back verified. Current canonical story image paths remain absent from GitHub until the binary transport chain can publish their exact bytes."
+  ]
+}

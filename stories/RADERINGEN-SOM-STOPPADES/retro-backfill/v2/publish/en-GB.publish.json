@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "RADERINGEN-SOM-STOPPADES-en-GB-retro-v2.zip",
+  "packageSha256": "05f6c1f7946ebe5fd4823da7ade1fc7e417b830b212d41d7ab0f4b7b766dab3f",
+  "files": [
+    {"archiveName":"source/original-story-en-GB.md","path":"stories/RADERINGEN-SOM-STOPPADES/source/original-story-en-GB.md","size":10243,"sha256":"42c2c5c15b3cd07c958342028fa756d299425eb250f5d61e42f33890ef488f37","sourceClass":"DERIVED_TRANSLATION"}
+  ]
+}

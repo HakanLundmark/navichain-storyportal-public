@@ -1,0 +1,30 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "storySlug": "NC-FRAN-KAOS-TILL-MONSTER",
+  "title": "FRÅN KAOS TILL MÖNSTER",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0",
+  "exportedAt": "2026-08-24T17:27:00+02:00",
+  "source": "chatgpt-current-story-chat-retro-backfill-v2",
+  "originalStory": {
+    "path": "source/original-story-sv-SE.md",
+    "status": "present",
+    "sha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb"
+  },
+  "englishStory": {
+    "path": "source/original-story-en-GB.md",
+    "status": "present",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceStorySha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb"
+  },
+  "locales": ["sv-SE", "en-GB"],
+  "canonicalAvailableCounts": {"sv-SE": 5, "en-GB": 1},
+  "historicalExactCandidateCount": 31,
+  "qa": {"export": "pass", "releaseStatusKnown": true, "releaseEligible": false},
+  "publishPolicy": {
+    "portalMayImportIncompletePackage": true,
+    "portalMayPublishIncompleteStory": false,
+    "githubSyncAfterSuccessfulPortalImport": true
+  }
+}

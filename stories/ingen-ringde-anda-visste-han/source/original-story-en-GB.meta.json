@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "ingen-ringde-anda-visste-han",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sha256": "4d354eb5df5998f8c25b14fc67f5667b8fbe573725be99d034f2286674424d3c",
+  "size": 8595,
+  "sourceStorySha256": "ae2f2b6070bb8938122c6ae64023bf4418615ab66a80aab9f0950d1fb0a7b2df",
+  "path": "stories/ingen-ringde-anda-visste-han/source/original-story-en-GB.md",
+  "note": "Faithful text-only translation created for Retro Backfill v2 directly from the sv-SE Narrative Master. No image locale was generated and this file is not the Narrative Master."
+}

@@ -1,0 +1,121 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "tjugo-samtal-blev-ett",
+  "checkedAt": "2026-08-24T19:06:00+02:00",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/tjugo-samtal-blev-ett/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 9716,
+    "sha256": "d61b52e4e47a4320b6d5d8d19b649be33ca329f0371defcc43119dbb26a76064",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "path": "stories/tjugo-samtal-blev-ett/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 9972,
+    "sha256": "018e02a9507e7050949da8da7452741d07e1e530e38f95d7232f6a32952711e8",
+    "sourceStorySha256": "d61b52e4e47a4320b6d5d8d19b649be33ca329f0371defcc43119dbb26a76064",
+    "githubReadBackVerified": true
+  },
+  "preflight": {
+    "path": "stories/tjugo-samtal-blev-ett/source/PREFLIGHT.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 3916,
+    "sha256": "acc1c720461bd56cdded0b6e7b44558e8dbf793c2d5e74d4525fbd71f731b9ce",
+    "githubReadBackVerified": true,
+    "storyLock": "NOT_CREATED"
+  },
+  "historicalInventory": {
+    "totalItems": 88,
+    "exactOriginal": 62,
+    "derivedTranslation": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 7,
+    "notCreated": 18
+  },
+  "sv-SE": {
+    "canonicalVisualSource": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "count": 14,
+      "dimensions": [1055, 1491],
+      "historicalQaStatus": "PASS"
+    },
+    "pdf": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 71658682,
+      "sha256": "e02a572428a82c88099c6ceb02b467e1240a63c64183b62185b76975ac3edf6a",
+      "historicalQaStatus": "PASS",
+      "pages": 14,
+      "qrPayload": "https://navichain.se/signup"
+    },
+    "social": "EXACT_ORIGINAL",
+    "qa": "EXACT_ORIGINAL",
+    "manifest": "EXACT_ORIGINAL",
+    "storyDna": "EXACT_ORIGINAL_LOCKED",
+    "continuity": "EXACT_ORIGINAL",
+    "realityValidation": "EXACT_ORIGINAL_PASS",
+    "historicalArchive": {
+      "filename": "tjugo-samtal-blev-ett-v1.0-sv-SE-backfill-release.zip",
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 101777662,
+      "sha256": "27700014f37bd677ae425027fe0f251c4637138e873bcd5dbec1dd21b6edad21"
+    },
+    "githubPublishedCanonicalImages": 0,
+    "githubImageReadBackVerified": 0,
+    "githubBinaryStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "en-GB": {
+    "textArtifactPublished": true,
+    "textReadBackVerified": true,
+    "historicalVisualAttempts": [
+      {
+        "assetId": "cover_00",
+        "sourceClass": "EXACT_ORIGINAL",
+        "qaStatus": "UNKNOWN",
+        "size": 3635391,
+        "sha256": "8e55c81846a98bdd6c164d39c9e7ccdf33b0200364155bceb94d4b532f637f37"
+      },
+      {
+        "assetId": "panel_01",
+        "sourceClass": "EXACT_ORIGINAL",
+        "qaStatus": "REBUILD_REQUIRED",
+        "size": 3697141,
+        "sha256": "3ed9c8fba0c6e2b06591c35238f9e717b39d66865a2871fcedf6bab9402d3458"
+      }
+    ],
+    "notCreatedCanonicalAssets": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "pdf": "NOT_CREATED",
+    "social": "NOT_CREATED",
+    "qa": "NOT_CREATED",
+    "releaseManifest": "NOT_CREATED",
+    "releaseZip": "NOT_CREATED",
+    "githubPublishedVisualAssets": 0,
+    "githubVisualReadBackVerified": 0,
+    "status": "INCOMPLETE"
+  },
+  "otherHistoricalVisuals": {
+    "exactOriginalSuperseded": 2,
+    "exactOriginalUnassignedRejected": 11,
+    "qaRule": "Preserve actual status; UNKNOWN where no individual historical QA record survives."
+  },
+  "publishArtifacts": {
+    "fullExport": {"filename":"tjugo-samtal-blev-ett-retro-backfill-v2-20260824-1906.zip","size":256870126,"sha256":"7f5ea2a284904117e97f6354a038d346d004db34dd0df8e71e01dc823143ecf3"},
+    "svSEPackage": {"filename":"tjugo-samtal-blev-ett-sv-SE-retro-v2-package.zip","size":249668476,"sha256":"178ff22b07c9c6803d6bc27e7fc9c55d61ea2e7d41032e3907d8349d218f1fa9","request":"tjugo-samtal-blev-ett-sv-SE.publish.json","requestSha256":"33469e18a4a0e2f237b640e09309d05f158bcc4c535931e2cd205662f054091d"},
+    "enGBPackage": {"filename":"tjugo-samtal-blev-ett-en-GB-retro-v2-package.zip","size":7192906,"sha256":"03340218bfd224265cb7df050d28108e28f595975911d022a02c330e0c7262e5","request":"tjugo-samtal-blev-ett-en-GB.publish.json","requestSha256":"0164f79c116aee8fade7e2774ffcd338b80a6dc382f60517f1fd884a1b8636a6"}
+  },
+  "transport": {
+    "chromeControlAvailable": false,
+    "nextcloudConnectorAvailable": false,
+    "automaticChainInvoked": false,
+    "reason": "Current ChatGPT runtime exposes no Chrome-control/download action and no Nextcloud connector or mount. Downloadable packages and valid publish requests were created, but the ChatGPT -> Chrome -> local capture -> Nextcloud -> hardened router -> publisher handoff cannot be triggered from this runtime.",
+    "githubPublishedBinaryAssets": 0,
+    "finalBinaryReadBackVerified": false,
+    "status": "PARTIAL_BACKFILL"
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

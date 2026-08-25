@@ -1,0 +1,21 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "tva-kontor-en-lista-som-inte-visste-vem-som-var-vem",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "tva-kontor-en-lista-som-inte-visste-vem-som-var-vem-en-GB-retro-v2.zip",
+  "packageSha256": "9d6debbe280c66470c8e088108f5c5d5e66bd11d66889ab687842856e14ce11b",
+  "files": [
+    {
+      "archiveName": "sources/original-story-en-GB.md",
+      "path": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/sources/original-story-en-GB.md",
+      "size": 9412,
+      "sha256": "77993a013f9e495808d983d71ca5213d69aa273775aa09955c05a890dce5a4b2",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  ]
+}

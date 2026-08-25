@@ -1,0 +1,59 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "classification": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "path": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-sv-SE.md",
+    "size": 9602,
+    "sha256": "d2df49b22f40f387fb43e27cf30495099949b7e10d0da0216af7c2855e97ef66",
+    "gitBlobSha": "cc11eb59564fd6681e0538b8ff74292a1353bd92",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "path": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-en-GB.md",
+    "size": 9763,
+    "sha256": "b31d2574ce5adb265871e18202c74dc438730d5ba5d79047e7ba9f93e89a7747",
+    "gitBlobSha": "b22adcbdac5d413547eb5cea1b9922bb30a1b06d",
+    "sourceStorySha256": "d2df49b22f40f387fb43e27cf30495099949b7e10d0da0216af7c2855e97ef66",
+    "githubReadBackVerified": true
+  },
+  "canonicalVisuals": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_comic_book_illustrated_poster_cover_scene_in_a_v.png","dimensions":[1024,1536],"size":3560727,"sha256":"34d50be5e378e9880fc3210b779a3ae422c565f1c5b862b00c61499e4098b227","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","filename":"a_full_color_comic_book_panel_illustration_in_a_cl.png","dimensions":[1024,1536],"size":3419836,"sha256":"8697a3f8ea991f04693ed1ddf53ba9f67da1561344b0bcdf4f4d23d8b4c9c37f","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_full_color_comic_panel_illustration_in_a_clean_l.png","dimensions":[1048,1501],"size":2853913,"sha256":"5d0a0cfdc2ccd969dcc1b794b82be6f96ec46509664984f0c8d8b4ac754fef4b","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    "panel_03": {"sourceClass":"NOT_CREATED"},
+    "panel_04": {"sourceClass":"NOT_CREATED"},
+    "panel_05": {"sourceClass":"NOT_CREATED"},
+    "panel_06": {"sourceClass":"NOT_CREATED"},
+    "panel_07": {"sourceClass":"NOT_CREATED"},
+    "panel_08": {"sourceClass":"NOT_CREATED"},
+    "panel_09": {"sourceClass":"NOT_CREATED"},
+    "panel_10": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_comic_book_style_illustration_poster_page._overa.png","dimensions":[1024,1536],"size":3380381,"sha256":"94b90ba93ca3a27938885965a6deeb2df309114a73269e9e01875210f8d1ffa8","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    "panel_11": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_comic_book_vintage_illustrative_panel_page_wit.png","dimensions":[1024,1536],"size":3484925,"sha256":"3b540294c98c833b22b38838169b55f34e56ea83f2738db8e8d9074a07d14780","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    "panel_12": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","filename":"a_detailed_comic_style_illustration_vintage_ligne.png","dimensions":[1024,1536],"size":3502258,"sha256":"9b4e1156258dc376121ddaf6f7f54d72bbae308cde16d484502345676983c585","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    "cta_13": {"sourceClass":"NOT_CREATED"}
+  },
+  "canonicalVisualCounts": {"EXACT_ORIGINAL":6,"CHAT_RECOVERED":0,"SOURCE_NOT_EXPORTABLE":0,"NOT_CREATED":8,"githubPublished":0},
+  "historicalRawRenderCount": 10,
+  "historicalRawRenderBytesDirectlyAccessible": true,
+  "derived": {"pdf":"NOT_CREATED","social":"NOT_CREATED","releaseZipBeforeRetro":"NOT_CREATED"},
+  "localPackages": {
+    "completeHistoricalExport": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-retro-backfill-v2-complete-historical-export.zip","size":64966218,"sha256":"f1fa97ee5e3dae63e2e08b0419e533dc771e3b864f2dfc8aee63cf3b7c7fc3b1"},
+    "historicalArchive": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-retro-v2-history.zip","size":33112118,"sha256":"c6b4c855f81fee660a96deaebc7bbe891fd107eba26dd550a9d15ff5b1b7c407"},
+    "svSEPublishPackage": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-sv-SE-retro-v2-publish-package.zip","size":20230985,"sha256":"480e1b34be9701a2c7267532a4219cb761b65c37297b29ac3234069bc096cb64"},
+    "enGBPublishPackage": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-en-GB-retro-v2-publish-package.zip","size":10895,"sha256":"44b66cbff6410644f7a5141f08ea801a10ae4a55149826b36a4e27086bd5e643"}
+  },
+  "automaticTransport": {"chromeDownloadVerified":false,"nextcloudArchiveVerified":false,"hardenedRouterVerified":false,"publisherVerified":false},
+  "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryPublishReason": "Exact historical binary bytes are directly accessible and locally packaged, but this ChatGPT execution exposes no Chrome-download, Nextcloud archive, hardened-router or local-publisher action. The GitHub connector has no mounted-local-file parameter for the multi-megabyte images/packages; no binary publication is falsely claimed.",
+  "provenanceQaSeparation": true
+}

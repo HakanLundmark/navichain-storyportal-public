@@ -1,0 +1,102 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "generatedAt": "2026-08-24T17:27:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "gitBlobSha": "e0488893ef2b29f91966eecce9a57a708f990ded",
+    "sha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+    "byteSize": 9537,
+    "narrativeMaster": true,
+    "readBackVerified": true
+  },
+  "englishStory": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+    "sha256": "92744d0a088011399f161e539ab5136fdc701906347cfa2413e25c202a332c03",
+    "gitBlobSha": "d6e6a8566c09da9cd45b94cad4171b89f986cb33",
+    "byteSize": 9945,
+    "readBackVerified": true
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "githubPublishedBinaryAssets": 0,
+      "canonicalSlots": {
+        "EXACT_ORIGINAL_PACKAGE_READY": [
+          {"assetId":"cover_00","filename":"sändningen_som_hittade_rätt_väg.png","dimensions":"1024x1536","size":3101570,"sha256":"292e960ec1269a966d47e5aeda88b51bbb553fe3466d57024e2c07c8bca0bd18","qaStatus":"REBUILD_REQUIRED"},
+          {"assetId":"panel_01","filename":"a_comic_graphic_novel_style_illustration_clean_li.png","dimensions":"1024x1536","size":3435193,"sha256":"92898afc4f42d06fff935274a939953880fcb0b3e046d57b07a03fc7b112444f","qaStatus":"REBUILD_REQUIRED"},
+          {"assetId":"panel_02","filename":"a_detailed_comic_book_illustrated_scene_in_an_of.png","dimensions":"1024x1536","size":3403179,"sha256":"e27239d10dd427310a7299681b1f9966c18631f6fb683958f0ade542df2218bc","qaStatus":"REBUILD_REQUIRED"},
+          {"assetId":"panel_03","filename":"a_detailed_comic_book_graphic_novel_style_illust.png","dimensions":"1024x1536","size":3328721,"sha256":"23c087116c82f828960c4faa49feac736072c9c5c1cd85ea81508737458edc57","qaStatus":"REBUILD_REQUIRED"},
+          {"assetId":"panel_04","filename":"lastbilschaufför_granskar_sin_körsträcka.png","dimensions":"1024x1536","size":3513886,"sha256":"fbf0c0eb6c0fc363d33d35c4279c6a551f8194a56d3acc94b36f90e383486e9a","qaStatus":"REBUILD_REQUIRED"},
+          {"assetId":"panel_05","filename":"manuella_formulär_och_dolda_fel.png","dimensions":"1024x1536","size":3417266,"sha256":"53d483253eb360e6e180a34765844ee4753db097f4ad698a1130da28ad2561d6","qaStatus":"REBUILD_REQUIRED"},
+          {"assetId":"panel_06","filename":"a_detailed_comic_style_illustration_panel_page_wi.png","dimensions":"1024x1536","size":3132798,"sha256":"059f5d9b24e3ec1fe4ababd063ceb31099857d95afb4ab6208f485e79210dee0","qaStatus":"REBUILD_REQUIRED"}
+        ],
+        "SOURCE_NOT_EXPORTABLE": ["panel_07","panel_08","panel_09","panel_10","panel_12"],
+        "NOT_CREATED": ["panel_11","cta_13"]
+      },
+      "otherExactHistoricalRenders": {
+        "alternateSingleAssetCount": 8,
+        "rejectedMultiAssetCount": 20,
+        "multiAssetPolicy": "Archived whole; never cropped into canonical assets."
+      }
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "githubPublishedBinaryAssets": 0,
+      "canonicalImageSlots": "NOT_CREATED",
+      "notCreatedAssetIds": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+    }
+  },
+  "derivedRelease": {
+    "pdf": "NOT_CREATED",
+    "socialCopy": "NOT_CREATED",
+    "releaseZipBeforeThisBackfill": "NOT_CREATED"
+  },
+  "preparedPackages": {
+    "sv-SE": {
+      "filename": "sandningen-som-visste-vart-den-skulle-sv-SE.retro-package.zip",
+      "size": 100158386,
+      "sha256": "dd50373bc088a00d9254f3795d4290e1312470df419e03b27bcc1045802b7ea1",
+      "publisherFileCount": 40,
+      "requestFilename": "sandningen-som-visste-vart-den-skulle-sv-SE.publish.json",
+      "requestSha256": "c1539b48bf4dc3cbed7a18cf08acd6401a0b46890cdb193ba40361603da08330",
+      "requestWrapperFilename": "sandningen-som-visste-vart-den-skulle-sv-SE.publish.zip",
+      "requestWrapperSha256": "ef9bcae4d5f522392a4d2bf94d8f34302cecf5d26fe400ca3cb663de653f576c",
+      "localIntegrityVerification": "PASS"
+    },
+    "en-GB": {
+      "filename": "sandningen-som-visste-vart-den-skulle-en-GB.retro-package.zip",
+      "size": 5197,
+      "sha256": "51474263afda9fca6c08de33ecb716b90d5197788d09aa1b4bf94e332740e5b4",
+      "publisherFileCount": 1,
+      "requestFilename": "sandningen-som-visste-vart-den-skulle-en-GB.publish.json",
+      "requestSha256": "304209352c76f24f1a2d6eaf551faa791d06497e576170794f05500cd75fafda",
+      "requestWrapperFilename": "sandningen-som-visste-vart-den-skulle-en-GB.publish.zip",
+      "requestWrapperSha256": "aed6341305f66947d2709bd78c479cf72b52b8e33890344cf54e5dff6bf069d0",
+      "localIntegrityVerification": "PASS"
+    },
+    "completeArchive": {
+      "filename": "sandningen-som-visste-vart-den-skulle-retro-backfill-v2-complete.zip",
+      "size": 100295914,
+      "sha256": "56fa4029d1b5f47ab5863d508f4ead57f161befa94ad87c643b4d59798ceabcd"
+    }
+  },
+  "automaticTransport": {
+    "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "status": "NOT_INVOKABLE_FROM_THIS_CHAT_RUNTIME",
+    "reason": "No browser-control/Chrome-download action and no Nextcloud/local-capture/router/publisher connector is exposed to this assistant runtime. Files were made downloadable; the user-side automatic chain cannot be triggered or observed from this run.",
+    "binaryGitHubReadBack": "NOT_PERFORMED_BECAUSE_BINARY_PUBLISH_DID_NOT_RUN",
+    "binaryFinalStatus": "GITHUB_PUBLISH_FAILED"
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

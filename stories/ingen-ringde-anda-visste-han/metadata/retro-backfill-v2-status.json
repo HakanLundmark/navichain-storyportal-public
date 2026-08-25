@@ -1,0 +1,74 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "ingen-ringde-anda-visste-han",
+  "title": "Ingen ringde — ändå visste han",
+  "masterLocale": "sv-SE",
+  "generatedAt": "2026-08-24T19:03:00+02:00",
+  "sourceInventory": {
+    "exactOriginalFilesReadyForTransport": 35,
+    "canonicalImageSlotsExactOriginal": 13,
+    "canonicalImageSlotsRequired": 14,
+    "historicalExtraRenderFilesExactOriginal": 19,
+    "pdfCarouselExactOriginal": 1,
+    "deterministicSupportAssetsExactOriginal": 1,
+    "narrativeMasterExactOriginal": 1,
+    "sourceNotExportable": ["panel_10"],
+    "derivedTranslations": 1
+  },
+  "narrativeMaster": {
+    "path": "stories/ingen-ringde-anda-visste-han/source/original-story-sv-SE.md",
+    "runtimeSize": 8263,
+    "runtimeSha256": "ae2f2b6070bb8938122c6ae64023bf4418615ab66a80aab9f0950d1fb0a7b2df",
+    "githubBlobSha": "9135ec616c107e40737cd81d5aa5859dd0447d84",
+    "githubExactByteIdentityVerified": true,
+    "legacyRootCopyPath": "stories/ingen-ringde-anda-visste-han/ORIGINAL_STORY.md",
+    "legacyRootCopySize": 8262,
+    "legacyRootCopyExactByteIdentity": false
+  },
+  "englishStory": {
+    "path": "stories/ingen-ringde-anda-visste-han/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 8595,
+    "sha256": "4d354eb5df5998f8c25b14fc67f5667b8fbe573725be99d034f2286674424d3c",
+    "githubBlobSha": "bc8a7cba9f9bc5d11aa3b44fdabe428dae0dec16",
+    "githubReadBackVerified": true
+  },
+  "binaryTransport": {
+    "status": "AWAITING_CHATGPT_TO_CHROME_DOWNLOAD_CHAIN",
+    "githubPublishedBinaryAssetsVerified": 0,
+    "svPackageFile": "ingen-ringde-anda-visste-han-sv-SE-retro-backfill-v2-package.zip",
+    "svPackageSha256": "9060c7cc0102cf1e19fc8492fbdf1b3f605da647e93edb3fef30facce243bd5c",
+    "svPublishRequest": "ingen-ringde-anda-visste-han-sv-SE.publish.json",
+    "svPublishRequestSha256": "bf5ec594cd11cb8fcd39cfb08479476e54e8846cad1bbb77e2a50e3976761be8",
+    "svPublishWrapper": "ingen-ringde-anda-visste-han-sv-SE.publish.zip",
+    "svPublishWrapperSha256": "3043a588e1a2039f854b4133f33c99f05a5ef4b4feb5f3d7c713862172a689ef",
+    "enPackageFile": "ingen-ringde-anda-visste-han-en-GB-retro-backfill-v2-package.zip",
+    "enPackageSha256": "8cf54285cc7c0195d35123d6477e51ddc5c247964c9172242f7fb6cdd77c0119",
+    "enPublishRequest": "ingen-ringde-anda-visste-han-en-GB.publish.json",
+    "enPublishRequestSha256": "bb88e8ae9fc80fea6967c16f2f164a83bcb6569db06c236a677c7a0c1f69c2c0",
+    "completeArchive": "ingen-ringde-anda-visste-han-complete-retro-backfill-v2.zip",
+    "completeArchiveSha256": "b4376d761b38f60b4d8aaacda763f18e0e0ef5c25f84839b4c3c0064387a1ec0"
+  },
+  "historicalQa": {
+    "perAssetStatus": "UNKNOWN_WHERE_NOT_PRESERVED",
+    "noPassLockedInferred": true,
+    "notes": [
+      "Historical panel_03 is preserved because it is the page used in the existing PDF even though its content does not match the Narrative Master.",
+      "Historical multi-asset sheets are archive-only and are not canonical masters.",
+      "Historical publication does not imply release approval."
+    ]
+  },
+  "metadataUpdatePolicy": {
+    "storyJsonUpdatedForBinaryPublication": false,
+    "storiesIndexUpdatedForBinaryPublication": false,
+    "reason": "Binary GitHub publication and read-back have not occurred in this execution context; COMPLETE/SYNCED is therefore prohibited."
+  },
+  "textPublication": {
+    "newGithubTextMetadataWrites": 5,
+    "narrativeMasterReadBack": "PASS_EXACT_BYTES",
+    "englishTranslationReadBack": "PASS_EXACT_BYTES"
+  },
+  "finalStatusAtWrite": "PARTIAL_BACKFILL"
+}

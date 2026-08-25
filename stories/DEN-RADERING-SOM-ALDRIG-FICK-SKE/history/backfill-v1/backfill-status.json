@@ -1,0 +1,11 @@
+{
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "locale": "sv-SE",
+  "classification": "INCOMPLETE",
+  "verifiedUsableAssets": ["panel_01","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "rebuildRequired": ["cover_00","panel_02"],
+  "partialPdf": "EXISTS_AND_EXPORTABLE_12_PAGES",
+  "social": "MISSING",
+  "binaryPublish": "NOT_SYNCED_CONNECTOR_HAS_NO_MOUNTED_FILE_UPLOAD_PARAMETER",
+  "complete": false
+}

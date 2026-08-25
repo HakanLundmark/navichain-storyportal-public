@@ -1,0 +1,13 @@
+storyDNA:
+  id: ingen-behovde-leta-upp-ratt-person
+  version: 1.0.0
+  status: locked
+  masterLanguage: sv-SE
+  title: "INGEN BEHÖVDE LETA UPP RÄTT PERSON"
+  sellingPromise: "Vem som helst på kontoret kan svara på en leveransfråga direkt med tracker-ID, utan att störa trafikledningen."
+  protagonist: {id: lotta-sjo, role: "HR- och kvalitetsansvarig", humanGoal: "svara kunden direkt utan att hitta rätt trafikledare"}
+  product:
+    primaryCapability: "Bookings / Public tracking"
+    navichainRole: tool
+  validation: {reality: PASS, productTruth: PASS, storyRelevance: PASS}
+  output: {coverCount: 1, panelCount: 12, ctaCount: 1, visiblePanelIndices: true}

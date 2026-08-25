@@ -1,0 +1,19 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "INGET-ATT-LETA-EFTER",
+  "title": "INGET ATT LETA EFTER",
+  "subtitle": "Anders och kontrollen som tog under en minut",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "protagonist": "Anders Kling",
+  "company": "Björklunda Åkeri AB",
+  "status": "COMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "COMPLETE",
+      "path": "stories/INGET-ATT-LETA-EFTER/sv-SE",
+      "assetCount": 14
+    }
+  },
+  "originalStory": "stories/INGET-ATT-LETA-EFTER/ORIGINAL_STORY.md"
+}

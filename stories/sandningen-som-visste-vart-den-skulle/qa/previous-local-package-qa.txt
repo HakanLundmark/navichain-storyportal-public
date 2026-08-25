@@ -1,0 +1,16 @@
+QA STATUS: NOT RELEASE READY
+
+Story: SÄNDNINGEN SOM VISSTE VART DEN SKULLE
+Locale: sv-SE
+
+Package contains 14 named image slots and a 14-page PDF.
+
+Known blockers:
+- panel_01: REBUILD_REQUIRED. No valid isolated panel_01 exists in the current runtime; a clearly marked placeholder is included.
+- panel_10: REBUILD_REQUIRED. Latest render contains explicit '2 av 3 / samma order' driver visibility, which exceeds the locked Product Truth treatment.
+- panel_11: REBUILD_REQUIRED. Latest render includes an aggregated '2/3 klara' status view, which was explicitly removed in preflight.
+- panel_12: REBUILD_REQUIRED. Latest render includes aggregated completion/status information beyond the locked treatment.
+- cta_13: REBUILD_REQUIRED for story continuity. Brand-critical logo and QR/URL zone have been corrected deterministically in this package, but the illustration itself does not fully match the locked three-recipient story.
+- Some later panels were generated at a different native aspect ratio; package images are padded (not cropped) to the common 1024x1536 canvas.
+
+Release is blocked until these assets are rebuilt and pass QA.

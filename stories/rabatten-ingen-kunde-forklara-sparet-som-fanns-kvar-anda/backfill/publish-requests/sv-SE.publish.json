@@ -1,0 +1,28 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+  "locale": "sv-SE",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda-sv-SE.publish-package.zip",
+  "packageSha256": "b7daae228f933c36fa19fecd8da2955812649376ec3bf2167cb605880d61bf0d",
+  "files": [
+    {"archiveName":"source/original-story-sv-SE.md","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/source/original-story-sv-SE.md","size":10502,"sha256":"ecbafe14f95212444f08f23a1e38e6c9f1486355f889578558ee205956f23876","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/cover_00.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/cover_00.png","size":3363090,"sha256":"ecaa4b952e172d696e35491c642481f1a0b43dc06a4c5e7f4c6d2aa925d964c4","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_01.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_01.png","size":3069291,"sha256":"bde565acd35f87e7b237c2fe875efd4a5792a3f2f3215ca7d2de4f23323a3d32","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_02.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_02.png","size":2944781,"sha256":"81b8914e41f09fcda70c1415bf4479f1c937fa548d244bb6b38a8a77dba71332","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_03.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_03.png","size":3041036,"sha256":"98027a84cb7b7eab11b64ae7cf4a6613b538bd380832897ce00d7c9ea85fd1a9","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_04.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_04.png","size":3107436,"sha256":"6549d5ae4ef31731492c040262652eceecb9e5658fdd33ec4a1a7bbeb251d9df","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_06.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_06.png","size":3144293,"sha256":"486da76f1dd1d3cdba03aba4e3047d24928154f74c2897d091185517444e35d0","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_07.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_07.png","size":2992953,"sha256":"1909ac7c8a882025d96850cf0a4fae76d7615aeaa69b1e2e53fcf9ef1f93c84a","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_08.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_08.png","size":3293277,"sha256":"782a36783136a83154e8cf132c5556f4d4777b794f8257ab33a4a26bf4c95c38","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_09.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_09.png","size":2949138,"sha256":"88cec7cdf2d108abda9ee0d0f9eb72237fd5baa44fb93d7c4e1f578e0213d9fd","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_10.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_10.png","size":2952088,"sha256":"7fc3fddc43a659834bfd066640bd00128644771c84cdf1b8bec963d642f59174","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_11.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/images/panel_11.png","size":3136791,"sha256":"53358bc33d36d2efbf5620e100866bd6ed2a3698d94084cb9c344b1a649923ce","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/history/cover_00/rabatten_som_blev_spårbar.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/history/cover_00/rabatten_som_blev_spårbar.png","size":3251959,"sha256":"53fcf4b75a82224a4c1f79cf2afdbb0302848514273cf6503bd8d10ed39e86d5","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/history/panel_11/imagegen.png","path":"stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/sv-SE/history/panel_11/imagegen.png","size":3091224,"sha256":"f122c5b0b9e953dc2ff05c80f1002cd18ef2b710d3360ea0b460fd8e793ad330","sourceClass":"EXACT_ORIGINAL"}
+  ]
+}

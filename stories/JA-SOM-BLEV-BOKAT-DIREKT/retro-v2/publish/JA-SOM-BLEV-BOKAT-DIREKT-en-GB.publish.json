@@ -1,0 +1,21 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "JA-SOM-BLEV-BOKAT-DIREKT",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "JA-SOM-BLEV-BOKAT-DIREKT-en-GB-retro-v2.zip",
+  "packageSha256": "0f56b624edfbe31cc400c114ef94c42f46186386c57e9f6db32405b240779253",
+  "files": [
+    {
+      "archiveName": "source/original-story-en-GB.md",
+      "path": "stories/JA-SOM-BLEV-BOKAT-DIREKT/source/original-story-en-GB.md",
+      "size": 10241,
+      "sha256": "b29cd0633d6ec4ece7589dc22ff4433e65aec46ecafd4d9de6e88fed6ef6fd01",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  ]
+}

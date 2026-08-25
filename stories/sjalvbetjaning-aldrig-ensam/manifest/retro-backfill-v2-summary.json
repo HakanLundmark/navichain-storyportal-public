@@ -1,0 +1,84 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary-v1",
+  "storyId": "sjalvbetjaning-aldrig-ensam",
+  "title": "SJÄLVBETJÄNING, ALDRIG ENSAM",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "checkedAt": "2026-08-24T19:05:00+02:00",
+  "narrativeMaster": {
+    "path": "stories/sjalvbetjaning-aldrig-ensam/sources/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "eee10f20781cdfe740ad92b20825b1980b991205ee62e54aa167ff9fe6db3faf",
+    "gitBlobSha": "748894ca9f16fc30496aad0380259a6050c58496",
+    "narrativeMaster": true
+  },
+  "englishStory": {
+    "path": "stories/sjalvbetjaning-aldrig-ensam/sources/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceStorySha256": "eee10f20781cdfe740ad92b20825b1980b991205ee62e54aa167ff9fe6db3faf",
+    "sha256": "598a52207dea405e1fc4f5eb09c5bbf33449153491db862446b0c4fa192488c5",
+    "gitBlobSha": "cf8de4ef6a14ea25e06b0477104d01e499ba8b52",
+    "narrativeMaster": false
+  },
+  "historicalInventory": {
+    "totalItems": 99,
+    "exactOriginal": 72,
+    "chatRecovered": 0,
+    "derivedTranslation": 1,
+    "sourceNotExportable": 1,
+    "notCreated": 25,
+    "exactHistoricalRenders": {"sv-SE": 36, "en-GB": 6},
+    "canonicalVisualExactOriginal": {"sv-SE": 13, "en-GB": 1},
+    "svSeSourceNotExportable": ["cover_00"],
+    "enGbCanonicalNotCreated": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "derivedHistorical": {
+    "svSePdf": {
+      "filename": "sjalvbetjaning-aldrig-ensam-sv-SE.pdf",
+      "size": 63986382,
+      "sha256": "444c150aa21eff6f5944f3f9c911cca28a610f2cbeb7b507ee4855223556a1fc",
+      "qaStatus": "NON_AUTHORITATIVE"
+    },
+    "legacyZip": {
+      "filename": "navichain-sjalvbetjaning-aldrig-ensam-sv-SE-package.zip",
+      "size": 94235543,
+      "sha256": "af344308e3d53e45900f24dfa177b97a1c4ebcfa1e35db160c75f322f327170d",
+      "qaStatus": "NON_AUTHORITATIVE"
+    }
+  },
+  "localTransportPackages": {
+    "sv-SE": {
+      "packageFile": "sjalvbetjaning-aldrig-ensam-sv-SE-retro-backfill-v2-20260824-1905.zip",
+      "packageSha256": "fba83db5419e65d0fe802a7cd618b3248962db6dc8d2d39037018d42a652b669",
+      "publishRequest": "sjalvbetjaning-aldrig-ensam-sv-SE.publish.json",
+      "publishRequestSha256": "5e33f5d42fb855bfb8129b29a488b033337d562ee7c43f3ebbdefc5538555334",
+      "publishWrapper": "sjalvbetjaning-aldrig-ensam-sv-SE.publish.zip",
+      "filesInRequest": 58
+    },
+    "en-GB": {
+      "packageFile": "sjalvbetjaning-aldrig-ensam-en-GB-retro-backfill-v2-20260824-1905.zip",
+      "packageSha256": "476df16035421030b011a4eb51624210590b55d72602cb57e210857acfb3528b",
+      "publishRequest": "sjalvbetjaning-aldrig-ensam-en-GB.publish.json",
+      "publishRequestSha256": "2bf333fd133fcd302f8eaf7d1b83eafe8606b41a790ab37d733bbf759b4dcc7c",
+      "publishWrapper": "sjalvbetjaning-aldrig-ensam-en-GB.publish.zip",
+      "filesInRequest": 10
+    },
+    "fullArchive": {
+      "filename": "sjalvbetjaning-aldrig-ensam-retro-backfill-v2-full-20260824-1905.zip",
+      "sha256": "21ca31a8de87c3e7cedce4d87cfcf0f279a51e53c4eadc930513004cd873c79d"
+    }
+  },
+  "automaticTransport": {
+    "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "reason": "This ChatGPT runtime can create downloadable sandbox files and write/read GitHub, but exposes no browser-download control and no connected Nextcloud/local-capture/publisher connector. The packages and valid publish requests were created without manual --once/curl/publisher execution; downstream automatic transport was therefore not falsely claimed."
+  },
+  "githubBinaryPublication": {
+    "canonicalImageAssetsPublishedThisRun": 0,
+    "status": "PARTIAL_BACKFILL"
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

@@ -1,0 +1,3 @@
+status: NOT_RUN
+reason: Full 14-page PDF cannot be built without panel_03 and panel_07 and with current dimension mismatches.
+releaseAllowed: false

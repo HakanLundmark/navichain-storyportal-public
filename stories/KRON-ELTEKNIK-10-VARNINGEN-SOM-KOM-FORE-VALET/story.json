@@ -1,0 +1,150 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET",
+  "storyIdAuthority": "backfill-derived-from-explicit Kron Elteknik episode 10 and canonical title in current chat",
+  "title": "VARNINGEN SOM KOM FÖRE VALET",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "INCOMPLETE"
+  },
+  "narrative": {
+    "master": {
+      "locale": "sv-SE",
+      "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-sv-SE.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+      "qaStatus": "REBUILD_REQUIRED",
+      "githubReadBackVerified": true
+    },
+    "enGB": {
+      "locale": "en-GB",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/sources/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "d3a7c116fc490a7687687604719f6a8065d288b629391b84d7e08d2cb0b5a269",
+      "sha256": "f82cf67a380d6a60ce244349a68e6cad0296817916f707545b987d371d6a0af7",
+      "qaStatus": "REBUILD_REQUIRED",
+      "githubReadBackVerified": true
+    },
+    "correctedNarrativeMaster": {
+      "sourceClass": "SOURCE_NOT_EXPORTABLE",
+      "reason": "A complete Product-Truth-corrected rewritten Narrative Master was discussed but never materialised as one exact source artifact; reconstruction is forbidden."
+    }
+  },
+  "verifiedOriginalAssets": {
+    "sv-SE": 14,
+    "en-GB": 4
+  },
+  "currentRuntimeDirectlyAccessibleOriginalAssets": {
+    "sv-SE": [
+      "cover_00",
+      "panel_01",
+      "panel_02",
+      "panel_03",
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ],
+    "en-GB": [
+      "cover_00",
+      "panel_01",
+      "panel_02",
+      "panel_03"
+    ]
+  },
+  "missingCanonicalAssets": {
+    "sv-SE": [],
+    "en-GB": [
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ]
+  },
+  "historicalInventory": {
+    "totalItems": 120,
+    "exactOriginalFiles": 119,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 1,
+    "notCreated": 24,
+    "historicalChatRenderCandidates": 52
+  },
+  "derivedReleaseMaterial": {
+    "svSEPdf": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "localPath": "/mnt/data/varningen_som_kom_fore_valet_sv-SE_release/carousel/varningen_som_kom_fore_valet_sv-SE.pdf",
+      "size": 64317210,
+      "sha256": "3c68312ecae61932415f1d5b4f79aacc4e8813a50471dcafb74872956a679f3a",
+      "githubPublished": false
+    },
+    "svSESocial": "NOT_CREATED",
+    "enGBPdf": "NOT_CREATED",
+    "enGBSocial": "NOT_CREATED"
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T17:27:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "localPackages": [
+      {
+        "locale": "sv-SE",
+        "file": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-sv-SE-retro-backfill-v2.zip",
+        "size": 110942186,
+        "sha256": "3d308f80ee48ce3201602226a86924cd5dacd552cdb45d00417cbe15977002a7"
+      },
+      {
+        "locale": "en-GB",
+        "file": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-en-GB-retro-backfill-v2.zip",
+        "size": 12570350,
+        "sha256": "0aafdf4b28a4d28d7c0a7e2002d1542699459c035377ac94805cbcaa2ed64bd9"
+      },
+      {
+        "locale": "history",
+        "file": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-history-retro-backfill-v2.zip",
+        "size": 560283356,
+        "sha256": "0ce21abd2079bd0d1af56d95d104796f10a3da8935236b5e7e7ff0cfbb0c9e88"
+      }
+    ],
+    "automaticTransport": {
+      "chromeDownloadBridge": "UNAVAILABLE_IN_CURRENT_TOOL_SURFACE",
+      "nextcloudArchive": "NOT_VERIFIABLE_FROM_CURRENT_TOOL_SURFACE",
+      "hardenedRouter": "NOT_VERIFIABLE_FROM_CURRENT_TOOL_SURFACE",
+      "publisher": "NOT_VERIFIABLE_FROM_CURRENT_TOOL_SURFACE"
+    },
+    "binaryQueueProbe": {
+      "manifest": "backfill-binary-queue/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET-sv-SE-narrative-20260824T1727.json",
+      "manifestStillQueued": true,
+      "assemblerCommitObserved": false
+    }
+  },
+  "githubPublishedBinaryAssets": 0,
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryRetryCheckedAt": "2026-08-24T17:27:00+02:00",
+  "binaryRetryFailure": "Exact canonical image bytes and historical binary files remain directly accessible in the source runtime, but the current assistant tool surface cannot invoke the Chrome→local capture→Nextcloud→router→publisher chain. Direct GitHub create_blob accepts inline base64 rather than local-file references, making bulk transport of the multi-megabyte historical files impractical without unsafe truncation. A small v2 queue probe remained unconsumed, so no canonical image binary is claimed published.",
+  "backfilledAt": "2026-08-23T10:58:00+02:00",
+  "path": "stories/KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET/story.json",
+  "notes": [
+    "sv-SE has all 14 current canonical image source files directly accessible, but historical QA is not silently upgraded and social/LinkedIn output was never created.",
+    "en-GB has four directly accessible canonical image sources: cover_00 and panel_01-panel_03; panel_04-panel_12 and cta_13 were not completed as canonical assets.",
+    "Historical rejected or divergent render files are retained as historical candidates in the local retro package with provenance separate from QA.",
+    "No rerender, reconstruction, crop, restyle, generative fill or creative replacement was performed during retro backfill v2."
+  ]
+}

@@ -1,0 +1,24 @@
+storyDNA:
+  id: vem-bar-ansvaret
+  version: '1.0'
+  status: built_sv-SE
+  masterLanguage: sv-SE
+  title: Vem bär ansvaret? - Svaret som fanns innan frågan ställdes
+  protagonist:
+    id: mikael-fors
+    role: ägare/daglig ledare
+    humanGoal: ha kontroll innan transport lämnar gården
+  supportingCharacters:
+  - Lena Bark
+  - Robban Ek
+  - Inspektör Anette Sund
+  primaryCapability: ADR/compliance-stöd med synlig förarbehörighet och planeringskontroller
+  navichainRole: tool
+  validation:
+    reality: PASS_WITH_REVISIONS
+    productTruth: PASS_WITH_LIMITS
+    storyRelevance: PASS
+  output:
+    coverCount: 1
+    panelCount: 12
+    ctaCount: 1

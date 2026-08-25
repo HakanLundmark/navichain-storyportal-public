@@ -1,0 +1,7 @@
+QA STATUS: CURRENT BUILD / NOT RELEASE-LOCKED
+
+Package contains 14 current rendered assets and a 14-page PDF in canonical order.
+All raster assets are 1024x1536.
+
+Known story/brand QA issues remain in some later assets and CTA from the current render history.
+This package is therefore delivered as a current working build, not as a final RELEASE PASS package.

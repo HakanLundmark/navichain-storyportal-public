@@ -1,0 +1,13 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "tyst-i-hytten",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/tyst-i-hytten/ORIGINAL_STORY.md",
+  "sourceStorySha256": "8ed8714f552cc00e1f5b3aceaa703706d5734a5db3f9d295752bc6590032b583",
+  "translatedStorySha256": "a48e84cf02fa73fa1557e73a64e089d056bba8bbc3e9949e2b4bf6bdc91a9332",
+  "note": "Direct faithful translation of the canonical sv-SE Narrative Master. It is not a new visual locale build and is not the Narrative Master."
+}

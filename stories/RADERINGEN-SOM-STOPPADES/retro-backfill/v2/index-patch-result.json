@@ -1,0 +1,52 @@
+{
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "indexEntry": {
+    "storyId": "RADERINGEN-SOM-STOPPADES",
+    "title": "RADERINGEN SOM STOPPADES",
+    "masterLocale": "sv-SE",
+    "masterVersion": "1.0",
+    "status": "INCOMPLETE",
+    "locales": {
+      "sv-SE": "INCOMPLETE",
+      "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+    },
+    "verifiedOriginalAssets": 1,
+    "backfilledAt": "2026-08-23T08:27:00+02:00",
+    "path": "stories/RADERINGEN-SOM-STOPPADES/story.json",
+    "narrativeMasterPath": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md",
+    "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+    "narrativeMasterSha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+    "enGbStoryPath": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-en-GB.md",
+    "enGbTranslationType": "faithful",
+    "enGbSourceClass": "DERIVED_TRANSLATION",
+    "enGbNarrativeMaster": false,
+    "enGbStorySha256": "42c2c5c15b3cd07c958342028fa756d299425eb250f5d61e42f33890ef488f37",
+    "currentRuntimeExactOriginalCanonicalAssetCount": 1,
+    "currentRuntimeExactOriginalCanonicalAssetIds": [
+      "cover_00"
+    ],
+    "notCreatedCanonicalAssets": [
+      "panel_01",
+      "panel_02",
+      "panel_03",
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ],
+    "historicalExactRejectedRenderCount": 3,
+    "githubPublishedBinaryAssets": 0,
+    "retroBackfillV2Status": "PARTIAL_BACKFILL",
+    "retroBackfillV2CheckedAt": "2026-08-24T22:11:00+02:00",
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+  },
+  "status": "PATCHED_BEFORE_PUSH"
+}

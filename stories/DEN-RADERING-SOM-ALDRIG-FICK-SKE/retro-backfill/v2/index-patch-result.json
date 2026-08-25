@@ -1,0 +1,54 @@
+{
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "indexLineStart": 2429,
+  "indexEntry": {
+    "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+    "title": "DEN RADERING SOM ALDRIG FICK SKE",
+    "masterLocale": "sv-SE",
+    "masterVersion": null,
+    "status": "INCOMPLETE",
+    "locales": {
+      "sv-SE": "INCOMPLETE",
+      "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+    },
+    "narrativeMasterPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-sv-SE.md",
+    "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+    "narrativeMasterSha256": "2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4",
+    "enGbStoryPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-en-GB.md",
+    "enGbTranslationType": "faithful",
+    "enGbSourceClass": "DERIVED_TRANSLATION",
+    "enGbNarrativeMaster": false,
+    "enGbStorySha256": "f8c458a2a3bd1d6aaa7c065997b6f827b6ae7805d77ba708117f8371dc2d47a5",
+    "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+    "currentRuntimeExactOriginalCanonicalAssetIds": [
+      "cover_00",
+      "panel_01",
+      "panel_03",
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ],
+    "sourceNotExportableCanonicalAssets": [
+      "panel_02"
+    ],
+    "rebuildRequiredHistorical": [
+      "cover_00",
+      "panel_02"
+    ],
+    "githubPublishedBinaryAssets": 0,
+    "retroBackfillV2Status": "PARTIAL_BACKFILL",
+    "retroBackfillV2CheckedAt": "2026-08-24T19:41:00+02:00",
+    "automaticTransportStatus": "NOT_INVOKABLE_FROM_CHAT_RUNTIME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryBackfillStatus": "LOCAL_PACKAGES_CREATED_NOT_GITHUB_PUBLISHED",
+    "path": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/story.json"
+  },
+  "status": "PATCHED_BEFORE_PUSH"
+}

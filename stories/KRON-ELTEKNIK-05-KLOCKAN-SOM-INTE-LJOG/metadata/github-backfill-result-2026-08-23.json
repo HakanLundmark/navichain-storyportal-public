@@ -1,0 +1,25 @@
+{
+  "schema": "navichain-github-backfill-result-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "result": "INCOMPLETE",
+  "verifiedAt": "2026-08-23T11:03:00+02:00",
+  "sourceAssets": {"required":14,"existsAndExportable":14,"existsButNotExportable":0,"missing":0},
+  "releaseBlockers": ["visual release QA not passed","LinkedIn/social copy missing"],
+  "github": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "canonicalOriginalStoryVerified": true,
+    "storyJsonUpdatedAndReadBack": true,
+    "inventoryPublishedAndReadBack": true,
+    "qaPublishedAndReadBack": true,
+    "manifestPublishedAndReadBack": true,
+    "localeDirectoryVerified": true,
+    "storiesIndexExistsAndReadBack": true,
+    "storiesIndexEntryUpdate": "FAILED_CONCURRENT_SHA_CONFLICT",
+    "completeReleaseBinaryPublication": false,
+    "releaseZipPublication": false
+  },
+  "note": "No COMPLETE + SYNCED claim is made. stories/index.json remained present but its Klockan entry could not be safely replaced because concurrent backfill writes changed the index blob between read and update; the update was rejected by GitHub with HTTP 409 rather than overwriting concurrent work."
+}

@@ -1,0 +1,99 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+  "storyIdAuthority": "backfill-derived-from-explicit Kron Elteknik episode 15 and canonical title in this chat",
+  "title": "TVÅ KONTOR, EN LISTA SOM INTE VISSTE VEM SOM VAR VEM",
+  "subtitle": "En navichain story — Yvonne, Cornelia och gränsen som till slut ritades upp",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "storyLock": "BLOCKED",
+  "productTruthStatus": "UNRESOLVED_REQUIRED_CLAIM",
+  "canonicalOriginalStory": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-sv-SE.md",
+    "metadataPath": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-sv-SE.meta.json",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "d2df49b22f40f387fb43e27cf30495099949b7e10d0da0216af7c2855e97ef66",
+    "size": 9602,
+    "gitBlobSha": "cc11eb59564fd6681e0538b8ff74292a1353bd92",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "path": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-en-GB.md",
+    "metadataPath": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/source/original-story-en-GB.meta.json",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "d2df49b22f40f387fb43e27cf30495099949b7e10d0da0216af7c2855e97ef66",
+    "sha256": "b31d2574ce5adb265871e18202c74dc438730d5ba5d79047e7ba9f93e89a7747",
+    "size": 9763,
+    "gitBlobSha": "b22adcbdac5d413547eb5cea1b9922bb30a1b06d",
+    "githubReadBackVerified": true
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "canonicalExactOriginalAssets": 6,
+      "canonicalExactOriginalAssetIds": ["cover_00","panel_01","panel_02","panel_10","panel_11","panel_12"],
+      "notCreatedCanonicalAssets": ["panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","cta_13"],
+      "sourceNotExportableCanonicalAssets": [],
+      "githubPublishedBinaryAssets": 0,
+      "historicalRawRenderFiles": 10,
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "releaseQa": "NOT_CREATED",
+      "releaseZip": "NOT_CREATED"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "storyText": true,
+      "storyTextSourceClass": "DERIVED_TRANSLATION",
+      "narrativeMaster": false,
+      "images": 0,
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "assetQa": {
+    "cover_00": "REBUILD_REQUIRED",
+    "panel_01": "UNKNOWN",
+    "panel_02": "REBUILD_REQUIRED",
+    "panel_10": "REBUILD_REQUIRED",
+    "panel_11": "REBUILD_REQUIRED",
+    "panel_12": "REBUILD_REQUIRED"
+  },
+  "validation": {
+    "productTruth": "UNRESOLVED_REQUIRED_CLAIM",
+    "realityValidation": "PASS",
+    "storyLock": "BLOCKED",
+    "release": "BLOCKED",
+    "reason": "Product Truth verifies departments and parent-chain permission inheritance, but not automatic row-level booking/resource partitioning by department as required by panels 9-11."
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:36:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "canonicalVisualCounts": {"EXACT_ORIGINAL":6,"CHAT_RECOVERED":0,"SOURCE_NOT_EXPORTABLE":0,"NOT_CREATED":8},
+    "historicalExactOriginalRenderFiles": 10,
+    "derivedTranslations": 1,
+    "githubPublishedCanonicalVisualSlots": 0,
+    "historicalReleaseQaPromoted": false,
+    "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryPublishReason": "Exact historical binaries are directly accessible and locally packaged, but this ChatGPT execution exposes no Chrome-download, Nextcloud archive, hardened-router or local-publisher action. The GitHub connector has no mounted-local-file parameter for the multi-megabyte original images/packages.",
+    "automaticTransport": {"chromeDownloadVerified":false,"nextcloudArchiveVerified":false,"hardenedRouterVerified":false,"publisherVerified":false},
+    "inventoryPath": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/metadata/inventory.json",
+    "qaPath": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/qa/retro-v2-final-report.md",
+    "packageManifestPath": "stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/manifest/retro-v2-packages.json",
+    "localPackages": {
+      "completeHistoricalExport": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-retro-backfill-v2-complete-historical-export.zip","sha256":"f1fa97ee5e3dae63e2e08b0419e533dc771e3b864f2dfc8aee63cf3b7c7fc3b1","size":64966218},
+      "historyArchive": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-retro-v2-history.zip","sha256":"c6b4c855f81fee660a96deaebc7bbe891fd107eba26dd550a9d15ff5b1b7c407","size":33112118},
+      "svSEPublishPackage": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-sv-SE-retro-v2-publish-package.zip","sha256":"480e1b34be9701a2c7267532a4219cb761b65c37297b29ac3234069bc096cb64","size":20230985},
+      "enGBPublishPackage": {"filename":"KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM-en-GB-retro-v2-publish-package.zip","sha256":"44b66cbff6410644f7a5141f08ea801a10ae4a55149826b36a4e27086bd5e643","size":10895}
+    },
+    "provenanceQaSeparation": true
+  }
+}

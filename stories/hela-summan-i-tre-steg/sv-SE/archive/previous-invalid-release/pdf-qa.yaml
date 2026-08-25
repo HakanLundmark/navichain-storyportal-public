@@ -1,0 +1,9 @@
+storyId: HELA-SUMMAN-I-TRE-STEG
+locale: sv-SE
+pageCount: 14
+expectedPageCount: 14
+renderedPageCount: 14
+ctaQrDecode: https://navichain.se/signup
+ctaQrExpected: https://navichain.se/signup
+ctaQrPass: true
+status: PASS

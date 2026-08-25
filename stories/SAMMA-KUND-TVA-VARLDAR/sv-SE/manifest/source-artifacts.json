@@ -1,0 +1,48 @@
+{
+  "storyId": "SAMMA-KUND-TVA-VARLDAR",
+  "locale": "sv-SE",
+  "canonicalCurrent": {
+    "cover_00": "a_comic_book_style_illustrated_poster_cover_scene.png",
+    "panel_01": "a_detailed_comic_illustration_style_panel_scene_in.png",
+    "panel_02": "förvirrade_leveranser_på_nya_portalen.png",
+    "panel_03": "misstänkt_order_från_okänd_adress.png",
+    "panel_04": "osäkra_svar_i_naviprortalen.png",
+    "panel_05": "tvekan_inför_den_viktiga_bokningen.png",
+    "panel_06": "oskar_lind_och_den_gemensamma_vyn.png",
+    "panel_07": "oskar_ser_lösningen_i_strukturen.png",
+    "panel_08": "tydlig_struktur_på_kontoret.png",
+    "panel_09": "torgnys_säkra_portalinbjudan.png",
+    "panel_10": null,
+    "panel_11": "imagegen.png",
+    "panel_12": "a_comic_book_style_illustration_poster_like_scen.png",
+    "cta_13": "a_vintage_comic_advertisement_style_poster_illustr.png"
+  },
+  "nonCanonicalButExportable": [
+    "a_detailed_comic_illustration_style_office_scene_i.png",
+    "a_wide_comic_book_illustration_style_office_scene.png",
+    "tydlighet_och_ordning_på_kontoret.png",
+    "a_detailed_comic_illustration_style_business_offic.png",
+    "a_detailed_comic_book_illustrated_poster_scene_i.png",
+    "a_vintage_comic_illustration_style_poster_comic_co.png",
+    "a_crisp_comic_art_storyboard_page_in_a_clean_grid.png",
+    "a_full_color_comic_storyboard_sheet_production_b.png",
+    "a_full_presentation_image_a_large_grid_packaging.png",
+    "a_high_detail_comic_infographic_layout_image_like.png",
+    "internal_sheet.jpg",
+    "8874397d-e239-4378-8cd4-18c9bd258609.png",
+    "C90342C5-6063-433A-9AAD-1AA143FE9A1F.png"
+  ],
+  "pdf": {
+    "source": "SAMMA-KUND-TVA-VARLDAR-sv-SE-current-carousel.pdf",
+    "status": "WIP_STALE_RELATIVE_TO_LATEST_PANEL_01"
+  },
+  "sources": [
+    "NAVICHAIN-OFFICIAL-LOGO.png",
+    "Korrekt QR kod till signup.png",
+    "NAVICHAIN-PRODUCT-TRUTH.md",
+    "Navichain_Market_Truth_MASTER_v1.0.md"
+  ],
+  "social": null,
+  "masterVersion": null,
+  "note": "No missing original asset was synthesized. panel_10 remains missing as a valid/current canonical master."
+}

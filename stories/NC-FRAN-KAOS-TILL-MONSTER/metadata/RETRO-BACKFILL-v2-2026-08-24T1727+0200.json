@@ -1,0 +1,98 @@
+{
+  "schema": "navichain-retro-backfill-v2-report",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "title": "FRÅN KAOS TILL MÖNSTER",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T17:27:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "sourceScope": "current source chat/runtime plus prior repository metadata used only as recovery hints",
+  "result": "PARTIAL_BACKFILL",
+  "rules": {
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedOrRestyled": false,
+    "provenanceSeparatedFromQa": true
+  },
+  "narrative": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb",
+      "githubPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-sv-SE.md",
+      "githubReadBack": "PASS",
+      "narrativeMaster": true
+    },
+    "en-GB": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceStorySha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb",
+      "sha256": "109a9e09ab0f8fd6cd76ef19fc265fc3dfa6ca35a92dbd3706588beee0b01f0d",
+      "githubPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-en-GB.md",
+      "githubReadBack": "PASS",
+      "narrativeMaster": false
+    }
+  },
+  "currentRuntimeVisualInventory": {
+    "sv-SE": {
+      "exactCurrentCanonicalCandidates": ["cover_00", "panel_01", "panel_02", "panel_03", "panel_04"],
+      "exactCurrentCanonicalCount": 5,
+      "sourceNotExportableCanonical": ["panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"]
+    },
+    "en-GB": {
+      "exactCurrentCanonicalCandidates": ["panel_05"],
+      "exactCurrentCanonicalCount": 1,
+      "panel_05QaStatus": "REBUILD_REQUIRED",
+      "sourceNotExportableCanonical": ["cover_00", "panel_01", "panel_02", "panel_03", "panel_04", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"]
+    },
+    "exactHistoricalRenderCandidatesArchivedLocally": 31,
+    "exactSourceReferenceFilesArchivedLocally": 15,
+    "storyTextArtifactInventoryCount": 14
+  },
+  "localPackages": {
+    "combinedHistoricalArchive": {
+      "filename": "NC-FRAN-KAOS-TILL-MONSTER-retro-backfill-v2-complete.zip",
+      "size": 125861671,
+      "sha256": "692bf92a6f2f05bcfda4c2e7c1a6c0ae8e9d61fc8c40c2e168628a41cd35ef39"
+    },
+    "sv-SE": {
+      "packageFile": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.package.zip",
+      "packageSha256": "41d4735e8c21e12b14dc837432284511049d110aecd6c4adbeef7b69fcec3feb",
+      "publisherFileCount": 45,
+      "publishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.publish.json"
+    },
+    "en-GB": {
+      "packageFile": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.package.zip",
+      "packageSha256": "1ad233c75a6378cb3ac17dbae0169ebe123a33bd5945d066a701b594c907774b",
+      "publisherFileCount": 9,
+      "publishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.publish.json"
+    }
+  },
+  "binaryTransport": {
+    "automaticChromeDownloadTriggeredByAssistant": false,
+    "nextcloudArchiveVerified": false,
+    "hardenedRouterVerified": false,
+    "publisherVerified": false,
+    "githubCanonicalBinaryReadBackVerified": false,
+    "githubPublishedBinaryAssetsThisRun": 0,
+    "reason": "The active tool surface can create downloadable package/request files and can write GitHub text, but it does not expose control of the user's Chrome download bridge, local capture, Nextcloud, launchd router or local publisher. No manual --once/curl/direct publisher substitute was used."
+  },
+  "derivedReleaseAssets": {
+    "sv-SE": {
+      "pdf": "SOURCE_NOT_EXPORTABLE_CURRENT_RUNTIME",
+      "releaseZip": "SOURCE_NOT_EXPORTABLE_CURRENT_RUNTIME",
+      "social": "NOT_CREATED"
+    },
+    "en-GB": {
+      "pdf": "SOURCE_NOT_EXPORTABLE_CURRENT_RUNTIME",
+      "releaseZip": "NOT_CREATED",
+      "social": "SOURCE_NOT_EXPORTABLE"
+    }
+  },
+  "metadata": {
+    "storyJsonReadBack": "PASS",
+    "storiesIndexJson": "STALE_FOR_THIS_STORY_NOT_REWRITTEN",
+    "indexReason": "stories/index.json is being modified concurrently by other project backfills; the current NC-FRAN-KAOS-TILL-MONSTER entry still reflects the older 00:27 inventory. Replacing the whole index from a stale snapshot would risk clobbering unrelated concurrent updates."
+  },
+  "sync": false,
+  "finalStatus": "PARTIAL_BACKFILL"
+}

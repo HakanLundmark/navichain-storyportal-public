@@ -1,0 +1,16 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "FARGEN-SOM-VARNADE-I-TID",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "fargen-som-varnade-i-tid-en-GB-retro-v2-publish.zip",
+  "packageSha256": "4f5cb6c6277e17b5162005d8867d80d76e42a76bdb6fe2c465975aa3c9730b72",
+  "files": [
+    {"archiveName":"original-story-en-GB.md","path":"stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.md","size":9268,"sha256":"775e0777c4bd8c457a8bdd6aa4047cbcbf2426b1581d633001b213260ff67df1","sourceClass":"DERIVED_TRANSLATION"},
+    {"archiveName":"original-story-en-GB.meta.json","path":"stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.meta.json","size":665,"sha256":"e4345f553f9a607e16b709006785ca7a65e787bbcca0f380194af3e768b205c6","sourceClass":"DERIVED_TRANSLATION"}
+  ]
+}

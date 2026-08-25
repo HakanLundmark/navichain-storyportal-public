@@ -1,0 +1,21 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "jobbet-ingen-kunde-bestrida",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "jobbet-ingen-kunde-bestrida-en-GB-backfill-v2.zip",
+  "packageSha256": "52496ac5b4e896bc78c3337ccd469e57217d09bd1c57623b8bd6569bb8021890",
+  "files": [
+    {
+      "archiveName": "source/original-story-en-GB.md",
+      "path": "stories/jobbet-ingen-kunde-bestrida/source/original-story-en-GB.md",
+      "size": 12139,
+      "sha256": "dcf78c56ee34875ac07aa8cc39ad4c0193b110b2192f6508884d985c769c82f9",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  ]
+}

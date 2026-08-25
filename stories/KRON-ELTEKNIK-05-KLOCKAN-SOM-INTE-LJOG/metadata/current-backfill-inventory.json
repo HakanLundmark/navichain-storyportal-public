@@ -1,0 +1,44 @@
+{
+  "schema": "navichain-storyportal-backfill-inventory-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "title": "KLOCKAN SOM INTE LJÖG",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "classification": {
+    "EXISTS_AND_EXPORTABLE": [
+      {"assetId":"cover_00","sourceFilename":"a_detailed_comic_book_cover_style_illustration_p.png","qa":"REBUILD_REQUIRED_brand_critical_logo_generated"},
+      {"assetId":"panel_01","sourceFilename":"a_comic_book_style_illustration_page_panel_vintag.png","qa":"PASS_BACKFILL_VISUAL_SLOT"},
+      {"assetId":"panel_02","sourceFilename":"a_comic_book_style_illustration_panel_tintin_like.png","qa":"REBUILD_REQUIRED_navichain_logo_visible_before_panel_07"},
+      {"assetId":"panel_03","sourceFilename":"a_comic_style_illustration_in_a_vintage_ligne_clai.png","qa":"PASS_BACKFILL_VISUAL_SLOT"},
+      {"assetId":"panel_07","sourceFilename":"tiderna_finns_redan_i_bilderna.png","qa":"PASS_BACKFILL_VISUAL_SLOT"}
+    ],
+    "EXISTS_BUT_NOT_EXPORTABLE": [
+      {"assetId":"panel_04","historicalSourceFilename":"a_comic_illustration_style_scene_in_a_warm_vintage.png","reason":"Earlier original recorded in repository backfill metadata, but binary is no longer present in the active runtime; recorded QA also required rebuild."},
+      {"assetId":"panel_05","historicalSourceFilename":"a_comic_book_illustrated_panel_in_a_warm_retro_i.png","reason":"Earlier original recorded in repository backfill metadata, but binary is no longer present in the active runtime."},
+      {"assetId":"panel_06","historicalSourceFilename":"a_detailed_comic_book_style_illustration_panel_s.png","reason":"Earlier original recorded in repository backfill metadata, but binary is no longer present in the active runtime."},
+      {"assetId":"panel_08","historicalSourceFilename":"a_comic_book_illustrated_office_scene_in_warm_vi.png","reason":"Earlier original recorded in repository backfill metadata, but binary is no longer present in the active runtime; recorded QA also required rebuild for foreign-story content."}
+    ],
+    "MISSING": ["panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "historicalVariantsNotCurrentlyExportable": [
+    "klockan_som_inte_ljög.png",
+    "a_single_comic_style_illustration_panel_vintage.png",
+    "veckans_arbete_i_kvitton.png",
+    "fakturadilemma_på_kontoret.png",
+    "a_comic_book_style_office_scene_in_a_warm_slightl.png",
+    "a_full_page_comic_book_style_cover_illustration_in.png",
+    "arbetsveckan_i_handskfacket.png"
+  ],
+  "otherContent": {
+    "ORIGINAL_STORY.md":"EXISTS_AND_EXPORTABLE",
+    "PDF":"MISSING",
+    "social":"MISSING",
+    "completeReleaseQA":"MISSING",
+    "releaseManifest":"MISSING",
+    "releaseZIP":"MISSING",
+    "sources":"EXISTS_AND_EXPORTABLE_LOCALLY"
+  },
+  "githubBinaryAssetsPublished": 0,
+  "backfilledAt": "2026-08-23T10:55:00+02:00"
+}

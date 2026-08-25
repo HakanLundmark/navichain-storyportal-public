@@ -1,0 +1,6 @@
+continuityContract:
+  storyId: ingen-behovde-leta-upp-ratt-person
+  protagonist: {id: lotta-sjo, immutable: [face_identity, apparent_age, hair, signature_clothing]}
+  recurringProps: [telephone, symbolic_switchboard, tracker_view, coffee_cup]
+  supportingCharacters: [{id: sara-lund, visibility: "mentioned_never_depicted"}]
+  allowedCapabilities: [public_tracking, tracker_id, status, ETA, timeline]

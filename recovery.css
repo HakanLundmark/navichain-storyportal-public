@@ -1,0 +1,10 @@
+/* Provenance/recovery additions. Kept separate so the existing portal visual system remains stable. */
+.asset-statuses{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:5px;max-width:72%}
+.badge.source{text-transform:none}
+.badge[data-source="EXACT_ORIGINAL"]{background:#e7f0e9;color:#295344;border-color:#bdd0c5}
+.badge[data-source="CHAT_RECOVERED"]{background:#e8edf3;color:#31516c;border-color:#bccbd7}
+.badge[data-source="PUBLISHED_UNCLASSIFIED"]{background:#f7eed7;color:#78561e;border-color:#dec897}
+.badge[data-source="GENERATED_NOT_RECOVERED"]{background:#efebe3;color:#655f55;border-color:#d8d0c3}
+.badge[data-source="SOURCE_NOT_EXPORTABLE"]{background:#f7e4de;color:#853f31;border-color:#dab3a8}
+.badge[data-source="MISSING"]{background:#efebe3;color:#655f55;border-color:#d8d0c3}
+@media(min-width:1121px){.toolbar{grid-template-columns:minmax(260px,1.8fr) repeat(4,minmax(140px,.7fr))}}

@@ -1,0 +1,37 @@
+{
+  "storyId": "KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "canonicalAssetSlots": 14,
+  "existsAndExportableCanonicalAssets": 2,
+  "existsButNotExportableCanonicalAssets": 0,
+  "releaseEligibleAssets": 0,
+  "assets": {
+    "cover_00": {"source":"/mnt/data/ett_namn_för_alla_husen.png","sourceClass":"EXACT_ORIGINAL","access":"EXISTS_AND_EXPORTABLE","sizeBytes":3294510,"sha256":"435573398540fab174715cd58447f5a3d5e5694a85bc17cde3428b8e241b7066","gitBlobSha1":"1065e1c19f23d74e2888c13debc24042d0625116","dimensions":"1055x1491","qa":"REBUILD_REQUIRED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/cover_00.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED_AUTOMATIC_CHAIN_UNAVAILABLE"},
+    "panel_01": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_01.png"},
+    "panel_02": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_02.png"},
+    "panel_03": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_03.png"},
+    "panel_04": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_04.png"},
+    "panel_05": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_05.png"},
+    "panel_06": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_06.png"},
+    "panel_07": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_07.png"},
+    "panel_08": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_08.png"},
+    "panel_09": {"source":"/mnt/data/a_vintage_comic_illustration_style_office_scene_in.png","sourceClass":"EXACT_ORIGINAL","access":"EXISTS_AND_EXPORTABLE","sizeBytes":2789746,"sha256":"38ddb3231657aefe65578796586a9f414f4fab7240e3ac40ea0b1d3a1586fbb9","gitBlobSha1":"17c5459b0a1aeb0bd1e9dea6486e62b8aa9eeecb","dimensions":"1086x1448","qa":"REBUILD_REQUIRED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_09.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED_AUTOMATIC_CHAIN_UNAVAILABLE"},
+    "panel_10": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_10.png"},
+    "panel_11": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_11.png"},
+    "panel_12": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/panel_12.png"},
+    "cta_13": {"sourceClass":"NOT_CREATED","access":"MISSING","qa":"NOT_CREATED","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/images/cta_13.png"}
+  },
+  "historicalRejectedRenders": [
+    {"id":"historical_rejected_01","filename":"a_comic_illustration_style_image_like_a_vintage_ma.png","sourceClass":"EXACT_ORIGINAL","access":"EXISTS_AND_EXPORTABLE","sizeBytes":3472510,"sha256":"a4e99d9abbd24072c897253328457c1cddb107fd01a786c73e99ede10cc2e88f","dimensions":"1536x1024","qa":"REJECTED / MULTI_ASSET_RENDER","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/historical-rejected/a_comic_illustration_style_image_like_a_vintage_ma.png"},
+    {"id":"historical_rejected_02","filename":"a_full_page_comic_illustration_page_in_a_clear_lig.png","sourceClass":"EXACT_ORIGINAL","access":"EXISTS_AND_EXPORTABLE","sizeBytes":2792138,"sha256":"362ba10695f1cb88aa7c0a3a6eed0d635ab0cb3ba197f973dc8f5d1e772b5f5e","dimensions":"1054x1492","qa":"REJECTED / MULTI_ASSET_RENDER","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/historical-rejected/a_full_page_comic_illustration_page_in_a_clear_lig.png"},
+    {"id":"historical_rejected_03","filename":"a_full_page_comic_page_storyboard_collage_like_a.png","sourceClass":"EXACT_ORIGINAL","access":"EXISTS_AND_EXPORTABLE","sizeBytes":3269002,"sha256":"f434e30b5c9628f17d1e06bc2204abbfc77011cda4c697775c7e6b187cf63d74","dimensions":"1536x1024","qa":"REJECTED / MULTI_ASSET_RENDER","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/historical-rejected/a_full_page_comic_page_storyboard_collage_like_a.png"},
+    {"id":"historical_rejected_04","filename":"a_full_page_comic_style_illustration_tintin_hergé.png","sourceClass":"EXACT_ORIGINAL","access":"EXISTS_AND_EXPORTABLE","sizeBytes":3107902,"sha256":"5fb8068b5ad55e3a4f02b03eb74b1e7fa0df19969940c38ddc24f672b79f1a33","dimensions":"1536x1024","qa":"REJECTED / MULTI_ASSET_RENDER","githubPublished":false,"githubPath":"stories/KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN/sv-SE/historical-rejected/a_full_page_comic_style_illustration_tintin_hergé.png"},
+    {"id":"historical_rejected_prior_01","filename":"a_full_page_comic_style_illustration_infographic.png","sourceClass":"SOURCE_NOT_EXPORTABLE","access":"SOURCE_NOT_EXPORTABLE","knownSizeBytes":3124282,"knownSha256":"cc227ec45821e095d8fe219a7215c7106eebb9d6edb0427420acf376a33ebe68","knownDimensions":"1536x1024","qa":"REJECTED / MULTI_ASSET_RENDER","githubPublished":false},
+    {"id":"historical_rejected_prior_02","filename":"a_full_page_comic_style_infographic_cover_page_in.png","sourceClass":"SOURCE_NOT_EXPORTABLE","access":"SOURCE_NOT_EXPORTABLE","knownSizeBytes":3321805,"knownSha256":"170f3de80bf9bf6799eed550ff2fc62ae8967b2fb05a35f4928d720318d6e259","knownDimensions":"1536x1024","qa":"REJECTED / MULTI_ASSET_RENDER","githubPublished":false},
+    {"id":"historical_rejected_prior_03","filename":"a_full_color_comic_illustration_style_scene_like_a.png","sourceClass":"SOURCE_NOT_EXPORTABLE","access":"SOURCE_NOT_EXPORTABLE","knownSizeBytes":3379536,"knownSha256":"6eaa2ceaf8b21702a97823ac47f590e691730aefb9e66c573333d9c4a14cc5b7","knownDimensions":"1536x1024","qa":"REJECTED / MULTI_ASSET_RENDER","githubPublished":false}
+  ],
+  "historicalPriorCoverCandidate": {"filename":"imagegen.png","sourceClass":"SOURCE_NOT_EXPORTABLE","sizeBytes":3074406,"sha256":"e619788ef1b6f7a874a44c0f03c1306729d76b4df081cff5de1966289a1116e7","qa":"REBUILD_REQUIRED","githubPublished":false},
+  "other": {"pdf":"NOT_CREATED","social":"NOT_CREATED","releaseQa":"MISSING","releaseManifest":"MISSING","releaseZip":"NOT_CREATED_INCOMPLETE","retroBackfillArchiveLocal":"KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN-retro-backfill-v2-20260824.zip"},
+  "checkedAt": "2026-08-24T22:20:00+02:00"
+}

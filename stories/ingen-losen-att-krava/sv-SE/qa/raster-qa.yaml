@@ -1,0 +1,29 @@
+storyId: INGEN-LOSEN-ATT-KRAVA
+locale: sv-SE
+assetCount: 14
+commonDimensions:
+- 1055
+- 1491
+assetOrder:
+- cover_00
+- panel_01
+- panel_02
+- panel_03
+- panel_04
+- panel_05
+- panel_06
+- panel_07
+- panel_08
+- panel_09
+- panel_10
+- panel_11
+- panel_12
+- cta_13
+cta:
+  index: none
+  officialLogoSource: assets/brand/NAVICHAIN-OFFICIAL-LOGO.png
+  qrPayloadDecoded: https://navichain.se/signup
+  qrExpected: https://navichain.se/signup
+  qrPass: true
+  cleartextUrl: navichain.se/signup
+status: PASS

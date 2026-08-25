@@ -1,0 +1,221 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL",
+  "title": "RÄTT DEL TILL RÄTT BIL",
+  "inventoryAt": "2026-08-24T19:03:00+02:00",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "filename": "ORIGINAL_STORY.md",
+    "sourceLocation": "/mnt/data/backfill_ratt_del_till_ratt_bil/ORIGINAL_STORY.md",
+    "byteAvailability": "direct",
+    "size": 10451,
+    "sha256": "37cb60e6255b0a523d384920d7dfceef478b7a9e2d6748b7386a73b1da5e6e8b",
+    "sourceClass": "EXACT_ORIGINAL",
+    "qaStatus": "SOURCE_TEXT_CANONICAL; corrections tracked separately",
+    "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/ORIGINAL_STORY.md",
+    "githubReadBack": "PASS"
+  },
+  "translations": [
+    {
+      "locale": "en-GB",
+      "sourceLocale": "sv-SE",
+      "filename": "original-story-en-GB.md",
+      "sourceLocation": "/mnt/data/retro_backfill_v2_ratt_del_till_ratt_bil/work/source/original-story-en-GB.md",
+      "byteAvailability": "direct-derived",
+      "size": 10532,
+      "sha256": "5600c900c65c912f58aee50913c8a863cdceae7b98d70b692e76d492f2fda480",
+      "sourceStorySha256": "37cb60e6255b0a523d384920d7dfceef478b7a9e2d6748b7386a73b1da5e6e8b",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "qaStatus": "faithful text translation; not Narrative Master",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.md",
+      "githubCommit": "c0c0fcd3bd77fa04d0543a6aa00cb358228d4cf0",
+      "githubReadBack": "PASS"
+    }
+  ],
+  "exactOriginalHistoricalRenders": [
+    {
+      "assetId": "cover_00",
+      "candidateId": "cover_attempt_01",
+      "locale": "sv-SE",
+      "filename": "a_full_page_comic_storyboard_poster_in_a_clean_lig.png",
+      "sourceLocation": "/mnt/data/a_full_page_comic_storyboard_poster_in_a_clean_lig.png",
+      "dimensions": [1024,1536],
+      "size": 3276482,
+      "sha256": "4869f27e1a080e2800ce9e78a30e9df105d58e30d40c181e86e1090b975b5cf8",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/cover_attempt_01__a_full_page_comic_storyboard_poster_in_a_clean_lig.png",
+      "comment": "multi-panel/storyboard cover attempt; not a release master"
+    },
+    {
+      "assetId": "cover_00",
+      "candidateId": "cover_attempt_02",
+      "locale": "sv-SE",
+      "filename": "a_full_page_comic_storyboard_image_in_a_clean_lign.png",
+      "sourceLocation": "/mnt/data/a_full_page_comic_storyboard_image_in_a_clean_lign.png",
+      "dimensions": [1536,1024],
+      "size": 2893001,
+      "sha256": "56949bb3ecda21206a098b956cf4ea937a2f9e622868bb241167e6dfb4f6489d",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/cover_attempt_02__a_full_page_comic_storyboard_image_in_a_clean_lign.png",
+      "comment": "multi-panel/storyboard cover attempt; not a release master"
+    },
+    {
+      "assetId": "cover_00",
+      "candidateId": "cover_attempt_03",
+      "locale": "sv-SE",
+      "filename": "a_full_comic_storyboard_style_poster_in_a_retro_ti.png",
+      "sourceLocation": "/mnt/data/a_full_comic_storyboard_style_poster_in_a_retro_ti.png",
+      "dimensions": [1536,1024],
+      "size": 3351969,
+      "sha256": "f5c8a8e7f770e7e52ac7fd6692b0a649448d052dad5795f842f5074bf2ebf95e",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/cover_attempt_03__a_full_comic_storyboard_style_poster_in_a_retro_ti.png",
+      "comment": "multi-panel/storyboard cover attempt; not a release master"
+    },
+    {
+      "assetId": "cover_00",
+      "candidateId": "cover_attempt_04",
+      "locale": "sv-SE",
+      "filename": "a_full_page_comic_storyboard_poster_in_a_clean_ti.png",
+      "sourceLocation": "/mnt/data/a_full_page_comic_storyboard_poster_in_a_clean_ti.png",
+      "dimensions": [1156,1361],
+      "size": 2959451,
+      "sha256": "3ec029cfaf9354820aed2e8739d8464b183d8f55ae79bed85a49dfa8b6036127",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/cover_attempt_04__a_full_page_comic_storyboard_poster_in_a_clean_ti.png",
+      "comment": "multi-panel/storyboard cover attempt; not a release master"
+    },
+    {
+      "assetId": "panel_08",
+      "candidateId": "panel_08_candidate_01",
+      "locale": "sv-SE",
+      "filename": "a_full_color_comic_illustration_panel_page_vintag.png",
+      "sourceLocation": "/mnt/data/a_full_color_comic_illustration_panel_page_vintag.png",
+      "dimensions": [1024,1536],
+      "size": 3680582,
+      "sha256": "e2e062655b112a71672b0e5e8e3c1af2b23217613d5daeecabc9a6e8ebfa1553",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/panel_08_candidate_01__a_full_color_comic_illustration_panel_page_vintag.png",
+      "comment": "standalone panel 08 candidate; pre-correction procurement framing"
+    },
+    {
+      "assetId": "panel_08",
+      "candidateId": "panel_08_candidate_02",
+      "locale": "sv-SE",
+      "filename": "a_full_page_comic_style_illustration_with_a_warm_v.png",
+      "sourceLocation": "/mnt/data/a_full_page_comic_style_illustration_with_a_warm_v.png",
+      "dimensions": [1024,1536],
+      "size": 3163939,
+      "sha256": "1458e5ca637341844aec94318b33e24deac3f4dfa4e3a57036b9cbdb4eca53de",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/panel_08_candidate_02__a_full_page_comic_style_illustration_with_a_warm_v.png",
+      "comment": "standalone panel 08 candidate; pre-correction procurement framing"
+    },
+    {
+      "assetId": "panel_08",
+      "candidateId": "panel_08_candidate_03",
+      "locale": "sv-SE",
+      "filename": "a_comic_book_infographic_style_illustration_scene.png",
+      "sourceLocation": "/mnt/data/a_comic_book_infographic_style_illustration_scene.png",
+      "dimensions": [1024,1536],
+      "size": 3590605,
+      "sha256": "77a774cfecc4f53d4f7bfdc8ea2258a98fd6eef16ee60b5f770da4d79fc543dc",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/panel_08_candidate_03__a_comic_book_infographic_style_illustration_scene.png",
+      "comment": "standalone panel 08 candidate; pre-correction procurement framing"
+    },
+    {
+      "assetId": "panel_09",
+      "candidateId": "panel_09_candidate_01",
+      "locale": "sv-SE",
+      "filename": "a_detailed_comic_illustration_scene_in_a_warehouse.png",
+      "sourceLocation": "/mnt/data/a_detailed_comic_illustration_scene_in_a_warehouse.png",
+      "dimensions": [1024,1536],
+      "size": 3349874,
+      "sha256": "ac6e5e6da62a0f4b88d070b4779d19857f3ee3bdaa08c910e664b6284fc12936",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/panel_09_candidate_01__a_detailed_comic_illustration_scene_in_a_warehouse.png",
+      "comment": "standalone panel 09 candidate; depicts unverified service-booking view"
+    },
+    {
+      "assetId": "panel_12",
+      "candidateId": "panel_12_candidate_01",
+      "locale": "sv-SE",
+      "filename": "a_vintage_comic_illustration_panel_scene_hergé_ti.png",
+      "sourceLocation": "/mnt/data/a_vintage_comic_illustration_panel_scene_hergé_ti.png",
+      "dimensions": [1024,1536],
+      "size": 3524514,
+      "sha256": "4986a4c6536a2d484919d9a7cc50d7426ac00b5a50c274a9ea7396a76aff9ce9",
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "repoPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/sv-SE/historical-renders/panel_12_candidate_01__a_vintage_comic_illustration_panel_scene_hergé_ti.png",
+      "comment": "latest panel 12 candidate; generated Navichain branding and unsupported review teaser/UI framing"
+    }
+  ],
+  "canonicalCurrentBuildSlots": [
+    {"assetId":"cover_00","filename":"a_detailed_comic_book_style_cover_illustration_in.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/cover_00.png"},
+    {"assetId":"panel_01","filename":"a_detailed_comic_illustration_panel_scene_in_a_vin.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_01.png"},
+    {"assetId":"panel_02","filename":"a_comic_book_graphic_novel_style_illustration_in.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_02.png"},
+    {"assetId":"panel_03","filename":"a_comic_illustration_infographic_style_panel_pag.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_03.png"},
+    {"assetId":"panel_04","filename":"a_detailed_comic_book_style_illustration_in_a_pane.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_04.png"},
+    {"assetId":"panel_05","filename":"a_comic_book_style_ligne_claire_retro_tintin_li.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_05.png"},
+    {"assetId":"panel_06","filename":"lärdom_vid_skrivbordet.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_06.png"},
+    {"assetId":"panel_07","filename":"a_comic_book_graphic_novel_style_illustration_pa.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_07.png"},
+    {"assetId":"panel_08","filename":"a_comic_book_style_illustrated_business_warehouse.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_08.png"},
+    {"assetId":"panel_09","filename":"a_detailed_comic_book_style_illustration_poster_pa.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_09.png"},
+    {"assetId":"panel_10","filename":"a_comic_style_illustrated_scene_like_a_page_panel.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_10.png"},
+    {"assetId":"panel_11","filename":"a_detailed_comic_style_illustrated_poster_panel.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_11.png"},
+    {"assetId":"panel_12","filename":"från_gissningslek_till_veckoplanering.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/panel_12.png"},
+    {"assetId":"cta_13","filename":"a_full_color_illustrated_poster_comic_style_advert.png","dimensions":[1024,1536],"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/images/cta_13.png"}
+  ],
+  "derivedAndReleaseAssets": {
+    "pdf": {"locale":"sv-SE","filename":"ratt_del_till_ratt_bil_sv-SE.pdf","size":69737107,"sha256":"9b11f8300f6c1160fc703552a358475015a3b8025525959ecca437bbdbc12454","sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED"},
+    "historicalCurrentBuildZip": {"size":102057566,"sha256":"abe08a9aa7ed88da96383d99ffabd2e9d5cd38bb47d240c65501d9ea21108571","sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED"},
+    "socialLinkedIn": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED"}
+  },
+  "exactSourceReferences": [
+    {"filename":"NAVICHAIN-OFFICIAL-LOGO.png","dimensions":[500,300],"size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","sourceClass":"EXACT_ORIGINAL","qaStatus":"source/reference only","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/reference-assets/NAVICHAIN-OFFICIAL-LOGO.png"},
+    {"filename":"Korrekt QR kod till signup.png","dimensions":[550,574],"size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","sourceClass":"EXACT_ORIGINAL","qaStatus":"source/reference only","repoPath":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sources/reference-assets/Korrekt QR kod till signup.png"}
+  ],
+  "existingGitHubTextArtifacts": [
+    {"path":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/qa/PREFLIGHT-CORRECTIONS.md","qaStatus":"historical QA/correction log","readBack":"PASS"},
+    {"path":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/qa/qa-status.txt","qaStatus":"CURRENT_BUILD_NOT_RELEASE_LOCKED","readBack":"PASS"},
+    {"path":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/manifest/current-build-manifest.json","qaStatus":"historical manifest","readBack":"PASS"},
+    {"path":"stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/sv-SE/manifest/source-inventory.json","qaStatus":"historical inventory","readBack":"PASS"}
+  ],
+  "notCreatedAsSeparateSerializedArtifacts": ["storyboard","Story DNA","continuity contract","cast lock","character lock","vehicle/environment lock","Story Lock","release notes","localization notes"],
+  "packageOutputs": {
+    "sv-SE": {"packageFile":"KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL-sv-SE-retro-backfill-v2.zip","size":29710341,"sha256":"e4ef1f1afed69c46b34d9a8a7141c93a461688f8c2c08dd1f468dd871dec7ba4"},
+    "en-GB": {"packageFile":"KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL-en-GB-retro-backfill-v2.zip","size":10122,"sha256":"eb81e532ca59bc3c168e555f8533dc1dee290719eb66f6656ea12626a4328dc1"}
+  },
+  "transportExecution": {
+    "chromeDownload":"UNAVAILABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "nextcloudArchive":"UNAVAILABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "hardenedRouter":"NOT_INVOKABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "publisher":"NOT_INVOKABLE_FROM_ASSISTANT_TOOL_ENVIRONMENT",
+    "directGitHubTextFallback":"USED_FOR_EN_GB_AND_METADATA_ONLY",
+    "binaryPublication":"GITHUB_PUBLISH_FAILED_OR_PENDING_EXTERNAL_AUTOMATION",
+    "comment":"No browser/Chrome or Nextcloud connector is exposed in this runtime. Large exact binaries were not transferred through inline base64 because an incomplete/truncated byte stream would violate exact-original provenance."
+  },
+  "summary": {
+    "exactOriginalDirectFiles": 12,
+    "chatRecovered": 0,
+    "derivedTranslation": 1,
+    "canonicalCurrentBuildSlotsSourceNotExportable": 14,
+    "otherSourceNotExportable": 2,
+    "notCreated": 10,
+    "directHistoricalRenderCandidates": 9,
+    "githubPublishedHistoricalBinaries": 0,
+    "releaseStatus": "INCOMPLETE"
+  }
+}

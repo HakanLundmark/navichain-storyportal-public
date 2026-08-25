@@ -1,0 +1,9 @@
+storyId: INGEN-LOSEN-ATT-KRAVA
+locale: sv-SE
+pageCount: 14
+expectedPageCount: 14
+ctaQrPayloadDecodedFromRenderedPdf: https://navichain.se/signup
+qrExpected: https://navichain.se/signup
+qrPass: true
+pdfSha256: 5726383cca9b3d9dcc2448cc6d37bf017c26c5514667a3d00b3f3fd4655b012b
+status: PASS

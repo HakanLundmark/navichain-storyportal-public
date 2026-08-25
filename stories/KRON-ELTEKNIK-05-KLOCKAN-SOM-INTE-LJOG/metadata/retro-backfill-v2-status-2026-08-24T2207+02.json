@@ -1,0 +1,109 @@
+{
+  "schema": "navichain-retro-backfill-v2-status-v2",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "title": "KLOCKAN SOM INTE LJÖG",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T22:07:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "inventory": {
+    "totalIndexedItems": 74,
+    "classificationCounts": {
+      "EXACT_ORIGINAL": 44,
+      "DERIVED_TRANSLATION": 2,
+      "SOURCE_NOT_EXPORTABLE": 20,
+      "NOT_CREATED": 8
+    },
+    "exactHistoricalRenderFilesAccessible": 16,
+    "latestKnownCanonicalOriginalBytesAccessible": 0,
+    "latestKnownCanonicalSourceNotExportableCount": 14,
+    "chatRecoveredCount": 0
+  },
+  "narratives": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/ORIGINAL_STORY.md",
+      "size": 9872,
+      "sha256": "797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310",
+      "readBackVerified": true
+    },
+    "en-GB": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "narrativeMaster": false,
+      "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/source/original-story-en-GB.md",
+      "size": 10160,
+      "sha256": "8fb7f550a2e54d0d781b449c12870e0b4b368111178f3600d28b82d405450880",
+      "sourceStorySha256": "797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310",
+      "readBackVerified": true
+    }
+  },
+  "latestCanonicalAssets": [
+    {"assetId":"cover_00","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"d2aa9b8bab46e624154ffd5a1b591347352832b61b19114639a87c5697a437dd","historicalSize":3179510,"dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/cover_00.png"},
+    {"assetId":"panel_01","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"afec561cc9855290a5ebcd73ab8ccf46c4d03dbc6f3eaae37d66878efea296cf","historicalSize":3025309,"dimensions":"1402x1122","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_01.png"},
+    {"assetId":"panel_02","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"c14a6aa73759a2053535ef2ae7d2807c7758008f9a12c80d1be63ef388ddbd28","historicalSize":3222644,"dimensions":"1274x1235","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_02.png"},
+    {"assetId":"panel_03","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"3fbf56d03d1da0a0c26c6c555f1e1fd9cca59ee39ca30575db08bc5332adaafc","historicalSize":3279523,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_03.png"},
+    {"assetId":"panel_04","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"82db779e1389def1dbd27be110e6a30dc80a84ed604648ddde419b88f0ec1ff9","historicalSize":2977535,"dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_04.png"},
+    {"assetId":"panel_05","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"045e2501ebbdbdf2897c30de9114645dfe34feeaca4c4756f31a320633b0bc60","historicalSize":3383447,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_05.png"},
+    {"assetId":"panel_06","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"ba1c68ed60097dec0e886583fdb948e853d0517ae3106601a91eff9fb2e714a2","historicalSize":2849412,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_06.png"},
+    {"assetId":"panel_07","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"3b87492d3ecf408fe800f7cc4fece252d73477df02d487eee92bb787dba0ce0e","historicalSize":3160155,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_07.png"},
+    {"assetId":"panel_08","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"7abe0aef5b9e5d800105454e31f1fd0e07c7f0220d84a4d316a7980e94acb228","historicalSize":2830859,"dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_08.png"},
+    {"assetId":"panel_09","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"38e38e60e523e45904df28ace0a6f85f9a507dad73cf91cb82303cc31b6d0833","historicalSize":2912196,"dimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_09.png"},
+    {"assetId":"panel_10","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"244edb9e90b18e48dcfe758b024bd3a36c64d310e3b68f3f5b8e1553146a37ea","historicalSize":2669132,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_10.png"},
+    {"assetId":"panel_11","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"915839405e48cd9017c1597797c3ad1c2058dbd82ad8636849bb0a5dbfa420c2","historicalSize":2963197,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_11.png"},
+    {"assetId":"panel_12","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"3cfef19705c9d8efaff16bd3539d05fc7f2256c19ba50c60cd0a85302949ac7a","historicalSize":2846639,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_12.png"},
+    {"assetId":"cta_13","sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"c4cacd9f142ca27e3646ebf1846c93ec24812830611907c5d6665d677683103b","historicalSize":1345750,"dimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/cta_13.png"}
+  ],
+  "exactHistoricalRenders": [
+    {"assetId":"cover_00","filename":"klockan_som_inte_ljög.png","size":3013908,"dimensions":"1055x1491","sha256":"18db96fe610219b9ccfe65aa69a9ff5738a864e213560a332da47b0973b24931","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/cover_00/18db96fe6102-klockan_som_inte_ljög.png"},
+    {"assetId":"cover_00","filename":"a_full_page_comic_book_style_cover_illustration_in.png","size":3403711,"dimensions":"1024x1536","sha256":"58b94fa8543476414c0ec99fbe88ec6c54dc6431c4b88e25848ace425fec3c5b","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/cover_00/58b94fa85434-a_full_page_comic_book_style_cover_illustration_in.png"},
+    {"assetId":"panel_01","filename":"a_single_comic_style_illustration_panel_vintage.png","size":3017600,"dimensions":"1149x1369","sha256":"8210939cfaf28b44c0027d0172349b93d29fc663c05571bed7909ebdb0a3d602","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_01/8210939cfaf2-a_single_comic_style_illustration_panel_vintage.png"},
+    {"assetId":"panel_02","filename":"veckans_arbete_i_kvitton.png","size":2856060,"dimensions":"1122x1402","sha256":"4bc6741de5f6a56083ce18bb63aacaa0b912e2f69f66a84e6c4b6ed0b90575d2","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_02/4bc6741de5f6-veckans_arbete_i_kvitton.png"},
+    {"assetId":"panel_02","filename":"arbetsveckan_i_handskfacket.png","size":2957207,"dimensions":"1122x1402","sha256":"0060fc6c522aeb9869242f3a64b22a5e5f2303ca2f524fc71375e0dd1e28639d","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_02/0060fc6c522a-arbetsveckan_i_handskfacket.png"},
+    {"assetId":"panel_03","filename":"fakturadilemma_på_kontoret.png","size":2865173,"dimensions":"1122x1402","sha256":"c93d51fab787c7ebdd2d600468ab3e48784e510b54101b620868760741a47bb6","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_03/c93d51fab787-fakturadilemma_på_kontoret.png"},
+    {"assetId":"panel_04","filename":"a_comic_illustration_style_scene_in_a_warm_vintage.png","size":3003451,"dimensions":"1148x1370","sha256":"51e8e6fb9d52fde6d4fcaac4b89106779a21f844d0d6d6c9386493cbae25870e","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_04/51e8e6fb9d52-a_comic_illustration_style_scene_in_a_warm_vintage.png"},
+    {"assetId":"panel_05","filename":"a_comic_book_illustrated_panel_in_a_warm_retro_i.png","size":3164367,"dimensions":"1149x1369","sha256":"c6dace9a9b56183b20fe3360ddcfe080dabc8abf75aca79c5537a3f0ceb8e3ec","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_05/c6dace9a9b56-a_comic_book_illustrated_panel_in_a_warm_retro_i.png"},
+    {"assetId":"panel_06","filename":"a_detailed_comic_book_style_illustration_panel_s.png","size":3237401,"dimensions":"1148x1370","sha256":"5967a7326386b3c578c58b918e2fcbf13eab6b73602b3cf23479a79ad565c3a8","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_06/5967a7326386-a_detailed_comic_book_style_illustration_panel_s.png"},
+    {"assetId":"panel_07","filename":"a_comic_book_style_office_scene_in_a_warm_slightl.png","size":3160761,"dimensions":"1148x1370","sha256":"edc4bc30a928918a41b25ee41f759f06df6c64beb4aea2456dc76903bec74ee6","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_07/edc4bc30a928-a_comic_book_style_office_scene_in_a_warm_slightl.png"},
+    {"assetId":"panel_08","filename":"a_comic_book_illustrated_office_scene_in_warm_vi.png","size":3062513,"dimensions":"1147x1371","sha256":"1eb2041bb69fc024006ea6b58b1d434732998ef673c954fa8bdfe75abf20bb4c","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_08/1eb2041bb69f-a_comic_book_illustrated_office_scene_in_warm_vi.png"},
+    {"assetId":"panel_08","filename":"ankomstbevis_vid_elskåpet.png","size":3353454,"dimensions":"1024x1536","sha256":"d167bcc1fd2e4cf8c48e8b3bff765f64d93a22d132161a1f9b7148c2eec3e533","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_08/d167bcc1fd2e-ankomstbevis_vid_elskåpet.png"},
+    {"assetId":"panel_09","filename":"signatur_och_tidsstämplar_på_jobbet.png","size":3265861,"dimensions":"1024x1536","sha256":"f686d589324f64be27b761f7ffe82cb22a46db808636aff411739a6c09ca2212","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_09/f686d589324f-signatur_och_tidsstämplar_på_jobbet.png"},
+    {"assetId":"panel_09","filename":"a_detailed_comic_illustration_panel_scene_in_warm.png","size":3177830,"dimensions":"1073x1466","sha256":"00da35029d9b4ebef52fe1ca42a72af5085a00ee32c89864c135a199e6308582","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_09/00da35029d9b-a_detailed_comic_illustration_panel_scene_in_warm.png"},
+    {"assetId":"panel_09","filename":"a_comic_illustration_style_panel_scene_in_a_truck.png","size":3103074,"dimensions":"1070x1470","sha256":"b0f11b748790457f30924ce5161e86ad61329d7ce1dbf06855166184591b7de9","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_09/b0f11b748790-a_comic_illustration_style_panel_scene_in_a_truck.png"},
+    {"assetId":"panel_09","filename":"a_comic_book_graphic_novel_style_illustration_p.png","size":3275481,"dimensions":"1086x1448","sha256":"50cf246866f518b63a733bfda686ed8a33d2badbdde2f843aa3c2ec81582e549","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","intendedHistoricalPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/history/renders/panel_09/50cf246866f5-a_comic_book_graphic_novel_style_illustration_p.png"}
+  ],
+  "derivedRelease": {
+    "pdf": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSize":4608579,"historicalSha256":"6f338c91a01d258817d39a4af8adc311b60320550abe31f56a56b30c22adb225"},
+    "releaseZip": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSize":41091137,"historicalSha256":"c3373f06fc7ec9def8a6514ab665a0f06c14217357c9211bff6eabef80fc5246"},
+    "social": {"sourceClass":"NOT_CREATED"}
+  },
+  "preparedArtifacts": [
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-retro-backfill-v2-20260824-2207.zip","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-retro-backfill-v2-20260824-2207.zip","size":60975603,"sha256":"502fbe411eb53755bc6c1ce3fc99328de8c1e1cfaf97759ab969da358fe5c43b"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-backfill-v2-20260824-2207.zip","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-backfill-v2-20260824-2207.zip","size":49573702,"sha256":"ffedd2d8258262bc38746881595e9b5acd13b1e1af767e2b84ff099ec9946e2a"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.json","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.json","size":7560,"sha256":"072aa7b9d7cd9245a13632553b06004c1c3bc223cae8765cff77bc24b86bd729"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.zip","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.zip","size":1946,"sha256":"f82895cfefa9f226ceded0e0874e8f2b57dcd2c4ee3a01358f2dc5551cc20248"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB-retro-backfill-v2-20260824-2207.zip","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB-retro-backfill-v2-20260824-2207.zip","size":4396,"sha256":"f8943d4c00fc0b0d5f732f33def35bb9bc56c2455aca418cd95538cbda5476f9"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.json","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.json","size":792,"sha256":"7efbe70d31a7325e67f809a339880ba61df0610e45204456b19aa88ec0c1c1db"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.zip","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.zip","size":659,"sha256":"e8e2b3d3388d7be42ae88386f4b0771c0e86b92f20719839fd738dd96f3c8f4c"}
+  ],
+  "automaticTransport": {
+    "requested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "chromeControlAvailableFromAssistant": false,
+    "nextcloudWriteConnectorAvailableFromAssistant": false,
+    "nextcloudPluginDiscoveryResult": "NO_NEXTCLOUD_WRITE_CONNECTOR_FOUND",
+    "manualPublisherFallbackUsed": false,
+    "status": "UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE"
+  },
+  "githubPublication": {
+    "historicalVisualBinariesPublishedThisRun": 0,
+    "canonicalVisualBinariesPublished": 0,
+    "canonicalImagesDirectoryReadBack": "NOT_FOUND",
+    "officialLogoAlreadySyncedAndReadBackVerified": true,
+    "narrativeMasterReadBackVerified": true,
+    "enGbTranslationReadBackVerified": true,
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "reason": "Automatic Chrome/local-capture/Nextcloud/router/publisher transport cannot be invoked from the current assistant tool surface. No prohibited manual binary publisher fallback was used. Exact historical render bytes remain preserved in local backfill packages for download; the latest-known canonical 14 source binaries remain SOURCE_NOT_EXPORTABLE in the current runtime."
+  }
+}

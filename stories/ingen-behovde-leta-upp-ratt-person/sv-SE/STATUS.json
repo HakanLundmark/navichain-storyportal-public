@@ -1,0 +1,18 @@
+{
+  "locale": "sv-SE",
+  "masterVersion": "1.0.0",
+  "status": "INCOMPLETE",
+  "verifiedOriginalAssetCount": 12,
+  "requiredAssetCount": 14,
+  "missing": [],
+  "existsButNotExportable": ["panel_01", "panel_03"],
+  "reason": "The accessible release QA explicitly states that panel_01 and panel_03 were reconstructed because the earlier generated originals were not retained. Under this backfill's original-asset rule, those two originals are not exportable and the locale cannot be COMPLETE.",
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "EXISTS_AND_EXPORTABLE_BUT_NOT_CANONICAL_COMPLETE_PROOF",
+    "social": "EXISTS_AND_EXPORTABLE",
+    "QA": "EXISTS_AND_EXPORTABLE",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": "EXISTS_AND_EXPORTABLE"
+  }
+}

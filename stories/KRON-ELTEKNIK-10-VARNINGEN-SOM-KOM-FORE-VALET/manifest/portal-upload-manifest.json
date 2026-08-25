@@ -1,0 +1,21 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "KRON-ELTEKNIK-10-VARNINGEN-SOM-KOM-FORE-VALET",
+  "storySlug": "kron-elteknik-10-varningen-som-kom-fore-valet",
+  "title": "VARNINGEN SOM KOM FÖRE VALET",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "exportedAt": "2026-08-23T10:58:00+02:00",
+  "source": "chatgpt-current-story-chat",
+  "originalStory": {"path":"ORIGINAL_STORY.md","status":"present"},
+  "locales": ["sv-SE","en-GB"],
+  "assets": {"sv-SE":14,"en-GB":2},
+  "pdfs": {"sv-SE":"sv-SE/pdf/varningen_som_kom_fore_valet_sv-SE.pdf"},
+  "social": {},
+  "qa": {"export":"pass","releaseStatusKnown":false},
+  "publishPolicy": {
+    "portalMayImportIncompletePackage": true,
+    "portalMayPublishIncompleteStory": false,
+    "githubSyncAfterSuccessfulPortalImport": true
+  }
+}

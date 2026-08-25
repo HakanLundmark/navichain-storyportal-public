@@ -1,0 +1,64 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "jobbet-ingen-kunde-bestrida",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "JOBBET INGEN KUNDE BESTRIDA",
+  "subtitle": "En navichain story — Yvonne, Daniel och beviset som fanns i fickan",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionStatus": "NOT_DIRECTLY_VERIFIED_IN_CURRENT_CHAT_EXPORT",
+  "canonicalStory": "ORIGINAL_STORY.md",
+  "canonicalStorySourceStatus": "EXACT_ORIGINAL",
+  "sourceArtifacts": {
+    "narrativeMaster": {
+      "path": "source/original-story-sv-SE.md",
+      "locale": "sv-SE",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "0c472c7757017f003afc7342487ee84a93b5894b2ac5c8d808a282a3ac695a64",
+      "narrativeMaster": true
+    },
+    "enGBTranslation": {
+      "path": "source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sha256": "dcf78c56ee34875ac07aa8cc39ad4c0193b110b2192f6508884d985c769c82f9",
+      "sourceStorySha256": "0c472c7757017f003afc7342487ee84a93b5894b2ac5c8d808a282a3ac695a64",
+      "narrativeMaster": false
+    }
+  },
+  "correctedNarrativeMasterStatus": "SOURCE_NOT_EXPORTABLE_AS_COMPLETE_STANDALONE_MASTER",
+  "protagonist": "Yvonne Kron, 44, samordnare/dispatcher, Kron Elteknik AB",
+  "supportingCharacters": [
+    "Daniel Ohls, 31, fälttekniker",
+    "Grels Ambjörnsson, fastighetsägare och återkommande kund"
+  ],
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "historicalCanonicalCandidatesFound": ["cover_00", "panel_01", "panel_08"],
+      "historicalExtraCandidatesFound": ["cover_00 earlier attempt"],
+      "candidateQaStatus": {
+        "cover_00": "REBUILD_REQUIRED",
+        "panel_01": "REBUILD_REQUIRED",
+        "panel_08": "REBUILD_REQUIRED"
+      },
+      "notCreated": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "releaseQa": "NOT_CREATED",
+      "releaseManifest": "NOT_CREATED"
+    }
+  },
+  "githubPublishedBinaryAssets": [],
+  "retroBackfillV2": {
+    "inventoryPath": "manifest/retro-backfill-v2-inventory.json",
+    "textArtifactsPublished": true,
+    "binarySourceState": "EXACT_ORIGINAL_BYTES_AVAILABLE_LOCALLY",
+    "binaryGithubState": "NOT_VERIFIED_PUBLISHED",
+    "nextcloudArchiveState": "NOT_EXECUTED_FROM_AVAILABLE_CHAT_TOOLING",
+    "finalStatus": "PARTIAL_BACKFILL"
+  }
+}

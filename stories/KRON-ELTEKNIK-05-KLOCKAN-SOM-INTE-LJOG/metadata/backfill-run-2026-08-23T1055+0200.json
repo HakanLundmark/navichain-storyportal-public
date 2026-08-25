@@ -1,0 +1,15 @@
+{
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "result": "INCOMPLETE",
+  "writtenInThisBackfill": 8,
+  "requiredAssetClassification": {
+    "EXISTS_AND_EXPORTABLE": 5,
+    "EXISTS_BUT_NOT_EXPORTABLE": 4,
+    "MISSING": 5
+  },
+  "githubBinaryAssetsPublished": 0,
+  "releaseZipCreated": false,
+  "note": "This marker closes the metadata backfill run. It does not claim a complete release or SYNCED locale."
+}

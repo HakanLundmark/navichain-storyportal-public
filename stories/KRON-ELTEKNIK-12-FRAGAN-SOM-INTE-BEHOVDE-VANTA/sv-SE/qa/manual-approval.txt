@@ -1,0 +1,5 @@
+MANUAL APPROVAL
+Asset: cta_13
+Decision: APPROVED
+Basis: explicit user approval in project conversation.
+Release treatment: CTA accepted as final; no rebuild required.

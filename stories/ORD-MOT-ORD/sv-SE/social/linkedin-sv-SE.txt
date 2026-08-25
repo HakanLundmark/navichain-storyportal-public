@@ -1,0 +1,13 @@
+Ord mot ord kostar mer än själva skadan.
+
+När en hyrmaskin kommer tillbaka med en ny buckla är frågan enkel - men svaret kan vara dyrt: fanns skadan redan vid utlämningen?
+
+Hos Fors Maskinuthyrning blev tomma skickfält och minnesbilder till återkommande tvister. Lösningen i berättelsen är inte mer administration, utan en konsekvent digital inspektionsrutin: samma checklista vid utlämning och retur, tydliga anmärkningar och en historik som går att följa.
+
+Navichain stödjer mallbaserade Equipment Inspections för utrustning, med OK/Issue/Fixed/N/A, anteckningar och valfritt timmätarvärde. Det ger Mikael och Lena ett tydligare underlag när skick förändras - och gör samtalet med kunden sakligare.
+
+Människan fattar beslutet. Navichain hjälper till att hålla ordning på underlaget.
+
+Läs serien: "Ord mot ord - skadan som bevisade sig själv".
+
+Kom igång: https://navichain.se/signup

@@ -1,0 +1,34 @@
+{
+  "storyId": "LISTAN-SOM-VISAR-SINA-SKAL",
+  "locale": "sv-SE",
+  "masterVersion": "v1.0",
+  "classification": "INCOMPLETE",
+  "assets": {
+    "cover_00": "EXISTS_AND_EXPORTABLE",
+    "panel_01": "EXISTS_AND_EXPORTABLE",
+    "panel_02": "EXISTS_AND_EXPORTABLE",
+    "panel_03": "EXISTS_AND_EXPORTABLE",
+    "panel_04": "MISSING",
+    "panel_05": "MISSING",
+    "panel_06": "EXISTS_AND_EXPORTABLE",
+    "panel_07": "EXISTS_AND_EXPORTABLE",
+    "panel_08": "EXISTS_AND_EXPORTABLE",
+    "panel_09": "EXISTS_AND_EXPORTABLE",
+    "panel_10": "EXISTS_AND_EXPORTABLE",
+    "panel_11": "MISSING",
+    "panel_12": "EXISTS_AND_EXPORTABLE",
+    "cta_13": "EXISTS_AND_EXPORTABLE"
+  },
+  "other": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "EXISTS_AND_EXPORTABLE_BLOCKED_PREVIEW",
+    "social": "EXISTS_AND_EXPORTABLE",
+    "QA": "EXISTS_AND_EXPORTABLE",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": "EXISTS_AND_EXPORTABLE"
+  },
+  "publication": {
+    "binaryUploadStatus": "GITHUB_PUBLISH_FAILED",
+    "reason": "The connected GitHub write surface available in this session accepts UTF-8 text directly but exposes no local-file binary upload parameter. Original PNG/PDF bytes were therefore not rewritten, reconstructed, or substituted."
+  }
+}

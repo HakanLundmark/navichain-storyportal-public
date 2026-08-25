@@ -1,0 +1,27 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "undantaget-som-aldrig-ar-tyst",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "canonicalRequired": 14,
+  "canonicalExactOriginal": 11,
+  "sourceNotExportable": ["panel_01", "panel_09", "cta_13"],
+  "githubPublishedBinaryAssets": 0,
+  "narrativeMasterStatus": "GITHUB_PUBLISHED_READBACK_VERIFIED",
+  "enGbStoryStatus": "GITHUB_PUBLISHED_DERIVED_TRANSLATION_READBACK_VERIFIED",
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED",
+  "localRetroPackage": {
+    "filename": "undantaget-som-aldrig-ar-tyst-retro-backfill-v2-20260824-2214.zip",
+    "size": 95290167,
+    "sha256": "f7b4ac21cb29ca8c09a88e3d0b0d2c08f8bbc5bca6aa8ef39bed78ea60806ae2",
+    "zipEntryCount": 61,
+    "publishRequestFileCount": 40
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "checkedAt": "2026-08-24T22:14:00+02:00"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "navichain-retro-backfill-packages-v2",
+  "storyId": "BRON-SOM-STOPPADE-ALLT",
+  "packages": [
+    {"filename":"BRON-SOM-STOPPADE-ALLT-backfill-20260823-0027.zip","size":127859261,"sha256":"c2984a0e22291143aded26370539127f064f76fb8df25b24e851b337bb22a029","sourceClass":"EXACT_ORIGINAL","qaStatus":"ARCHIVE_PACKAGE"},
+    {"filename":"BRON-SOM-STOPPADE-ALLT-backfill-support.zip","size":434545,"sha256":"48f21b74c2e82e8936e2d90bf98bc600db7c0d0db1b321f32f22878521900b9e","sourceClass":"EXACT_ORIGINAL","qaStatus":"ARCHIVE_PACKAGE"},
+    {"filename":"BRON-SOM-STOPPADE-ALLT-en-GB-wip.zip","size":52081966,"sha256":"3b829baff8d556d56d0a877ce8f6a33375744e46b6f1edd8d3ec7c06043ebd79","sourceClass":"EXACT_ORIGINAL","qaStatus":"ARCHIVE_PACKAGE"},
+    {"filename":"BRON-SOM-STOPPADE-ALLT-export.zip","size":76516288,"sha256":"86f6e5162d880ed44be871597eff3219df8cb5c4acf2094d182ca4b3c5f0d50e","sourceClass":"EXACT_ORIGINAL","qaStatus":"ARCHIVE_PACKAGE"},
+    {"filename":"BRON-SOM-STOPPADE-ALLT-sv-SE-source-renders.zip","size":54553887,"sha256":"a8d21b663be31280865a60103b0f36a85c6e6788ac5fdbc0750ca61f25bc3f26","sourceClass":"EXACT_ORIGINAL","qaStatus":"ARCHIVE_PACKAGE"}
+  ]
+}

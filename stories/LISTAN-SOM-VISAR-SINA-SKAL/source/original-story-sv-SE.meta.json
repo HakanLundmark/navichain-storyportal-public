@@ -1,0 +1,9 @@
+{
+  "storyId": "LISTAN-SOM-VISAR-SINA-SKAL",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sha256": "440f76af5554f6471e198487d871c95948877d1ab0ee3582da20fe0137430d8c",
+  "size": 10352,
+  "sourceEvidence": "/mnt/data/backfill_lsvs/ORIGINAL_STORY.md"
+}

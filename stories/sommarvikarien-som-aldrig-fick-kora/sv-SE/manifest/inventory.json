@@ -1,0 +1,54 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "sommarvikarien-som-aldrig-fick-kora",
+  "locale": "sv-SE",
+  "generatedAt": "2026-08-24T19:37:00+02:00",
+  "summary": {
+    "canonicalSlots": 14,
+    "canonicalExactOriginalCandidates": 12,
+    "canonicalSourceNotExportable": 2,
+    "historicalExactOriginalVisualFiles": 22,
+    "chatRecovered": 0,
+    "derivedTranslationFiles": 1,
+    "pdf": "NOT_CREATED",
+    "social": "NOT_CREATED",
+    "githubPublishedBinaryAssets": 0
+  },
+  "canonical": {
+    "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3146603,"dimensions":[1086,1448],"sha256":"a32407684cf23610285b551cce74fa89ade966d1e734cfadbc2d13946616751a","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/cover_00.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3138848,"dimensions":[1024,1535],"sha256":"aa8cf3c254f78dc481c95c9c25d18a1a34e19c235530ae84026dae76a0bec8ad","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_01.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3157931,"dimensions":[1024,1535],"sha256":"8ae07a386d448698ebe375fd13a6dedbf66cf8ae6f5a57c22d1c323f88969f06","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_02.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_03": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3357096,"dimensions":[1024,1536],"sha256":"2a50f3ea8444d754f96bc4ebeea3206ffe1179d4be24581b16f75d685b126445","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_03.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_04": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2903909,"dimensions":[1023,1537],"sha256":"d96f58e7527b0abf84e4e8808daefb8cfc9678a35642382dc50b4ccf5ec13ffd","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_04.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_05": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3307439,"dimensions":[1024,1536],"sha256":"23e59ce540b164041e1ae7a02c785189085cc7de19322d5009b618de04cba1b2","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_05.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_06": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_06.png","publishStatus":"SOURCE_NOT_EXPORTABLE","reason":"Two exact historical REBUILD_REQUIRED candidates exist; selecting a canonical current candidate would require guessing."},
+    "panel_07": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3271990,"dimensions":[1024,1536],"sha256":"0f31d009081d92ee2725bfce16477085d35294a1157a7ea7e855b2774cdafd93","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_07.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_08": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3279537,"dimensions":[1024,1536],"sha256":"d060ae48fed4333c3b789867052412fb0d31fa8b03e99bafdc025fd940046449","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_08.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_09": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3364702,"dimensions":[1024,1536],"sha256":"b6d313e5b7286ad734e845cf5bb4bfb387e51de217b5f73bc9ed4fc9a976fab4","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_09.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED","note":"Later claim-safe revision; prior QA says it diverges from the strict original storyboard."},
+    "panel_10": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3324493,"dimensions":[1024,1536],"sha256":"3f65a628decd0233c64acff7562a15721d9a1afe0d5fac064b21877990cfad44","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_10.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED","note":"Later claim-safe revision; prior QA says it diverges from the strict original storyboard."},
+    "panel_11": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3294291,"dimensions":[1024,1536],"sha256":"11486a9e0f7dc0e6d857f629f782a5c8b0006399c556cc6522ba6d36e22114f5","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_11.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "panel_12": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3339377,"dimensions":[1024,1536],"sha256":"523a406f6192dd249e95af312f2e983d25922b33e909a441c554588dd23566aa","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/panel_12.png","publishStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"},
+    "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"UNKNOWN","path":"stories/sommarvikarien-som-aldrig-fick-kora/sv-SE/images/cta_13.png","publishStatus":"SOURCE_NOT_EXPORTABLE","reason":"Historical render existed earlier in the source chat, but no original binary or directly recoverable visible render is exposed in the current assistant tool surface."}
+  },
+  "historicalRejectedOrSuperseded": [
+    {"filename":"a_3x3_comic_graphic_novel_style_storyboard_page.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":3280229,"dimensions":[1536,1024],"sha256":"90d859a8ef2831db5a9858ce6627d127dea23c7d1a21604111e6e4f3d468ed10"},
+    {"filename":"a_full_color_comic_booklet_layout_with_10_panels.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":3190706,"dimensions":[1536,1024],"sha256":"4c67cef6df78c17b3f692c4b862e962b55a55f54943a902bc56f866111303130"},
+    {"filename":"a_full_color_comic_illustration_page_laid_out_as_a.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":2978969,"dimensions":[1536,1024],"sha256":"b05ae880bda05751ad384c59ae38cc141d6b27d59e7dbb81a1f27ccf469e836e"},
+    {"filename":"a_full_color_illustrated_comic_page_in_a_clean_lig.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":3098100,"dimensions":[1536,1024],"sha256":"cf4700927ff05e9455720742aca50c8a525f33d0fad5fcb6058c44ad20161bae"},
+    {"filename":"a_full_comic_storyboard_infographic_layout_brig.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":3197769,"dimensions":[1536,1024],"sha256":"b8ec2672610781da4bd586e7bbad02bb1ef15be7ccb80257d1504127fde8b558"},
+    {"filename":"a_full_color_comic_illustration_panel_in_a_clean_l.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":2833390,"dimensions":[1055,1491],"sha256":"1f47bc912fb9856e9fdcbb35662cdb3115df22bd03ed363caac7979bf4c1e347"},
+    {"filename":"a_detailed_comic_book_style_illustrated_poster_cov.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":3422270,"dimensions":[1024,1536],"sha256":"99a827c940ce62c6b6ede487d6c7181e114db06219752dee847a058463af126d"},
+    {"filename":"a_detailed_comic_book_instructional_illustration.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":2953294,"dimensions":[1023,1537],"sha256":"ef2d0bd97ceea264816124dba61aa2e5529d6daa9a3620e8e079e37118e5570e"},
+    {"filename":"a_comic_illustration_style_scene_in_an_office_ove.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":3040335,"dimensions":[1024,1536],"sha256":"4bf1921e4f50677b328b131305006d8e757855213f0f1fa25e7fe52e3de7d8aa"},
+    {"filename":"a_detailed_comic_style_illustration_like_a_storyb.png","qaStatus":"REBUILD_REQUIRED","sourceClass":"EXACT_ORIGINAL","size":3129788,"dimensions":[1024,1536],"sha256":"eae9affc5af68ed917b03e21f9fa33e478e2e336d28ff4fc29acafa6c7af9cd4"}
+  ],
+  "narrative": {
+    "svSE": {"sourceClass":"EXACT_ORIGINAL","size":11038,"sha256":"d632803be1429467c64ca9e90320d4ed376040aff3efe3a36c498cda028e98ac","path":"stories/sommarvikarien-som-aldrig-fick-kora/source/original-story-sv-SE.md"},
+    "enGB": {"sourceClass":"DERIVED_TRANSLATION","size":11748,"sha256":"45dae6dd44db341f8049d365cf13de26f14f81370f9cf7bb93b6e4fc70897cf7","path":"stories/sommarvikarien-som-aldrig-fick-kora/source/original-story-en-GB.md","narrativeMaster":false}
+  },
+  "transport": {
+    "automaticTransportStatus":"BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus":"NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryBackfillStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+  }
+}

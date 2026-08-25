@@ -1,0 +1,73 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "INGET-FALLER-MELLAN-STOLARNA",
+  "title": "Inget faller mellan stolarna — Henrik & navichains uppgiftsmotor",
+  "masterLocale": "sv-SE",
+  "inventoryAt": "2026-08-24T19:34:00+02:00",
+  "historicalStatus": "INCOMPLETE",
+  "storyLock": false,
+  "narrativeMaster": {
+    "sourceClass": "EXACT_ORIGINAL",
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-sv-SE.md",
+    "canonicalPath": "stories/INGET-FALLER-MELLAN-STOLARNA/ORIGINAL_STORY.md",
+    "size": 7882,
+    "sha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0"
+  },
+  "englishStory": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "path": "stories/INGET-FALLER-MELLAN-STOLARNA/source/original-story-en-GB.md",
+    "compatibilityPath": "stories/INGET-FALLER-MELLAN-STOLARNA/ORIGINAL_STORY.en-GB.md",
+    "size": 8146,
+    "sha256": "c56125a1b7f1e46ca84d78092adb89e34b488b63cbe1879a807c79dd4cb6233c",
+    "sourceStorySha256": "ad083e9493ac44b690c4774a21a6e54be096dd1b89edee747c5bf41e1d9fcbc0"
+  },
+  "locales": {
+    "sv-SE": {
+      "classification": "INCOMPLETE",
+      "expectedAssetCount": 14,
+      "currentRuntimeExactOriginalCanonicalAssetCount": 13,
+      "assets": {
+        "cover_00": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3764840,"sha256":"740ba42da7336ad62d714801b188341d568682a63c658cfbdb0b90f2dba7797a"},
+        "panel_01": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3846543,"sha256":"dbdbab22d6e6403d3db55175279599a228da7f38d777e9e04142074b5e002021"},
+        "panel_02": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3663486,"sha256":"432130e80382dd511ca60223a5a33835ef5f96fb6dd94eb2f671a3b2120e5291"},
+        "panel_03": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3624263,"sha256":"9effea378150eba6a0b984a53c603374ad8abc94b86ece1a103186a7a171713e"},
+        "panel_04": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3776917,"sha256":"65b0e8893c5688aebfc9b8760513bbfafc1d251987e7f9d9e5a269de92258e10"},
+        "panel_05": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3739132,"sha256":"be8c8c405ed63ef2eece0004599a322bcdff95ef5c395bb4084ddea5c2bdf3b9"},
+        "panel_06": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3650795,"sha256":"581416399131d392f27f5f59d3289b92fc9f4a90c026c557795d4f4db029a1ec"},
+        "panel_07": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3705921,"sha256":"edab230ff24ad57958e84a6044eac980cdf3b3ec7abe4e0ef458c1e8f1a40e67"},
+        "panel_08": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3747761,"sha256":"e0e60a7d21ea28b48f76d6e4e1ca7a5304f90a44819ec33b314a15d164b5ea3c"},
+        "panel_09": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3718971,"sha256":"67cc0951a536b0890fecb4550568ff2d808e16157d47f30b1735fad79a7e20d0"},
+        "panel_10": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3345828,"sha256":"32af0f261eba99d1e02c585d725fc0fac05bff8ae1b9b1d3c012f0936bf31946"},
+        "panel_11": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3175001,"sha256":"60e662fa34b333be8d5523897664f4a2b4c3af348bd58836bc1280624b012e68"},
+        "panel_12": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3197510,"sha256":"162a14357ff6c5941f8b5d5f94e330f9cff31abc01b5a2b658380bd8118f2490"},
+        "cta_13": {"sourceClass":"NOT_CREATED","qaStatus":"NOT_CREATED"}
+      },
+      "historicalRawRenderFilesDirectlyAccessible": 43,
+      "githubPublishedBinaryAssets": 0,
+      "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+      "binaryPublishReason": "Exact local packages and verification spec were created, but the current chat tool surface exposes neither Chrome/Nextcloud control nor a public direct HTTPS package URL required by the repository mobile-binary-import workflow. No binary canonical path has therefore been claimed as published."
+    }
+  },
+  "localPackages": {
+    "fullArchive": {"filename":"INGET-FALLER-MELLAN-STOLARNA-retro-v2-full-archive.zip","size":199527334,"sha256":"4bce7fb080f726473653694ef820cf67fdc9755eff8314b99821da3a3d934402"},
+    "svSePublishPackage": {"filename":"INGET-FALLER-MELLAN-STOLARNA-sv-SE-retro-v2-publish-package.zip","size":199327951,"sha256":"d77473c7078a6e8dca6a88c5133171b7f2990ac26ab2a12ba55df82c969e3f98"},
+    "enGbPublishPackage": {"filename":"INGET-FALLER-MELLAN-STOLARNA-en-GB-retro-v2-publish-package.zip","size":8304,"sha256":"49747bc7858a5896049dd6df483d758391c3b745d05c8737470ab439569050de"}
+  },
+  "binaryImportSpec": "mobile-binary-import-specs/INGET-FALLER-MELLAN-STOLARNA-sv-SE.json",
+  "derivedReleaseAssets": {
+    "pdf": "NOT_CREATED",
+    "linkedinSocial": "NOT_CREATED",
+    "releaseZip": "NOT_CREATED"
+  },
+  "validation": {
+    "reality": "PASS",
+    "storyIsolation": "PASS",
+    "continuity": "PASS_WITH_CHAT_CORRECTIONS",
+    "productTruthHistorical": "UNRESOLVED",
+    "release": "BLOCKED"
+  }
+}

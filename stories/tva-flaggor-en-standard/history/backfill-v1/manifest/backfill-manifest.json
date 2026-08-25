@@ -1,0 +1,33 @@
+{
+  "schema": "navichain-backfill-manifest-v1",
+  "storyId": "tva-flaggor-en-standard",
+  "masterVersion": null,
+  "source": "current-chat-and-directly-accessible-files",
+  "locales": {"sv-SE":"INCOMPLETE","en-GB":"INCOMPLETE"},
+  "releaseZipCreated": false,
+  "creativeRegenerationPerformed": false,
+  "canonicalExporterableAssets": {
+    "sv-SE": [
+      {"assetId":"cover_00","size":3602261,"sha256":"8a38b9481a6ce69efa70809514103e95946e43dc72a917b12a558fd1b68983ac"},
+      {"assetId":"panel_01","size":3668150,"sha256":"c61da0951d7fb748c66a5135c3105d18eb81cc9c9a34d047bf1711d08b660d1b"},
+      {"assetId":"panel_02","size":3613990,"sha256":"ada713532332c92198c8dbe95b132cec41b0694719bfcca8b12de4a98dfec422"},
+      {"assetId":"panel_03","size":3757419,"sha256":"042b271642d9d2598dcf30beee07f7d9971e58b370634c875c3b09e3d0612d95"},
+      {"assetId":"panel_04","size":3641622,"sha256":"d5f1ac352a3c3f684ba6a08acc74634cd87a5c38c9ec561f066db82919ea316f"},
+      {"assetId":"panel_05","size":3798305,"sha256":"b726fbea0b1124b89069cb3a14e75b84d6145752d1e1cdfdaa28a21b4ed8bfe9"},
+      {"assetId":"panel_06","size":3710911,"sha256":"949ba7cbf0734aed5a12a8013cffad193c472781d0d40914b5324279b63fed31"},
+      {"assetId":"panel_07","size":3743114,"sha256":"beaa6e69940c89ab99dba5c01a6b18395628c389035ad2ee39edd6b8fb98d5ad"},
+      {"assetId":"panel_11","size":3215661,"sha256":"b7f5b1a50214eae945c2896f61d8a0521e54539ddfc8329245e0f0ad8d7de2fe"},
+      {"assetId":"panel_12","size":3168560,"sha256":"3f6020afaf3f8f3fac2254a2621b60856c4300ba17e73360f72941ca7a92edc6"},
+      {"assetId":"cta_13","size":2948970,"sha256":"b39607738b2d7f54c01f705f2fb6742989ef561ed117c66cb40d7381deaeda1b"}
+    ],
+    "en-GB": [
+      {"assetId":"cover_00","size":3037609,"sha256":"27b96ee687b0d86a5a82e6a61cd5703557fb426ed336a5c486766858078bad4c"},
+      {"assetId":"panel_01","size":3122902,"sha256":"8f3fe5c599aaefcb58d92a41e0f679c8a1113fbde9ea2aea4d0e2e3a5475b484"},
+      {"assetId":"panel_02","size":3414215,"sha256":"41fadedbd69371d57d048129e79b27875fde857619712650ccae4d724d87fc3c"},
+      {"assetId":"panel_03","size":3132592,"sha256":"2dedea1c6df6613e5e5c19ef439917a4c783294940476f34f985169d9f81a86a"},
+      {"assetId":"panel_06","size":3213858,"sha256":"c11d5b213a8182fffae1a2ee171cc14fb2e2d62bfcf18a7d59d9dc6bb7f13f80"}
+    ]
+  },
+  "rejectedExporterableBinaries": {"sv-SE":4,"en-GB":11},
+  "githubPublicationPolicy": "Neither locale qualifies as COMPLETE, so image binaries were not published as complete release assets. Their exact source checksums are retained here and in locale inventories."
+}

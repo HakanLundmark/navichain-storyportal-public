@@ -1,0 +1,32 @@
+{
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "classification": "INCOMPLETE",
+  "inventory": {
+    "ORIGINAL_STORY.md": "EXISTS_AND_EXPORTABLE",
+    "cover_00": "EXISTS_AND_EXPORTABLE",
+    "panel_01": "MISSING",
+    "panel_02": "MISSING",
+    "panel_03": "MISSING",
+    "panel_04": "MISSING",
+    "panel_05": "MISSING",
+    "panel_06": "MISSING",
+    "panel_07": "MISSING",
+    "panel_08": "MISSING",
+    "panel_09": "MISSING",
+    "panel_10": "MISSING",
+    "panel_11": "MISSING",
+    "panel_12": "MISSING",
+    "cta_13": "MISSING",
+    "pdf_current_proof": "EXISTS_AND_EXPORTABLE",
+    "social": "MISSING",
+    "qa_current_status": "EXISTS_AND_EXPORTABLE",
+    "rejected_attempt_01": "EXISTS_AND_EXPORTABLE",
+    "rejected_attempt_02": "EXISTS_AND_EXPORTABLE",
+    "rejected_attempt_03": "EXISTS_AND_EXPORTABLE",
+    "current_chat_package_zip": "EXISTS_AND_EXPORTABLE",
+    "source_product_truth": "EXISTS_AND_EXPORTABLE",
+    "source_official_logo": "EXISTS_AND_EXPORTABLE"
+  }
+}

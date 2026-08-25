@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-derived-translation-v1",
+  "storyId": "RATT-NYCKEL-INTE-ALLA-NYCKLAR",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryRole": "narrative_master",
+  "sourceStorySha256": "cffc930ff4034f7d7c1dba6052f120f3c823ddbcf72cf28db32bb0c5ce665161",
+  "sha256": "4549fdb6e2844da64cadcb4e9570c7752a6c28e995dcdf3c953981415a9c31c6",
+  "size": 10444,
+  "intendedRepoPath": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/source/original-story-en-GB.md"
+}

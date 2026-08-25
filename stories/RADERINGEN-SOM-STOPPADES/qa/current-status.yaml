@@ -1,0 +1,27 @@
+status: BLOCKED
+release_ready: false
+valid_assets:
+  - cover_00
+rejected_assets:
+  - rejected_attempt_01
+  - rejected_attempt_02
+  - rejected_attempt_03
+missing_assets:
+  - panel_01
+  - panel_02
+  - panel_03
+  - panel_04
+  - panel_05
+  - panel_06
+  - panel_07
+  - panel_08
+  - panel_09
+  - panel_10
+  - panel_11
+  - panel_12
+  - cta_13
+pdf:
+  type: current_proof
+  pages: 1
+  release_carousel: false
+reason: "A compliant release requires 14 separate PASS/LOCKED assets; only cover_00 is currently available as a canonical asset slot."

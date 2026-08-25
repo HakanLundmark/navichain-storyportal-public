@@ -1,0 +1,65 @@
+{
+  "schema": "navichain-retro-backfill-v2-status-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "title": "KLOCKAN SOM INTE LJÖG",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T19:03:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "currentRuntimeVerification": {
+    "exactHistoricalRenderFilesAccessible": 37,
+    "diagnosticHistoricalImagesAccessible": 4,
+    "latestKnownCanonicalOriginalBytesAccessible": 0,
+    "latestKnownCanonicalVisibleRenderRecoveryAvailableThroughCurrentToolSurface": 0,
+    "canonicalSourceNotExportableCount": 14,
+    "note": "All /mnt/data image binaries were SHA-256 rechecked against the latest-known canonical 14 hashes; zero matches are currently present. Contact/inventory sheets are not used as recovery sources."
+  },
+  "canonicalAssets": {
+    "cover_00": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"d2aa9b8bab46e624154ffd5a1b591347352832b61b19114639a87c5697a437dd","historicalSize":3179510,"historicalDimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/cover_00.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_01": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"afec561cc9855290a5ebcd73ab8ccf46c4d03dbc6f3eaae37d66878efea296cf","historicalSize":3025309,"historicalDimensions":"1402x1122","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_01.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_02": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"c14a6aa73759a2053535ef2ae7d2807c7758008f9a12c80d1be63ef388ddbd28","historicalSize":3222644,"historicalDimensions":"1274x1235","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_02.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_03": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"3fbf56d03d1da0a0c26c6c555f1e1fd9cca59ee39ca30575db08bc5332adaafc","historicalSize":3279523,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_03.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_04": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"82db779e1389def1dbd27be110e6a30dc80a84ed604648ddde419b88f0ec1ff9","historicalSize":2977535,"historicalDimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_04.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_05": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"045e2501ebbdbdf2897c30de9114645dfe34feeaca4c4756f31a320633b0bc60","historicalSize":3383447,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_05.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_06": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"ba1c68ed60097dec0e886583fdb948e853d0517ae3106601a91eff9fb2e714a2","historicalSize":2849412,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_06.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_07": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"3b87492d3ecf408fe800f7cc4fece252d73477df02d487eee92bb787dba0ce0e","historicalSize":3160155,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_07.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_08": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"7abe0aef5b9e5d800105454e31f1fd0e07c7f0220d84a4d316a7980e94acb228","historicalSize":2830859,"historicalDimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_08.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_09": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"38e38e60e523e45904df28ace0a6f85f9a507dad73cf91cb82303cc31b6d0833","historicalSize":2912196,"historicalDimensions":"1024x1536","qaStatus":"REBUILD_REQUIRED","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_09.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_10": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"244edb9e90b18e48dcfe758b024bd3a36c64d310e3b68f3f5b8e1553146a37ea","historicalSize":2669132,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_10.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_11": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"915839405e48cd9017c1597797c3ad1c2058dbd82ad8636849bb0a5dbfa420c2","historicalSize":2963197,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_11.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "panel_12": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"3cfef19705c9d8efaff16bd3539d05fc7f2256c19ba50c60cd0a85302949ac7a","historicalSize":2846639,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/panel_12.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."},
+    "cta_13": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSha256":"c4cacd9f142ca27e3646ebf1846c93ec24812830611907c5d6665d677683103b","historicalSize":1345750,"historicalDimensions":"1024x1536","qaStatus":"UNKNOWN","intendedPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/images/cta_13.png","reason":"Latest-known original bytes are not directly accessible now and the individual actual render is not exposed as a directly recoverable source by the current tool surface; no rerender/reconstruction/crop/substitution permitted."}
+  },
+  "narratives": {
+    "sv-SE": {"sourceClass":"EXACT_ORIGINAL","narrativeMaster":true,"path":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/ORIGINAL_STORY.md","size":9872,"sha256":"797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310","readBackVerified":true},
+    "en-GB": {"sourceClass":"DERIVED_TRANSLATION","translationType":"faithful","narrativeMaster":false,"sourceLocale":"sv-SE","path":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/source/original-story-en-GB.md","size":10160,"sha256":"8fb7f550a2e54d0d781b449c12870e0b4b368111178f3600d28b82d405450880","sourceStorySha256":"797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310","readBackVerified":true}
+  },
+  "historicalDerivedRelease": {
+    "pdf": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSize":4608579,"historicalSha256":"6f338c91a01d258817d39a4af8adc311b60320550abe31f56a56b30c22adb225"},
+    "releaseZip": {"sourceClass":"SOURCE_NOT_EXPORTABLE","historicalSize":41091137,"historicalSha256":"c3373f06fc7ec9def8a6514ab665a0f06c14217357c9211bff6eabef80fc5246"},
+    "social": {"sourceClass":"NOT_CREATED"}
+  },
+  "currentPreparedBackfillArtifacts": [
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-history.zip","size":124671815,"sha256":"06e60a591ac21038007de9d685cafdf5c5f848dd853fe57e254ebd87067e7f81","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-history.zip"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-backfill-v2-package.zip","size":124743483,"sha256":"4efb2717f7d0d006d10aa6bead691cc18fbf03b46bbcd067a2c23c4f1ae1e09f","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-backfill-v2-package.zip"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.json","size":2068,"sha256":"a20eb127efba81278eb8d9a765a3277e48ec1b6d17147e500b7af4df5885bfe7","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.json"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.zip","size":970,"sha256":"877766abdc36504d60005f48133409163697e817714baf50563d991f7972526a","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE.publish.zip"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB-retro-backfill-v2-package.zip","size":10304,"sha256":"abd5e4c0424813ad04b0123b76f7a48190d547ecdf5ccba9cfda684dc6f81107","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB-retro-backfill-v2-package.zip"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.json","size":779,"sha256":"5fe0789f5942c091fe8bd551c224d4c54a893b318e6087ec6f1c34a0772cbc16","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.json"},
+    {"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.zip","size":653,"sha256":"89c23f3cf4825464873112917fe37141943ab2001bd5bee477e1450fd9f43c21","localPath":"/mnt/data/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB.publish.zip"},
+    {"file":"retro-backfill-v2-inventory.json","size":57359,"sha256":"a3c698f5460e2ea827dd7144925b6a273e7d0071bb2c0178cba0b0dd2ce4719b","localPath":"/mnt/data/retro-backfill-v2-inventory.json"},
+    {"file":"RETRO_BACKFILL_V2_QA.md","size":1487,"sha256":"502fea09fad861914a1f22dfdda4de142bda71d24f913cf9f133c01923ca914a","localPath":"/mnt/data/RETRO_BACKFILL_V2_QA.md"},
+    {"file":"RETRO_BACKFILL_V2_MISSING.md","size":2224,"sha256":"6a628751d091908cc475ec75cd776945564f0a1babdec74771df603d73bda2f8","localPath":"/mnt/data/RETRO_BACKFILL_V2_MISSING.md"}
+  ],
+  "transport": {
+    "requestedAutomaticChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "chromeDownloadControl": "UNAVAILABLE_IN_ASSISTANT_TOOL_SURFACE",
+    "nextcloudConnection": "UNAVAILABLE_AFTER_PLUGIN_DISCOVERY",
+    "manualPublisherFallbackUsed": false,
+    "githubCanonicalImagesReadBack": 0,
+    "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "metadataTextPublishStatus": "IN_PROGRESS"
+  },
+  "countsFromCurrentInventory": {"totalIndexedItems":85,"EXACT_ORIGINAL":56,"CHAT_RECOVERED":0,"DERIVED_TRANSLATION":1,"SOURCE_NOT_EXPORTABLE":23,"NOT_CREATED":5},
+  "releaseStatusPreserved": "INCOMPLETE"
+}

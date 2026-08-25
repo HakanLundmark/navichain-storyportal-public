@@ -1,0 +1,46 @@
+{
+  "storyId": "KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS",
+  "locale": "sv-SE",
+  "releaseStatus": "INCOMPLETE",
+  "reason": "No 14/14 PASS/LOCKED visual master exists in this chat; multiple rendered assets visibly violate the locked story/logo/capability constraints, and panel_12 was explicitly marked REBUILD_REQUIRED. No PDF carousel, LinkedIn/social copy, or release QA/manifest was created for this story.",
+  "canonicalSlotMappingToLatestAvailableRender": {
+    "cover_00": "löftet_som_blev_spårbart.png",
+    "panel_01": "a_comic_illustration_style_panel_vintage_ligne_cl.png",
+    "panel_02": "a_comic_book_style_illustration_with_an_interior_c.png",
+    "panel_03": "a_comic_book_style_illustration_panel_overall_s.png",
+    "panel_04": "a_retro_comic_panel_illustration_of_a_busy_office.png",
+    "panel_05": "a_comic_illustration_style_office_scene_in_a_vinta.png",
+    "panel_06": "kontorspanik_bland_bortglömda_anteckningar.png",
+    "panel_07": "a_comic_style_illustration_panel_cartoon_graphic.png",
+    "panel_08": "a_detailed_comic_book_workplace_illustration_in_a.png",
+    "panel_09": "a_detailed_comic_graphic_novel_style_illustration.png",
+    "panel_10": "a_detailed_illustrated_comic_style_office_scene_in.png",
+    "panel_11": "a_comic_book_illustration_style_advertising_comic.png",
+    "panel_12": "a_warm_comic_book_illustration_style_office_scene.png",
+    "cta_13": "a_full_page_comic_style_marketing_poster_illust.png"
+  },
+  "knownUnderqualifiedOrWrongStorySlots": [
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "approvalStateNotEstablishedForSlots": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_06",
+    "panel_07"
+  ],
+  "sourceRenderArtifactCount": 22,
+  "releaseImageDirectoryPublished": false,
+  "pdf": "MISSING",
+  "social": "MISSING",
+  "releaseManifest": "MISSING",
+  "releaseZip": "NOT_CREATED_LOCALE_INCOMPLETE"
+}

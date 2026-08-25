@@ -1,0 +1,34 @@
+{
+  "schema": "navichain-storyportal-backfill-inventory-v1",
+  "storyId": "tio-sekunder-inte-tio-falt",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "TIO SEKUNDER, INTE TIO FÄLT",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "localeStatus": "INCOMPLETE",
+  "requiredAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "EXISTS_AND_EXPORTABLE": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08"],
+  "EXISTS_BUT_NOT_EXPORTABLE": {
+    "panel_09": "rendered attempts exist locally but are story-contaminated/wrong scene; no verified correct panel_09 original is directly available",
+    "panel_10": "rendered attempts exist locally but are wrong story/scene; no verified correct panel_10 original is directly available",
+    "panel_11": "rendered attempts exist locally but are wrong story/scene; no verified correct Petra-calendar panel_11 original is directly available",
+    "panel_12": "rendered attempts exist locally but are wrong story/scene; no verified correct panel_12 original is directly available",
+    "cta_13": "rendered CTA exists locally but is generic/wrong story and release QR/logo validation is not established"
+  },
+  "MISSING": {"social_linkedin":"no story-specific LinkedIn/social copy was produced in this chat"},
+  "workingOutputs": {
+    "pdf": "EXISTS_AND_EXPORTABLE as a WORKING PDF, not release-eligible; it contains underkända assets",
+    "workingZip": "EXISTS_AND_EXPORTABLE locally, but not a release package"
+  },
+  "sha256": {
+    "cover_00":"7f412c5b210deb532821dbe62d873fcfb010eda944915fc5aef22394d63f1bed",
+    "panel_01":"bf9b54b1545bdb9c78b4f3f42466c6e22c2085ea2cb9a3f21d23076b70718e43",
+    "panel_02":"6a70eb23cef71b27224df283b347d8357318ebf2fe138f4debc9caed6e64a194",
+    "panel_03":"32f2747466fa6f4c8e80b4e665f43e4b70e4ef232349cdbb36c2b0fde6692558",
+    "panel_04":"3150049ada689994b083ce1c695314427432c1af8a867ee43dc37c367318b9e7",
+    "panel_05":"b74df80b88f1ec00b9c2b2197fdb19d7f8f5f00576dd9f42649abaa904f81cca",
+    "panel_06":"7fcbad8a69005f95e5d4994182931445459218303c2bc470ee8de23553671441",
+    "panel_07":"e70eb690be24c5d1e9e20761054c735ff8a466b6dc29a9c8758444028b934efb",
+    "panel_08":"54f6ec229bfdc41c71dc32109cbd54c08b062decf03a69f47f97dba8c34cce1b"
+  }
+}

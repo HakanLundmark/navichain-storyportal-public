@@ -1,0 +1,71 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "flottan-i-ett-enda-ogonkast",
+  "masterVersion": "v1.0",
+  "masterLocale": "sv-SE",
+  "narrativeMaster": {
+    "path": "stories/flottan-i-ett-enda-ogonkast/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "91cf0e3902e72253c840be91d3e7d7fc1d5f1064b2fc95f65336ac5f7b05f4df",
+    "historicalGitBlob": "d3d0e9851a1c0673da50d9c96757a510c77eb0ff",
+    "readBack": "PASS"
+  },
+  "englishStory": {
+    "path": "stories/flottan-i-ett-enda-ogonkast/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceStorySha256": "91cf0e3902e72253c840be91d3e7d7fc1d5f1064b2fc95f65336ac5f7b05f4df",
+    "sha256": "4d076088972b7d81f62a1def38f76966115d1f64f368a0c16010a484ea651171",
+    "readBack": "PASS"
+  },
+  "visuals": {
+    "sv-SE": {
+      "exactCanonical": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"],
+      "sourceNotExportableCanonical": ["cta_13"],
+      "githubPublishedBinaryAssets": 0,
+      "note": "An exact earlier CTA base render is accessible, but the historical 14-page PDF shows a later deterministic QR correction. The earlier base is archive material only and is not substituted for canonical cta_13."
+    },
+    "en-GB": {
+      "exactCanonical": ["cover_00"],
+      "notCreated": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "githubPublishedBinaryAssets": 0
+    },
+    "exactHistoricalVisualFilesTotal": 37,
+    "chatRecovered": 0
+  },
+  "derived": {
+    "svSePdf": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "localFilename": "flottan_i_ett_enda_ogonkast_sv-SE.pdf",
+      "size": 60450319,
+      "sha256": "2272b794a78dd8135eaff5373255bc7863b440b0c747666e755256ddf1a797c3",
+      "githubPublishStatus": "GITHUB_PUBLISH_FAILED"
+    },
+    "historicalSocial": "SOURCE_NOT_EXPORTABLE",
+    "historicalQa": "SOURCE_NOT_EXPORTABLE",
+    "historicalReleaseManifest": "SOURCE_NOT_EXPORTABLE",
+    "historicalReleaseZip": "NOT_CREATED"
+  },
+  "github": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "storyMergeCommit": "798c4b454f7b1ca62625e6f5e8fef793ada01f85",
+    "indexCommit": "79b02859847fa18110667e471a3819ed5084f231",
+    "storyJsonReadBack": "PASS",
+    "storiesIndexReadBack": "PASS",
+    "narrativeMasterReadBack": "PASS",
+    "enGbStoryReadBack": "PASS",
+    "binaryReadBack": "NOT_APPLICABLE_NO_BINARY_PUBLISH"
+  },
+  "transport": {
+    "chromeDownload": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchive": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "githubText": "PUBLISHED_AND_READBACK_VERIFIED",
+    "githubBinary": "GITHUB_PUBLISH_FAILED",
+    "reason": "No browser-control or Nextcloud connector is exposed in this runtime. Large exact local binaries were not rerendered, reconstructed, transcoded or substituted."
+  },
+  "finalStatus": "PARTIAL_BACKFILL"
+}

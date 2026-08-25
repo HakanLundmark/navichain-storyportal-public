@@ -1,0 +1,72 @@
+{
+  "schema": "navichain-story-v2",
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "title": "DEN RADERING SOM ALDRIG FICK SKE",
+  "subtitle": "Oskar och historiken som nästan försvann av misstag",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "projectInstructionVersion": "6.1.7a",
+  "status": "INCOMPLETE",
+  "backfillStatus": "PARTIAL_BACKFILL",
+  "protagonist": "Oskar Lind",
+  "company": "Björklunda Åkeri AB",
+  "primaryCapability": "Fleet/Trucks deletion controls and preserved history",
+  "canonicalStoryPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-sv-SE.md",
+  "compatibilityOriginalStoryPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/ORIGINAL_STORY.md",
+  "narrative": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "sha256": "2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4",
+      "gitBlobSha": "95c49ccf8361a46c2bd65ccd0c490bcca01c9c99",
+      "githubReadBack": "PASS"
+    },
+    "en-GB": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceLocale": "sv-SE",
+      "sourceStorySha256": "2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4",
+      "sha256": "f8c458a2a3bd1d6aaa7c065997b6f827b6ae7805d77ba708117f8371dc2d47a5",
+      "gitBlobSha": "4c68e7fbaf6792e7c4f8ed87015d9dc65c6de39c",
+      "githubReadBack": "PASS"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredImageAssets": 14,
+      "exactOriginalBytesAvailableLocally": 13,
+      "githubPublishedCanonicalImageAssets": 0,
+      "sourceNotExportable": ["panel_02"],
+      "rebuildRequiredHistorical": ["cover_00", "panel_02"],
+      "qaUnknownHistorical": ["panel_01","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "partialPdf": "EXACT_ORIGINAL_LOCAL_ONLY_12_PAGES",
+      "partialArchive": "EXACT_ORIGINAL_LOCAL_ONLY",
+      "social": "NOT_CREATED",
+      "releaseEligible": false
+    },
+    "en-GB": {
+      "status": "INCOMPLETE_TEXT_ONLY",
+      "storyText": "PUBLISHED_AND_VERIFIED",
+      "images": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "releaseEligible": false
+    }
+  },
+  "binaryBackfill": {
+    "status": "NOT_PUBLISHED",
+    "githubPublishedBinaryAssets": 0,
+    "reason": "Current connected GitHub write surface has no mounted local-file binary parameter; inline blob transport for the recovered multi-megabyte binary set could not be completed in this run. No binary was reconstructed, transcoded or substituted."
+  },
+  "automaticTransport": {
+    "chromeDownload": "NOT_INVOKABLE_FROM_RUNTIME",
+    "nextcloudArchive": "NOT_INVOKABLE_FROM_RUNTIME",
+    "hardenedRouter": "NOT_INVOKABLE_FROM_RUNTIME",
+    "publisher": "NOT_INVOKABLE_FROM_RUNTIME"
+  },
+  "currentValidationNote": "Current Product Truth clearly supports deletion blocking by runs, maintenance history or GPS link. Historical wording about marking a sold truck inactive/out of service and removing it from active lists is preserved unchanged and should be revalidated before a future release.",
+  "manifestPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/manifest/retro-backfill-v2.json",
+  "qaPath": "stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/qa/retro-backfill-v2-qa.md"
+}

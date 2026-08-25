@@ -1,0 +1,91 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "tva-kontor-en-lista-som-inte-visste-vem-som-var-vem",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "TVÅ KONTOR, EN LISTA SOM INTE VISSTE VEM SOM VAR VEM",
+  "subtitle": "En navichain story — Yvonne, Cornelia och gränsen som till slut ritades upp",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "storyLock": "NOT_LOCKED",
+  "productTruthStatus": "REVISE",
+  "originalStory": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "path": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/ORIGINAL_STORY.md",
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "4df2cb06cf6f7a74f5842f86c1f114ad47da1aaa1c77122dfb69acb5d61da0b9",
+    "qaStatus": "PRODUCT_TRUTH_REVISE/STORY_NOT_LOCKED",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "path": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/sources/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "sourceStorySha256": "4df2cb06cf6f7a74f5842f86c1f114ad47da1aaa1c77122dfb69acb5d61da0b9",
+    "sha256": "77993a013f9e495808d983d71ca5213d69aa273775aa09955c05a890dce5a4b2",
+    "githubReadBackVerified": true
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "validReleaseAssets": 0,
+      "requiredReleaseAssets": 14,
+      "historicalExactOriginalVisualFiles": 8,
+      "canonicalHistoricalCandidates": ["cover_00", "panel_11"],
+      "canonicalCandidateQa": {"cover_00": "REJECTED", "panel_11": "REJECTED"},
+      "canonicalAmbiguity": {"panel_12": "two exact rejected candidates; current chronology unresolved"},
+      "notCreatedStandaloneAssets": ["panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "cta_13"],
+      "generatedRejectedArtifacts": 8,
+      "githubPublishedBinaryAssets": 0,
+      "pdf": false,
+      "social": false,
+      "releaseQa": false,
+      "releaseZip": false
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "storyText": true,
+      "storyTextSourceClass": "DERIVED_TRANSLATION",
+      "images": 0,
+      "pdf": false,
+      "social": false,
+      "releaseQa": false,
+      "releaseZip": false
+    }
+  },
+  "sources": {
+    "referenceIndex": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/sources/SOURCE_REFERENCES.md",
+    "productTruthSourceAvailableInChat": true,
+    "marketTruthSourceAvailableInChat": true,
+    "officialLogoSourceAvailableInChat": true
+  },
+  "artifacts": {
+    "rejectedInventory": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/sv-SE/artifacts/rejected/README.md",
+    "rejectedBinaryCount": 8,
+    "rejectedBinariesPublishedToGitHub": false,
+    "canonicalRejectedCandidatesPreparedForBinaryTransport": ["cover_00", "panel_11"],
+    "historicalEvidenceArchive": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/archives/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem-incomplete-backfill-evidence.zip"
+  },
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "checkedAt": "2026-08-24T19:07:00+02:00",
+    "inventoryPath": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/manifest/retro-v2-inventory.json",
+    "qaPath": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/qa/retro-v2-qa.md",
+    "exactOriginalFilesInRuntime": 22,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "sourceNotExportableCanonicalAssets": ["panel_12"],
+    "notCreatedCanonicalAssets": ["panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "cta_13"],
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED"
+  },
+  "backfillPolicy": {
+    "noReconstruction": true,
+    "provenanceSeparateFromQa": true,
+    "rejectedOutputsNotReleaseAssets": true
+  }
+}

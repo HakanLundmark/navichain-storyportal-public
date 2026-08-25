@@ -1,0 +1,30 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "lappen-som-antligen-har-en-agare",
+  "locale": "sv-SE",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "lappen-som-antligen-har-en-agare-sv-SE-retro-backfill-v2.zip",
+  "packageSha256": "1cd6ad7bf768a0513a427fea5652053f4cb742352bcf6f58f26ceb918f023f9d",
+  "files": [
+    {"archiveName":"source/original-story-sv-SE.md","path":"stories/lappen-som-antligen-har-en-agare/source/original-story-sv-SE.md","size":12003,"sha256":"62579ead1ceac6ef45f056a60ed8018ec42c9565b03d17ae00bb5267c539d7e4","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/cover_00.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/cover_00.png","size":3030252,"sha256":"587272665fa45521db55394beb602f28ad15d3c41adf84ea467e110c4555ad9e","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_01.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_01.png","size":3305993,"sha256":"67707be7b3d1cd4d42cd9ac6127592b30d97d7a45ef7f8222f247847e7cf06ee","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_02.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_02.png","size":3224627,"sha256":"0555ab40f3e4b4f8ef620aaf442997c838d63c5aa19a329591814479c79228db","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_03.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_03.png","size":3146340,"sha256":"6459116387c6e9fd396986af9d127529d1a2b396624550587a8e279f04b371de","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_04.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_04.png","size":3096300,"sha256":"a511ecc346e59d63d461d26207aab879b65003d361303516adddca2a2cca0e56","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_05.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_05.png","size":3072850,"sha256":"8fa7f5beea2e043411ad6266591f550acac1b65bf627c0d15179a2898965f5fa","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_06.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_06.png","size":3046459,"sha256":"18ec22a63b2b48458f70aa3367279607e820eb115614461136e277747b635588","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_07.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_07.png","size":2920679,"sha256":"e14680b6e501a720253a52d77e1ec65905a9820169656428075903dabddf4100","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_08.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_08.png","size":3087735,"sha256":"f2e4a554d95f1729e88de5e2397518ecc23288de5c135e223fad6cc1a8518b23","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_09.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_09.png","size":2998289,"sha256":"c7da24433c1e7d93e50228e101d53984fb4acb6bd748076bc1a7f83af8f7ccf9","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_10.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_10.png","size":3013260,"sha256":"b1adb61e177f7d7af6db7fe28e552c4db62462bd38094d43d41dfafa6b6b6eb9","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_11.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_11.png","size":3442018,"sha256":"10ac9a8bf62ec41dd930bc14be644f9cc8371b25d3f4e92331456b17f371dd02","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/panel_12.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_12.png","size":3051927,"sha256":"1cdd945bc121b554b81553e05eb7f99789d903542bcdb476d61e6db867d134cf","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/cta_13.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/cta_13.png","size":4183684,"sha256":"bede2e506589e0a08d2708f14dcf728d68aa146e714557abcfc95726e8929772","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/carousel/lappen-som-antligen-har-en-agare-sv-SE.pdf","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/carousel/lappen-som-antligen-har-en-agare-sv-SE.pdf","size":68175406,"sha256":"47b2059031f140f8faef1440d66d4097e37c8c213cfca4d507a3311dba570bb1","sourceClass":"EXACT_ORIGINAL"}
+  ]
+}

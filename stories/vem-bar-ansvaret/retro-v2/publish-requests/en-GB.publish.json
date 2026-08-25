@@ -1,0 +1,21 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "vem-bar-ansvaret",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "vem-bar-ansvaret-en-GB-retro-v2.zip",
+  "packageSha256": "2e662cfb8ec9382b9a2498257487430c0ef1497fbf4a7d83a9fa0b64ea9cdaa6",
+  "files": [
+    {
+      "archiveName": "ORIGINAL_STORY.en-GB.md",
+      "path": "stories/vem-bar-ansvaret/ORIGINAL_STORY.en-GB.md",
+      "size": 11462,
+      "sha256": "cd4c853ebbce686279470097804c18a7e22e2c5b505f2cd3e505700a328d9743",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  ]
+}

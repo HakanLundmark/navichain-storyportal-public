@@ -1,0 +1,10 @@
+storyId: vem-bar-ansvaret
+locale: sv-SE
+pdf: carousel/vem-bar-ansvaret-sv-SE.pdf
+pageCount: 14
+pageSize: 1536x1024
+ctaQrExpected: https://navichain.se/signup
+ctaQrDecodedFromRenderedPdf: https://navichain.se/signup
+qrPass: true
+pdfPageCountPass: true
+status: PASS

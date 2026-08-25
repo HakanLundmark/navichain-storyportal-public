@@ -1,0 +1,26 @@
+{
+  "storyId": "vatt-black-torrt-bevis",
+  "locale": "en-GB",
+  "status": "INCOMPLETE",
+  "retroBackfillV2CheckedAt": "2026-08-24T17:26:00+02:00",
+  "originalStory": {
+    "path": "stories/vatt-black-torrt-bevis/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "f66c1e5731f6f0d20f3cd22ebad6a317d047013f6525d9b8027118924d1bfe52",
+    "githubVerified": true
+  },
+  "exactOriginalCanonicalSlots": ["panel_09","panel_10","panel_11","panel_12"],
+  "additionalExactHistoricalRevisions": ["panel_11"],
+  "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","cta_13","PDF carousel"],
+  "rebuildRequired": ["panel_09","panel_10","panel_11","panel_12"],
+  "missing": ["social/LinkedIn copy"],
+  "githubPublishedBinaryAssets": 0,
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "historicalPdf": {
+    "sha256Hint": "52e3969d9acb2300ec1104708ea160f97077cf2ce619df6d007dad77bcc2b548",
+    "sourceClass": "SOURCE_NOT_EXPORTABLE",
+    "githubPublished": false
+  }
+}

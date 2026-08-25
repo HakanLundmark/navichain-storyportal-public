@@ -1,0 +1,28 @@
+{
+  "storyId": "NC-SWF-018",
+  "locale": "sv-SE",
+  "archiveMembers": [
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_07.png","size":2997490,"sha256":"f14567bffca85aec14fd2424d0e8949dc805dd605af3a0a8841139ce3be92640"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_01.png","size":3038668,"sha256":"10422eeb032a4868c5b2bcc5ac59b80d4dff7c502d39c7e1bf35f3464972d2b7"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_08.png","size":2982247,"sha256":"8c73c5777e6e8dbab57a3cff6f0550a6ecb86979e070a5e6b2aeb3416eb3dd2e"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_02.png","size":3126356,"sha256":"f81111dec240842862452869bb9cd1630909f818577d2b23dc5279a8cfdce6f0"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_03.png","size":3008743,"sha256":"6c3c5af2e856c96791ad62ba311f0207914aaa4bf3c0ad7074407d1fb4b9e4a6"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_06.png","size":2937293,"sha256":"b6d9c8c90c37a0a344f30247aa8f52fa014e5e08cca540f44d972d2e2284e61e"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_12.png","size":3070754,"sha256":"213dcf5c2d1a1d9bf10c03f8ee03a7e28e078ec34c66b0af0a66080f0c3504af"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_09.png","size":2915445,"sha256":"de81ef933d594aa5bbbd308e59451e358f714320a24140e64cfe6c102668343e"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_10.png","size":3014430,"sha256":"817139ee58817d69e641a450e2297ac3c51268dd026efe5e3edd3698577a3573"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/cta_13.png","size":2934986,"sha256":"3c1683db9366787538c5e4337ae520b05d71f21dd9dec47afad11d02f003d211"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/cover_00.png","size":3133851,"sha256":"b535ebe60982cea47463e11545c8efd90ac56f97ecba89ccdf2342d52571e09c"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_11.png","size":2957056,"sha256":"6b15221d58b3184f75b2970d25caf666a5573f136035d3bb20a384b9f8b1b043"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/images/panel_05.png","size":3020733,"sha256":"09e9e1bdda5214c2eceef924dbfb2db87b5711878b864db15623c9ca2a74a823"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/qa/asset-qa.json","size":3678,"sha256":"b7db18b7a839858fa4bcceef5d622612fb1e9c78c4b1f760eb0f7ce29e57fbc2"},
+    {"archive":"sv-SE/source/current-assets.zip","member":"INGEN_PA_PLATS_ANDA_EN_PLAN_sv-SE_current-assets/manifest/current-assets-manifest.json","size":823,"sha256":"84b99c5786061e8e4b694da9f5551ae189e0b41f79e6a0ec479fc8fa1692895c"},
+    {"archive":"sv-SE/qa/panel_04-rejected-attempts.zip","member":"a_detailed_comic_illustration_style_panel_scene_o.png","size":3089367,"sha256":"e16113253ba51160f2f0d7654f3384d3e166914aec7fcc24879a345f799b75bd"},
+    {"archive":"sv-SE/qa/panel_04-rejected-attempts.zip","member":"a_comic_illustration_style_scene_in_a_busy_office.png","size":3380314,"sha256":"90c29923d0abdda377b331fb9d99fb721c18e64f15ea548c579b6060f2d1c688"},
+    {"archive":"sv-SE/qa/panel_04-rejected-attempts.zip","member":"a_comic_book_graphic_novel_style_illustration_po.png","size":3137794,"sha256":"50283d2adf56e8ac3833477a02aa39b4dbe6464225bd68fc56a279ab7cc90fc6"},
+    {"archive":"sources/story-sources.zip","member":"NAVICHAIN-PRODUCT-TRUTH.md","size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    {"archive":"sources/story-sources.zip","member":"Navichain_Market_Truth_MASTER_v1.0.md","size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"},
+    {"archive":"sources/story-sources.zip","member":"NAVICHAIN-OFFICIAL-LOGO.png","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db"},
+    {"archive":"sources/story-sources.zip","member":"Korrekt QR kod till signup.png","size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e"}
+  ]
+}

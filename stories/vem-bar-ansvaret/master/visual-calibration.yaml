@@ -1,0 +1,11 @@
+visualCalibration:
+  storyId: vem-bar-ansvaret
+  line: clean_even_ligne_claire
+  palette:
+  - warm_cream
+  - rust_red
+  - mustard_yellow
+  - petroleum_green
+  - warm_gold
+  printFeel: subtle_offset_grain_and_warm_patina
+  emotionalArc: red_problem_to_green_solution

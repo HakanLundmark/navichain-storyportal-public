@@ -1,0 +1,15 @@
+{
+  "storyId": "vatt-black-torrt-bevis",
+  "locale": "de-DE",
+  "status": "INCOMPLETE",
+  "retroBackfillV2CheckedAt": "2026-08-24T17:26:00+02:00",
+  "sourceNotExportable": ["panel_01","panel_02","panel_03"],
+  "notCreated": ["cover_00","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","PDF carousel","social/LinkedIn copy"],
+  "historicalSha256Hints": {
+    "panel_01": "8d5c6d69e085b0de9364a9af373004d727dc04b879edd4f42ab31f48694e2c50",
+    "panel_02": "3d091b2493c07a02cf16acd5edfdc15dc4b807c8f0da596ee5501b8db5892fa1",
+    "panel_03": "93dd4aa91bc9cc38fbe8bef90de2a2daa3dc468e70fab53c8e014393e322fbf0"
+  },
+  "githubPublishedBinaryAssets": 0,
+  "binaryBackfillStatus": "SOURCE_NOT_EXPORTABLE"
+}

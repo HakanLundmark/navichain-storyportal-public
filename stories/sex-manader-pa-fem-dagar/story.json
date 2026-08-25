@@ -1,0 +1,61 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "sex-manader-pa-fem-dagar",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "Sex månader på fem dagar",
+  "subtitle": "Berit och arkivet som aldrig glömde",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionStatus": "not_explicitly_established_in_active_chat",
+  "canonicalStory": "stories/sex-manader-pa-fem-dagar/ORIGINAL_STORY.md",
+  "protagonist": "Berit Holmgren",
+  "company": "Holmgrens Frigo & Fjärrtransport AB",
+  "sourceTranslations": {
+    "en-GB": {
+      "path": "stories/sex-manader-pa-fem-dagar/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "1a08df79840f506cc7e9eec7ba878d424841f65d75201bfdc6bdf24a57e1e6af"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableOriginalAssets": 13,
+      "requiredOriginalAssets": 14,
+      "missing": [],
+      "existsButNotExportable": ["cta_13 final corrected asset"],
+      "pdf": "EXISTS_AND_EXPORTABLE",
+      "social": "EXISTS_AND_EXPORTABLE_AS_TEXT",
+      "priorPackageZip": "EXISTS_BUT_NOT_EXPORTABLE",
+      "githubPublishedBinaryAssets": 0
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "exportableOriginalAssets": 12,
+      "requiredOriginalAssets": 14,
+      "missing": [],
+      "existsButNotExportable": ["panel_03 original English render", "cta_13 final corrected English asset"],
+      "pdf": "EXISTS_AND_EXPORTABLE",
+      "social": "EXISTS_AND_EXPORTABLE_AS_TEXT",
+      "priorPackageZip": "EXISTS_BUT_NOT_EXPORTABLE",
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "checkedAt": "2026-08-24T19:09:00+02:00",
+    "inventoryPath": "stories/sex-manader-pa-fem-dagar/metadata/retro-backfill-v2.json",
+    "narrativeMasterReadBack": true,
+    "enGBNarrativeReadBack": true,
+    "binaryPublicationReadBack": false,
+    "chromeDownloadObserved": false,
+    "nextcloudArchiveObserved": false,
+    "publisherObserved": false
+  },
+  "releasePolicy": "No locale is published as a complete release because exact 14 original assets are not all exportable and canonical binary publication has not been read back from GitHub.",
+  "backfilledAt": "2026-08-24T19:09:00+02:00"
+}

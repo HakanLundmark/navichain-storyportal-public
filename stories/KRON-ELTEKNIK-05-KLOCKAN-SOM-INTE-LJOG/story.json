@@ -1,0 +1,58 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-5-and-canonical-title",
+  "title": "KLOCKAN SOM INTE LJÖG",
+  "subtitle": "Daniel, Siv och timmarna som äntligen stämde",
+  "series": "Kron Elteknik",
+  "episode": 5,
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "currentRuntimeLatestCanonicalExactOriginalCount": 0,
+      "currentRuntimeExactHistoricalRenderFiles": 16,
+      "latestCanonicalSourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "visualReleaseQa": "NOT_PASSED",
+      "pdf": "SOURCE_NOT_EXPORTABLE_CURRENT_RUNTIME",
+      "social": "NOT_CREATED",
+      "releaseZip": "SOURCE_NOT_EXPORTABLE_CURRENT_RUNTIME",
+      "releasePublished": false,
+      "blockers": ["visual_story_claim_logo_drift_requires_rebuild_before_release","linkedin_social_copy_missing","latest_canonical_image_sources_not_exportable_current_runtime","binary_assets_not_published_to_github"]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "narrativeTranslation": "PUBLISHED_READBACK_VERIFIED",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "visualAssetsPublished": 0,
+      "releasePublished": false
+    }
+  },
+  "narrativeTextArtifacts": {
+    "sv-SE": {"path":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/ORIGINAL_STORY.md","sourceClass":"EXACT_ORIGINAL","narrativeMaster":true,"size":9872,"sha256":"797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310","gitBlobSha":"96a4b992dcd3da176f53b68c9b787709ac3bd9d1","readBackVerified":true},
+    "en-GB": {"path":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/source/original-story-en-GB.md","sourceClass":"DERIVED_TRANSLATION","translationType":"faithful","sourceLocale":"sv-SE","narrativeMaster":false,"sourceStorySha256":"797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310","size":10160,"sha256":"8fb7f550a2e54d0d781b449c12870e0b4b368111178f3600d28b82d405450880","gitBlobSha":"42dcb2080b19983ab8d08b51e96cfe0c3c609f0c","readBackVerified":true}
+  },
+  "canonicalOriginalStory": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/ORIGINAL_STORY.md",
+  "historicalInventory": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/metadata/backfill-inventory-2026-08-23.json",
+  "latestBinaryRetry": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/metadata/retro-backfill-v2-status-2026-08-24T2207+02.json",
+  "retroBackfillV2": {
+    "status":"PARTIAL_BACKFILL","checkedAt":"2026-08-24T22:07:00+02:00","statusPath":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/metadata/retro-backfill-v2-status-2026-08-24T2207+02.json","statusReadBackVerified":true,
+    "inventoryCounts":{"totalIndexedItems":74,"EXACT_ORIGINAL":44,"CHAT_RECOVERED":0,"DERIVED_TRANSLATION":2,"SOURCE_NOT_EXPORTABLE":20,"NOT_CREATED":8},
+    "exactHistoricalRenderFilesAccessible":16,"latestCanonicalOriginalBytesAccessible":0,"latestCanonicalSourceNotExportable":14,"historicalPdf":"SOURCE_NOT_EXPORTABLE","historicalReleaseZip":"SOURCE_NOT_EXPORTABLE",
+    "preparedBackfillPackage":{"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-retro-backfill-v2-20260824-2207.zip","size":60975603,"sha256":"502fbe411eb53755bc6c1ce3fc99328de8c1e1cfaf97759ab969da358fe5c43b"},
+    "svSePublishPackage":{"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-backfill-v2-20260824-2207.zip","size":49573702,"sha256":"ffedd2d8258262bc38746881595e9b5acd13b1e1af767e2b84ff099ec9946e2a"},
+    "enGbPublishPackage":{"file":"KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB-retro-backfill-v2-20260824-2207.zip","size":4396,"sha256":"f8943d4c00fc0b0d5f732f33def35bb9bc56c2455aca418cd95538cbda5476f9"},
+    "automaticTransport":{"requested":"ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub","chromeControlAvailable":false,"nextcloudWriteConnectorAvailable":false,"nextcloudPluginDiscoveryResult":"NO_NEXTCLOUD_WRITE_CONNECTOR_FOUND","manualPublisherFallbackUsed":false,"status":"UNAVAILABLE_FROM_ASSISTANT_TOOL_SURFACE"}
+  },
+  "qa": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/qa/backfill-qa.md",
+  "manifest": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sv-SE/manifest/backfill-manifest.json",
+  "githubPublishedBinaryAssets": 0,
+  "binaryPublication": "GITHUB_PUBLISH_FAILED",
+  "binaryPublicationReason": "Current runtime re-verification found 16 exact historical render binaries, but none of the 14 latest-known canonical original image hashes are directly accessible. The requested Chrome/local-capture/Nextcloud/hardened-router/publisher chain cannot be invoked from the assistant tool surface, no Nextcloud write connector was found, and no prohibited manual publisher fallback or creative recovery was used.",
+  "sourceBinaryPublication": {"officialLogo":{"status":"SYNCED","path":"stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/sources/NAVICHAIN-OFFICIAL-LOGO.png","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","gitBlobSha":"813a548d318bad9c41ad92ef49dd012bbe2cc5c3","queueCommit":"1549594d5217f79c605cef403eb69eb2a96d7ec4","assemblerCommit":"e469ffaf3886547c0263ff5d1808ed068394480e","readBackVerified":true}},
+  "githubReadBack": {"canonicalImagesDirectory":"NOT_FOUND","verifiedPublishedCanonicalAssets":0,"historicalRenderArchiveDirectory":"NOT_PUBLISHED_THIS_RUN","sourceLogoVerified":true,"narrativeMasterVerified":true,"enGbTranslationVerified":true,"retroBackfillStatusVerified":true,"indexVerified":true},
+  "binaryRetryCheckedAt": "2026-08-24T22:07:00+02:00"
+}

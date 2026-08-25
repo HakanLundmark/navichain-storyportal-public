@@ -1,0 +1,57 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS",
+  "storyIdAuthority": "derived from active story episode 3 + canonical title; story was not explicitly LOCK STORY in chat",
+  "title": "ANTECKNINGEN SOM ALDRIG SKREVS",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "backfilledAt": "2026-08-23T10:57:00+02:00",
+  "status": "INCOMPLETE",
+  "locales": {"sv-SE": "INCOMPLETE"},
+  "originalStory": {"status": "EXISTS_AND_EXPORTABLE", "path": "ORIGINAL_STORY.md"},
+  "sourceRenderArtifactCount": 22,
+  "canonicalAssetSlotsWithDirectlyAccessibleLatestRender": 14,
+  "canonicalReleaseAssetsPassLocked": 0,
+  "pdfCarousel": "MISSING",
+  "socialCopy": "MISSING",
+  "releaseQa": "MISSING",
+  "releaseManifest": "MISSING",
+  "releaseZip": "NOT_CREATED_LOCALE_INCOMPLETE",
+  "canonicalSlotMappingToLatestAvailableRender": {
+    "cover_00": "löftet_som_blev_spårbart.png",
+    "panel_01": "a_comic_illustration_style_panel_vintage_ligne_cl.png",
+    "panel_02": "a_comic_book_style_illustration_with_an_interior_c.png",
+    "panel_03": "a_comic_book_style_illustration_panel_overall_s.png",
+    "panel_04": "a_retro_comic_panel_illustration_of_a_busy_office.png",
+    "panel_05": "a_comic_illustration_style_office_scene_in_a_vinta.png",
+    "panel_06": "kontorspanik_bland_bortglömda_anteckningar.png",
+    "panel_07": "a_comic_style_illustration_panel_cartoon_graphic.png",
+    "panel_08": "a_detailed_comic_book_workplace_illustration_in_a.png",
+    "panel_09": "a_detailed_comic_graphic_novel_style_illustration.png",
+    "panel_10": "a_detailed_illustrated_comic_style_office_scene_in.png",
+    "panel_11": "a_comic_book_illustration_style_advertising_comic.png",
+    "panel_12": "a_warm_comic_book_illustration_style_office_scene.png",
+    "cta_13": "a_full_page_comic_style_marketing_poster_illust.png"
+  },
+  "exportableLocalFiles": {
+    "originalStory": "ORIGINAL_STORY.md",
+    "storyMetadata": "story.json",
+    "qa": "qa/backfill-qa.json",
+    "localeStatus": "sv-SE/STATUS.json",
+    "sourceRenderArtifacts": 22,
+    "sourceReferences": [
+      "sources/NAVICHAIN-PRODUCT-TRUTH.md",
+      "sources/Navichain_Market_Truth_MASTER_v1.0.md",
+      "sources/NAVICHAIN-OFFICIAL-LOGO.png",
+      "sources/Korrekt QR kod till signup.png",
+      "sources/VISUAL-REFERENCE-01-CTA.png",
+      "sources/VISUAL-REFERENCE-02-PANELS.png",
+      "sources/VISUAL-REFERENCE-03-COVER.png"
+    ]
+  },
+  "publication": {
+    "releaseAssetsPublished": false,
+    "reason": "Locale is INCOMPLETE; rendered source artifacts are not 14/14 PASS/LOCKED release assets.",
+    "binaryConnectorLimitation": "GitHub connector used for this backfill exposes text writes and git blob/tree primitives but no local-file upload parameter; no large source-render binaries were promoted or reconstructed."
+  }
+}

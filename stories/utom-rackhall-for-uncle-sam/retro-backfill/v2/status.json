@@ -1,0 +1,116 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "utom-rackhall-for-uncle-sam",
+  "title": "Utom räckhåll för Uncle Sam",
+  "checkedAt": "2026-08-24T22:04:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "path": "stories/utom-rackhall-for-uncle-sam/ORIGINAL_STORY.md",
+    "sourceMirrorPath": "stories/utom-rackhall-for-uncle-sam/source/original-story-sv-SE.md",
+    "sha256": "2f16b6d9d2627ddd2031935064c49913cca4cbdc51e853d91bf3a0974bb12888",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "path": "stories/utom-rackhall-for-uncle-sam/source/original-story-en-GB.md",
+    "sourceStorySha256": "2f16b6d9d2627ddd2031935064c49913cca4cbdc51e853d91bf3a0974bb12888",
+    "sha256": "7db61d3987b0a23f2f8c4191452c1d25623131919526f46b2ba5201bd71359ff",
+    "githubReadBackVerified": true
+  },
+  "currentRuntimeInventory": {
+    "records": 135,
+    "EXACT_ORIGINAL": 76,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 58,
+    "NOT_CREATED": 0,
+    "completeInventorySha256": "67b2337f6f5c91491d0afbcfffc3e834b02dbb892a373772ccf289f5d9c56ca2"
+  },
+  "historicalPriorRunHint": {
+    "checkedAt": "2026-08-24T19:39:00+02:00",
+    "records": 141,
+    "EXACT_ORIGINAL": 110,
+    "SOURCE_NOT_EXPORTABLE": 28,
+    "comment": "Recovery hint only; current runtime re-verification governs exportability."
+  },
+  "localArchivePackage": {
+    "filename": "utom-rackhall-for-uncle-sam-retro-backfill-v2-20260824-2204.zip",
+    "size": 196253652,
+    "sha256": "c773ac82678dafd95b8258b1097873d762a79372b0ab448eea07b45bebde8340"
+  },
+  "publishPackages": {
+    "sv-SE": {
+      "filename": "utom-rackhall-for-uncle-sam-sv-SE-retro-backfill-v2-20260824-2204.zip",
+      "size": 196250863,
+      "sha256": "7e66d56b7429b576951ae8521316429ef5a38ccb0a9345ac9ec3c8ec99bf325e",
+      "files": 82
+    },
+    "en-GB": {
+      "filename": "utom-rackhall-for-uncle-sam-en-GB-retro-backfill-v2-20260824-2204.zip",
+      "size": 4517,
+      "sha256": "7efc681b41dddf3645131cb9b42c807869ada7121af7acf5fe63453c5f5d99c4",
+      "files": 1
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalOriginalAssetsExactCurrentRuntime": 6,
+      "requiredAssetCount": 14,
+      "exact": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06"],
+      "sourceNotExportable": ["cover_00","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "githubPublishedBinaryAssets": 0
+    },
+    "en-US": {
+      "status": "INCOMPLETE",
+      "canonicalOriginalAssetsExactCurrentRuntime": 0,
+      "requiredAssetCount": 14,
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","carousel PDF"],
+      "githubPublishedBinaryAssets": 0
+    },
+    "de-DE": {
+      "status": "INCOMPLETE",
+      "canonicalOriginalAssetsExactCurrentRuntime": 0,
+      "requiredAssetCount": 14,
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","carousel PDFs"],
+      "githubPublishedBinaryAssets": 0
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "storyText": "DERIVED_TRANSLATION_PUBLISHED_AND_READ_BACK_VERIFIED",
+      "canonicalOriginalAssetsExactCurrentRuntime": 0,
+      "requiredAssetCount": 14,
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "historicalRenderArtifacts": {
+    "exactCurrentRuntime": 50,
+    "rejectedForeignStoryOrMultiAsset": 33,
+    "qaUnknownActiveStoryCandidates": 17,
+    "comment": "Provenance and QA remain separate; rejected assets are retained only as historical artifacts."
+  },
+  "automaticTransport": {
+    "chromeDownload": "BLOCKED_NO_CHATGPT_BROWSER_DOWNLOAD_CONTROL",
+    "localCapture": "NOT_EXECUTED",
+    "nextcloudArchive": "NOT_EXECUTED_NO_CONNECTED_NEXTCLOUD_WRITE_SURFACE",
+    "hardenedRouter": "NOT_EXECUTED",
+    "publisher": "NOT_EXECUTED",
+    "manualFallbackUsedAfterAutomaticFailure": true
+  },
+  "binaryBackfill": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "githubPublishedBinaryAssets": 0,
+    "reason": "Exact current-runtime PNG bytes exist locally, but no connected automatic transport surface can move the mounted files to Chrome/Nextcloud/router/publisher. GitHub create_blob accepts inline content only and has no mounted-file parameter; no unsafe partial serialization or substitute was used."
+  },
+  "releaseStatus": "INCOMPLETE",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

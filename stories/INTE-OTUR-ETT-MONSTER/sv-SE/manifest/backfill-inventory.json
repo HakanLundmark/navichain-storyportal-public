@@ -1,0 +1,40 @@
+{
+  "storyId": "INTE-OTUR-ETT-MONSTER",
+  "title": "INTE OTUR. ETT MÖNSTER.",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "localeStatus": "INCOMPLETE",
+  "expectedAssets": 14,
+  "exportableAssets": 10,
+  "missingAssets": [
+    "panel_04.png",
+    "panel_05.png",
+    "panel_08.png",
+    "panel_10.png"
+  ],
+  "existsButNotExportable": [],
+  "assets": [
+    {"assetId":"cover_00","path":"sv-SE/images/cover_00.png","status":"EXISTS_AND_EXPORTABLE","size":3317313,"sha256":"79972fc773373a8672de896a8f5d746e003e05fb526cbd1e079d4e373fbb236d"},
+    {"assetId":"panel_01","path":"sv-SE/images/panel_01.png","status":"EXISTS_AND_EXPORTABLE","size":3070503,"sha256":"aabb8875c3e08043b018125784db096e5bb15952e72b566244d6abfc2e9b6605"},
+    {"assetId":"panel_02","path":"sv-SE/images/panel_02.png","status":"EXISTS_AND_EXPORTABLE","size":3010596,"sha256":"5daf7603b29f4a2dba0ff381155f81d48894757a77fec17be867f68a8f326b20"},
+    {"assetId":"panel_03","path":"sv-SE/images/panel_03.png","status":"EXISTS_AND_EXPORTABLE","size":3014162,"sha256":"5931641d5acbb1acfa73635bb83f925fea4d506fb57be66bc1dc41de87389b2a"},
+    {"assetId":"panel_04","path":"sv-SE/images/panel_04.png","status":"MISSING","size":null,"sha256":null},
+    {"assetId":"panel_05","path":"sv-SE/images/panel_05.png","status":"MISSING","size":null,"sha256":null},
+    {"assetId":"panel_06","path":"sv-SE/images/panel_06.png","status":"EXISTS_AND_EXPORTABLE","size":3105209,"sha256":"9edad2afc9110999cdc1f5b27e4de8bb44cc3a719a896aefb91bb405ba660925"},
+    {"assetId":"panel_07","path":"sv-SE/images/panel_07.png","status":"EXISTS_AND_EXPORTABLE","size":3069365,"sha256":"eceb4c5d8429066271a3d26bbe26fca24e3ed0dccde374b7f309bd75badc5719"},
+    {"assetId":"panel_08","path":"sv-SE/images/panel_08.png","status":"MISSING","size":null,"sha256":null},
+    {"assetId":"panel_09","path":"sv-SE/images/panel_09.png","status":"EXISTS_AND_EXPORTABLE","size":3560902,"sha256":"1c073c4b85971244f4918be99ac35e4a415c852fb2a2f569eedd2872f13c7895"},
+    {"assetId":"panel_10","path":"sv-SE/images/panel_10.png","status":"MISSING","size":null,"sha256":null},
+    {"assetId":"panel_11","path":"sv-SE/images/panel_11.png","status":"EXISTS_AND_EXPORTABLE","size":3115693,"sha256":"5320a6877fa6f2be39e9474a06107b6485ea6382e9cc3790dc4cf0ff4b8feeb3"},
+    {"assetId":"panel_12","path":"sv-SE/images/panel_12.png","status":"EXISTS_AND_EXPORTABLE","size":3002207,"sha256":"238af913f1018b34de36c9012aa1e1f8f0f302eca9cb02d84222c796ec30786b"},
+    {"assetId":"cta_13","path":"sv-SE/images/cta_13.png","status":"EXISTS_AND_EXPORTABLE","size":2685120,"sha256":"e1c743f7c2b48fc1da5c15a268f1d822ca1516188372fe82faaa1e90149d4f89"}
+  ],
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "MISSING",
+    "social": "MISSING",
+    "QA": "EXISTS_AND_EXPORTABLE",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": "EXISTS_AND_EXPORTABLE"
+  }
+}

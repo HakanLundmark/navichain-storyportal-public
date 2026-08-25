@@ -1,0 +1,73 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "uppkopplad-utan-ett-enda-snitt",
+  "checkedAt": "2026-08-24T19:11:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "sourceCounts": {
+    "EXACT_ORIGINAL": 115,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 2,
+    "SOURCE_NOT_EXPORTABLE": 28,
+    "NOT_CREATED": 16,
+    "TOTAL_FOUND_AND_CLASSIFIED": 161
+  },
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-sv-SE.md",
+    "sha256": "f95f183e2e02fd3346f6f8f6f016a85f58b2db8f9fcda89136f4b3519d17e3ba",
+    "size": 8515,
+    "githubVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "path": "stories/uppkopplad-utan-ett-enda-snitt/source/original-story-en-GB.md",
+    "sha256": "6f1b98e5ba18907c8a971555af50c25596fcdc0368bac7a571186df2c4f66a63",
+    "sourceStorySha256": "f95f183e2e02fd3346f6f8f6f016a85f58b2db8f9fcda89136f4b3519d17e3ba",
+    "githubVerified": true,
+    "visualAssets": "NOT_CREATED"
+  },
+  "svSECanonicalImages": {
+    "localExactOriginalSlots": 14,
+    "githubPublishedSlots": 0,
+    "releaseQaAsserted": false,
+    "knownCurrentQa": {
+      "panel_04": "REBUILD_REQUIRED"
+    },
+    "latestPanel04Sha256": "6f19486113d0754eaa7af1c1176d85cfab65077ce9186b1a631d5e0d1994f695",
+    "githubReadBack": "FAIL_NOT_FOUND"
+  },
+  "binaryBackfill": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "chromeDownloadVerified": false,
+    "nextcloudArchiveVerified": false,
+    "hardenedRouterVerified": false,
+    "publisherVerified": false,
+    "githubCanonicalBinaryReadBack": false,
+    "note": "Local exact binaries and correctly hashed publisher packages were created, but the external Chrome/Nextcloud/router/publisher chain is not exposed to this ChatGPT runtime and the GitHub connector cannot accept mounted multi-megabyte local files."
+  },
+  "localPackages": [
+    {
+      "filename": "uppkopplad-utan-ett-enda-snitt-retro-backfill-v2-complete-historical-export.zip",
+      "size": 653026765,
+      "sha256": "51b1ce660059c96f1bf865d2486558d80d3c97ff5c75737c3d638f314d5aebcf"
+    },
+    {
+      "filename": "uppkopplad-utan-ett-enda-snitt-retro-v2-history.zip",
+      "size": 293012159,
+      "sha256": "1d72cd2c20947a56186778c9a85003bf266a74dd5e35267321007d87d0ae3846"
+    },
+    {
+      "filename": "uppkopplad-utan-ett-enda-snitt-sv-SE-retro-v2-publish-package.zip",
+      "size": 348659322,
+      "sha256": "7419af938c660e0cba7182f36e7ebfdaeb076a9a41b9556fd176013dc53da8cf"
+    },
+    {
+      "filename": "uppkopplad-utan-ett-enda-snitt-en-GB-retro-v2-publish-package.zip",
+      "size": 9560,
+      "sha256": "a21def871c643a5b29e8001ff9d64dd39d37ab03c05b5f254c4d9a4bbaf8417f"
+    }
+  ]
+}

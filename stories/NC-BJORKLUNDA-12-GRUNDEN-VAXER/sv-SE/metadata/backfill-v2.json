@@ -1,0 +1,23 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "NC-BJORKLUNDA-12-GRUNDEN-VAXER",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "classification": "INCOMPLETE",
+  "releaseEligible": false,
+  "canonicalAssets": {
+    "expected": 14,
+    "exactOriginalAvailable": 11,
+    "acceptedMissing": ["panel_09", "panel_10"],
+    "sourceNotExportable": ["cta_13"]
+  },
+  "historicalRejectedCandidates": [
+    {"assetId":"panel_09","filename":"panel_09_attempt_1_FOREIGN_STORY_CONTENT.png","qaStatus":"REBUILD_REQUIRED"},
+    {"assetId":"panel_09","filename":"panel_09_attempt_2_FOREIGN_STORY_CONTENT.png","qaStatus":"REBUILD_REQUIRED"},
+    {"assetId":"panel_10","filename":"panel_10_attempt_1_IDENTITY_DRIFT.png","qaStatus":"REBUILD_REQUIRED"}
+  ],
+  "narrativeMaster": {"sourceClass":"EXACT_ORIGINAL","sha256":"83cbea86e81b0bff0513f6a0bce1492e8215d1d2894d6d108ddd40337328af2c"},
+  "enGBStory": {"sourceClass":"DERIVED_TRANSLATION","translationType":"faithful","narrativeMaster":false},
+  "derivedHistoricalOutputs": {"workingPdf":"SOURCE_NOT_EXPORTABLE","priorQa":"SOURCE_NOT_EXPORTABLE","priorReleaseManifest":"SOURCE_NOT_EXPORTABLE"},
+  "githubBinaryStatus": "NOT_VERIFIED_AT_METADATA_CREATION"
+}

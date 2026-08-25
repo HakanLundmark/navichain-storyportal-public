@@ -1,0 +1,18 @@
+{
+  "schema": "navichain-asset-list-v1",
+  "files": [
+    {"path":"MISSING_ASSETS.md","assetId":null,"locale":null,"type":"qa","sourceFilename":"MISSING_ASSETS.md","approvalState":"not-applicable","fileSize":1489,"sha256":"290e9cf14c074db747c8c2ce3a25a4c49085523dfb92caa1f2c95099808a5c3b"},
+    {"path":"ORIGINAL_STORY.md","assetId":null,"locale":null,"type":"story","sourceFilename":"ORIGINAL_STORY.md","approvalState":"source-present","fileSize":4796,"sha256":"97b543e499341ce5563be932a59fd3ca3bb0e6354fd399070c1601d811ebbc39"},
+    {"path":"README.md","assetId":null,"locale":null,"type":"qa","sourceFilename":"README.md","approvalState":"not-applicable","fileSize":930,"sha256":"6030fa392b35272bcff67c291f9fdb025dd23ef19a46d4666bd297ac2c59b321"},
+    {"path":"de-DE/images/panel_01.png","assetId":"panel_01","locale":"de-DE","type":"image","sourceFilename":"panel_01.png","approvalState":"current-unknown-approval","fileSize":6464195,"sha256":"8d5c6d69e085b0de9364a9af373004d727dc04b879edd4f42ab31f48694e2c50"},
+    {"path":"de-DE/images/panel_02.png","assetId":"panel_02","locale":"de-DE","type":"image","sourceFilename":"panel_02.png","approvalState":"current-unknown-approval","fileSize":10161032,"sha256":"3d091b2493c07a02cf16acd5edfdc15dc4b807c8f0da596ee5501b8db5892fa1"},
+    {"path":"de-DE/images/panel_03.png","assetId":"panel_03","locale":"de-DE","type":"image","sourceFilename":"panel_03.png","approvalState":"current-unknown-approval","fileSize":2824468,"sha256":"93dd4aa91bc9cc38fbe8bef90de2a2daa3dc468e70fab53c8e014393e322fbf0"},
+    {"path":"en-GB/pdf/wet_ink_dry_proof_en-GB_carousel.pdf","assetId":null,"locale":"en-GB","type":"pdf","sourceFilename":"wet_ink_dry_proof_en-GB_carousel.pdf","approvalState":"previously-delivered","fileSize":68577570,"sha256":"52e3969d9acb2300ec1104708ea160f97077cf2ce619df6d007dad77bcc2b548"},
+    {"path":"qa/source-validation/02-CREATIVE-VALIDATION-RULES.md","assetId":null,"locale":null,"type":"qa","sourceFilename":"02-CREATIVE-VALIDATION-RULES.md","approvalState":"source-file","fileSize":7975,"sha256":"07253353547934d20383903b3c7d0ad7cd3114e44f86f595869507e054a3cbae"},
+    {"path":"qa/source-validation/03-PRODUCTION-BUILD-RELEASE.md","assetId":null,"locale":null,"type":"qa","sourceFilename":"03-PRODUCTION-BUILD-RELEASE.md","approvalState":"source-file","fileSize":22615,"sha256":"fd6b25ce8d3dfb1829c45cab14f0699f5fc304e6a5816ee76e8ec89a6412ada8"},
+    {"path":"qa/source-validation/04-LOCALIZATION-RULES.md","assetId":null,"locale":null,"type":"qa","sourceFilename":"04-LOCALIZATION-RULES.md","approvalState":"source-file","fileSize":4317,"sha256":"1bb5dd397ad3f04035075088e869f55a5ebe8f7a9c67fbafbd36adc6f392212b"},
+    {"path":"qa/source-validation/NAVICHAIN-PRODUCT-TRUTH.md","assetId":null,"locale":null,"type":"qa","sourceFilename":"NAVICHAIN-PRODUCT-TRUTH.md","approvalState":"source-file","fileSize":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    {"path":"qa/source-validation/Navichain_Market_Truth_MASTER_v1.0.md","assetId":null,"locale":null,"type":"qa","sourceFilename":"Navichain_Market_Truth_MASTER_v1.0.md","approvalState":"source-file","fileSize":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"},
+    {"path":"sv-SE/pdf/vatt_black_torrt_bevis_sv-SE_carousel.pdf","assetId":null,"locale":"sv-SE","type":"pdf","sourceFilename":"vatt_black_torrt_bevis_sv-SE_carousel.pdf","approvalState":"previously-delivered","fileSize":72683651,"sha256":"363eceeca10ea9e636d12047294268204b89a79927d112951b99e502ef43749f"}
+  ]
+}

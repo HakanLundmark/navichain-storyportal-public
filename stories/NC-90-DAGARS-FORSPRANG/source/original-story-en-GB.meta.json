@@ -1,0 +1,12 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "NC-90-DAGARS-FORSPRANG",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "21943abe18e8c5a021fe2b939ff538edf7a3e4bbc02b0c87583f272c5e4a63d8",
+  "sha256": "fef45d854861d42a4e0f089c8bd08d509d2efa085648506b291a5772a4588e8e",
+  "canonicalRepoPath": "stories/NC-90-DAGARS-FORSPRANG/source/original-story-en-GB.md"
+}

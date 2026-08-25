@@ -1,0 +1,33 @@
+{
+  "schema": "navichain-retro-backfill-v2-result",
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "checkedAt": "2026-08-24T22:11:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+    "githubReadback": "PASS",
+    "gitBlobSha": "e3db2395503d7d38254da173bd975853a86c5848"
+  },
+  "englishStory": {
+    "path": "stories/RADERINGEN-SOM-STOPPADES/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "42c2c5c15b3cd07c958342028fa756d299425eb250f5d61e42f33890ef488f37",
+    "sourceStorySha256": "5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a",
+    "githubReadback": "PASS",
+    "gitBlobSha": "d752b2a1e21e5c338f129b5185aad423c28b1325"
+  },
+  "canonicalVisuals": {"sv-SE":{"exactOriginal":1,"notCreated":13,"githubPublished":0},"en-GB":{"derivedTextOnly":true,"visualsCreated":0}},
+  "historicalRejectedRenders": {"exactOriginal":3,"qaStatus":"REJECTED","githubPublished":0},
+  "historicalPdf": {"exactOriginal":true,"pages":1,"qaStatus":"CURRENT_PROOF_NON_RELEASE","githubPublished":false},
+  "historicalArchivePackage": {"exactOriginal":true,"qaStatus":"HISTORICAL_PACKAGE_NON_RELEASE","githubPublished":false},
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "githubTextMetadataStatus": "PUBLISHED_AND_READBACK_VERIFIED",
+  "releaseStatus": "INCOMPLETE",
+  "completeSynced": false
+}

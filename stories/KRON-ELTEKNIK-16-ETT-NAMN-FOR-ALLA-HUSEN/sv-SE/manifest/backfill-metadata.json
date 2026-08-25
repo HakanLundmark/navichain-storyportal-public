@@ -1,0 +1,25 @@
+{
+  "storyId":"KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN",
+  "locale":"sv-SE",
+  "masterVersion":null,
+  "backfillRun":"2026-08-23T08:47:00+02:00",
+  "repository":"HakanLundmark/-navichain-storyportal",
+  "branch":"main",
+  "sourceScope":"active story material in this chat plus directly accessible runtime files",
+  "canonicalAssetsRequired":14,
+  "canonicalAssetsExistsAndExportable":1,
+  "canonicalAssetsExistsButNotExportable":1,
+  "canonicalAssetsMissing":12,
+  "releaseComplete":false,
+  "releaseZipCreated":false,
+  "pdfPresent":false,
+  "socialPresent":false,
+  "releaseQaPresent":false,
+  "binaryTransferLimitation":"GitHub connector exposes no local-file/runtime-file bridge for original image binaries; binary originals were not reconstructed or transformed.",
+  "sourceHashes":{
+    "cover_00":"e619788ef1b6f7a874a44c0f03c1306729d76b4df081cff5de1966289a1116e7",
+    "officialLogo":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+    "productTruth":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00",
+    "marketTruth":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "schema": "navichain-story-translation-v1",
+  "storyId": "KRON-ELTEKNIK-13-FAKTURAN-SOM-BARA-SKREVS-EN-GANG",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/KRON-ELTEKNIK-13-FAKTURAN-SOM-BARA-SKREVS-EN-GANG/ORIGINAL_STORY.md",
+  "sourceStorySha256": "0db35b13bcd130dc6112c70fcce81da78cc8f7b43869da1608f2a4b4ffcd328c",
+  "translationSha256": "5aea395842fe3bd5c2c5d3943e5ae0d48373d4f7659dae7d58f503656456d139",
+  "notes": "Faithful text translation only. No locale image render was created."
+}

@@ -1,0 +1,24 @@
+{
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "DEN SOM REDAN VAR NÄRMAST",
+  "masterVersion": "1.0",
+  "locale": "sv-SE",
+  "canonicalAssetOrder": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "selectedSourceFiles": {
+    "cover_00.png": "a_full_color_comic_book_graphic_novel_style_illust.png",
+    "panel_01.png": "a_comic_book_graphic_novel_panel_scene_in_a_retr.png",
+    "panel_02.png": "a_comic_book_graphic_novel_style_poster_illustra.png",
+    "panel_03.png": "andra_gissningen_akut_servicekaos.png",
+    "panel_04.png": "a_detailed_comic_book_graphic_novel_panel_in_vin.png",
+    "panel_05.png": "a_detailed_comic_book_style_infographic_panel_scen.png",
+    "panel_06.png": "a_comic_book_graphic_novel_style_panel_vintage.png",
+    "panel_07.png": "a_detailed_comic_illustration_style_panel_scene_in.png",
+    "panel_08.png": "yvonne_upptäcker_den_riktiga_fordonskartan.png",
+    "panel_09.png": "a_detailed_comic_infographic_poster_scene_in_a_war.png",
+    "panel_10.png": "rasmus_får_det_närmaste_uppdraget.png",
+    "panel_11.png": "a_detailed_comic_book_style_illustration_poster_wi.png",
+    "panel_12.png": "a_comic_style_illustrated_poster_infographic_pan.png",
+    "cta_13.png": "a_vintage_comic_illustration_style_advert_poster_o.png"
+  },
+  "attemptFiles": ["a_comic_book_illustrated_infographic_style_panel.png","a_comic_book_illustrated_panel_scene_vintage_li.png","a_comic_book_illustration_style_infographic_pane.png","a_comic_book_style_corporate_infographic_poster_sc.png","a_comic_illustration_style_poster_panel_scene_cle.png","a_comic_infographic_panel_page_in_a_vintage_retro.png","a_comic_style_illustration_poster_page_with_a_clea.png","a_detailed_comic_book_style_illustration_infogra.png","a_detailed_comic_book_style_illustration_poster.png","a_detailed_comic_infographic_panel_style_illustrat.png","a_detailed_illustrated_comic_infographic_style_sce.png","a_full_color_comic_illustration_style_poster_scene.png","a_full_color_comic_infographic_style_illustration.png","a_full_color_comic_master_sheet_with_14_panels.png","a_full_comic_cover_teaser_page_in_a_clear_ligne_cl.png","a_full_page_comic_graphic_storyboard_cover_and_pan.png","a_full_page_comic_storyboard_promotional_comic_s.png","a_full_page_comic_teaser_cover_illustration_in_a_c.png","a_multi_panel_comic_page_storyboard_in_a_clear_l.png","a_vintage_comic_illustration_style_marketing_poste.png","a_vintage_comic_illustration_style_scene_like_a_c.png"]
+}

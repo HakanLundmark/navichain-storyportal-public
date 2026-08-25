@@ -1,0 +1,27 @@
+{
+  "schema": "navichain-story-source-metadata-v1",
+  "storyId": "leveransen-som-fick-en-andra-chans",
+  "narrativeMaster": {
+    "path": "stories/leveransen-som-fick-en-andra-chans/source/original-story-sv-SE.md",
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "narrativeMaster": true,
+    "size": 4437,
+    "sha256": "14d852265e72391766e1a26373dd7db944dca6a4dd8bfc1f86f3a5a355bdb99c"
+  },
+  "translations": [
+    {
+      "path": "stories/leveransen-som-fick-en-andra-chans/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "locale": "en-GB",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "14d852265e72391766e1a26373dd7db944dca6a4dd8bfc1f86f3a5a355bdb99c",
+      "size": 4450,
+      "sha256": "01689809c8065b5b916632b961c67fa34d6bd447105d86556431d3066607b7ad"
+    }
+  ],
+  "backfillType": "RETRO_BACKFILL_V2",
+  "generatedAt": "2026-08-24T17:25:00+02:00"
+}

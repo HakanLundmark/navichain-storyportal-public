@@ -1,0 +1,81 @@
+{
+  "locale": "sv-SE",
+  "storyId": "pdf-en-som-bokade-sig-sjalv",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "requiredAssets": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "existsAndExportable": [
+    "cover_00",
+    "panel_01",
+    "panel_02",
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10"
+  ],
+  "existsButNotExportable": [],
+  "missing": [
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "qaStatusByAsset": {
+    "cover_00": "UNKNOWN",
+    "panel_01": "UNKNOWN",
+    "panel_02": "UNKNOWN",
+    "panel_03": "UNKNOWN",
+    "panel_04": "UNKNOWN",
+    "panel_05": "UNKNOWN",
+    "panel_06": "UNKNOWN",
+    "panel_07": "UNKNOWN",
+    "panel_08": "UNKNOWN",
+    "panel_09": "UNKNOWN",
+    "panel_10": "REBUILD_REQUIRED",
+    "panel_11": "NOT_CREATED",
+    "panel_12": "NOT_CREATED",
+    "cta_13": "NOT_CREATED"
+  },
+  "panel10HistoricalCandidateCount": 5,
+  "panel10CurrentCandidate": {
+    "sourceFile": "a_detailed_comic_book_style_illustration_in_a_vint.png",
+    "sourceClass": "EXACT_ORIGINAL",
+    "qaStatus": "REBUILD_REQUIRED",
+    "size": 3235682,
+    "dimensions": "1024x1536",
+    "sha256": "c0d74414955b9a44c49a1a93b24b5515f3f3b268635594ea79cc64d65ff0e4af",
+    "githubPublished": false
+  },
+  "otherContent": {
+    "ORIGINAL_STORY.md": "EXACT_ORIGINAL + GITHUB_READ_BACK_VERIFIED",
+    "original-story-en-GB.md": "DERIVED_TRANSLATION + GITHUB_READ_BACK_VERIFIED",
+    "pdfCarousel": "NOT_CREATED",
+    "socialLinkedIn": "NOT_CREATED",
+    "qa": "EXISTS_AS_CHAT_REVIEW_ONLY_NO_CANONICAL_EXPORT_FILE",
+    "manifest": "NEW_RETRO_BACKFILL_INVENTORY_CREATED_LOCALLY_NOT_YET_PUBLISHED",
+    "separateSources": "EXACT_ORIGINAL_RUNTIME_SOURCE_FILES_AVAILABLE",
+    "metadata": "UPDATED_IN_story.json"
+  },
+  "releasePublished": false,
+  "releaseZipCreated": false,
+  "githubPublishedBinaryAssets": 0,
+  "reason": "Eleven canonical slots now have directly accessible source-chat binaries: cover_00 through panel_09 plus a current panel_10 candidate. panel_10 is REBUILD_REQUIRED because every historical panel_10 render diverged from the active story. panel_11, panel_12 and cta_13 were not created. No image was regenerated or reconstructed for backfill."
+}

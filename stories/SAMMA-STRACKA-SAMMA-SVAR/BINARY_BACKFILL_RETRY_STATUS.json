@@ -1,0 +1,19 @@
+{
+  "schema": "navichain-binary-backfill-retry-status-v1",
+  "storyId": "SAMMA-STRACKA-SAMMA-SVAR",
+  "locale": "sv-SE",
+  "checkedAt": "2026-08-23T23:27:00+02:00",
+  "status": "GITHUB_PUBLISH_FAILED",
+  "runtimeSource": {
+    "verifiedCanonicalOriginalAssets": 12,
+    "exportableAssets": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "sourceNotExportable": ["cover_00","panel_01"]
+  },
+  "githubReadBackBeforeRetry": {
+    "imagesDirectoryExists": false,
+    "githubPublishedBinaryAssets": 0
+  },
+  "transportFailure": "The current connector contract exposes create_blob(content, encoding) but does not expose a top-level file parameter for local binary upload. The connector runtime rules prohibit passing raw/base64 file contents through ordinary tool arguments. Therefore the exact local PNG bytes cannot be safely transferred into Git blob creation in this runtime without violating the connector contract. No canonical binary was reconstructed, rerendered, cropped, substituted, or fabricated.",
+  "unattachedCanaryBlob": "d938773a90d5941b7be6bbcd461ea562739c6047",
+  "canaryNote": "This unattached blob was produced only by testing whether create_blob dereferences a local path string; it does not. It is not an asset, is not in any tree, and must not be treated as published material."
+}

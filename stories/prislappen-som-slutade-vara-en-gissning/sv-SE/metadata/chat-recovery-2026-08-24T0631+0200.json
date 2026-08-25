@@ -1,0 +1,57 @@
+{
+  "schema": "navichain-chat-visual-recovery-report-v1",
+  "storyId": "prislappen-som-slutade-vara-en-gissning",
+  "locale": "sv-SE",
+  "checkedAt": "2026-08-24T06:31:00+02:00",
+  "protocols": ["CHAT-VISUAL-RECOVERY.md", "BINARY-BACKFILL-RETRY.md"],
+  "inventory": {
+    "localeCount": 1,
+    "canonicalSlots": 14,
+    "exactOriginalAccessible": 14,
+    "chatRecoveredRequired": 0,
+    "sourceNotExportable": 0,
+    "githubPublishedCanonicalImagesBeforeAttempt": 0
+  },
+  "qaEvidence": {
+    "packageIntegrity": "PASS",
+    "masterReleaseQa": "FAIL_REBUILD_REQUIRED",
+    "assetLevelQa": "NOT_ESTABLISHED_BY_SOURCE_QA",
+    "knownPackageFailures": [
+      "Several later panels drift from the supplied ACTIVE STORY.",
+      "CTA drifts from the supplied ACTIVE STORY.",
+      "Brand-critical official Navichain logo was not deterministically composited on cover/CTA."
+    ]
+  },
+  "assets": [
+    {"assetId":"cover_00","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":3073819,"sha256":"b41d450b7d73e3ea42043724cc8e17c7f80380d30dd1b733aade2bce3bcccd4d","dimensions":"1024x1536","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/cover_00.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_01","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2901295,"sha256":"6176f334ff55d6c14fe9d97cf16368a3daec724926c104df8186d09bfa04bc4a","dimensions":"1024x1536","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_01.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_02","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2663782,"sha256":"c68b6246d2d935f23e8ce307b8f20156e991ec190ad4d6a9ffa7e409a3b1da9e","dimensions":"1024x1536","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_02.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_03","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":3158916,"sha256":"1523875ba9acdf91c7e45c1668249a573418e37ab3203d34f8f312f22d8ed96c","dimensions":"1024x1536","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_03.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_04","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":3042196,"sha256":"23ae9a1550647f978d5d80fa8853fe90b70d5d7270bac6f0533260a2f7333adf","dimensions":"1024x1536","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_04.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_05","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2867131,"sha256":"80e0b0c37b6067a820796f28dca0ef6141727129e068c086ad30a6a4247eceb9","dimensions":"1024x1536","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_05.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_06","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2822435,"sha256":"0c6f605023788f02f81bb7c69f6fba93165064184667cc8468e9790bfedb440c","dimensions":"1023x1537","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_06.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_07","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2825037,"sha256":"c81ce6a5e5a6387bbcbebc67b9c6ea8cf78eb4b9aee333d6fcd5aa735eef7f53","dimensions":"1023x1537","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_07.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_08","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2794734,"sha256":"c30cfb55d56d5ddbb2b304bcb6c0afadc1dfa7af6398d06bf91c333987c39a37","dimensions":"1023x1537","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_08.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_09","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2845877,"sha256":"d8f3e88784b0ba731f55cd2ff55f9e36e3c15869e85b80dc503d5fd6f4193438","dimensions":"1023x1537","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_09.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_10","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2885274,"sha256":"8fbf8a818cdb36ca3581c291ddf255485876078e453663981b508f9feb8b967e","dimensions":"1023x1537","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_10.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_11","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2849282,"sha256":"513f62f2ed273e9c80b1063dac38b97df715ef738a4a175f0c9ad19f361763ce","dimensions":"1023x1537","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_11.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_12","qaStatus":"UNRESOLVED_ASSET_LEVEL","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2914645,"sha256":"d48f7799df5cd8d30f507b20051f9c11dec16f5a527c60e551e75b338f6d9ccd","dimensions":"1013x1553","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/panel_12.png","publicationResult":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"cta_13","qaStatus":"UNRESOLVED_ASSET_LEVEL; PACKAGE_QA_IDENTIFIES_CTA_FAILURE","exactBytesAccessible":true,"sourceClass":"EXACT_ORIGINAL","size":2887022,"sha256":"386d784d1b8bf75a15fcc40ac3c112518929ae1a45fdde6a96099304ddcbb946","dimensions":"1023x1537","githubPath":"stories/prislappen-som-slutade-vara-en-gissning/sv-SE/images/cta_13.png","publicationResult":"GITHUB_PUBLISH_FAILED"}
+  ],
+  "publicationAttempt": {
+    "requiredTransport":"Git blob + navichain-binary-backfill-v2 queue + assembler workflow",
+    "connectorSurface":"GitHub create_blob(content:string, encoding:base64)",
+    "failure":"The exact original PNG bytes are directly accessible, but the connected GitHub create_blob surface requires every base64 chunk to be transported inline through the model/tool-call context. The 14 originals total about 40 MB raw (over 53 MB base64). Completing a valid v2 publication would exceed the available model/tool payload/context budget. No partial queue manifest was written because an incomplete chunk set cannot produce an integrity-valid assembled file.",
+    "queueManifestWritten":false,
+    "assemblerRun":false,
+    "finalReadBackCanonicalImages":0,
+    "provenanceSidecarsReadBack":0,
+    "result":"GITHUB_PUBLISH_FAILED"
+  },
+  "metadataPolicy": {
+    "storyJsonUpdated":false,
+    "storiesIndexUpdated":false,
+    "reason":"Protocol requires story/index publication counts to be updated only after successful final binary read-back. No canonical image was assembled or read back."
+  },
+  "status":"INCOMPLETE"
+}

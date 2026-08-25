@@ -1,0 +1,26 @@
+{
+  "schema": "navichain-binary-backfill-retry-report-v1",
+  "storyId": "prislappen-som-slutade-vara-en-gissning",
+  "locale": "sv-SE",
+  "checkedAt": "2026-08-23T23:30:00+02:00",
+  "protocol": "BINARY-BACKFILL-RETRY.md",
+  "sourceVerification": {
+    "canonicalImageSlotsVerifiedFromExistingWorkingZip": 14,
+    "hashesMatchPriorInventory": true,
+    "standaloneRuntimeFilesAlsoVerified": ["cover_00.png", "panel_07.png"],
+    "pdfDirectlyAccessible": true,
+    "workingZipDirectlyAccessible": true
+  },
+  "githubReadBackBeforeRetry": {
+    "storyJsonExists": true,
+    "indexJsonExists": true,
+    "canonicalImagesDirectoryExists": false,
+    "githubPublishedBinaryAssets": 0
+  },
+  "result": "GITHUB_PUBLISH_FAILED",
+  "failure": "Exact original binaries are directly readable in the runtime, but the available GitHub create_blob action accepts binary content only as an inline text/base64 argument. The 14 PNG originals are 2.66-3.16 MB each and the PDF is 63.06 MB; transporting all exact bytes through the model/tool-call context would exceed the available context/payload budget. No rerendering, reconstruction, cropping, substitution, partial queue manifest, or fabricated binary was performed.",
+  "publishedBinaryAssets": 0,
+  "queueManifestWritten": false,
+  "assemblerRun": false,
+  "status": "INCOMPLETE"
+}

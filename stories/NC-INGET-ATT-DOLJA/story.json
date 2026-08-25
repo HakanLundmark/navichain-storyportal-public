@@ -1,0 +1,92 @@
+{
+  "storyId": "NC-INGET-ATT-DOLJA",
+  "slug": "inget-att-dolja",
+  "title": "INGET ATT DÖLJA — Åsa & kundportalen",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "narrativeMaster": true,
+      "requiredCanonicalImages": 14,
+      "sourceExportableCanonicalImages": 13,
+      "sourceNotExportableCanonicalImages": 1,
+      "githubPublishedBinaryAssets": 0,
+      "sourceNotExportable": ["cta_13"]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "narrativeMaster": false,
+      "textTranslation": "DERIVED_TRANSLATION",
+      "requiredCanonicalImages": 14,
+      "sourceExportableCanonicalImages": 3,
+      "sourceNotExportableCanonicalImages": 0,
+      "notCreatedCanonicalImages": 11,
+      "githubPublishedBinaryAssets": 0,
+      "notCreated": ["panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+    }
+  },
+  "originalStory": "stories/NC-INGET-ATT-DOLJA/ORIGINAL_STORY.md",
+  "narrativeMasterSource": "stories/NC-INGET-ATT-DOLJA/source/original-story-sv-SE.md",
+  "originalStorySourceClass": "EXACT_ORIGINAL",
+  "originalStorySize": 7469,
+  "originalStorySha256": "7c121a6ee26d4d870dd468cc9f8bd7d18a8befc512db5af47540915a1d7abc96",
+  "enGbStory": "stories/NC-INGET-ATT-DOLJA/source/original-story-en-GB.md",
+  "enGbStorySourceClass": "DERIVED_TRANSLATION",
+  "enGbTranslationType": "faithful",
+  "enGbNarrativeMaster": false,
+  "enGbStorySize": 8037,
+  "enGbStorySha256": "c79ce996890bafcd0dc01f6aff71d2aa7dcc1cbdf042e1f3e551915ad021ee10",
+  "primaryCapability": "Customer Portal / external visibility",
+  "protagonist": "Åsa Berndtsson",
+  "supportingCharacter": "Mats Öhman",
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T22:21:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "provenanceQaSeparated": true,
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedFromPdf": false,
+    "chatRecoveredImages": 0,
+    "runtimeInventoryItems": 92,
+    "runtimeExactOriginalItems": 65,
+    "runtimeChatRecoverableItems": 2,
+    "runtimeDerivedTranslationItems": 1,
+    "runtimeSourceNotExportableItems": 2,
+    "runtimeNotCreatedItems": 22,
+    "svSeCanonicalExactOriginal": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"],
+    "svSeCanonicalSourceNotExportable": ["cta_13"],
+    "enGbCanonicalExactOriginal": ["cover_00","panel_01","panel_02"],
+    "enGbCanonicalNotCreated": ["panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "svSePdf": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "count": 2,
+      "qaStatus": "PARTIAL_QA_VERIFIED",
+      "githubPublished": false
+    },
+    "svSeSocial": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "path": "stories/NC-INGET-ATT-DOLJA/sv-SE/social/linkedin-sv-SE.txt"
+    },
+    "historicalExactVisualCandidates": {
+      "sv-SE": 12,
+      "en-GB": 17
+    },
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_TOOL_SURFACE",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "githubTextMetadataPublication": "PUBLISHED_DIRECT_GITHUB_FALLBACK",
+    "githubBinaryPublication": "BLOCKED_NO_LOCAL_FILE_UPLOAD_PARAMETER",
+    "githubPublishedBinaryAssets": 0,
+    "githubReadBack": "PASS_TEXT_METADATA_ONLY_BINARY_PATHS_ABSENT",
+    "githubReadBackVerifiedAt": "2026-08-24T22:21:00+02:00",
+    "localPackageHashes": {
+      "sv-SE": "1861e162a225e0448ef2c03436c61037ad8d6d56c3dd91cbb1a12c904a4382eb",
+      "en-GB": "0a9c3141e7b50baa4ba6c0930a1c9d9a0e75760ea3d4cb650ac972ec4df7fa51",
+      "completeHistoricalExport": "b9feae53cb3d3a85f54fb4764e844571f671cc477938e2891834174088330a21"
+    }
+  },
+  "qaInventory": "stories/NC-INGET-ATT-DOLJA/qa/retro-backfill-v2.json",
+  "missingAssets": "stories/NC-INGET-ATT-DOLJA/MISSING_ASSETS.md"
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "navichain-storyportal-backfill-asset-list-v1",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "scope": "directly accessible local source inventory; file listing does not imply GitHub binary publication",
+  "files": [
+    {"path":"ORIGINAL_STORY.md","type":"story","availability":"EXISTS_AND_EXPORTABLE"},
+    {"path":"qa/export-qa.md","type":"qa","availability":"EXISTS_AND_EXPORTABLE"},
+    {"path":"manifest/inventory.json","type":"manifest","availability":"EXISTS_AND_EXPORTABLE"},
+    {"path":"MISSING_ASSETS.md","type":"qa","availability":"EXISTS_AND_EXPORTABLE"},
+    {"path":"sources/NAVICHAIN-PRODUCT-TRUTH.md","type":"source","availability":"EXISTS_AND_EXPORTABLE","size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    {"path":"sources/Navichain_Market_Truth_MASTER_v1.0.md","type":"source","availability":"EXISTS_AND_EXPORTABLE","size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"},
+    {"path":"sources/NAVICHAIN-OFFICIAL-LOGO.png","type":"source-image","availability":"EXISTS_AND_EXPORTABLE_LOCAL_BINARY","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","githubPublished":false},
+    {"path":"sources/Korrekt QR kod till signup.png","type":"source-image","availability":"EXISTS_AND_EXPORTABLE_LOCAL_BINARY","size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","githubPublished":false},
+    {"path":"sv-SE/images/cover_00.png","assetId":"cover_00","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3367475,"sha256":"419f6325bb96cf82ae20bc0ce9b7d65094ed3473b4f44d994b8df9aabc3ecb30","githubPublished":false},
+    {"path":"sv-SE/images/panel_01.png","assetId":"panel_01","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3419217,"sha256":"6d717b818832590c3d8178aa1fbcd05194758420b2c88cd7c34f3c8fd9477969","githubPublished":false},
+    {"path":"sv-SE/images/panel_02.png","assetId":"panel_02","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3350380,"sha256":"40779d85e3abd9a13e7c0bc8af2b1ebbe52307e26d8ab49832d90f7277ab9e06","githubPublished":false},
+    {"path":"sv-SE/images/panel_03.png","assetId":"panel_03","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3446723,"sha256":"65d1957da362373603af5c1dc2611df3e8028a74ded06a1b74fe838fc6363d9b","githubPublished":false},
+    {"path":"sv-SE/images/panel_04.png","assetId":"panel_04","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3360756,"sha256":"0ef515028f19c7019ca61aa43bade11d7ffa59e4cf3d923262d2ca32bc46271e","githubPublished":false},
+    {"path":"sv-SE/images/panel_05.png","assetId":"panel_05","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3516975,"sha256":"fa16804852cf25583e346959d6fb049ec0c53cba290664fc111a289f7af9702d","githubPublished":false},
+    {"path":"sv-SE/images/panel_06.png","assetId":"panel_06","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3547168,"sha256":"3585575c8f46812b5de9e07048acca6858ac5e12cdca63674ad6080a706f141e","githubPublished":false},
+    {"path":"sv-SE/images/panel_07.png","assetId":"panel_07","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3412969,"sha256":"5943f0d939ca41ee023fb74a4eb26119cd6755c75f210c6611a0652bc29c573e","githubPublished":false},
+    {"path":"sv-SE/images/panel_08.png","assetId":"panel_08","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3485098,"sha256":"7f2123badac24b4f96b444648e4e9eda60dfc84e58c10e1a6c5a71d17ad279d2","githubPublished":false},
+    {"path":"sv-SE/images/panel_09.png","assetId":"panel_09","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3505222,"sha256":"175f3533e4d90dd39b7d0b0e0f628957b81b3ddc10380ba0ced88f77e0d18b8f","githubPublished":false},
+    {"path":"sv-SE/images/panel_10.png","assetId":"panel_10","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3578244,"sha256":"d4ddf654d746c3ea0f3b7614a7f0fc10236f227bac90da83aecd48ebd36144a8","githubPublished":false},
+    {"path":"sv-SE/images/panel_11.png","assetId":"panel_11","locale":"sv-SE","type":"image","availability":"MISSING","githubPublished":false},
+    {"path":"sv-SE/images/panel_12.png","assetId":"panel_12","locale":"sv-SE","type":"image","availability":"EXISTS_AND_EXPORTABLE","size":3304000,"sha256":"4052b26b30c2ffaf5e4d611a38005585978918755dda6e6d9e0fd57ff73c4ca8","githubPublished":false},
+    {"path":"sv-SE/images/cta_13.png","assetId":"cta_13","locale":"sv-SE","type":"image","availability":"MISSING","githubPublished":false}
+  ]
+}

@@ -1,0 +1,18 @@
+QA/BACKFILL STATUS
+Story: DEN SOM REDAN VAR NÄRMAST
+Story ID: den-som-redan-var-narmast
+Locale: sv-SE
+Master version: 1.0
+
+Inventory completeness:
+- ORIGINAL_STORY.md: EXISTS_AND_EXPORTABLE
+- cover_00 + panel_01..panel_12 + cta_13: 14/14 EXISTS_AND_EXPORTABLE
+- PDF: EXISTS_AND_EXPORTABLE (built from the 14 original PNG assets without replacing them)
+- Social/LinkedIn copy: MISSING
+- Source files: EXISTS_AND_EXPORTABLE
+- Additional generated attempts: EXISTS_AND_EXPORTABLE and preserved locally under attempts/
+
+Release quality:
+- This backfill records what actually exists in this chat/runtime.
+- Several visual assets were previously flagged REBUILD_REQUIRED for story/claim/brand drift.
+- COMPLETE source-package status refers to the 14 required image assets being exportable; it is not creative QA PASS.

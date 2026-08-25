@@ -1,0 +1,11 @@
+{
+  "schema": "navichain-story-source-v1",
+  "storyId": "SAMMA-KUND-TVA-VARLDAR",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "canonicalPath": "stories/SAMMA-KUND-TVA-VARLDAR/ORIGINAL_STORY.md",
+  "size": 10867,
+  "sha256": "61a5b45408be5276d0df02047e340f47176d8232da41181d9b9a70df25a9d965",
+  "verifiedAt": "2026-08-24T17:25:00+02:00"
+}

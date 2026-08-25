@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-derived-translation-v1",
+  "storyId": "ORD-MOT-ORD",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryRole": "canonical_original_story_source",
+  "derivedFromLockedCorrectedNarrativeMaster": false,
+  "sourceStorySha256": "7108fd3094528b0d1a373d8e879be9883aa8cec20f22d174be28b1f9debb52bb",
+  "sha256": "631adcd5e1eaebca9359be86171740799fc866221c9024d1ca98aee7e60f18b9",
+  "size": 10881,
+  "intendedRepoPath": "stories/ORD-MOT-ORD/source/original-story-en-GB.md"
+}

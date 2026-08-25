@@ -1,0 +1,21 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda-en-GB.publish-package.zip",
+  "packageSha256": "6d92bb3bd9a79b7d9f0639a692142696b062167b4a7eb986f8d1b88d755b4cef",
+  "files": [
+    {
+      "archiveName": "source/original-story-en-GB.md",
+      "path": "stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/source/original-story-en-GB.md",
+      "size": 10967,
+      "sha256": "cf90444af2d9b9497dde33c91ae6da2f500d3bd54a0e7ccccc47ac1638f9e373",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  ]
+}

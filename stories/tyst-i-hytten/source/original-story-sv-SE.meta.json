@@ -1,0 +1,11 @@
+{
+  "schema": "navichain-narrative-master-v1",
+  "storyId": "tyst-i-hytten",
+  "locale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "canonicalPath": "stories/tyst-i-hytten/ORIGINAL_STORY.md",
+  "size": 8501,
+  "sha256": "8ed8714f552cc00e1f5b3aceaa703706d5734a5db3f9d295752bc6590032b583",
+  "sourceEvidence": "Exact original bytes remain directly accessible in the source chat runtime and match the existing canonical ORIGINAL_STORY.md."
+}

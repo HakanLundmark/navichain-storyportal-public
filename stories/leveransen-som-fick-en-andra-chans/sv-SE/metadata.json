@@ -1,0 +1,14 @@
+{
+  "storyId": "leveransen-som-fick-en-andra-chans",
+  "title": "LEVERANSEN SOM FICK EN ANDRA CHANS",
+  "locale": "sv-SE",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionAuthority": "not explicitly set in chat",
+  "backfillDate": "2026-08-23",
+  "source": "current ChatGPT conversation",
+  "canonicalAssetCount": 14,
+  "status": "INCOMPLETE",
+  "blockers": ["panel_10 dimension mismatch", "LinkedIn/social copy missing", "release QA/PASS not established"],
+  "githubPublishedBinaryAssets": 0
+}

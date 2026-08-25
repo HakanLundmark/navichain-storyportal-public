@@ -1,0 +1,85 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "ingen-overraskning-vid-bommen",
+  "checkedAt": "2026-08-24T17:26:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/ingen-overraskning-vid-bommen/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 11876,
+    "sha256": "203240d36965f1007e408ce96b19f13479a7c9ad21fd07a29fa2487a9d5205d9",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/ingen-overraskning-vid-bommen/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 10323,
+    "sha256": "78c9ea0c507e33db54d16d07dce46f68931b75c0466ec73028076e5b69c867d0",
+    "sourceStorySha256": "203240d36965f1007e408ce96b19f13479a7c9ad21fd07a29fa2487a9d5205d9",
+    "githubReadBackVerified": true
+  },
+  "canonicalVisualCandidates": [
+    {"assetId":"panel_03","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_detailed_comic_book_illustration_panel_scene._ov.png","size":2897890,"dimensions":[1024,1536],"sha256":"0fa47a74b4996dd3fe8e62e40eab9024ccc43e197f3a0ff151aacb0193cc48f7","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_03.png","githubPublished":false},
+    {"assetId":"panel_04","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_infographic_style_illustration_like_a_po.png","size":2879008,"dimensions":[1024,1536],"sha256":"132513a9a762cbe24616940ca06a8ec5ea8e2197a26abe2eecac6753d728ab11","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_04.png","githubPublished":false},
+    {"assetId":"panel_05","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_infographic_style_illustration_of_an_off.png","size":2729182,"dimensions":[1024,1536],"sha256":"f9e013505993a62fa6c7f7345106c14076ec634c6b24085c88320844fb5a2fff","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_05.png","githubPublished":false},
+    {"assetId":"panel_06","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_illustration_style_office_scene_with_warm.png","size":2976253,"dimensions":[1024,1536],"sha256":"3980b89beaead0f32197c5be579258ab3e5a3fbf03f1e4d5791612edea4dc7b0","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_06.png","githubPublished":false},
+    {"assetId":"panel_07","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_illustration_style_poster_page_overall_sc.png","size":2950587,"dimensions":[1024,1536],"sha256":"8c28aaa47e40ff1e62427544a39db2eba12dd5578eb0f739bd1ea37542417c3f","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_07.png","githubPublished":false},
+    {"assetId":"panel_08","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_illustration_style_office_scene_in_a_frame.png","size":3001028,"dimensions":[1024,1536],"sha256":"b2b0a3e2dbaa59b8f429c96eed35c9037083b2d04c7dac34c2bdbed232bdf68e","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_08.png","githubPublished":false},
+    {"assetId":"panel_09","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_infographic_style_illustrated_panel_in_a_c.png","size":2777320,"dimensions":[1024,1536],"sha256":"76127e534f99ffbb2e919ad8b953545e9d59fc3eb9305b0f07eaf8ac5cb6113f","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_09.png","githubPublished":false},
+    {"assetId":"panel_10","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_illustration_style_panel_page_vintage_tin.png","size":3081988,"dimensions":[1024,1536],"sha256":"ea08b864d171e8881561b6bad9b3eb813509b748030e26a8c4764edea603d729","targetPath":"stories/ingen-overraskning-vid-bommen/sv-SE/images/panel_10.png","githubPublished":false}
+  ],
+  "additionalHistoricalExactRenders": [
+    {"assetId":"panel_08","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","runtimeFilename":"a_comic_illustration_style_office_scene_overall_v.png","size":2761910,"dimensions":[1024,1536],"sha256":"dbfceb3f8e5ca6ca7167dab783e6f31d3f1e4b89a711d1ea72eb2cb4c3e79bd9","status":"superseded historical candidate","githubPublished":false}
+  ],
+  "sourceNotExportableCanonicalAssets": ["cover_00","panel_01","panel_02"],
+  "notCreatedCanonicalAssets": ["panel_11","panel_12","cta_13"],
+  "derivedReleaseAssets": {
+    "pdf": "NOT_CREATED",
+    "linkedinSocial": "NOT_CREATED",
+    "socialImages": "NOT_CREATED",
+    "releaseManifest": "NOT_CREATED",
+    "historicalReleaseZip": "NOT_CREATED"
+  },
+  "localPackages": {
+    "archive": {
+      "filename": "ingen-overraskning-vid-bommen-retro-backfill-v2-20260824-1726.zip",
+      "size": 25601660,
+      "sha256": "d6bf1f0a9286601b7dd80ef48d70fe05969646d3ffacc931e3cae1b32f51b129"
+    },
+    "svSePublishPackage": {
+      "filename": "ingen-overraskning-vid-bommen-sv-SE-retro-v2-publish.zip",
+      "size": 23294078,
+      "sha256": "5ed49be776beb535911aeacfcca3356c575f5f9d074f352a4983c920a140a7e9",
+      "fileCount": 8
+    },
+    "svSePublishRequest": {
+      "filename": "ingen-overraskning-vid-bommen-sv-SE.publish.json",
+      "size": 2656,
+      "sha256": "129e9e4493322aef7be9188290435059ec93a0feacca21483a4c75343f134150"
+    },
+    "svSePublishRequestWrapper": {
+      "filename": "ingen-overraskning-vid-bommen-sv-SE.publish.zip",
+      "size": 1007,
+      "sha256": "69d246a54eec9c41185a5d2396e4c8a9bd6c9a7528f2da546babc26bea6a4273"
+    }
+  },
+  "transport": {
+    "chromeControlAvailable": false,
+    "nextcloudConnectorAvailable": false,
+    "automaticChainInvoked": false,
+    "binaryGitHubPublished": 0,
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "The requested Chrome download -> local capture -> Nextcloud -> hardened router -> publisher chain is not invokable from this ChatGPT runtime. The GitHub connector supports text writes and Git blob creation but no local-file argument for multi-megabyte PNGs; the exact binaries were therefore packaged without claiming publication. No image was rerendered, reconstructed, cropped, restyled or substituted."
+  },
+  "metadata": {
+    "storyJsonUpdatedAndReadBack": true,
+    "storiesIndexUpdated": true,
+    "storiesIndexReadBackVerified": true,
+    "storiesIndexCommit": "eddf53de9dea1a30da53be60d364d0598277fccf",
+    "statusJsonUpdatedAfterIndexSync": true
+  }
+}

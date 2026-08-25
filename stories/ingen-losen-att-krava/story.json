@@ -1,0 +1,109 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "ingen-losen-att-krava",
+  "sourceManifestStoryId": "INGEN-LOSEN-ATT-KRAVA",
+  "storyIdAuthority": "existing repository story path; source release manifest carries uppercase ID",
+  "title": "INGEN LÖSEN ATT KRÄVA",
+  "subtitle": "Anette och natten då grannåkeriet blev gisslan — men inte hon",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+  "narrativeMasterStatus": "PRESENT",
+  "originalStory": "stories/ingen-losen-att-krava/ORIGINAL_STORY.md",
+  "locales": {
+    "sv-SE": {
+      "status": "COMPLETE + GITHUB FAILED",
+      "verifiedExportableAssets": 14,
+      "expectedAssets": 14,
+      "available": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "missing": [],
+      "existsButNotExportable": [],
+      "githubPublishedBinaryAssets": 0,
+      "runtimeSourceVerified": "/mnt/data/INGEN-LOSEN-ATT-KRAVA-v1.0-sv-SE-release-FINAL.zip",
+      "runtimeReleaseZipSize": 98564643,
+      "runtimeReleaseZipSha256": "354d78ae9212482a610d2f60d083aec028d135481f3e290ea459a7c27dfb583f",
+      "pdf": {
+        "runtimePath": "/mnt/data/binary_retry_ingen_losen/INGEN-LOSEN-ATT-KRAVA-v1.0-sv-SE/carousel/ingen-losen-att-krava_sv-SE.pdf",
+        "size": 68648164,
+        "sha256": "5726383cca9b3d9dcc2448cc6d37bf017c26c5514667a3d00b3f3fd4655b012b",
+        "githubPublished": false
+      },
+      "social": "stories/ingen-losen-att-krava/sv-SE/social/linkedin-sv-SE.txt",
+      "qa": ["stories/ingen-losen-att-krava/sv-SE/qa/raster-qa.yaml","stories/ingen-losen-att-krava/sv-SE/qa/pdf-qa.yaml"],
+      "manifest": "stories/ingen-losen-att-krava/sv-SE/manifest/release-manifest.yaml",
+      "releaseZip": {
+        "runtimePath": "/mnt/data/INGEN-LOSEN-ATT-KRAVA-v1.0-sv-SE-release-FINAL.zip",
+        "githubPublished": false
+      }
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "verifiedExportableReleaseAssets": 0,
+      "expectedAssets": 14,
+      "missing": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "identifiableRejectedRuntimeArtifacts": [
+        {"assetId":"cover_00","runtimePath":"/mnt/data/cover_00_en-GB_integrated.png","size":2794651,"sha256":"22e50c1a1c1e9410c956a57c80c233c1a100516b2e2247a3226cd6f1afaa1f4f","qa":"REJECTED"},
+        {"assetId":"panel_01","runtimePath":"/mnt/data/a_full_color_comic_graphic_novel_style_illustratio.png","size":3093002,"sha256":"8198edbbbcb6ee744dea827baa4fbbe2ae827a6d23c33ec11aec8cecfd87478c","qa":"REBUILD_REQUIRED"}
+      ],
+      "note": "English attempts were historically identifiable render artifacts but were not release-eligible; prior QA rejected them for story/branding/language drift. No en-GB image release is complete."
+    }
+  },
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryRetryCheckedAt": "2026-08-23T23:51:00+02:00",
+  "binaryPublishBlocker": "Historical note from the earlier retry: the available GitHub interface at that time could not safely stream the multi-megabyte local PNG/PDF/ZIP originals into Git blobs. This field is retained as historical evidence and is not used to claim current byte availability.",
+  "githubReadback": {
+    "checkedPath": "stories/ingen-losen-att-krava/sv-SE/images",
+    "result": "404_NOT_FOUND",
+    "githubPublishedBinaryAssets": 0
+  },
+  "narrativeArtifacts": {
+    "sv-SE": {
+      "path": "stories/ingen-losen-att-krava/sources/original-story-sv-SE.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "size": 12272,
+      "sha256": "28f056cf5f84d2984b2c02ef5f571cd6440f0f63c476b200ee89c7930aba7ea1",
+      "gitBlobSha": "dcf23961cc4092421fa764996f730536df6327ea",
+      "githubReadback": "PASS"
+    },
+    "en-GB": {
+      "path": "stories/ingen-losen-att-krava/sources/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "size": 12537,
+      "sha256": "da2d1f90097cc056217b48aa228dbd4b97b35566e584392d7f01fb6535d01e8d",
+      "gitBlobSha": "21892a3f372df1d7bfa30b56b92a3cf8e0ffc64d",
+      "sourceStorySha256": "28f056cf5f84d2984b2c02ef5f571cd6440f0f63c476b200ee89c7930aba7ea1",
+      "githubReadback": "PASS"
+    }
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:05:00+02:00",
+    "inventory": "stories/ingen-losen-att-krava/BACKFILL_INVENTORY.json",
+    "narrativeMasterStatus": "GITHUB_VERIFIED",
+    "enGbStoryStatus": "GITHUB_VERIFIED",
+    "svSeCanonicalVisuals": {
+      "historicallyEvidenced": 14,
+      "historicalQa": "PASS",
+      "githubPublishedBinaryAssets": 0,
+      "currentRecoveryResult": "SOURCE_NOT_EXPORTABLE",
+      "reason": "The historical release manifest and checksums remain, but the current chat/runtime exposes neither the exact image bytes nor the actual rendered images needed for CHAT_RECOVERED."
+    },
+    "enGbVisuals": {
+      "historicallyIdentifiableRejectedCandidates": 2,
+      "notCreatedOrNoReliableCreationEvidence": 12,
+      "githubPublishedBinaryAssets": 0,
+      "currentRecoveryResult": "PARTIAL_SOURCE_NOT_EXPORTABLE"
+    },
+    "transport": {
+      "requested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+      "automaticChainCallableInThisRuntime": false,
+      "fallback": "DIRECT_GITHUB_CONNECTOR_FOR_TEXT_AND_METADATA",
+      "nextcloudVerified": false
+    },
+    "finalStatus": "PARTIAL_BACKFILL"
+  },
+  "backfilledAt": "2026-08-23T08:45:00+02:00"
+}

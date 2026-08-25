@@ -1,0 +1,66 @@
+{
+  "schema": "navichain-story-backfill-inventory-v1",
+  "storyId": "KRON-ELTEKNIK-02-RESAN-TILLBAKA",
+  "title": "RESAN TILLBAKA SOM ALDRIG BEHÖVDE SKE",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "masterVersionNote": "No formal LOCK STORY version identifier was created; preflight referred to master revision 1.",
+  "sourceContext": "current-chat",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "reason": "14/14 image assets and a 14-page PDF are exportable, but the image series is not release-complete: panel_10 is landscape, panel_11/cta_13 use different dimensions, no LinkedIn/social copy was created, and full release QA was not completed.",
+      "canonicalAssets": ["cover_00.png","panel_01.png","panel_02.png","panel_03.png","panel_04.png","panel_05.png","panel_06.png","panel_07.png","panel_08.png","panel_09.png","panel_10.png","panel_11.png","panel_12.png","cta_13.png"],
+      "missing": ["social/linkedin-sv-SE.txt","qa/raster-qa.yaml","qa/pdf-qa.yaml","manifest/release-manifest.yaml","common-format PASS for all 14 images"],
+      "existsButNotExportable": [],
+      "formatIssues": ["panel_10.png 1402x1122","panel_11.png 1086x1448","cta_13.png 1023x1537","cover_00 through panel_09 are 1055x1491"]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "reason": "Only cover_00 was created for en-GB.",
+      "canonicalAssets": ["cover_00.png"],
+      "missing": ["images/panel_01.png","images/panel_02.png","images/panel_03.png","images/panel_04.png","images/panel_05.png","images/panel_06.png","images/panel_07.png","images/panel_08.png","images/panel_09.png","images/panel_10.png","images/panel_11.png","images/panel_12.png","images/cta_13.png","carousel/*.pdf","social/linkedin-en-GB.txt","qa/*","manifest/release-manifest.yaml"],
+      "existsButNotExportable": []
+    }
+  },
+  "canonicalSvSeFiles": [
+    {"path":"sv-SE/images/cover_00.png","size":3300570,"sha256":"5871cc8be97abe3ea7531c6603d647795057640ba61f55f04f7d5fab4a85da3f","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_01.png","size":3065721,"sha256":"d972e3c9687771eba603aa4e68bfc3cc3723e4e3367b8aab9b8daca012f04f75","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_02.png","size":3085129,"sha256":"77b08a655d30846dd4945c4ec54788b9a599932f422718b25f86a0352524c585","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_03.png","size":2818122,"sha256":"191f05ffe45ea4c53dc12adb33d69fcefa90d4535d59108ea7553de562e28366","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_04.png","size":2816308,"sha256":"2b588f2ad9e9d36476e3afab8dbf996b6a98387ac5b20bcccbf48bba409240cc","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_05.png","size":2943431,"sha256":"830d9e74ec4b9cb4126ef8dc68df8c230349125ef0b0a077ab011332e5f13efe","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_06.png","size":3052507,"sha256":"446cfd5fdb7c99867279644d8da345ef172ca87a4c249744b3dbe0a362502fa4","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_07.png","size":2865653,"sha256":"96e289096bcb516ea7fcdf2cf492a54dbd0208383c0000245ba7546232625ac7","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_08.png","size":2920429,"sha256":"b7dd8acf7306c324f471221e7cb3bb3aad98610f83e736817506ee1817803e7a","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_09.png","size":2674141,"sha256":"d93ad1912b177cc67ebe4337792f85c3c1f97d25aafc6e5b73b89c7f63e3af62","dimensions":[1055,1491]},
+    {"path":"sv-SE/images/panel_10.png","size":2984594,"sha256":"3f7fe759fc9f140fcab8493fda199e2e9d11ac4aeffe227a39a8fb1b0e146c29","dimensions":[1402,1122]},
+    {"path":"sv-SE/images/panel_11.png","size":2771101,"sha256":"3ac4e2b7a8807ab78e26a4387cbc60b0c00c2ca0fad93edf1d7d2b1ed1801dc5","dimensions":[1086,1448]},
+    {"path":"sv-SE/images/panel_12.png","size":3441117,"sha256":"4ba85d4e07cb818128ed1297a1b9fb49bbe892998f8a5099868f5eb9a49d3fd6","dimensions":[1024,1536]},
+    {"path":"sv-SE/images/cta_13.png","size":3020619,"sha256":"1f5b492d938f545cd68d213f271058e31794276190aec3a135e7b7d83d59e37e","dimensions":[1023,1537]}
+  ],
+  "otherExportableBinaryFiles": [
+    {"path":"en-GB/images/cover_00.png","size":3527156,"sha256":"626e66d5e62f1ce136379127ca7f8f4234482063c96252119620be8e9051438d","dimensions":[1024,1536]},
+    {"path":"sv-SE/carousel/resan_tillbaka_som_aldrig_behovde_ske_sv-SE.pdf","size":67872178,"sha256":"4d65b1d3627366527a4bddfe3583bf7426e29ce5fc0efdd6811a9b95a4916b51"},
+    {"path":"sv-SE/packages/resan_tillbaka_som_aldrig_behovde_ske_sv-SE_assets.zip","size":97055187,"sha256":"10741391427507110504f204926568ff72892691691c19f7b9e453d8653e5f6a"},
+    {"path":"sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","dimensions":[500,300]},
+    {"path":"sv-SE/sources/Korrekt QR kod till signup.png","size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","dimensions":[550,574]}
+  ],
+  "noncanonicalSvSeArchive": [
+    {"path":"sv-SE/archive/pärm_och_hylla_lagerlistans_mysterium.png","sha256":"6c433e74a2906cae2794ac104b1ac142599a7740ea8e7ecd7b722ee8d16d97b6"},
+    {"path":"sv-SE/archive/a_detailed_comic_style_illustration_in_a_clean_lig.png","sha256":"defcec1076eea337b4fb4ed33d1340feba14d1d1a01aa15c89aa53fc310dae18"},
+    {"path":"sv-SE/archive/a_detailed_comic_style_illustration_panel._overa.png","sha256":"2a5b9f796af5148b7d8e561c45361d4d9ed5dd4d18f89943a44356d2e11e28ed"},
+    {"path":"sv-SE/archive/ingen_bortkastad_resa.png","sha256":"0f100c523377f32dced95ffcaab26effe31ba233ce957fa821981c6f67a02a8c"},
+    {"path":"sv-SE/archive/bc168ce7-03ef-4954-a091-f702d3388883.png","sha256":"dc2fd8d43c53158ae48de7aa836b832ea48bf84a0a7d93c554f2615844509f0e"},
+    {"path":"sv-SE/archive/a_full_color_comic_graphic_novel_style_illustratio.png","sha256":"853c06d686b8f3123d2b20cc7873c1ec61cfa8bc62dc392a7d78721290b00102"},
+    {"path":"sv-SE/archive/a_detailed_comic_book_style_poster_comic_page_in.png","sha256":"51a52fa03b3d462073515cf4f01f9a793f2c55bdeb766923473d0cc6c718ff55"},
+    {"path":"sv-SE/archive/a_full_color_comic_illustration_style_poster_comic.png","sha256":"feaa39027a631014432c13d802604aa060450df3ff5f8ade0aba32fd9511f6a6"},
+    {"path":"sv-SE/archive/a_full_color_comic_illustration_in_ligne_claire.png","sha256":"39cc34da6c4474277539626efaa5fc52441de74481ba0936d7120ce1124c0625"},
+    {"path":"sv-SE/archive/a_full_color_comic_book_style_promotional_poster.png","sha256":"33ca7f9188c36d371378c1ab9efc015287cf2fd014c0159e7b110f1144650580"},
+    {"path":"sv-SE/archive/a_full_page_illustrated_comic_style_poster_adver.png","sha256":"0da4438f97c68e560b58c4a15bd69a561d5605d54fdd3beb88e22e619182aed4"}
+  ],
+  "sourceTextFiles": [
+    {"path":"sv-SE/sources/NAVICHAIN-PRODUCT-TRUTH.md","size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    {"path":"sv-SE/sources/Navichain_Market_Truth_MASTER_v1.0.md","size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"}
+  ]
+}

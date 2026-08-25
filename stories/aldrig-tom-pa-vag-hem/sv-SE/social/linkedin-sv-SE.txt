@@ -1,0 +1,12 @@
+ALDRIG TOM PÅ VÄG HEM
+
+En tom retur är lätt att acceptera som “så det alltid blir”. Men den kostar ändå tid, bränsle och kapacitet.
+
+I den här Navichain-storyn följer vi trafikledaren Sara Lund när hon går från manuell gissning bland oplanerade bokningar till ett tydligare arbetsflöde: Navichain rangordnar returlaster nära den tomma sträckan och visar risker kring kör-/vilotid och cabotage innan Sara själv väljer och lägger till lasten.
+
+Resultatet är inte autonom dispatch. Det är bättre beslutsunderlag för människan som faktiskt ansvarar för turen — och en körningsgrid där andelen tomkilometer blir synlig.
+
+Samma väg hem. Mer nytta på vägen.
+
+Börja här:
+https://navichain.se/signup

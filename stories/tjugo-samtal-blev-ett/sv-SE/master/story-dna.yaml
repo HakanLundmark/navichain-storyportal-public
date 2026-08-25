@@ -1,0 +1,50 @@
+storyDNA:
+  id: tjugo-samtal-blev-ett
+  version: '1.0'
+  status: locked
+  masterLanguage: sv-SE
+  title: TJUGO SAMTAL BLEV ETT
+  sellingPromise: Akut förarfrånvaro kan hanteras med en kvalificerad kortlista i
+    stället för en telefonkedja.
+  protagonist:
+    id: kaj-ohman
+    role: Trafikledare
+    humanGoal: Få 08:00-leveransen iväg trots plötslig sjukfrånvaro.
+  supportingCharacters:
+  - id: vidar
+    role: Ordinarie förare, sjuk; syns aldrig i bild
+  - id: robban-ek
+    role: Chaufför som täcker körningen
+  situation:
+    location: Öhman Frakt & Distribution AB
+    time: 05:40-07:52
+    trigger: Vidar sjukanmäler sig
+  conflict:
+    primary: En redan bemannad körning saknar plötsligt förare
+    stakes:
+    - 08:00-leveransen
+    - trafikledartid
+    - kundlöfte
+  transformation:
+    from: Gulnad personallista och telefonkedja
+    to: Filtrerad förarkortlista och användarstyrd omtilldelning
+    primaryLesson: Kaj väljer; Navichain hjälper honom att hitta relevanta kvalificerade
+      alternativ.
+    evidenceOfChange:
+    - Tre filtrerade namn
+    - Robban omtilldelas
+    - 07:52 avgång
+    - personallistan läggs undan
+  product:
+    primaryCapability: Filtrerbara förarprofiler och run-/förartilldelning
+    supportingCapabilities:
+    - Körkortsklass
+    - ADR-typ/utgångsdatum
+    - skift
+    - konfigurerad tilldelningsnotis
+    navichainRole: tool
+  output:
+    coverCount: 1
+    panelCount: 12
+    ctaCount: 1
+    visiblePanelIndices: true

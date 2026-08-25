@@ -1,0 +1,15 @@
+{
+  "storyId": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+  "locale": "en-GB",
+  "status": "INCOMPLETE_TEXT_ONLY",
+  "releaseEligible": false,
+  "sourceLocale": "sv-SE",
+  "translationType": "faithful",
+  "sourceClass": "DERIVED_TRANSLATION",
+  "narrativeMaster": false,
+  "storyTextPublished": true,
+  "storyTextReadBackVerified": true,
+  "visualAssetsCreated": 0,
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED"
+}

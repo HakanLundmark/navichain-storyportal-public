@@ -1,0 +1,49 @@
+storyId: utgangen-besiktning-den-som-aldrig-lamnade-garden
+masterVersion: wip-2026-08-17
+locale: sv-SE
+releaseState: BLOCKED
+outputs:
+  images:
+  - images/cover_00.png
+  - images/panel_01.png
+  - images/panel_02.png
+  - images/panel_03.png
+  - images/panel_05.png
+  - images/panel_06.png
+  - images/panel_07.png
+  - images/panel_08.png
+  - images/panel_09.png
+  - images/panel_10.png
+  - images/panel_11.png
+  - images/panel_12.png
+  - images/cta_13.png
+  pdf: carousel/utgangen_besiktning_den_som_aldrig_lamnade_garden_sv-SE.pdf
+  linkedin: social/linkedin-sv-SE.txt
+  qa:
+  - qa/raster-qa.yaml
+  - qa/pdf-qa.yaml
+  sources:
+  - sources/NAVICHAIN-PRODUCT-TRUTH.md
+  - sources/reality-validation.md
+missingAssets:
+- panel_04.png
+qr:
+  expectedPayload: https://navichain.se/signup
+  ctaRasterDecodedPayload: ''
+  approvedQrSourcePayload: https://navichain.se/signup
+checksums:
+  images/cover_00.png: e3d2f7c9c502814ecde15e4d2bd67eb5c8176a2dfa7ba72d54326f60c3d4ab18
+  images/panel_01.png: 0286781374d1fa22f8df7112270ee13d4f51ba21e9c603dc2c0c65bfc89687b5
+  images/panel_02.png: 31b37a7047ad10970ebc13746f29369460e9beb99023baf287f1e6099eb2fc35
+  images/panel_03.png: 7bb1ea9786842ffd19502d1b9664074f24f41bd57fa262e6d778999f7f4d02e2
+  images/panel_05.png: 4f05ce5fc014e0eb05d6e3029b758e13999494c7471cf21c9a539768685903e1
+  images/panel_06.png: 2544aa6c4016ae030402629e6615b956cc69d593bf2abda66479fbf3b65d6fae
+  images/panel_07.png: 3ec025a2fc91ddad6af234c4d2be19c323473e90c64c603cf6380c4aab117d52
+  images/panel_08.png: d454625ea8197fdcb41ab92f90caa19a22ca428a80e8e1a9758fb10e7aab2eb2
+  images/panel_09.png: 9eca8088eef16156d4041fd733590965063be3c269509ba26434b57fbf8891bf
+  images/panel_10.png: f068f57d01cf45dad5ca97aedc0041a3a4322e66af8944cc89d095f761489ef5
+  images/panel_11.png: 0f7da4e148ba4a4aba7a092d213c09685fddd5ac7990f706bf87f6ac51ea606a
+  images/panel_12.png: ef43f70f25794bca75059815bb8a9f65eea0807af2ddd39f885f22d33d917c7d
+  images/cta_13.png: e828a27cf7df3bb31c3da3015280d6a3bb134a163d4f0a56d2f43a04fa1afca2
+  carousel/utgangen_besiktning_den_som_aldrig_lamnade_garden_sv-SE.pdf: 47dbd3d69d0504a03367ab4fd88e4306673ba6da72bf11c40988202457742d6b
+  social/linkedin-sv-SE.txt: 8403a64ad5e91e8d19ea484f292bfeb64572e18bb2a5d6145ea406f4603f6aa3

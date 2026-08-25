@@ -1,0 +1,90 @@
+{
+  "schema": "navichain-retro-backfill-v2-manifest",
+  "storyId": "den-enda-kedjan-utan-svaga-lankar",
+  "checkedAt": "2026-08-24T22:03:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "provenanceQaSeparated": true,
+  "rerendered": false,
+  "reconstructed": false,
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "canonicalPath": "stories/den-enda-kedjan-utan-svaga-lankar/ORIGINAL_STORY.md",
+    "sourcePath": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 11445,
+    "sha256": "00b0a3d32417fc3f6dc0c992be5eabc888ee8e9ffe6348b64388e4e2d64f8b40",
+    "gitBlobSha": "4396ccf8323364a01461ce8406cd6d1fa7c74925",
+    "readBackVerified": true
+  },
+  "enGB": {
+    "path": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-en-GB.md",
+    "metadataPath": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-en-GB.metadata.json",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sha256": "b932811093e8e0322f5bc6d1c7f152d10f10313df94b47c2cb27f3c753373591",
+    "sourceStorySha256": "00b0a3d32417fc3f6dc0c992be5eabc888ee8e9ffe6348b64388e4e2d64f8b40",
+    "readBackVerified": true
+  },
+  "runtimeHistoricalVisuals": {
+    "exactOriginalCount": 45,
+    "selectedHistorical14SlotSet": [
+      {"assetId":"cover_00","filename":"jonas_och_suveränitetsrevisionen.png","size":3192982,"sha256":"f06e58b433873a683d08b2c9852efbd262b21c9c4568e42bfbfa963f04957136","qaStatus":"UNKNOWN_APPROVAL"},
+      {"assetId":"panel_01","filename":"säkra_leveranser_skyddad_data.png","size":3495680,"sha256":"5d65b02d819946b959d3a228359668b992e4d291d1c6c39de183ed2e563fe77e","qaStatus":"UNKNOWN_APPROVAL"},
+      {"assetId":"panel_02","filename":"a_comic_book_infographic_style_illustration_in_a.png","size":3330047,"sha256":"68b35763920d5d691c19283969d8ed6c21d522473b043558d52c702d2119757a","qaStatus":"REBUILD_REQUIRED_story_logo_rule_violation"},
+      {"assetId":"panel_03","filename":"a_comic_illustration_style_scene_in_a_corporate_of.png","size":3145395,"sha256":"cd72608b842654f8b8f42b69512abac77a93ab3bede8479d87bc0373df7797a3","qaStatus":"REBUILD_REQUIRED_story_logo_rule_violation"},
+      {"assetId":"panel_04","filename":"a_detailed_comic_style_illustration_panel_looking.png","size":3065536,"sha256":"71206a7d23fdb838f123aa11e352e7a4e9a5d9be2da50c5cb0bec04b8252c618","qaStatus":"REBUILD_REQUIRED_story_logo_rule_violation"},
+      {"assetId":"panel_05","filename":"a_comic_book_illustrated_poster_panel_scene_in_a.png","size":3183593,"sha256":"671fecc1869393f3994725cf9c9b0cd2b69fc7bfa50807e00d0f8ae906cf3c3b","qaStatus":"REBUILD_REQUIRED_story_logo_rule_violation"},
+      {"assetId":"panel_06","filename":"a_comic_illustration_style_office_scene_framed_li.png","size":3180953,"sha256":"4fc502964d1699c86d8b071e6d9ef81778ccfa86f5fb75b68e265d2210d87e00","qaStatus":"REBUILD_REQUIRED_story_logo_rule_violation"},
+      {"assetId":"panel_07","filename":"a_detailed_comic_style_illustration_poster_scene.png","size":3080714,"sha256":"beae67144925433bac7fb92725523e1aca7048e276d457a552e41668e835df22","qaStatus":"UNKNOWN_APPROVAL"},
+      {"assetId":"panel_08","filename":"a_single_comic_book_infographic_style_illustrati.png","size":3122163,"sha256":"5a3dcc7dbad402c5718d36d20c10f0b037026183facec99723709094cee172cb","qaStatus":"UNKNOWN_APPROVAL"},
+      {"assetId":"panel_09","filename":"a_comic_infographic_style_illustration_page_panel.png","size":3159190,"sha256":"3bd24caf43bcf660cc3ff42000854b2585c93659fc2b4a4d947e94e50f122566","qaStatus":"UNKNOWN_APPROVAL"},
+      {"assetId":"panel_10","filename":"a_detailed_comic_infographic_illustration_scene_in.png","size":3193047,"sha256":"2b57e6a65aa03673137a9707251dabfcb147df6114e5ef2e836c76c20748aa34","qaStatus":"UNKNOWN_APPROVAL"},
+      {"assetId":"panel_11","filename":"a_detailed_comic_illustration_style_office_scene_i.png","size":3239659,"sha256":"9c37885063fc28eca34da8cdacaf850c9159b7485d0fe7a94666b7b2944a8a8d","qaStatus":"REBUILD_REQUIRED_wrong_story_scene"},
+      {"assetId":"panel_12","filename":"a_comic_illustration_style_poster_scene_in_an_offi.png","size":3078176,"sha256":"6be493500e0a9ea794ee3533ed0c5f877a61b7e14e23e2620765080e6010e889","qaStatus":"REBUILD_REQUIRED_wrong_story_scene"},
+      {"assetId":"cta_13","filename":"bevisa_varje_länk_i_kedjan.png","size":3399426,"sha256":"db46efce68ab12026f9d5edfcd0c3955d8868b88db98ca897b54332495633af7","qaStatus":"REBUILD_REQUIRED_brand_critical_logo_not_deterministic"}
+    ],
+    "additionalUnmappedExactOriginalRenders": 31,
+    "completeDetailedInventoryLocation": "local retro-backfill package manifest/retro-backfill-v2-inventory.json"
+  },
+  "laterCanonical": {
+    "sourceClass": "SOURCE_NOT_EXPORTABLE",
+    "assetCount": 14,
+    "reason": "A prior Retro Backfill v2 recorded a later canonical hash set. No matching bytes are present in the current runtime. Older accessible historical renders were not promoted over it."
+  },
+  "historicalPdfs": [
+    {"version":"v0.10","size":72883282,"sha256":"9e4cc610461f373b766b4bd1d10a924c2c45b0d157f3675c662520a03f66966c","sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    {"version":"v0.9","size":71168380,"sha256":"a751c8bdf213f20854be2aba0a6c99b799b8a3ba4c4392ff4bbb81659f726dfe","sourceClass":"SOURCE_NOT_EXPORTABLE"}
+  ],
+  "packages": {
+    "sv-SE": {
+      "filename": "den-enda-kedjan-utan-svaga-lankar-sv-SE-retro-backfill-v2.zip",
+      "size": 139778842,
+      "sha256": "bb78fb0eb941becf7f44cc5d28e04dfbb7236d72320c1b8f42f27eb621795e1b",
+      "publishFileCount": 54,
+      "zipVerified": true
+    },
+    "en-GB": {
+      "filename": "den-enda-kedjan-utan-svaga-lankar-en-GB-retro-backfill-v2.zip",
+      "size": 15059,
+      "sha256": "4a99ef785f4176bcdb52dd93acfd22434c1d8216872d4fafcd8634b8e2c76113",
+      "publishFileCount": 2,
+      "zipVerified": true
+    }
+  },
+  "transport": {
+    "chatgptToChrome": "BLOCKED_NO_BROWSER_DOWNLOAD_CONTROL",
+    "nextcloud": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "githubBinary": "GITHUB_PUBLISH_FAILED",
+    "githubPublishedBinaryAssets": 0
+  },
+  "counts": {
+    "inventoryItems": 89,
+    "EXACT_ORIGINAL": 54,
+    "CHAT_RECOVERED": 0,
+    "DERIVED_TRANSLATION": 1,
+    "SOURCE_NOT_EXPORTABLE": 16,
+    "NOT_CREATED": 18
+  }
+}

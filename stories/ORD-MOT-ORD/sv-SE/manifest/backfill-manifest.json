@@ -1,0 +1,42 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "ORD-MOT-ORD",
+  "title": "Ord mot ord — skadan som bevisade sig själv",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0-staging",
+  "localeStatus": "INCOMPLETE",
+  "requiredAssetCount": 14,
+  "exportableCanonicalAssetCount": 13,
+  "missingCanonicalAssets": ["panel_07"],
+  "assets": [
+    {"assetId":"cover_00","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"image.png","size":3375785,"sha256":"d6fcd26dabba14141373772cf41bac5fe9f0af924808dc147116cfd0db563fd7","dimensions":[1055,1491]},
+    {"assetId":"panel_01","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"måndagsmorgon_på_maskinuthyrningen.png","size":3242490,"sha256":"7392eb6d649f085be75e3018ffd1a76c94e87d73b715e96bf729cf6ea5c4c5ce","dimensions":[1055,1491]},
+    {"assetId":"panel_02","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"returen_bucklan_på_grävmaskinen.png","size":3100708,"sha256":"c067b51d9d1d2f43b89770daf603a03af7ab1933b71f6bc3b3aaae4a72024bd7","dimensions":[1055,1491]},
+    {"assetId":"panel_03","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"telefonbråket_som_eskalerar.png","size":3751537,"sha256":"0a834215184b193b39a31b5844c69403c251edc052c31d9bf3e77ec9a0cbee7b","dimensions":[1024,1536]},
+    {"assetId":"panel_04","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"stressig_kontorsdag_med_ofullständiga_formulär.png","size":3103753,"sha256":"e65277a29c89a582ebf718998ff0e39ffc10b10ca0467871301d57e96f5848a1","dimensions":[1055,1491]},
+    {"assetId":"panel_05","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"mardrömsnotan_på_verkstaden.png","size":3079003,"sha256":"f274ed7753127ba50fb78549714990f8864d0ca6a5b09a98e62f576b84378cf7","dimensions":[1055,1491]},
+    {"assetId":"panel_06","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"konfrontation_på_uthyrningskontoret.png","size":3036545,"sha256":"0138f520417a69ab57049f573da798a9ed61d5d8cd9845ecb80ee11e0af111cf","dimensions":[1055,1491]},
+    {"assetId":"panel_07","classification":"MISSING","sourceFile":null},
+    {"assetId":"panel_08","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"lena_bygger_en_smart_inspektionsmall.png","size":2983190,"sha256":"2b7362bfbf576092e25e8fab67ebe05ddd54419a3d42b83f1eb251e7f440d63d","dimensions":[1055,1491]},
+    {"assetId":"panel_09","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"checklista_för_maskinöverlämning.png","size":3120256,"sha256":"93d1ddfdcf07fed416bb3010fbd724c9500e436832c57868bcb73d4d5dbd8ea2","dimensions":[1055,1491]},
+    {"assetId":"panel_10","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"imagegen.png","size":3170000,"sha256":"14344075f14a1f08534fd0853917e74d7263cbefab5fbe1e8f6551b18c2f35a7","dimensions":[1055,1491]},
+    {"assetId":"panel_11","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"telefonmötet_på_fors_kontoret.png","size":2730404,"sha256":"e18822e472d03237a0e0b1627071b10ba32d072631aca4dd451dd7270b65b3ad","dimensions":[1055,1491]},
+    {"assetId":"panel_12","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"ingen_buckla_bara_överenskommelse.png","size":2940179,"sha256":"529cfc87681ec3fef4ab9b16be85c99d94f1a21743fcb15046fe5a0b11c2b048","dimensions":[1122,1402]},
+    {"assetId":"cta_13","classification":"EXISTS_AND_EXPORTABLE","sourceFile":"checklista_för_tryggare_maskinaffärer.png","size":3429620,"sha256":"7579a5da2d7a0394bf696c5e076692006b9a7e7450bb3d3f8b6a5d5d7e8bacdb","dimensions":[1024,1536]}
+  ],
+  "otherContent": {
+    "originalStory": "EXISTS_AND_EXPORTABLE",
+    "pdf": "MISSING",
+    "social": "EXISTS_AND_EXPORTABLE",
+    "qa": "EXISTS_AND_EXPORTABLE",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": "EXISTS_AND_EXPORTABLE",
+    "stagingZip": {"classification":"EXISTS_AND_EXPORTABLE","path":"/mnt/data/ord-mot-ord-v1.0-sv-SE-staging.zip","releaseEligible":false}
+  },
+  "notes": [
+    "Rejected/incorrect panel_07 attempts exist as local files but do not qualify as canonical panel_07.",
+    "No canonical panel_07 was successfully produced in this chat.",
+    "No 14-page PDF was built for this active story.",
+    "The connected GitHub writer available in this session accepts UTF-8 text or explicit blob content; it does not accept a local binary file reference. The multi-megabyte PNG originals therefore remain locally exportable but are not claimed as published by this backfill."
+  ]
+}

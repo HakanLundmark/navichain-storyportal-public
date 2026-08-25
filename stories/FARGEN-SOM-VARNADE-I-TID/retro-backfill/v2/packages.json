@@ -1,0 +1,17 @@
+{
+  "schema": "navichain-retro-backfill-v2-packages",
+  "storyId": "FARGEN-SOM-VARNADE-I-TID",
+  "checkedAt": "2026-08-24T19:38:00+02:00",
+  "archive": {"filename":"fargen-som-varnade-i-tid-retro-backfill-v2-20260824-1938.zip","size":121241659,"sha256":"455913ed4213c92ff8648a3fbbc1199d3dd06b0e0893bff9e559218474b79119"},
+  "svSEPublishPackage": {"filename":"fargen-som-varnade-i-tid-sv-SE-retro-v2-publish.zip","size":109950943,"sha256":"c5a7324fa7873a44384025eb242e38eb8cb07022e6497dd0393b090d0b3e7431","fileCount":40},
+  "svSEPublishRequest": {"filename":"fargen-som-varnade-i-tid-sv-SE.publish.json","size":14320,"sha256":"785df4b47e4898a5b5b5a3b7ebd59e1817a2ae77e9ce59babe1f10df99eac7f7"},
+  "svSERequestWrapper": {"filename":"fargen-som-varnade-i-tid-sv-SE.publish.zip","size":3280,"sha256":"eab1e4f61ff41332382e2e64508cc04a7b9c7c0f8c141ffc25c63d1431dbad64"},
+  "enGBPublishPackage": {"filename":"fargen-som-varnade-i-tid-en-GB-retro-v2-publish.zip","size":4411,"sha256":"4f5cb6c6277e17b5162005d8867d80d76e42a76bdb6fe2c465975aa3c9730b72","fileCount":2},
+  "enGBPublishRequest": {"filename":"fargen-som-varnade-i-tid-en-GB.publish.json","size":1029,"sha256":"5e9e31768d395c72c19a84f3eef1f3043cfabcdb6de1e4b7e9f6d5d22a4df9af"},
+  "enGBRequestWrapper": {"filename":"fargen-som-varnade-i-tid-en-GB.publish.zip","size":691,"sha256":"f11e0c3eada9451925716074da118f9d7d086f712b071d0fe9268ad4456e7d5f"},
+  "counts": {"canonicalExactOriginal":11,"historicalExactRenders":25,"sourceNotExportableCanonical":3,"derivedTranslation":1},
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_INVOKED",
+  "githubBinaryStatus": "GITHUB_PUBLISH_FAILED",
+  "reason": "The local runtime can build downloadable packages but cannot invoke the user-side Chrome download bridge or a connected Nextcloud/router/publisher action. No binary is claimed GitHub-published without read-back."
+}

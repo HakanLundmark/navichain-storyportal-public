@@ -1,0 +1,39 @@
+{
+  "storyId": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL",
+  "locale": "sv-SE",
+  "inventoryTimestamp": "2026-08-23T11:02:00+02:00",
+  "classification": "INCOMPLETE",
+  "classificationReason": [
+    "All 14 required original raster slots are directly exportable from the existing current-build ZIP.",
+    "The existing QA file explicitly marks the build NOT RELEASE-LOCKED and notes known story/brand QA issues in later assets and CTA.",
+    "No LinkedIn/social copy for this story was produced or can be verified in this chat.",
+    "Therefore this locale must not be represented as a complete release."
+  ],
+  "assets": [
+    {"assetId":"cover_00","state":"EXISTS_AND_EXPORTABLE","bytes":3401746,"dimensions":"1024x1536","sha256":"e3ee1d8ad8abe39347a11a361a11224ba381f3d7ebbe3659e6f2350f9e8647ba"},
+    {"assetId":"panel_01","state":"EXISTS_AND_EXPORTABLE","bytes":3484023,"dimensions":"1024x1536","sha256":"f9d81b43920ffba389b9cdec35234d8468dd191fb3375037ab1ae734154277ee"},
+    {"assetId":"panel_02","state":"EXISTS_AND_EXPORTABLE","bytes":3420622,"dimensions":"1024x1536","sha256":"8ad698a667bb07eafbb57a6e7dc474739dec205059f68a91c272ae340bac2bb6"},
+    {"assetId":"panel_03","state":"EXISTS_AND_EXPORTABLE","bytes":3192086,"dimensions":"1024x1536","sha256":"10663126dc18ce976ce0e38bdd6cfb5334458ca3a08ebc0327121c54d9711b47"},
+    {"assetId":"panel_04","state":"EXISTS_AND_EXPORTABLE","bytes":3201419,"dimensions":"1024x1536","sha256":"cc5c985250fe186acb8d4a41e4ab2fe59c9f6ab0f6cfcfd19a70d6a683f1ea57"},
+    {"assetId":"panel_05","state":"EXISTS_AND_EXPORTABLE","bytes":3329214,"dimensions":"1024x1536","sha256":"e50e982d688d3ee07036ca8b62590f8e3378495ac431963ce4f538753ee2bc7d"},
+    {"assetId":"panel_06","state":"EXISTS_AND_EXPORTABLE","bytes":3378967,"dimensions":"1024x1536","sha256":"cf9f418248501095ecd05a699e314edae2ad24093a69109e4655f8ffe582c039"},
+    {"assetId":"panel_07","state":"EXISTS_AND_EXPORTABLE","bytes":3183645,"dimensions":"1024x1536","sha256":"a4d34bfb54e599ec843ed9ec70f27d9f06b86957c45b2403018b7c73c8a3ca66"},
+    {"assetId":"panel_08","state":"EXISTS_AND_EXPORTABLE","bytes":3123194,"dimensions":"1024x1536","sha256":"e5726f4b9bd213db211ba99be2039827e29267fc42f587688133eeaef6556e63"},
+    {"assetId":"panel_09","state":"EXISTS_AND_EXPORTABLE","bytes":3149853,"dimensions":"1024x1536","sha256":"585ffbf43917d279004d001556f03674ce27977702450c7a97e5f5ed5b399f59"},
+    {"assetId":"panel_10","state":"EXISTS_AND_EXPORTABLE","bytes":3336328,"dimensions":"1024x1536","sha256":"fbc718e120fdad705d038733c2e57b34c6871776dd8ead1f1e780797e8a1a36d"},
+    {"assetId":"panel_11","state":"EXISTS_AND_EXPORTABLE","bytes":3298724,"dimensions":"1024x1536","sha256":"9ca5830dd38a3a5ef80292190ba9f4119bdc5432fad8c7b19edfed8a8214bccd"},
+    {"assetId":"panel_12","state":"EXISTS_AND_EXPORTABLE","bytes":3271230,"dimensions":"1024x1536","sha256":"17425d68285862dea3d245b8eca2f569acd0a3d07a4193433e3ffe495ef74d65"},
+    {"assetId":"cta_13","state":"EXISTS_AND_EXPORTABLE","bytes":3297055,"dimensions":"1024x1536","sha256":"622abd9779ab1d61190a046b456b60c6c4b852707a2fc75878598c5a9087d5fc"}
+  ],
+  "otherContent": {
+    "ORIGINAL_STORY.md": "EXISTS_AND_EXPORTABLE_ALREADY_ON_GITHUB",
+    "PDF": {"state":"EXISTS_AND_EXPORTABLE","bytes":69737107,"sha256":"9b11f8300f6c1160fc703552a358475015a3b8025525959ecca437bbdbc12454"},
+    "LinkedInSocialCopy": "MISSING",
+    "QA": "EXISTS_AND_EXPORTABLE_NOT_RELEASE_PASS",
+    "Manifest": "EXISTS_AND_EXPORTABLE",
+    "CurrentBuildZip": {"state":"EXISTS_AND_EXPORTABLE_NOT_RELEASE","bytes":102057566,"sha256":"abe08a9aa7ed88da96383d99ffabd2e9d5cd38bb47d240c65501d9ea21108571"}
+  },
+  "existsButNotExportable": [],
+  "missing": ["social/LinkedIn-copy", "release QA PASS / locked visual master"],
+  "githubBinaryTransport": "The connected GitHub write actions expose binary creation only as inline base64 content and no connector-file argument for mounted artifacts. The original PNG/PDF/ZIP files remain directly exportable locally and are inventoried by size and SHA-256, but they are not claimed as GitHub-published binaries in this backfill."
+}

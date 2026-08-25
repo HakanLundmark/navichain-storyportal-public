@@ -1,0 +1,15 @@
+GRUNDEN SOM VÄXER MED FÖRETAGET
+
+När ett åkeri öppnar en ny ort är det lätt att tänka att allt måste byggas om från början.
+
+Men en bra organisationsstruktur ska inte bli mer komplicerad för varje ny terminal. Den ska bära med sig rätt grund.
+
+I den här Navichain-storyn får Oskar en vecka på sig att göra Örebro-terminalen redo. Genvägen är frestande: bred åtkomst nu, städa senare. I stället använder han avdelningsstrukturen och låter den nya grenen ärva behörighetsunionen från sina överordnade noder.
+
+Resultatet är inte "alla får allt". Det är en kontrollerad baslinje som kan kompletteras där verkliga behov finns.
+
+En ny ort. Samma grund. En gren längre.
+
+Navichain är verktyget. Människan behåller kontrollen.
+
+https://navichain.se/signup

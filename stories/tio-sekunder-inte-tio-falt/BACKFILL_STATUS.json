@@ -1,0 +1,18 @@
+{
+  "storyId": "tio-sekunder-inte-tio-falt",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "classification": "INCOMPLETE",
+  "verifiedExportableOriginalAssets": 9,
+  "requiredOriginalAssets": 14,
+  "existsButNotExportable": ["panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "missing": ["social/LinkedIn copy"],
+  "workingPdf": "exists locally, not release-eligible",
+  "releaseZip": "not created because locale is INCOMPLETE",
+  "binaryGitHubPublication": "GITHUB_PUBLISH_FAILED for original binary assets with the currently exposed connector interface; no local-file binary upload parameter is available, and no substitute/re-render was used",
+  "publishedStoryFiles": 11,
+  "storiesIndexUpdated": true,
+  "totalUniqueFilesWrittenIncludingIndex": 12,
+  "postWriteVerification": "PASS for the files actually written; locale remains INCOMPLETE and is not SYNCED as a complete release",
+  "backfillTimestamp": "2026-08-23T08:34:00+02:00"
+}

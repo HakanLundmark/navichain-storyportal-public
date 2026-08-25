@@ -1,0 +1,13 @@
+{
+  "schema": "navichain-narrative-source-v1",
+  "storyId": "ORD-MOT-ORD",
+  "locale": "sv-SE",
+  "sourceClass": "EXACT_ORIGINAL",
+  "sourceRole": "canonical_original_story_source",
+  "narrativeMaster": false,
+  "lockedCorrectedNarrativeMaster": "SOURCE_NOT_EXPORTABLE",
+  "lockedCorrectedNarrativeMasterReason": "A later preflight correction was discussed, but no complete corrected Narrative Master was separately materialized as an exportable file.",
+  "sha256": "7108fd3094528b0d1a373d8e879be9883aa8cec20f22d174be28b1f9debb52bb",
+  "size": 10457,
+  "intendedRepoPath": "stories/ORD-MOT-ORD/source/original-story-sv-SE.md"
+}

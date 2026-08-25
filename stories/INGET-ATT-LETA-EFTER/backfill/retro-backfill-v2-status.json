@@ -1,0 +1,63 @@
+{
+  "schema": "navichain-retro-backfill-v2-status-v1",
+  "storyId": "INGET-ATT-LETA-EFTER",
+  "title": "INGET ATT LETA EFTER",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "executedAt": "2026-08-24T22:23:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "inventory": {
+    "items": 60,
+    "exactOriginalPosts": 50,
+    "derivedTranslationPosts": 1,
+    "chatRecoverable": 0,
+    "sourceNotExportable": 0,
+    "notCreatedPosts": 9,
+    "canonicalSvSeImages": 14
+  },
+  "narrativeMaster": {
+    "path": "stories/INGET-ATT-LETA-EFTER/ORIGINAL_STORY.md",
+    "sha256": "4875faf591efd2b8b62aa6517f82e9b05208cf91e6e69bb2ea687f7f4e4e8b2b",
+    "githubReadBack": "PASS"
+  },
+  "englishStory": {
+    "path": "stories/INGET-ATT-LETA-EFTER/source/original-story-en-GB.md",
+    "sha256": "40060f35a29ae25358db115dacefbafb0edf6177c2376e21a86cb1e2f822426c",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "githubCommit": "66370dab1e6cb1ceb2bea59c70c571c78cc5d050",
+    "githubReadBack": "PASS"
+  },
+  "binaries": {
+    "localExactCanonicalAssets": 14,
+    "githubCanonicalAssetsVerified": 0,
+    "status": "GITHUB_PUBLISH_FAILED",
+    "reason": "No assistant-callable Chrome/Nextcloud local bridge or local-file upload parameter is exposed in this session. GitHub binary assembler exists and was verified, but the connector create_blob endpoint accepts inline text/base64 only; exact local binaries were therefore not silently reconstructed or transcoded."
+  },
+  "automaticTransport": {
+    "chromeDownload": "UNAVAILABLE_TO_ASSISTANT",
+    "localCapture": "UNAVAILABLE_TO_ASSISTANT",
+    "nextcloudArchive": "UNAVAILABLE_TO_ASSISTANT",
+    "hardenedRouterPublisher": "NOT_TRIGGERED",
+    "githubTextWrite": "PASS"
+  },
+  "packages": [
+    {
+      "file": "INGET-ATT-LETA-EFTER-v1.0-sv-SE-retro-backfill-v2.zip",
+      "sha256": "341fcdddd406a452d110c5543d0cc4f3f8e7aab03e4dd12c39f15a329cd9f1db",
+      "size": 83782519
+    },
+    {
+      "file": "INGET-ATT-LETA-EFTER-v1.0-en-GB-story-backfill-v2.zip",
+      "sha256": "f478f503819b1ec4da39a68ad51ea1ba4abb3a220ef2015a3cbd662097e11b01",
+      "size": 8291
+    },
+    {
+      "file": "INGET-ATT-LETA-EFTER-v1.0-retro-backfill-v2.zip",
+      "sha256": "d9ae2c35e0c7306cc8932d8be3a8a90a0d071708142fb35b27477714f8caa5da",
+      "size": 83786708,
+      "scope": "combined local audit archive"
+    }
+  ],
+  "qaNote": "Historical QA PASS is preserved. Historical QA says Format: PNG, while byte inspection of the canonical assets identifies JPEG; the historical report was not rewritten."
+}

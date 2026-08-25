@@ -1,0 +1,47 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "KRON-ELTEKNIK-13-FAKTURAN-SOM-BARA-SKREVS-EN-GANG",
+  "storyIdAuthority": "backfill-derived-from-explicit-kron-episode-13-and-canonical-title",
+  "title": "FAKTURAN SOM BARA SKREVS EN GÅNG",
+  "subtitle": "Siv och siffrorna som äntligen stämde med varandra",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "INCOMPLETE"
+  },
+  "originalStory": "stories/KRON-ELTEKNIK-13-FAKTURAN-SOM-BARA-SKREVS-EN-GANG/ORIGINAL_STORY.md",
+  "originalStorySha256": "0db35b13bcd130dc6112c70fcce81da78cc8f7b43869da1608f2a4b4ffcd328c",
+  "englishStory": {
+    "path": "stories/KRON-ELTEKNIK-13-FAKTURAN-SOM-BARA-SKREVS-EN-GANG/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sha256": "5aea395842fe3bd5c2c5d3943e5ae0d48373d4f7659dae7d58f503656456d139",
+    "githubReadBackVerified": true
+  },
+  "sourceDraftPackage": "fakturan_som_bara_skrevs_en_gang_sv-SE_draft.zip",
+  "verifiedExportableAssetSlots": 14,
+  "currentRuntimeExactOriginalAssetSlots": 14,
+  "releaseEligible": false,
+  "knownQaFailures": [
+    "cover_00 brand-critical logo rendered in-image",
+    "panel_01-panel_05 violate story logo-absence rule and/or require QA",
+    "panel_07 wrong story",
+    "panel_08 wrong story",
+    "panel_09 wrong story",
+    "panel_10 wrong story",
+    "panel_11 wrong story",
+    "panel_12 wrong story",
+    "cta_13 wrong story and brand-critical logo/CTA QA failure"
+  ],
+  "existsButNotExportable": [],
+  "githubPublishedBinaryAssets": 0,
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryBackfillReason": "Exact original bytes for all 14 sv-SE canonical slots are directly accessible in the source runtime, but the available ChatGPT tool surface cannot invoke the user's Chrome/local-capture/Nextcloud/hardened-router/publisher chain and the connected GitHub blob action accepts only inline base64 rather than a mounted-file/file-reference byte stream. No binary is marked published without final GitHub read-back.",
+  "historicalQaPreserved": true,
+  "retroBackfillCheckedAt": "2026-08-24T19:04:00+02:00"
+}

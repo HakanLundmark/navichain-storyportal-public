@@ -1,0 +1,13 @@
+{
+  "storyId": "KRON-ELTEKNIK-16-ETT-NAMN-FOR-ALLA-HUSEN",
+  "narrativeMaster": true,
+  "locale": "sv-SE",
+  "sourceClass": "EXACT_ORIGINAL",
+  "path": "../ORIGINAL_STORY.md",
+  "size": 10128,
+  "sha256": "0a4d46bf96a96fc6aff4e4f0d42f850b3481741cdda609af400b19fb5cec64e6",
+  "gitBlobSha1": "85e5e3fb59ada4fe1fbb168604bd27622a66a878",
+  "masterVersion": null,
+  "qaStatus": "PREFLIGHT_PASS_READY_FOR_LOCK_NOT_RELEASED",
+  "note": "Existing canonical repository path retained; byte identity independently reverified from the exact current-chat source text against the existing Git blob SHA. Later preflight corrections are recorded separately and are not silently merged into this historical source file."
+}

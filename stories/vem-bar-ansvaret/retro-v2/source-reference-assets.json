@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-story-source-references-v2",
+  "storyId": "vem-bar-ansvaret",
+  "references": [
+    {"path":"sources/reference-assets/NAVICHAIN-OFFICIAL-LOGO.png","sourceClass":"EXACT_ORIGINAL","sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","size":15270,"role":"canonical brand source"},
+    {"path":"sources/reference-assets/Korrekt QR kod till signup.png","sourceClass":"EXACT_ORIGINAL","sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","size":367480,"role":"validated signup QR reference"},
+    {"path":"sources/reference-assets/VISUAL-REFERENCE-01-CTA.png","sourceClass":"EXACT_ORIGINAL","sha256":"68d91301106055b9afa171004f6f921cb47f695adbbf86507ab5d12bdcb50556","size":3273662,"role":"CTA style-only calibration reference"},
+    {"path":"sources/reference-assets/VISUAL-REFERENCE-02-PANELS.png","sourceClass":"EXACT_ORIGINAL","sha256":"04e1929de17d9484db59b061a4d1d3c8db8e691faf566a89d56438427fbcc0a2","size":3941179,"role":"panel style-only calibration reference"},
+    {"path":"sources/reference-assets/VISUAL-REFERENCE-03-COVER.png","sourceClass":"EXACT_ORIGINAL","sha256":"4616a57e7a08113d7451c744d2c526cc5f00f6ec7ad457ba435864f8fc13742e","size":3810846,"role":"cover style-only calibration reference"},
+    {"path":"sources/truth/NAVICHAIN-PRODUCT-TRUTH.md","sourceClass":"EXACT_ORIGINAL","sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00","size":89312,"role":"Product Truth"},
+    {"path":"sources/truth/Navichain_Market_Truth_MASTER_v1.0.md","sourceClass":"EXACT_ORIGINAL","sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027","size":113105,"role":"Market Truth markdown master"},
+    {"path":"sources/truth/Navichain_Market_Truth_Europe_Road_Transport_SME_v1.0.docx","sourceClass":"EXACT_ORIGINAL","sha256":"c9cd2d9bdd81aed391a074a8a01f58a84975b7a157d77562c1edb74dba27539d","size":84686,"role":"Market Truth DOCX"}
+  ]
+}

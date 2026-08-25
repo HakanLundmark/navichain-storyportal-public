@@ -1,0 +1,24 @@
+{
+  "storyId": "vatt-black-torrt-bevis",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "inventoryDate": "2026-08-23",
+  "status": "INCOMPLETE",
+  "requiredAssetOrder": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "existsAndExportable": [
+    {"assetId":"panel_01","bytes":3760635,"sha256":"650ee098f73e3f9f197ac602d0873aa63a14d2679943b55565cf79dd77e14844","dimensions":"1024x1536"},
+    {"assetId":"panel_02","bytes":3728464,"sha256":"1a107349a42a02c0ade6c2f6196731d54d1ee4e0096350a523c0621e0247b051","dimensions":"1024x1536"},
+    {"assetId":"panel_03","bytes":3746249,"sha256":"f8b032e1eb24c25b10f5f062908305066253092abef15a1f02195084e734ac9d","dimensions":"1024x1536"},
+    {"assetId":"panel_04","bytes":3615134,"sha256":"1ba2b5b1d6492088f9ce34388d5a225e39dbc6e74856d3c56b0c7844d6a87435","dimensions":"1024x1536"},
+    {"assetId":"panel_05","bytes":3697071,"sha256":"29c6b5bd81e4bcc628c2eb763d6c6d2cedf54b614d2656b91b2dd70b08592eaf","dimensions":"1024x1536"},
+    {"assetId":"panel_06","bytes":3427319,"sha256":"d4ed764c1ae208d68674707c7b3cb12174d973f4bbf5de96f454a16c2325a989","dimensions":"1024x1536"},
+    {"assetId":"panel_07","bytes":3649506,"sha256":"b62dc43858c4cfd6bda9e182b980579d1261affdf09a67233f98995f68480e9a","dimensions":"1024x1536"},
+    {"assetId":"panel_08","bytes":3620789,"sha256":"9852beff614e870939a962c1dfffde58b3076d244e3e488c6f70afa17567bdc3","dimensions":"1024x1536"},
+    {"assetId":"panel_09","bytes":3520665,"sha256":"3c1bdd25588e3b4767b3c7b53654e5b6c1408588958ea2351bce77185810bf5b","dimensions":"1024x1536"}
+  ],
+  "existsButNotExportable": ["cover_00"],
+  "missing": ["panel_10","panel_11","panel_12","cta_13"],
+  "otherContent": {"originalStory":"EXISTS_AND_EXPORTABLE","pdf":"MISSING","social":"MISSING","qa":"EXISTS_AND_EXPORTABLE","sources":"EXISTS_AND_EXPORTABLE"},
+  "github": {"binaryAssetsPublished":0,"reason":"connected GitHub action has no mounted-local-file binary parameter"},
+  "releaseZip": "NOT_CREATED_LOCALE_INCOMPLETE"
+}

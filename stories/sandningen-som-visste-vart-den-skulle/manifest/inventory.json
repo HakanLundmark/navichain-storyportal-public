@@ -1,0 +1,58 @@
+{
+  "schema": "navichain-storyportal-backfill-inventory-v1",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "storyIdAuthority": "derived-from-canonical-title-for-repository-path",
+  "title": "SÄNDNINGEN SOM VISSTE VART DEN SKULLE",
+  "subtitle": "Sanna och ordern som blev tre — utan att bli tre olika historier",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "inventoryAt": "2026-08-23T11:03:00+02:00",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "exportableCanonicalAssets": 12,
+      "existsButNotExportable": [],
+      "missing": ["panel_11", "cta_13"],
+      "assetSources": {
+        "cover_00": "sändningen_som_visste_vart_den_skulle.png",
+        "panel_01": "tre_adresser_en_order_en_plan.png",
+        "panel_02": "tre_bokningar_ingen_koppling.png",
+        "panel_03": "stressad_dispatcher_räknar_orderstatus.png",
+        "panel_04": "robban_på_jakt_efter_dagens_leveranser.png",
+        "panel_05": "tre_formulär_ett_felpostnummer.png",
+        "panel_06": "sanna_och_den_röda_orderkaoset.png",
+        "panel_07": "en_bokning_tre_vägar_ut.png",
+        "panel_08": "noggrann_kontroll_av_multistopporder.png",
+        "panel_09": "masterbokning_på_gröna_vägar.png",
+        "panel_10": "imagegen.png",
+        "panel_12": "kontroll_på_hela_leveransen.png"
+      },
+      "githubPublishedBinaryAssets": 0
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "requiredCanonicalAssets": 14,
+      "exportableCanonicalAssets": 0,
+      "existsButNotExportable": [],
+      "missing": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "note": "Generation attempts exist, but directly accessible outputs are multi-asset and/or wrong-story/foreign-story; none is promoted to a canonical en-GB release asset."
+    }
+  },
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "MISSING",
+    "social": "MISSING",
+    "QA": "EXISTS_AND_EXPORTABLE_PARTIAL",
+    "manifest": "EXISTS_AND_EXPORTABLE_PARTIAL",
+    "sources": {
+      "NAVICHAIN-PRODUCT-TRUTH.md": "EXISTS_AND_EXPORTABLE",
+      "Navichain_Market_Truth_MASTER_v1.0.md": "EXISTS_AND_EXPORTABLE",
+      "NAVICHAIN-OFFICIAL-LOGO.png": "EXISTS_AND_EXPORTABLE_LOCAL_BINARY",
+      "Korrekt QR kod till signup.png": "EXISTS_AND_EXPORTABLE_LOCAL_BINARY"
+    },
+    "workingPackage": "EXISTS_AND_EXPORTABLE_NON_RELEASE"
+  },
+  "releaseZip": "NOT_CREATED_NO_COMPLETE_LOCALE",
+  "releasePublished": false
+}

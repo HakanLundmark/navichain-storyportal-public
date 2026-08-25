@@ -1,0 +1,531 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "adressen-som-inte-fick-flytta-pa-sig",
+  "title": "ADRESSEN SOM INTE FICK FLYTTA PÅ SIG",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "checkedAt": "2026-08-24T19:41:00+02:00",
+  "provenanceAndQaSeparate": true,
+  "items": [
+    {
+      "itemType": "narrative_master",
+      "assetId": null,
+      "locale": "sv-SE",
+      "filename": "ORIGINAL_STORY.md",
+      "sourceLocationInChat": "exact historical GitHub blob created by this chat",
+      "byteAvailability": true,
+      "dimensions": null,
+      "size": 9852,
+      "sha256": "8a1f36299e080e01e831b5374dd71a517aa332c7ac46f12dfed5006df5be3ed6",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "NARRATIVE_MASTER",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/ORIGINAL_STORY.md",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Canonical sv-SE Narrative Master."
+    },
+    {
+      "itemType": "narrative_translation",
+      "assetId": null,
+      "locale": "en-GB",
+      "filename": "original-story-en-GB.md",
+      "sourceLocationInChat": "derived directly from canonical sv-SE Narrative Master",
+      "byteAvailability": true,
+      "dimensions": null,
+      "size": 10163,
+      "sha256": "d7fc9d1f02aacf918a4f997ea99e6ba3bb61543faf8d74aa528e0132b9099ee9",
+      "provenance": "DERIVED_TRANSLATION",
+      "qaStatus": "TEXT_ONLY",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/source/original-story-en-GB.md",
+      "exportStatus": "DERIVED_TRANSLATION",
+      "comment": "Faithful translation; not Narrative Master."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "cover_00",
+      "locale": "sv-SE",
+      "filename": "cover_00.png",
+      "sourceLocationInChat": "/mnt/data/adressen_som_inte_fick_flytta_på_sig.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 3024881,
+      "sha256": "64222db9988bb1615d5ff492de1c9b83f5a84fffe1f372d80b4ff4bd8c503bdf",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/cover_00.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_01",
+      "locale": "sv-SE",
+      "filename": "panel_01.png",
+      "sourceLocationInChat": "/mnt/data/telefonmötet_om_den_flyttade_adressen.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 3205926,
+      "sha256": "a6576728763f94a7e64d70f3807bbfa0f7235e5da410ddc5f1b61ab30f038a30",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_01.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_02",
+      "locale": "sv-SE",
+      "filename": "panel_02.png",
+      "sourceLocationInChat": "/mnt/data/björklunda_åkeri_dagens_ruttplanering.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 3065500,
+      "sha256": "9867cbeea84b49e9d534e6da493ff428029ab3e9ab2c4075b38865c887bb6941",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_02.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_03",
+      "locale": "sv-SE",
+      "filename": "panel_03.png",
+      "sourceLocationInChat": "/mnt/data/låst_adress_vid_skrivbordet.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 3025256,
+      "sha256": "fd1ba53fb7809f5d036b612f5fde9ab2b69379f66a599743f7b0d25430ae87ad",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_03.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_04",
+      "locale": "sv-SE",
+      "filename": "panel_04.png",
+      "sourceLocationInChat": "/mnt/data/låst_adress_på_kontoret.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 2963245,
+      "sha256": "eabe66a7d81398dfe9c3a845a13c2980293db9b341101656f4ae725dfbc295b3",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_04.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_05",
+      "locale": "sv-SE",
+      "filename": "panel_05.png",
+      "sourceLocationInChat": "historical render in this chat",
+      "byteAvailability": false,
+      "dimensions": null,
+      "size": null,
+      "sha256": null,
+      "provenance": "SOURCE_NOT_EXPORTABLE",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_05.png",
+      "exportStatus": "SOURCE_NOT_EXPORTABLE",
+      "comment": "Historical source bytes were overwritten; no unique directly recoverable visible render is currently available."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_06",
+      "locale": "sv-SE",
+      "filename": "panel_06.png",
+      "sourceLocationInChat": "/mnt/data/leveransplaneringens_låsta_nav.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 2951604,
+      "sha256": "e6182b00489b8c56899877234cddb0b59a016018d5db3795d36d11078acb7f74",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_06.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_07",
+      "locale": "sv-SE",
+      "filename": "panel_07.png",
+      "sourceLocationInChat": "/mnt/data/ny_adress_trygg_leverans.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 2956261,
+      "sha256": "ccf7ff1ca05eb6771b946bdce725e6cd078cb3afa2b2d9906d425838a800b4b7",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_07.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_08",
+      "locale": "sv-SE",
+      "filename": "panel_08.png",
+      "sourceLocationInChat": "/mnt/data/leveranskontroll_med_rätt_adress.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1055,
+        1491
+      ],
+      "size": 2920172,
+      "sha256": "65a8f9162ad520d804127519de3015f135c696935ae155c2b04ad1b7f50ac0d5",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_08.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_09",
+      "locale": "sv-SE",
+      "filename": "panel_09.png",
+      "sourceLocationInChat": "/mnt/data/logistikens_nav_rätt_adress_framåt.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "size": 3106770,
+      "sha256": "5a45ff698c209ad21b902943756fd40f9b7b9bdf78b21ac9b21e3fd920e7b98b",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_09.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_10",
+      "locale": "sv-SE",
+      "filename": "panel_10.png",
+      "sourceLocationInChat": "/mnt/data/logistikplanering_med_nya_adresser.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1060,
+        1484
+      ],
+      "size": 2959488,
+      "sha256": "600d57d121fb62983ca156b0797833870f628affdb641e297adfae8eabb3c54c",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_10.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_11",
+      "locale": "sv-SE",
+      "filename": "panel_11.png",
+      "sourceLocationInChat": "/mnt/data/nätverket_bakom_leveranserna.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1060,
+        1484
+      ],
+      "size": 3061312,
+      "sha256": "711cbc8f598735b382bde9fee111d2d8dec3f9f219e8c562d478a585576fbb5f",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_11.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct runtime bytes; unmodified."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "panel_12",
+      "locale": "sv-SE",
+      "filename": "panel_12.png",
+      "sourceLocationInChat": "historical render in this chat",
+      "byteAvailability": false,
+      "dimensions": null,
+      "size": null,
+      "sha256": null,
+      "provenance": "SOURCE_NOT_EXPORTABLE",
+      "qaStatus": "UNKNOWN",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/panel_12.png",
+      "exportStatus": "SOURCE_NOT_EXPORTABLE",
+      "comment": "Historical source bytes were overwritten; no unique directly recoverable visible render is currently available."
+    },
+    {
+      "itemType": "visual_asset",
+      "assetId": "cta_13",
+      "locale": "sv-SE",
+      "filename": "cta_13.png",
+      "sourceLocationInChat": "/mnt/data/imagegen.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "size": 2677121,
+      "sha256": "1fa50a258357e08d114fa094e002818477d3cd868037e968b6faa3ab81be80e2",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "REBUILD_REQUIRED",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/images/cta_13.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Exact historical runtime bytes; existing QA says rendered QR does not decode."
+    },
+    {
+      "itemType": "historical_visual_candidate",
+      "assetId": "cta_13",
+      "locale": "sv-SE",
+      "filename": "cta_13_draft_retroaffisch_för_smartare_leveranser.png",
+      "sourceLocationInChat": "/mnt/data/retroaffisch_för_smartare_leveranser.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "size": 3152567,
+      "sha256": "8918dd899c06f4e4f35f51916e2cd29413e48c8c6a34237f252f42cb61fafd6c",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "DRAFT",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/historical/cta_13_draft_retroaffisch_för_smartare_leveranser.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Non-canonical historical render."
+    },
+    {
+      "itemType": "historical_visual_candidate",
+      "assetId": "cta_13",
+      "locale": "sv-SE",
+      "filename": "cta_13_draft_ändra_leveransen_inte_knutpunkten.png",
+      "sourceLocationInChat": "/mnt/data/ändra_leveransen_inte_knutpunkten.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "size": 2815807,
+      "sha256": "e7303a01d3c305a895f823541e5ff4edcdc82d38425b7f060a3148c62517dc24",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "DRAFT",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/historical/cta_13_draft_ändra_leveransen_inte_knutpunkten.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Non-canonical historical render."
+    },
+    {
+      "itemType": "historical_visual_candidate",
+      "assetId": null,
+      "locale": "sv-SE",
+      "filename": "foreign_story_render_REJECTED.png",
+      "sourceLocationInChat": "/mnt/data/a_full_color_comic_illustration_style_scene_in_a_w.png",
+      "byteAvailability": true,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "size": 3374931,
+      "sha256": "295c6d26401344ce8c9abd55708f02685cc94ef285d99e00453bedf425659ac0",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "REJECTED",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/historical/foreign_story_render_REJECTED.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Foreign-story historical render; never canonical."
+    },
+    {
+      "itemType": "qa_report",
+      "assetId": null,
+      "locale": "sv-SE",
+      "filename": "raster-qa.md",
+      "sourceLocationInChat": "historical working-package QA",
+      "byteAvailability": true,
+      "dimensions": null,
+      "size": 785,
+      "sha256": "06ed36d581cfff74111c82d92ccc69918295ed4794516fc8711ba92ee7da0065",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "RELEASE_BLOCKED",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/qa/raster-qa.md",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Historical QA text."
+    },
+    {
+      "itemType": "social_copy",
+      "assetId": null,
+      "locale": "sv-SE",
+      "filename": "linkedin-sv-SE.txt",
+      "sourceLocationInChat": "historical social output",
+      "byteAvailability": true,
+      "dimensions": null,
+      "size": 798,
+      "sha256": "d48c4864434916adff3a9eb010f9596e49051d1e5664ebf37c10871164e3d11d",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "N/A",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/social/linkedin-sv-SE.txt",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Historical LinkedIn/social copy."
+    },
+    {
+      "itemType": "source_reference",
+      "assetId": null,
+      "locale": "global",
+      "filename": "NAVICHAIN-PRODUCT-TRUTH.md",
+      "sourceLocationInChat": "/mnt/data/NAVICHAIN-PRODUCT-TRUTH.md",
+      "byteAvailability": true,
+      "dimensions": null,
+      "size": 89312,
+      "sha256": "65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "CANONICAL_SOURCE",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/sources/NAVICHAIN-PRODUCT-TRUTH.md",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Direct source; Organizations section supports coordinate lock."
+    },
+    {
+      "itemType": "source_reference",
+      "assetId": null,
+      "locale": "global",
+      "filename": "NAVICHAIN-OFFICIAL-LOGO.png",
+      "sourceLocationInChat": "/mnt/data/NAVICHAIN-OFFICIAL-LOGO.png",
+      "byteAvailability": true,
+      "dimensions": [
+        500,
+        300
+      ],
+      "size": 15270,
+      "sha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "CANONICAL_SOURCE",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Official logo binary."
+    },
+    {
+      "itemType": "source_reference",
+      "assetId": null,
+      "locale": "global",
+      "filename": "verified-signup-qr.png",
+      "sourceLocationInChat": "/mnt/data/Korrekt QR kod till signup.png",
+      "byteAvailability": true,
+      "dimensions": [
+        550,
+        574
+      ],
+      "size": 367480,
+      "sha256": "62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e",
+      "provenance": "EXACT_ORIGINAL",
+      "qaStatus": "VERIFIED",
+      "intendedRepoPath": "stories/adressen-som-inte-fick-flytta-pa-sig/sv-SE/sources/verified-signup-qr.png",
+      "exportStatus": "EXACT_ORIGINAL",
+      "comment": "Verified QR source for https://navichain.se/signup."
+    },
+    {
+      "itemType": "derived_release_asset",
+      "assetId": null,
+      "locale": "sv-SE",
+      "filename": "carousel.pdf",
+      "sourceLocationInChat": null,
+      "byteAvailability": false,
+      "dimensions": null,
+      "size": null,
+      "sha256": null,
+      "provenance": "NOT_CREATED",
+      "qaStatus": "N/A",
+      "intendedRepoPath": null,
+      "exportStatus": "NOT_CREATED",
+      "comment": "No 14-page PDF was created because the historical raster set was incomplete."
+    },
+    {
+      "itemType": "derived_release_asset",
+      "assetId": null,
+      "locale": "sv-SE",
+      "filename": "release.zip",
+      "sourceLocationInChat": null,
+      "byteAvailability": false,
+      "dimensions": null,
+      "size": null,
+      "sha256": null,
+      "provenance": "NOT_CREATED",
+      "qaStatus": "N/A",
+      "intendedRepoPath": null,
+      "exportStatus": "NOT_CREATED",
+      "comment": "No historical release ZIP was created."
+    },
+    {
+      "itemType": "derived_release_asset",
+      "assetId": null,
+      "locale": "sv-SE",
+      "filename": "social-images/thumbnails",
+      "sourceLocationInChat": null,
+      "byteAvailability": false,
+      "dimensions": null,
+      "size": null,
+      "sha256": null,
+      "provenance": "NOT_CREATED",
+      "qaStatus": "N/A",
+      "intendedRepoPath": null,
+      "exportStatus": "NOT_CREATED",
+      "comment": "No separate social image or thumbnail artifacts verified."
+    }
+  ],
+  "notCreatedSeparateArtifacts": [
+    "separate Story DNA file",
+    "separate Continuity Contract file",
+    "separate cast/character lock file",
+    "separate vehicle/environment lock file",
+    "separate preflight report",
+    "separate Story Lock artifact",
+    "separate Reality Validation report",
+    "separate correction log",
+    "release notes",
+    "localization notes"
+  ],
+  "canonicalVisualSummary": {
+    "required": 14,
+    "exactOriginal": 12,
+    "chatRecovered": 0,
+    "sourceNotExportable": [
+      "panel_05",
+      "panel_12"
+    ],
+    "notCreated": []
+  },
+  "sourceReferenceSummary": {
+    "exactOriginal": 3,
+    "files": [
+      "NAVICHAIN-PRODUCT-TRUTH.md",
+      "NAVICHAIN-OFFICIAL-LOGO.png",
+      "verified-signup-qr.png"
+    ]
+  },
+  "notes": [
+    "No visual asset was rerendered, reconstructed, cropped, restyled or replaced.",
+    "cta_13 is exact runtime bytes but existing QA documents QR decode failure.",
+    "Two CTA drafts and one rejected foreign-story render are preserved separately as historical artifacts.",
+    "The English story is a faithful DERIVED_TRANSLATION and is not a Narrative Master.",
+    "Chrome/Nextcloud transport is unavailable in the current ChatGPT runtime; binary GitHub publication therefore remains unresolved."
+  ]
+}

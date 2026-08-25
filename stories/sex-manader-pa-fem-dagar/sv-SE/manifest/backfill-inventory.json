@@ -1,0 +1,34 @@
+{
+  "storyId": "sex-manader-pa-fem-dagar",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "requiredAssetCount": 14,
+  "exportableOriginalAssetCount": 13,
+  "assets": {
+    "cover_00": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"sex_månader_på_fem_dagar.png","sha256":"222e2ba3cfee0a972a555a3eb62dd614811c80f068e19688efbd70bf4dbc2ead","dimensions":[1024,1536]},
+    "panel_01": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"fem_dagar_att_hinna_med.png","sha256":"b4f93b39f51ca71152de34ff360014b368a4f15d11d23c9421e66063152bab6b","dimensions":[1024,1536]},
+    "panel_02": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"oro_i_arkivet_saknad_transportvecka.png","sha256":"df3b289c49687783e28011b194d27b452216c7da51b9fd9345ce123f5f378902","dimensions":[1024,1536]},
+    "panel_03": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"korrupt_minnesdata_på_kontoret.png","sha256":"a3f85bf242f1489bd54209a3947b6e824d1bf0f256aaee5ecb6e93a3b686b9a4","dimensions":[1024,1536]},
+    "panel_04": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"stress_inför_trafiktillståndet.png","sha256":"8c4f1e2fc356b1f5f9be224965d38fe9f786cc6face7f4246cdb1ee0450e94e0","dimensions":[1024,1536]},
+    "panel_05": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"automatisk_färdskrivardata_på_kontoret.png","sha256":"691fb3ea008b6a52d6b19800cd288438c7f9a80e9c91d0d2802dd4c6685f1b00","dimensions":[1024,1536]},
+    "panel_06": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"kompletta_data_nya_upptäckter.png","sha256":"0e9a0fe353b536c900e3e1b679e3dd1e4014e53e57dc7d9b076425a2b1d9fb82","dimensions":[1024,1536]},
+    "panel_07": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"från_pappersarkiv_till_digital_trygghet.png","sha256":"be5dce26c0185663c85457117d13ff8a525d4caac64aa1fea8828314a11b8714","dimensions":[1024,1536]},
+    "panel_08": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"digitalt_arkiv_kontrollperiod_klar.png","sha256":"669cee8115523c3d266092a33a44b71ece2080d1444e5381e10c3e289da48125","dimensions":[1024,1536]},
+    "panel_09": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"retrokomik_export_till_transportstyrelsen.png","sha256":"498285f5cfa3f11349ee6bb8755388b2399be23410840c26c07dfbc6c15629c8","dimensions":[1024,1536]},
+    "panel_10": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_illustration_style_office_scene_ligne_cla.png","sha256":"dd7ebda55feadb80fe5cc9ba0d537a12dbe38c74d7fc28d514030a19d1fd64b2","dimensions":[1023,1537]},
+    "panel_11": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_comic_illustration_style_panel_vintage_ink_and.png","sha256":"6a95ccf0646739822f8b6232c9331506a56f004a40354797b084a1baf69ceb0c","dimensions":[1023,1537]},
+    "panel_12": {"status":"EXISTS_AND_EXPORTABLE","sourceFilename":"a_retro_comic_illustration_style_office_scene_lik.png","sha256":"6ee087edc7403d5f2c932ec8b73f2e87383e224b22d46ffe0bde82350f123d47","dimensions":[1023,1537]},
+    "cta_13": {"status":"EXISTS_BUT_NOT_EXPORTABLE","reason":"The final deterministically corrected CTA asset was produced earlier in the chat, but its original file is no longer present in the active runtime. The older uncorrected generated CTA still exists but is not the final asset and is not substituted."}
+  },
+  "otherContent": {
+    "ORIGINAL_STORY":"EXISTS_AND_EXPORTABLE",
+    "pdfCarousel":"EXISTS_AND_EXPORTABLE: sex_manader_pa_fem_dagar_sv-SE_pdf_karusell.pdf",
+    "linkedin":"EXISTS_AND_EXPORTABLE_AS_TEXT",
+    "previousQaPackage":"EXISTS_BUT_NOT_EXPORTABLE",
+    "previousManifestPackage":"EXISTS_BUT_NOT_EXPORTABLE",
+    "previousReleaseZip":"EXISTS_BUT_NOT_EXPORTABLE"
+  },
+  "githubBinaryPublication": "GITHUB_PUBLISH_FAILED_FOR_BINARY_ASSETS: connected GitHub actions expose UTF-8 file writes and blob writes requiring inline base64, but no local-file binary upload action; original multi-megabyte binaries were therefore not rewritten, re-encoded or reconstructed.",
+  "backfilledAt":"2026-08-23T10:51:00+02:00"
+}

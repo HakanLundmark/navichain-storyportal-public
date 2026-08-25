@@ -1,0 +1,33 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "adressen-som-inte-fick-flytta-pa-sig",
+  "title": "ADRESSEN SOM INTE FICK FLYTTA PÅ SIG",
+  "subtitle": "Nils och ändringen som nästan rörde om i allt annat",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrativeMasterPath": "stories/adressen-som-inte-fick-flytta-pa-sig/ORIGINAL_STORY.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "8a1f36299e080e01e831b5374dd71a517aa332c7ac46f12dfed5006df5be3ed6",
+  "enGbStoryPath": "stories/adressen-som-inte-fick-flytta-pa-sig/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "d7fc9d1f02aacf918a4f997ea99e6ba3bb61543faf8d74aa528e0132b9099ee9",
+  "protagonist": "Nils Åkerlund",
+  "company": "Björklunda Åkeri AB",
+  "primaryCapability": "Organizations address coordinate lock after booking use",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+  },
+  "canonicalHistoricalAssets": {
+    "sv-SE": 12
+  },
+  "sourceNotExportableCanonicalAssets": {
+    "sv-SE": ["panel_05", "panel_12"]
+  },
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "pipelineVersion": "6.1.7a"
+}

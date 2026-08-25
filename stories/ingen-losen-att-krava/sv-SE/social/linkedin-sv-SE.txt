@@ -1,0 +1,9 @@
+Ingen lösen att kräva.
+
+När grannåkeriets lokala system låser sig i ett ransomware-angrepp blir kontrasten brutal. Anette Solberg behöver inte bli IT-specialist. Hon fortsätter sitt transportarbete från webbläsaren, med kontoskydd och utan en lokal TMS-server som allt står och faller med.
+
+Poängen är inte att molnet gör någon immun mot cyberangrepp. Poängen är att arkitekturen kan ta bort en särskild lokal single point of failure och göra arbetsflödet mindre bundet till en specifik dator eller server på kontoret.
+
+Navichain är verktyget. Anette är hjälten.
+
+Skapa konto: https://navichain.se/signup

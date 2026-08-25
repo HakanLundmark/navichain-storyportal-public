@@ -1,0 +1,8 @@
+CURRENT WORKING PACKAGE
+Story: RESAN TILLBAKA SOM ALDRIG BEHÖVDE SKE
+Locale: sv-SE
+Assets packaged: 14/14
+
+This archive contains the latest/current asset files from this conversation, renamed to canonical asset IDs.
+No additional image regeneration was performed during packaging.
+Official Navichain logo source and the project signup QR source are included under sources/.

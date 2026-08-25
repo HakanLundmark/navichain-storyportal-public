@@ -1,0 +1,94 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "kalibreringen-som-inte-fick-vanta",
+  "storyIdAuthority": "backfill-derived-from-canonical-title-and-explicit-Ferm-Mobilkran-episode-4",
+  "title": "Kalibreringen som inte fick vänta",
+  "series": "navichain-berättelsen",
+  "thread": "Ferm Mobilkran AB",
+  "episode": 4,
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "backfilledAt": "2026-08-23T09:14:00+02:00",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableOriginalAssets": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03"
+      ],
+      "missingOriginalAssets": [
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "existsButNotExportableOriginalAssets": [],
+      "passLockedCanonicalAssets": 0,
+      "githubPublishedBinaryAssets": 0,
+      "notes": "Four individual original render files are directly exportable in the current chat runtime. panel_01–panel_03 visibly violate the story's no-Navichain-logo rule for panels 1–6 and are not release-approved. Two directly accessible multi-asset storyboard/contact-sheet renders are exact historical binaries but remain REJECTED QA artifacts and may never be cropped into canonical panel assets. Canonical panel_04–panel_12 and cta_13 were not created as separate current-asset renders in the verified inventory."
+    }
+  },
+  "sourceTranslations": {
+    "en-GB": {
+      "path": "stories/kalibreringen-som-inte-fick-vanta/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "githubPublished": true,
+      "githubReadBackVerified": true,
+      "sha256LocalDerivedArtifact": "e593144d6df5bc787442cb5c0de72ad935ddb952b861805024e3a3feb270fb4c"
+    }
+  },
+  "otherContent": {
+    "originalStory": "GITHUB_PUBLISHED_AND_READ_BACK",
+    "originalStoryPath": "stories/kalibreringen-som-inte-fick-vanta/ORIGINAL_STORY.md",
+    "englishStory": "GITHUB_PUBLISHED_AND_READ_BACK",
+    "pdf": "NOT_CREATED",
+    "social": "NOT_CREATED",
+    "qa": "EXISTS_AND_EXPORTABLE",
+    "manifest": "NOT_CREATED",
+    "sources": "EXISTS_AND_EXPORTABLE",
+    "otherLocales": []
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T17:27:00+02:00",
+    "canonicalExactOriginalBinaryCount": 4,
+    "rejectedExactOriginalArtifactCount": 2,
+    "chatRecoveredCanonicalCount": 0,
+    "derivedTranslationCount": 1,
+    "canonicalNotCreated": [
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13"
+    ],
+    "binaryTransport": "GITHUB_PUBLISH_FAILED",
+    "binaryTransportReason": "The current connected tool surface can read exact local binaries but has no local-file/stream upload parameter into the automatic Chrome/Nextcloud/publisher chain. Git blob upload accepts literal base64 content only; the multi-megabyte originals cannot be transported through the available invocation context without changing or truncating bytes. No replacement, rerender, crop or reconstruction was used.",
+    "automaticTransportPackagePrepared": true,
+    "githubReadBack": {
+      "narrativeMaster": true,
+      "englishStory": true,
+      "canonicalImages": false
+    }
+  },
+  "github": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main"
+  }
+}

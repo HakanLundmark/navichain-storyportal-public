@@ -1,0 +1,14 @@
+storyId: HELA-SUMMAN-I-TRE-STEG
+locale: sv-SE
+status: PASS_WITH_PACKAGING_NOTE
+checks:
+- class: PRODUCT
+  finding: Invoice statuses Draft, Issued, Partially Paid, Paid, Overdue and Cancelled are documented.
+  decision: SUPPORTED
+- class: PRODUCT
+  finding: Payment recording is user-initiated. The story keeps Åsa as the person who registers each payment.
+  decision: SUPPORTED
+- class: OPERATIONAL
+  finding: Three staged customer payments over several weeks are operationally plausible.
+  decision: SUPPORTED
+packagingNote: panel_06 was reconstructed from panel_05 because the original temporary render path had been overwritten before packaging.

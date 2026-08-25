@@ -1,0 +1,18 @@
+{
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "requiredAssets": 14,
+  "exportableRequiredAssetSlots": 14,
+  "missing": [],
+  "existsButNotExportable": [],
+  "releaseQualified14AssetSet": false,
+  "pdf": "MISSING",
+  "social": "MISSING",
+  "releaseManifest": "MISSING",
+  "releaseZip": "MISSING",
+  "rawRenderArtifacts": 40,
+  "completeReleasePublished": false,
+  "backfilledAt": "2026-08-23T10:46:00+02:00"
+}

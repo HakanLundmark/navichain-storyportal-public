@@ -1,0 +1,14 @@
+{
+  "schema": "navichain-narrative-translation-v1",
+  "storyId": "hela-summan-i-tre-steg",
+  "title": "THE FULL AMOUNT, IN THREE STEPS",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "masterVersion": "1.0",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "198c8ae20be867bf42ad589c4d3b2675b6aa1d897edfbc6db073298bcf878087",
+  "size": 9779,
+  "sha256": "92bf47a57978615e16d18b58e3e0eb08a4b58652e5bf24d604d3207f57a5b69c"
+}

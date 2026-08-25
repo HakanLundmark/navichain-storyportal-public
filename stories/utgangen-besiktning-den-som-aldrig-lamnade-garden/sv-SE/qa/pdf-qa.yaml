@@ -1,0 +1,7 @@
+status: BLOCKED
+pageCount: 13
+requiredPageCount: 14
+missing:
+- panel_04.png
+ctaQrDecodeFromRaster: ''
+expectedQr: https://navichain.se/signup

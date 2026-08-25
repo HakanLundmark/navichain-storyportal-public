@@ -1,0 +1,62 @@
+{
+  "schema": "navichain-storyportal-story-v2",
+  "storyId": "den-sista-touchpointen",
+  "title": "Den sista touchpointen",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "status": "INCOMPLETE",
+  "narrativeMaster": {
+    "path": "stories/den-sista-touchpointen/source/original-story-sv-SE.md",
+    "compatibilityPath": "stories/den-sista-touchpointen/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "3f733481f8df123b4a30f86040c28b1690f924f9afe41489099a105a91330fe6"
+  },
+  "translations": {
+    "en-GB": {
+      "path": "stories/den-sista-touchpointen/source/original-story-en-GB.md",
+      "metadataPath": "stories/den-sista-touchpointen/source/original-story-en-GB.meta.json",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sha256": "64c47954d795e743f41ede73fd2bff92ca97a4eb47a544ca74e5aa854f50441b"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exactOriginalCanonicalAssets": 10,
+      "sourceNotExportableCanonicalAssets": ["cover_00","panel_04","panel_08","panel_10"],
+      "pdf": "EXACT_ORIGINAL",
+      "historicalQa": "UNKNOWN_PER_ASSET"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "exactOriginalCanonicalAssets": 12,
+      "sourceNotExportableCanonicalAssets": ["panel_01","panel_03"],
+      "pdf": "EXACT_ORIGINAL",
+      "historicalQa": "UNKNOWN_PER_ASSET"
+    },
+    "de-DE": {
+      "status": "INCOMPLETE",
+      "exactOriginalCanonicalAssets": 2,
+      "notCreatedCanonicalAssets": ["cover_00","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "historicalRejectedRenderCount": 11,
+      "historicalQa": "panel_01/panel_02 UNKNOWN; rejected history REJECTED"
+    }
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:42:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "exactOriginalInventoryEntries": 53,
+    "chatRecovered": 0,
+    "derivedTranslationEntries": 2,
+    "sourceNotExportableEntries": 28,
+    "notCreatedEntries": 18,
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_NO_TOOL_SURFACE",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_NEXTCLOUD_WRITE_CONNECTOR",
+    "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED_AUTOMATIC_TRANSPORT_UNAVAILABLE",
+    "metadataStatus": "SYNCED_TEXT_METADATA_VERIFIED"
+  },
+  "ctaUrl": "https://navichain.se/signup"
+}

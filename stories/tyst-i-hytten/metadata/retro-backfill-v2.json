@@ -1,0 +1,74 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "tyst-i-hytten",
+  "masterVersion": "v1.0",
+  "checkedAt": "2026-08-24T17:24:00+02:00",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/tyst-i-hytten/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 8501,
+    "sha256": "8ed8714f552cc00e1f5b3aceaa703706d5734a5db3f9d295752bc6590032b583",
+    "githubReadBackVerified": true
+  },
+  "translation": {
+    "locale": "en-GB",
+    "path": "stories/tyst-i-hytten/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sha256": "a48e84cf02fa73fa1557e73a64e089d056bba8bbc3e9949e2b4bf6bdc91a9332",
+    "githubReadBackVerified": true
+  },
+  "canonicalAvailability": {
+    "sv-SE": {
+      "exactOriginal": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_06","panel_07","panel_10","panel_11","panel_12","cta_13"],
+      "chatRecovered": [],
+      "sourceNotExportable": ["panel_05","panel_08","panel_09"]
+    },
+    "en-US": {
+      "exactOriginal": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09"],
+      "chatRecovered": [],
+      "sourceNotExportable": ["panel_10","panel_11","panel_12","cta_13"]
+    }
+  },
+  "pdfs": {
+    "sv-SE": {"sourceClass":"EXACT_ORIGINAL","size":68880979,"sha256":"fea8e5186763a49b7060e51b22af5ac4ea8360daaa4b0c715026e0132cde3778","githubPublished":false},
+    "en-US": {"sourceClass":"EXACT_ORIGINAL","size":4742392,"sha256":"68544098bc17389d22bd855fe4a2e4792cc5566db1801b025967dcc6cbfd9a18","githubPublished":false}
+  },
+  "canonicalSha256": {
+    "sv-SE": {
+      "cover_00":"88929961f8828ed6ad546004156d04edc55e45f8a10919ed2ccbb67456c5f6f9",
+      "panel_01":"901b8ec41c240939e658bd2abdf151a155a0fa6e4c22e9e892153d33106ef0c1",
+      "panel_02":"bcfc9541d0f45cdeefc0c358ac136007d81115d875a2a64ad9c3797eb4a9da86",
+      "panel_03":"ba7a5b15dfe840b2f007594644e4788dc37070d354a5818017eba93d9cc39925",
+      "panel_04":"8c04d0b41b35a6435c2603295c59da3a21b36c756eff51041f4e99c2dd3fc87f",
+      "panel_06":"d2a0ce35b7479b8494d532afb9cd3f47d048f0d97742edfc2daea739798baa96",
+      "panel_07":"e99875f1e1c398850e28b644f565553e050edabc3c99f5054d2cf9d93590bae8",
+      "panel_10":"a3c35c34b594e839ff8bdbfc0ae6928b57e00574aede174f9cf5c731adc61ead",
+      "panel_11":"b330ef16b3d08d86b760ca8ac9dbaecbfbc0456bab3000bc678843443c59594e",
+      "panel_12":"d220e8c320af0c1003060b0c9ddef9cdb3396132bb65612dd977442b236f31d6",
+      "cta_13":"4e165eb4d3e37fdc7ed1e9ed3059a9b2f67067ab4859a9e5d54696249e540771"
+    },
+    "en-US": {
+      "cover_00":"5aa6725cd335ad028f007f7f9da2463fcc0caaaf24d00db4104318af07398d02",
+      "panel_01":"afcb4d0b6e60e103023598e0d9d9e84dfec3a2b43892a97e6e82638a3e00d9db",
+      "panel_02":"77556ab65bd43c1e9d5d8a9c8ab13fb5d1a2c8c20c1edcb8128027d5b3c75ade",
+      "panel_03":"8c06a654bddbb8d670f6fb2504381ce06cb04a23db10ac829d4608ef07b65239",
+      "panel_04":"14b93dc459ee86abf21ad98e0db77c1b944320cdafce1a32b4407df61333a61e",
+      "panel_05":"6c5a1bd2cc133bfae84593a5ab91dc6a9849f24752f16088c792f08e235f6cd4",
+      "panel_06":"ee29c6a1924fca0de952a3fd44000841fb75c5279c2418dd56f91b9e6de06877",
+      "panel_07":"3571998f2dadce702de69ac4c75710e33e5f2a6935a56781723003f6fa1eca11",
+      "panel_08":"35c331d1379fc8d5631317d80fdfef7d85f13d6404a7bf3e3bccef1a94fd7f5a",
+      "panel_09":"4804daec2ffbea15ece8b0a847ec889f7534c5fa937adce83f4d84768e87d46a"
+    }
+  },
+  "localPackages": {
+    "comprehensive": {"file":"tyst-i-hytten-complete-historical-export-v2.zip","size":184485720,"sha256":"fbe8c7141867fc289e7e144ca1b2282dfc134b3e86ebd0b247e4e91939bc658b"},
+    "sv-SE": {"file":"tyst-i-hytten-sv-SE-retro-backfill-v2.zip","size":89136950,"sha256":"f2231dc2b2ddaa112459fa1c1742a5208a7d3914eb0a49a9aacaae4a8641b4fc"},
+    "en-US": {"file":"tyst-i-hytten-en-US-retro-backfill-v2.zip","size":34958053,"sha256":"b58e90e143faf37e02275646587fe88785e1a761870215ff0cf1e72d1cd59bde"},
+    "en-GB-story": {"file":"tyst-i-hytten-en-GB-story-retro-backfill-v2.zip","size":3809,"sha256":"09064220a34617206f4969f88a93ac1720e43a3cdc2f08b8bf8913973905d3be"}
+  },
+  "historicalNonCanonicalExactRenderCount": 15,
+  "githubPublishedBinaryAssets": 0,
+  "automaticTransportStatus": "NOT_INVOKABLE_FROM_CURRENT_CHAT_RUNTIME",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

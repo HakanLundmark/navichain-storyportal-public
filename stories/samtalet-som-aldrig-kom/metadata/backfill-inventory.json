@@ -1,0 +1,10 @@
+{
+  "schema": "navichain-storyportal-backfill-inventory-v1",
+  "storyId": "samtalet-som-aldrig-kom",
+  "title": "SAMTALET SOM ALDRIG KOM",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "supersededBy": "metadata/retro-backfill-v2-inventory.json",
+  "status": "INCOMPLETE",
+  "note": "Legacy v1 summary retained for compatibility. Retro Backfill v2 inventory is authoritative for historical provenance and current exportability."
+}

@@ -1,0 +1,46 @@
+{
+  "storyId": "ingen-tackning-inget-tappat",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "localReleaseStatus": "COMPLETE",
+  "githubStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryBackfillRetry": {
+    "protocol": "BINARY-BACKFILL-RETRY.md",
+    "queueCommit": "8af31110d57bee5d2ce46c6305f48b3f4ed0f90b",
+    "assemblerCommit": "3851a90262d22d38e9b8b02194291bd367ec3718",
+    "verifiedPublishedSources": [
+      {
+        "path": "stories/ingen-tackning-inget-tappat/sv-SE/sources/NAVICHAIN-OFFICIAL-LOGO.png",
+        "size": 15270,
+        "sha256": "2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db",
+        "gitBlobSha": "813a548d318bad9c41ad92ef49dd012bbe2cc5c3",
+        "readBackVerified": true
+      }
+    ],
+    "canonicalImageAssetsPublished": 0,
+    "blockingStatus": "GITHUB_PUBLISH_FAILED",
+    "blockingReason": "The current GitHub connector exposes create_blob only as a literal content string and exposes no local-file parameter. The exact canonical PNG/PDF/ZIP originals are multi-megabyte binaries. Safely serializing the complete originals through the model/tool context would exceed the available invocation/context transport capacity. No binary was truncated, reconstructed, re-rendered, transcoded or substituted."
+  },
+  "binaryFilesNotPublished": [
+    "images/cover_00.png",
+    "images/panel_01.png",
+    "images/panel_02.png",
+    "images/panel_03.png",
+    "images/panel_04.png",
+    "images/panel_05.png",
+    "images/panel_06.png",
+    "images/panel_07.png",
+    "images/panel_08.png",
+    "images/panel_09.png",
+    "images/panel_10.png",
+    "images/panel_11.png",
+    "images/panel_12.png",
+    "images/cta_13.png",
+    "carousel/ingen_tackning_inget_tappat_sv-SE_carousel.pdf",
+    "releases/ingen-tackning-inget-tappat/1.0/ingen-tackning-inget-tappat-1.0-sv-SE-release.zip"
+  ],
+  "verifiedLocalAssetCount": 14,
+  "publishedBinaryAssetCount": 0,
+  "verifiedPublishedSourceBinaryCount": 1,
+  "retryAt": "2026-08-23T23:48:00+02:00"
+}

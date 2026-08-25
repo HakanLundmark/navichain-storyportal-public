@@ -1,0 +1,19 @@
+{
+  "schema": "navichain-backfill-qa-v1",
+  "storyId": "NC-LASTEN-SOM-VARNADE-SIG-SJALV",
+  "checkedAt": "2026-08-23T10:46:00+02:00",
+  "classification": "INVENTORY_QA_ONLY_NOT_RELEASE_QA",
+  "sv-SE": {
+    "status": "INCOMPLETE",
+    "exportableAssetCount": 10,
+    "requiredAssetCount": 14,
+    "existsButNotExportable": ["panel_04", "panel_07", "panel_08", "panel_09"]
+  },
+  "en": {
+    "status": "INCOMPLETE",
+    "exportableAssetCount": 13,
+    "requiredAssetCount": 14,
+    "existsButNotExportable": ["panel_09"]
+  },
+  "releaseDecision": "DO_NOT_PUBLISH_AS_COMPLETE_RELEASE"
+}

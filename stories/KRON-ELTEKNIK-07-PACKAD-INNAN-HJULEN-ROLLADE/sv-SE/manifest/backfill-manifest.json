@@ -1,0 +1,35 @@
+{
+  "schema": "navichain-backfill-manifest-v2",
+  "storyId": "KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "canonicalOriginalStory": "stories/KRON-ELTEKNIK-07-PACKAD-INNAN-HJULEN-ROLLADE/ORIGINAL_STORY.md",
+  "requiredAssetOrder": [
+    "cover_00", "panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"
+  ],
+  "exportableCanonicalAssetSlots": ["cover_00"],
+  "missingCanonicalAssetSlots": [
+    "panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"
+  ],
+  "existsButNotExportable": [],
+  "rawRejectedArtifacts": [
+    "a_full_page_comic_storyboard_layout_in_a_clean_lig.png",
+    "a_full_comic_page_style_storyboard_multi_panel_pos.png",
+    "a_full_comic_book_style_multi_panel_page_cover_pos.png"
+  ],
+  "releaseComponents": {
+    "images14": "INCOMPLETE",
+    "pdfCarousel": "MISSING",
+    "linkedinSocialCopy": "MISSING",
+    "releaseQa": "MISSING",
+    "releaseManifest": "MISSING",
+    "releaseZip": "MISSING"
+  },
+  "publication": {
+    "completeReleasePublished": false,
+    "reason": "Locale does not contain exactly 14 exporter-accessible canonical original assets. Rejected multi-asset renders cannot substitute for missing individual assets.",
+    "binaryReleaseAssetsPublishedInThisBackfill": 0
+  },
+  "backfilledAt": "2026-08-23T11:06:00+02:00"
+}

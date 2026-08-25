@@ -1,0 +1,29 @@
+{
+  "story": "FRÅGAN SOM INTE BEHÖVDE VÄNTA",
+  "locale": "sv-SE",
+  "asset_count": 14,
+  "page_count_expected": 14,
+  "common_image_size": [
+    1024,
+    1536
+  ],
+  "qr_payload_expected": "https://navichain.se/signup",
+  "qr_source": "Korrekt QR kod till signup.png",
+  "brand_logo_source": "NAVICHAIN-OFFICIAL-LOGO.png",
+  "status": "PASS_MANUAL_CTA_APPROVAL",
+  "notes": [
+    "PDF carousel built from exactly 14 release images in canonical order.",
+    "CTA QR was replaced deterministically with the verified project QR source.",
+    "CTA brand mark was overlaid from the official Navichain logo source.",
+    "Cover was padded to the common 1024x1536 release canvas without cropping.",
+    "cta_13 is accepted by explicit user approval and is treated as PASS for this release."
+  ],
+  "manual_approvals": [
+    {
+      "asset": "cta_13",
+      "decision": "APPROVED",
+      "scope": "visual/compositional CTA acceptance",
+      "note": "The user explicitly approved the existing CTA as final."
+    }
+  ]
+}

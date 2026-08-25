@@ -1,0 +1,23 @@
+{
+  "storyId": "NC-SWF-018",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "sourceAssetsDirectlyAccessible": 13,
+  "releaseValidCanonicalAssets": 8,
+  "missingOrInvalidRequiredAssets": ["panel_04", "panel_06", "panel_07", "panel_10", "panel_11", "panel_12"],
+  "pdf": null,
+  "social": null,
+  "releaseZip": null,
+  "binaryGitHubPublish": "FAILED_CONNECTOR_LIMITATION",
+  "verifiedGitHubPaths": [
+    "stories/index.json",
+    "stories/NC-SWF-018/ORIGINAL_STORY.md",
+    "stories/NC-SWF-018/story.json",
+    "stories/NC-SWF-018/sv-SE/manifest/backfill-manifest.json",
+    "stories/NC-SWF-018/sv-SE/manifest/asset-list.json",
+    "stories/NC-SWF-018/sv-SE/qa/backfill-qa.md",
+    "stories/NC-SWF-018/sv-SE/qa/MISSING_ASSETS.md",
+    "stories/NC-SWF-018/sv-SE/qa/GITHUB_PUBLISH_FAILED.md"
+  ],
+  "backfilledAt": "2026-08-23T08:32:00+02:00"
+}

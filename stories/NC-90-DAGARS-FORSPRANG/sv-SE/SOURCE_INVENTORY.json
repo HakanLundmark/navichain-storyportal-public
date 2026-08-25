@@ -1,0 +1,42 @@
+{
+  "storyId": "NC-90-DAGARS-FORSPRANG",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "classification": "INCOMPLETE",
+  "binaryRetryCheckedAt": "2026-08-24T00:19:00+02:00",
+  "verifiedOriginalAssets": 12,
+  "githubPublishedBinaryAssets": 0,
+  "assets": {
+    "cover_00": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"90_dagar_till_full_koll.png","bytes":3502190,"sha256":"9a3b269a81dfcaea34d4c67bad010db812a544e470bc718939c8b51d3b1b3581"},
+    "panel_01": {"classification":"EXISTS_BUT_NOT_EXPORTABLE","reason":"The canonical standalone original binary is no longer directly accessible in the current runtime. Later failed/rebuild renders are not substitutes."},
+    "panel_02": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"pärmkaos_på_kontoret.png","bytes":3402558,"sha256":"91c4aa2ab0033c962d325893ffec784bbb0a4d7261e5be619629813dae5b9499"},
+    "panel_03": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"det_röda_adr_intyget.png","bytes":3522555,"sha256":"699260130a96e37c4fa9258181b3e5b2705883bad5f4ab37d26754f1d968e00b"},
+    "panel_04": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"telefon_truck_och_revisionsklart_register.png","bytes":3393718,"sha256":"0fba4792137a61357828fdae447bf7292c0f46a3126e71aec46e558dd21564f7"},
+    "panel_05": {"classification":"EXISTS_BUT_NOT_EXPORTABLE","reason":"The canonical standalone original binary is no longer directly accessible. A previously recovered/cropped derivative is explicitly excluded by the retry protocol."},
+    "panel_06": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"från_papperskaos_till_digital_identitet.png","bytes":3416230,"sha256":"f64ae8567826fbc5e442f5988d39fc3997418e4374bc57f1cdc352cacb1103ed"},
+    "panel_07": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"digital_registrering_från_kaos_till_kontroll.png","bytes":3669503,"sha256":"12babe10e13cae6ec5880c42a48926a445ef79245cf6c278819ee5397f297019"},
+    "panel_08": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"susanne_upptäcker_robbans_utgångna_adr_intyg.png","bytes":3642495,"sha256":"811bd1547e5d5b90d2159721e9074c49782964803a645acc3ad6f4c86c2883e8"},
+    "panel_09": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"automatiska_påminnelser_i_tid.png","bytes":3376669,"sha256":"0f6e1e2c617446ed2e73714b1711455bf6bf99a136072ae4a97ef902d0f9e324"},
+    "panel_10": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"digitala_rutiner_med_tidsstämplad_kvittens.png","bytes":3466555,"sha256":"874020f233e522836fb9d4da75cb88387e9ac9de55415ccdce340982b743a35f"},
+    "panel_11": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"kvällsexport_före_deadline.png","bytes":3379538,"sha256":"0fcbcf91022d3de661cacba514735e6593e02024f88f6c3fea2ba8dbcbc17755"},
+    "panel_12": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"komplett_dokumentation_klart_avtal.png","bytes":3345517,"sha256":"871f920978244f9300a0846e68037cd3c5fba470c6ec7603bfb3599f0150d918"},
+    "cta_13": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"från_pärmkaos_till_full_koll.png","bytes":3567396,"sha256":"094c4026e36ec263dec93110e19dff55ac811753f083fb197b07b7f18d263e8a"}
+  },
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"navichain_90_dagars_forsprang_sv-SE_pdf_karusell.pdf","bytes":71237304,"sha256":"6a44f28b92bb86c64312510326314fb9b0c16f132c12fda1627a73f52cf0db12"},
+    "social": "EXISTS_AND_EXPORTABLE_AS_CHAT_TEXT_OR_PRIOR_PUBLISHED_TEXT",
+    "QA": "EXISTS_BUT_NOT_EXPORTABLE_AS_ORIGINAL_RELEASE_ARTIFACT",
+    "manifest": "EXISTS_BUT_NOT_EXPORTABLE_AS_ORIGINAL_RELEASE_ARTIFACT",
+    "sources": "EXISTS_BUT_NOT_EXPORTABLE_AS_STORY_RELEASE_ARTIFACT",
+    "releaseZip": "EXISTS_BUT_NOT_EXPORTABLE_AS_CURRENT_ORIGINAL_BINARY"
+  },
+  "binaryRetry": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "failureStage": "source-bytes-to-git-blob",
+    "attemptedAsset": "cover_00",
+    "expectedGitBlobSha": "35a8280269e6ad03050d548a2911621e532fed8b",
+    "returnedBlobShaFromLocalPathString": "090519f4d15680c09ee9289463c7dc31313c7730",
+    "reason": "The connected GitHub blob action accepts inline base64 text but exposes no local-file parameter. Supplying the runtime path is decoded as the literal path string (24 bytes), not as the 3,502,190-byte PNG, so the exact source binary cannot be transported through the current connector surface without unsafe manual bulk embedding. No incorrect blob was queued or attached to the repository tree."
+  }
+}

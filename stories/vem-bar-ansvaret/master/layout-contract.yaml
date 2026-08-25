@@ -1,0 +1,8 @@
+layoutContract:
+  storyId: vem-bar-ansvaret
+  releaseDimensions: 1536x1024
+  normalization: scale_to_fit_no_crop_with_warm_cream_padding
+  panelIndex: 01-12
+  ctaIndex: none
+  ctaUrl: https://navichain.se/signup
+  officialLogoAsset: NAVICHAIN-OFFICIAL-LOGO.png

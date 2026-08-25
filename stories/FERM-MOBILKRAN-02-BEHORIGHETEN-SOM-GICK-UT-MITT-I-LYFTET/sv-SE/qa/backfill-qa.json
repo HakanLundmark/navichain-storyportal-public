@@ -1,0 +1,37 @@
+{
+  "storyId": "FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET",
+  "title": "Behörigheten som gick ut mitt i lyftet",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "exportableRequiredAssetSlots": 14,
+  "requiredAssetSlots": 14,
+  "releaseReady": false,
+  "reasons": [
+    "panel_01 does not match Narrative Master: depicts Lasse/yard instead of Mats/Fleet Map office scene",
+    "panel_02 does not match Narrative Master: depicts Lasse/order screen instead of Mats and Åsa booking next-week lift",
+    "panel_07 does not match Narrative Master turning point: depicts lift planning rather than the driver-profile expiry-date view",
+    "panel_08 implies course booking in Navichain, which is outside verified Product Truth",
+    "panel_09 contains a specific crane-authorization field/UI representation not established by Product Truth",
+    "cta_13 is an earlier deterministic production-draft CTA and was never approved/locked as a separate CTA master",
+    "existing PDF predates later rebuild attempts and is therefore stale",
+    "no LinkedIn/social copy file was actually created in this chat"
+  ],
+  "missingReleaseComponents": ["approved/locked cta_13","current PDF matching current assets","LinkedIn/social copy","full release QA PASS"],
+  "existsButNotExportable": [],
+  "assetSummary": {
+    "cover_00": "EXISTS_AND_EXPORTABLE",
+    "panel_01": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_02": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_03": "EXISTS_AND_EXPORTABLE",
+    "panel_04": "EXISTS_AND_EXPORTABLE",
+    "panel_05": "EXISTS_AND_EXPORTABLE",
+    "panel_06": "EXISTS_AND_EXPORTABLE",
+    "panel_07": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_08": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_09": "EXISTS_AND_EXPORTABLE_BUT_QA_FAIL",
+    "panel_10": "EXISTS_AND_EXPORTABLE",
+    "panel_11": "EXISTS_AND_EXPORTABLE",
+    "panel_12": "EXISTS_AND_EXPORTABLE",
+    "cta_13": "EXISTS_AND_EXPORTABLE_BUT_NOT_APPROVED"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema": "navichain-storyportal-story-v2",
+  "storyId": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+  "storyIdAuthority": "backfill-derived-from-canonical-title-in-active-source-chat",
+  "title": "Rabatten ingen kunde förklara — spåret som fanns kvar ändå",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "narrative": {
+    "masterPath": "stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/source/original-story-sv-SE.md",
+    "masterPublished": true,
+    "masterReadBackVerified": true,
+    "masterSourceClass": "EXACT_ORIGINAL",
+    "masterSha256": "ecbafe14f95212444f08f23a1e38e6c9f1486355f889578558ee205956f23876",
+    "englishPath": "stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/source/original-story-en-GB.md",
+    "englishPublished": true,
+    "englishReadBackVerified": true,
+    "englishSourceClass": "DERIVED_TRANSLATION",
+    "englishTranslationType": "faithful",
+    "englishNarrativeMaster": false,
+    "englishSha256": "cf90444af2d9b9497dde33c91ae6da2f500d3bd54a0e7ccccc47ac1638f9e373"
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "exactOriginalCanonicalSlotsAvailableInSource": 11,
+      "exactOriginalHistoricalCandidatesAvailableInSource": 2,
+      "sourceNotExportable": ["panel_05", "panel_12"],
+      "notCreated": ["cta_13"],
+      "githubPublishedBinaryAssets": 0,
+      "qaStatus": "NOT_RELEASE_ELIGIBLE"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE_TEXT_ONLY",
+      "narrativeTranslationPublished": true,
+      "narrativeTranslationReadBackVerified": true,
+      "visualAssetsCreated": 0,
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "binaryBackfill": {
+    "sourceInventoryComplete": true,
+    "exactOriginalCanonicalImageSourcesAccessible": 11,
+    "exactOriginalHistoricalImageSourcesAccessible": 2,
+    "githubPublishedBinaryAssets": 0,
+    "transportStatus": "GITHUB_PUBLISH_FAILED",
+    "failureReason": "Exact image bytes are directly accessible locally, but the connected GitHub tool surface in this execution exposes blob creation only as an inline content string and no local-file binary upload/file parameter. Large binary payloads cannot be transferred losslessly through the available connector without an impractical/truncation-prone inline encoding path. No image was rerendered or substituted."
+  },
+  "derivedReleaseMaterial": {
+    "storyPdf": "NOT_CREATED",
+    "social": "NOT_CREATED",
+    "cta_13": "NOT_CREATED"
+  },
+  "backfillArtifacts": {
+    "fullArchiveZipSha256": "4b2998be5f2501759d96a9824f77f236c7f09ea72066bdab0714bd746e7da10b",
+    "svSePublishPackageSha256": "b7daae228f933c36fa19fecd8da2955812649376ec3bf2167cb605880d61bf0d",
+    "enGbPublishPackageSha256": "6d92bb3bd9a79b7d9f0639a692142696b062167b4a7eb986f8d1b88d755b4cef",
+    "chromeDownloadBridgeVerified": false,
+    "nextcloudArchiveVerified": false
+  },
+  "inventoryPath": "stories/rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda/backfill/retro-backfill-v2-inventory.json",
+  "backfilledAt": "2026-08-24T17:29:00+02:00"
+}

@@ -1,0 +1,12 @@
+NAVICHAIN COMIC STUDIO 6.1.7a - PACKAGE QA
+
+Package integrity: PASS
+- 14 image files present
+- canonical order: cover_00, panel_01-panel_12, cta_13
+- 14-page PDF created, one image per page
+
+Master/release QA: FAIL / REBUILD_REQUIRED
+- Several later panels drift from the supplied ACTIVE STORY.
+- CTA drifts from the supplied ACTIVE STORY.
+- Brand-critical official Navichain logo was not deterministically composited on cover/CTA.
+- Therefore this package is a WORKING PACKAGE, not a RELEASE package under v6.1.7a.

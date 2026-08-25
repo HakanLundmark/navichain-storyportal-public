@@ -1,0 +1,78 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory-summary",
+  "storyId": "lappen-som-antligen-har-en-agare",
+  "title": "Lappen som äntligen har en ägare",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "generatedAt": "2026-08-24T19:41:00+02:00",
+  "narrative": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "qaStatus": "Narrative Master / historical canonical",
+      "size": 12003,
+      "sha256": "62579ead1ceac6ef45f056a60ed8018ec42c9565b03d17ae00bb5267c539d7e4",
+      "paths": [
+        "stories/lappen-som-antligen-har-en-agare/ORIGINAL_STORY.md",
+        "stories/lappen-som-antligen-har-en-agare/source/original-story-sv-SE.md"
+      ]
+    },
+    "en-GB": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceLocale": "sv-SE",
+      "narrativeMaster": false,
+      "size": 10693,
+      "sha256": "a2599e3b5ca716e36d9656108fd4a123782ad014933457d4161ad95a32004c80",
+      "sourceStorySha256": "62579ead1ceac6ef45f056a60ed8018ec42c9565b03d17ae00bb5267c539d7e4",
+      "path": "stories/lappen-som-antligen-har-en-agare/source/original-story-en-GB.md"
+    }
+  },
+  "canonicalVisuals": {
+    "sv-SE": [
+      {"assetId":"cover_00","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3030252,"dimensions":[1121,1403],"sha256":"587272665fa45521db55394beb602f28ad15d3c41adf84ea467e110c4555ad9e","sourceLocation":"/mnt/data/a_vintage_comic_book_poster_style_illustration.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/cover_00.png"},
+      {"assetId":"panel_01","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3305993,"dimensions":[1122,1402],"sha256":"67707be7b3d1cd4d42cd9ac6127592b30d97d7a45ef7f8222f247847e7cf06ee","sourceLocation":"/mnt/data/imagegen.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_01.png"},
+      {"assetId":"panel_02","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3224627,"dimensions":[1122,1402],"sha256":"0555ab40f3e4b4f8ef620aaf442997c838d63c5aa19a329591814479c79228db","sourceLocation":"/mnt/data/tre_påminnelser_utan_gemensam_yta.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_02.png"},
+      {"assetId":"panel_03","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3146340,"dimensions":[1122,1402],"sha256":"6459116387c6e9fd396986af9d127529d1a2b396624550587a8e279f04b371de","sourceLocation":"/mnt/data/en_lapp_bakom_skärmen.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_03.png"},
+      {"assetId":"panel_04","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3096300,"dimensions":[1122,1402],"sha256":"a511ecc346e59d63d461d26207aab879b65003d361303516adddca2a2cca0e56","sourceLocation":"/mnt/data/spänd_arbetsdag_på_björklunda_åkeri.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_04.png"},
+      {"assetId":"panel_05","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3072850,"dimensions":[1122,1402],"sha256":"8fa7f5beea2e043411ad6266591f550acac1b65bf627c0d15179a2898965f5fa","sourceLocation":"/mnt/data/uppgiften_fanns_redan_där.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_05.png"},
+      {"assetId":"panel_06","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3046459,"dimensions":[1122,1402],"sha256":"18ec22a63b2b48458f70aa3367279607e820eb115614461136e277747b635588","sourceLocation":"/mnt/data/tre_uppgifter_tydligt_ansvar.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_06.png"},
+      {"assetId":"panel_07","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2920679,"dimensions":[1122,1402],"sha256":"e14680b6e501a720253a52d77e1ec65905a9820169656428075903dabddf4100","sourceLocation":"/mnt/data/serieverkstad_med_synlig_uppgift.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_07.png"},
+      {"assetId":"panel_08","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3087735,"dimensions":[1122,1402],"sha256":"f2e4a554d95f1729e88de5e2397518ecc23288de5c135e223fad6cc1a8518b23","sourceLocation":"/mnt/data/synligt_framsteg_i_lagerteamet.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_08.png"},
+      {"assetId":"panel_09","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2998289,"dimensions":[1122,1402],"sha256":"c7da24433c1e7d93e50228e101d53984fb4acb6bd748076bc1a7f83af8f7ccf9","sourceLocation":"/mnt/data/dokumenterad_uppföljning_på_rätt_plats.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_09.png"},
+      {"assetId":"panel_10","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3013260,"dimensions":[1122,1402],"sha256":"b1adb61e177f7d7af6db7fe28e552c4db62462bd38094d43d41dfafa6b6b6eb9","sourceLocation":"/mnt/data/överblick_i_kontrollrummet.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_10.png"},
+      {"assetId":"panel_11","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3442018,"dimensions":[1024,1536],"sha256":"10ac9a8bf62ec41dd930bc14be644f9cc8371b25d3f4e92331456b17f371dd02","sourceLocation":"/mnt/data/a_detailed_comic_illustration_panel_scene_in_a_cle.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_11.png"},
+      {"assetId":"panel_12","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":3051927,"sha256":"1cdd945bc121b554b81553e05eb7f99789d903542bcdb476d61e6db867d134cf","sourceLocation":"/mnt/data/delat_ansvar_i_varje_led.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/panel_12.png"},
+      {"assetId":"cta_13","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":4183684,"sha256":"bede2e506589e0a08d2708f14dcf728d68aa146e714557abcfc95726e8929772","sourceLocation":"/mnt/data/8456d782-c242-4f84-880e-97f6a9576850.png","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/images/cta_13.png"}
+    ],
+    "en-GB": [
+      {"assetId":"cover_00","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":1675026,"sha256":"32601cb2ce16f738f155c50da03116bebc12a126e8a68fb1d7777e03e83a1018","sourceLocation":"/mnt/data/lappen_som_antligen_har_en_agare_cover_00_en-GB.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/cover_00.png"},
+      {"assetId":"panel_01","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2470944,"sha256":"751da8cbd591ab63b2f6adc5f4d89e1257e076bc2648c1031dde3c8c503d0aee","sourceLocation":"/mnt/data/lappen_som_antligen_har_en_agare_panel_01_en-GB.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_01.png"},
+      {"assetId":"panel_05","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":1881020,"sha256":"bd5ae48e650448bc41f5fff60da2d54de5db3cb2dea863976dbd2c67e6120a80","sourceLocation":"/mnt/data/lappen_som_antligen_har_en_agare_panel_05_en-GB_correct_story.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_05.png"},
+      {"assetId":"panel_06","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2403486,"sha256":"73258ab7fa86c4ef9d61dfb04463a53915f63dc0078a887161eb4237481686d3","sourceLocation":"/mnt/data/lappen_som_antligen_har_en_agare_panel_06_en-GB.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_06.png"},
+      {"assetId":"panel_07","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","size":2074918,"sha256":"e708b91241a933660b9422d1bc13443605aeeb33e2a6e140ab33d34425974117","sourceLocation":"/mnt/data/lappen_som_antligen_har_en_agare_panel_07_en-GB_corrected.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_07.png"}
+    ],
+    "en-GB-notCreated": ["panel_02","panel_03","panel_04","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"]
+  },
+  "derivedReleaseMaterial": {
+    "sv-SE-pdf": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"historical 14-page PDF; release eligibility not inferred","size":68175406,"sha256":"47b2059031f140f8faef1440d66d4097e37c8c213cfca4d507a3311dba570bb1","sourceLocation":"/mnt/data/LAPPEN-SOM-ANTLIGEN-HAR-EN-AGARE-v1.0-sv-SE-release/carousel/lappen-som-antligen-har-en-agare-sv-SE.pdf","path":"stories/lappen-som-antligen-har-en-agare/sv-SE/carousel/lappen-som-antligen-har-en-agare-sv-SE.pdf"},
+    "sv-SE-linkedin":"SOURCE_NOT_EXPORTABLE",
+    "sv-SE-historical-qa":"SOURCE_NOT_EXPORTABLE",
+    "sv-SE-historical-release-manifest":"SOURCE_NOT_EXPORTABLE",
+    "sv-SE-historical-release-zip":"SOURCE_NOT_EXPORTABLE",
+    "en-GB-pdf":"NOT_CREATED",
+    "en-GB-social":"NOT_CREATED",
+    "en-GB-qa":"NOT_CREATED",
+    "en-GB-release-manifest":"NOT_CREATED",
+    "en-GB-release-zip":"NOT_CREATED"
+  },
+  "separateStoryFilesNotVerifiedAsCreated": ["Story DNA","Continuity","cast/character lock","vehicle/environment lock","preflight report","Story Lock artefact","Reality Validation report","correction log"],
+  "historicalExactRenderFilesInLocalArchive": 55,
+  "existingDerivedPdfPageRastersInLocalArchive": 14,
+  "fullLocalInventorySha256": "7d7b84c18262ae27030c0bd7e9622ce06c5f2a35cb7834df80c94ab84f1456d2",
+  "transport": {
+    "automaticChain": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloud": "UNAVAILABLE_NO_CONNECTED_PLUGIN",
+    "githubBinaryPublishStatus": "NOT_COMPLETED",
+    "githubPublishedBinaryAssets": 0
+  }
+}

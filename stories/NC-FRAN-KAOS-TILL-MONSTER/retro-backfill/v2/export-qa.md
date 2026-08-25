@@ -1,0 +1,21 @@
+# Export QA — RETRO BACKFILL v2
+
+- Story ID: `NC-FRAN-KAOS-TILL-MONSTER`
+- Export time: `2026-08-24T17:27:00+02:00`
+- Narrative Master SHA-256: `dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb`
+- en-GB translation SHA-256: `109a9e09ab0f8fd6cd76ef19fc265fc3dfa6ca35a92dbd3706588beee0b01f0d`
+- Exact current canonical image candidates: sv-SE=5, en-GB=1
+- Historical exact render candidates preserved locally: 31
+- Source/reference files preserved locally: 15
+- Story text artifact inventory entries: 14
+- Rerender/reconstruction/cropping/restyling: NONE
+- Missing material silently synthesized: NO
+- QA/provenance separation: PASS
+- ZIP integrity: PASS — combined archive, both locale packages and both wrapped publish requests open without ZIP errors.
+- Publish-request integrity: PASS — sv-SE 45/45 and en-GB 9/9 archive entries match declared byte size and SHA-256.
+- Package release eligibility: BLOCKED / INCOMPLETE
+- Narrative Master GitHub read-back: PASS
+- en-GB story GitHub read-back: PASS
+- Canonical visual binary GitHub publication/read-back: 0 — not verified.
+- `stories/index.json`: current story entry remains stale because the shared index is being concurrently modified by other backfills; no stale whole-file overwrite was attempted.
+- Automatic Chrome → local capture → Nextcloud → hardened router → publisher transport could not be invoked from the available tool surface. No manual `--once`, curl or direct publisher substitute was used.

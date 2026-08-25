@@ -1,0 +1,35 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "slut-pa-chansningen",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "SLUT PÅ CHANSNINGEN",
+  "subtitle": "Anders Vikström och navichains ruttoptimering",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "originalStory": "stories/slut-pa-chansningen/ORIGINAL_STORY.md",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableCanonicalAssets": 12,
+      "requiredAssets": 14,
+      "missing": [],
+      "existsButNotExportable": ["cover_00", "panel_11"],
+      "social": "stories/slut-pa-chansningen/sv-SE/social/linkedin-sv-SE.txt",
+      "pdfStatus": "EXISTS_AND_EXPORTABLE_LOCAL_NOT_PUBLISHED_AS_RELEASE"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "exportableCanonicalAssets": 9,
+      "requiredAssets": 14,
+      "missing": ["cta_13"],
+      "existsButNotExportable": ["cover_00", "panel_07", "panel_08", "panel_09"]
+    }
+  },
+  "backfilledAt": "2026-08-23T08:49:00+02:00",
+  "releasePolicy": {"incompleteLocaleMayBeArchived": true, "incompleteLocaleMayNotBePublishedAsCompleteRelease": true},
+  "manifest": "stories/slut-pa-chansningen/manifest/backfill-manifest.json",
+  "qa": "stories/slut-pa-chansningen/qa/export-qa.md",
+  "githubPublishedBinaryAssets": 0,
+  "githubBackfillPolicyNote": "Locales are incomplete; release assets were not published as complete locale releases. Textual story/inventory/source metadata is backfilled."
+}

@@ -1,0 +1,17 @@
+{
+  "schema": "navichain-storyportal-locale-backfill-v1",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "title": "KLOCKAN SOM INTE LJÖG",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "canonicalReleasePublished": false,
+  "requiredAssetCount": 14,
+  "existsAndExportable": ["cover_00","panel_01","panel_02","panel_03","panel_07"],
+  "existsButNotExportable": ["panel_04","panel_05","panel_06","panel_08"],
+  "missingRequiredAssets": ["panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "pdf": null,
+  "social": null,
+  "releaseQa": null,
+  "releaseZip": null
+}

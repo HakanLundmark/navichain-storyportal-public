@@ -1,0 +1,24 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "RADERINGEN-SOM-STOPPADES",
+  "locale": "sv-SE",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "RADERINGEN-SOM-STOPPADES-sv-SE-retro-v2.zip",
+  "packageSha256": "6dc619294c053b225bc0ef78e06e32644c1fb2046a173340d75a960ebcd671cc",
+  "files": [
+    {"archiveName":"source/original-story-sv-SE.md","path":"stories/RADERINGEN-SOM-STOPPADES/source/original-story-sv-SE.md","size":10193,"sha256":"5591af333012a8cb61e4e66b99822529f4d89c09d0646ca001c3fa7387d5546a","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/images/cover_00.png","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/images/cover_00.png","size":3247745,"sha256":"0dbdfd399153901eed3484a22d4324bb222a60bc208470e2022258cc9e31bd27","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/history/rejected/rejected_attempt_01.png","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/history/rejected/rejected_attempt_01.png","size":2925110,"sha256":"20437732f478b9f6ca0627efa35dc01a38b30af04ffbec79b6d38fc036721727","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/history/rejected/rejected_attempt_02.png","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/history/rejected/rejected_attempt_02.png","size":2928300,"sha256":"f62b078288591d1919641bd79fd1d9cdb103cddb5d48f8d39e11173e485341be","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/history/rejected/rejected_attempt_03.png","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/history/rejected/rejected_attempt_03.png","size":2772524,"sha256":"4be52ea6c4e5796f3f24b13ad5553dd7db0f9d1b18e084a93ff2f58bdb109086","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/pdf/raderingen_som_stoppades_sv-SE_CURRENT_PROOF.pdf","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/pdf/raderingen_som_stoppades_sv-SE_CURRENT_PROOF.pdf","size":5242489,"sha256":"cceeb24ca820cac95863ee599588d7c8671bd2c30229cc5e9cc6b6ae46551538","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"sv-SE/archive/raderingen_som_stoppades_current_package.zip","path":"stories/RADERINGEN-SOM-STOPPADES/sv-SE/archive/raderingen_som_stoppades_current_package.zip","size":13319917,"sha256":"ec824a1db6977324287a5ea3128642b73d47eb5e6677753f9da6ddcc404c4709","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"source/references/NAVICHAIN-PRODUCT-TRUTH.md","path":"stories/RADERINGEN-SOM-STOPPADES/source/references/NAVICHAIN-PRODUCT-TRUTH.md","size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"source/references/NAVICHAIN-OFFICIAL-LOGO.png","path":"stories/RADERINGEN-SOM-STOPPADES/source/references/NAVICHAIN-OFFICIAL-LOGO.png","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"source/references/signup-qr-reference.png","path":"stories/RADERINGEN-SOM-STOPPADES/source/references/signup-qr-reference.png","size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","sourceClass":"EXACT_ORIGINAL"}
+  ]
+}

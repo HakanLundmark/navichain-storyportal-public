@@ -1,0 +1,39 @@
+{
+  "storyId": "NC-90-DAGARS-FORSPRANG",
+  "locale": "en-GB",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "binaryRetryCheckedAt": "2026-08-24T00:19:00+02:00",
+  "verifiedOriginalAssets": 13,
+  "githubPublishedBinaryAssets": 0,
+  "assets": {
+    "cover_00": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"90_dagar_i_försprång.png","bytes":3453648,"sha256":"68d4dd58244a42923b2c75cab6687b1cd39576129089b36d804a6fec83600eae"},
+    "panel_01": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"kontorsmorgon_med_viktiga_deadlines.png","bytes":3338035,"sha256":"f6753a3a19e531b3987fac18b4cddcca5f744c53ecddd16e8f81c172e5e0bef2"},
+    "panel_02": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"överväldigad_av_pärmar_och_papper.png","bytes":3516257,"sha256":"fde72ff4cee0fa55386e185bdf04c733117dab3821819c811410912c681daa47"},
+    "panel_03": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"kompetensregistret_robbans_utgångna_adr_certifika.png","bytes":3745033,"sha256":"932a17c2ff0fd3f1e7e2d7afcc98d60f1e0b3fee3c7892accead50379e77ccda"},
+    "panel_04": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"a_detailed_comic_book_illustrated_infographic_st.png","bytes":3454823,"sha256":"fab4ddd8894f0303c5f917962675cac758d6a50a650db3c591ff387d5a98edfe"},
+    "panel_05": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"a_comic_illustration_style_office_scene_framed_li.png","bytes":3369454,"sha256":"4ffb3335590b72cc5af0442d98e671d4208b7eb3fdc7152fb66bc2054b0bd329"},
+    "panel_06": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"digital_identitet_tar_form.png","bytes":3552667,"sha256":"55608d58e81ad376e89e87f0026df8aebc45cd261f4de22220bb549c6deeea18"},
+    "panel_07": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"retrokomik_digitalt_förarregister_på_kontoret.png","bytes":3595221,"sha256":"8de1f776a4f7adbd58ad2d487fd0008d832986077d9c69e185e903d8e0c2d3bb"},
+    "panel_08": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"a_single_panel_comic_illustration_scene._overall.png","bytes":3385151,"sha256":"752da9a6cdcc4701a9ff2e22c3225214e20cc39ee2935116afc2808b83c0cdfa"},
+    "panel_09": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"a_comic_book_graphic_novel_style_illustration_w.png","bytes":3438067,"sha256":"5b7ec5b3ffd29383785b95bafd0574450ac1f5ee2eb6de1b170600488b197731"},
+    "panel_10": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"digitala_rutiner_med_läskvitton.png","bytes":3357272,"sha256":"bae1c76b985a66a4e4908d0d2cb7d0c57e8ffd9233e9db8cd439d51350484414"},
+    "panel_11": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"a_detailed_comic_style_illustration_in_the_traditi.png","bytes":3236523,"sha256":"e48aecf7086ea5d26807863c5950ba7ca4aa975c19d37e64dbca49448054e56d"},
+    "panel_12": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"leverantörsdokumentation_i_fokus.png","bytes":3309084,"sha256":"88919964bf45a5ca8afc9591a13d76d9e1512e3e5db50afdd8d4ab05141fa32f"},
+    "cta_13": {"classification":"EXISTS_BUT_NOT_EXPORTABLE","reason":"The final CTA raster with the deterministic, validated QR was created earlier but its exact final original binary is no longer directly accessible. The accessible pre-validation CTA is not substituted."}
+  },
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE_SHARED_MASTER",
+    "PDF": {"classification":"EXISTS_AND_EXPORTABLE","sourceFile":"90-days-ahead-en-GB.pdf","bytes":71029270,"sha256":"a66211d7cb42f8fb6e38a25bbe3d6a33e6ce1d6445b869429a4e4eeabe409db7"},
+    "social": "EXISTS_BUT_NOT_EXPORTABLE_AS_CURRENT_ORIGINAL_ARTIFACT",
+    "QA": "EXISTS_BUT_NOT_EXPORTABLE_AS_CURRENT_ORIGINAL_ARTIFACT",
+    "manifest": "EXISTS_BUT_NOT_EXPORTABLE_AS_CURRENT_ORIGINAL_ARTIFACT",
+    "sources": "EXISTS_BUT_NOT_EXPORTABLE_AS_STORY_RELEASE_ARTIFACT",
+    "releaseZip": "EXISTS_BUT_NOT_EXPORTABLE_AS_CURRENT_ORIGINAL_BINARY"
+  },
+  "binaryRetry": {
+    "status": "GITHUB_PUBLISH_FAILED",
+    "failureStage": "source-bytes-to-git-blob",
+    "reason": "The same connector transport failure verified on sv-SE cover_00 prevents exact local multi-megabyte binary bytes from being supplied to the Git blob endpoint. No non-original replacement is permitted."
+  }
+}

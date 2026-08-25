@@ -1,0 +1,40 @@
+{
+  "storyId": "KRON-ELTEKNIK-13-FAKTURAN-SOM-BARA-SKREVS-EN-GANG",
+  "title": "FAKTURAN SOM BARA SKREVS EN GÅNG",
+  "locale": "sv-SE",
+  "masterVersion": null,
+  "sourceClassification": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "draftPackage": "EXISTS_AND_EXPORTABLE",
+    "draftPackage14AssetSlots": "EXISTS_AND_EXPORTABLE_BUT_NOT_RELEASE_ELIGIBLE",
+    "otherLocales": "MISSING"
+  },
+  "draftPackage": {
+    "zip": "fakturan_som_bara_skrevs_en_gang_sv-SE_draft.zip",
+    "imageAssetCount": 14,
+    "pdf": {"path":"carousel/fakturan_som_bara_skrevs_en_gang_sv-SE.pdf","size":70803853,"sha256":"f9d777dbca08d166c9030fa5f4a037cf46bf70a03f3763e92730bd10243fba50"},
+    "images": [
+      {"assetId":"cover_00","size":3658106,"sha256":"45c99caa06db6ad395bb9fc7226724cd5535f57ee35aeac3246d23e96a4d9d50"},
+      {"assetId":"panel_01","size":3554699,"sha256":"87e4b58042b81b7e8a583e467d8af478cca3dd90fb2b43e95d0e35243b841ee1"},
+      {"assetId":"panel_02","size":3706391,"sha256":"6d5a48fb49924483e0a08e057c43f24a23c1e3e445d82946766449e03581a9f1"},
+      {"assetId":"panel_03","size":3571456,"sha256":"d34605948d4d241844cbfea6751ccb04c5c4a806bee784419c7bcc8482cd20ad"},
+      {"assetId":"panel_04","size":3591746,"sha256":"6a79784eef661ec0c3c4e06365ad887719e669e8bf6c9a82b445408d48c1f9bc"},
+      {"assetId":"panel_05","size":3520089,"sha256":"8a4f51d93b4ad4495ab6e45effca9bf86529703ce8be1d726c83d7736a1bc3db"},
+      {"assetId":"panel_06","size":3813952,"sha256":"7def0b305120116878294627358150acaeef8cc9001843fd9d9916821b54c23e"},
+      {"assetId":"panel_07","size":3268082,"sha256":"e749bc961dc29dbb87b745692757ea6aa8d86984d4d93113dba7d4da5d9a707e"},
+      {"assetId":"panel_08","size":3354408,"sha256":"92cfc7036439c7c1d7bb813b62171c1ed3d632b8dfae87d50ff6464efcfb96e0"},
+      {"assetId":"panel_09","size":3389887,"sha256":"dc667d7dd2359970f0bd7168a0e9d135829a8bc3723b848653e0c3d220f02d7a"},
+      {"assetId":"panel_10","size":3491467,"sha256":"028217220e6186717d54d201220b2dabc3232966129b5353992e7a0b9462d7c9"},
+      {"assetId":"panel_11","size":3253503,"sha256":"87a76352704798e7cafdfbc461831cc84dbb5fef398667395940bd3a3fbc5c2b"},
+      {"assetId":"panel_12","size":3255228,"sha256":"368afd20c4ec24e7569a2b58de90ee1bd7c46857aefa849578770bec39b1b0a5"},
+      {"assetId":"cta_13","size":3078246,"sha256":"e74636b24b72c356064799fc48fa9d6a0cea913b3d9888a4092165ab3796aaca"}
+    ]
+  },
+  "newerPostPackageAssets": {
+    "panel_06": {"filename":"yvonne_ser_stressen_växa.png","size":3691227,"sha256":"71540b1af0c59ab9074552f2a5626b10073df161db78f1fd38b9417048e1eb77","status":"EXISTS_AND_EXPORTABLE"}
+  },
+  "releaseEligible": false,
+  "existsButNotExportable": [],
+  "missingCanonicalSlots": [],
+  "githubPublishedBinaryAssets": 0
+}

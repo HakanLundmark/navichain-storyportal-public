@@ -1,0 +1,53 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "hela-summan-i-tre-steg",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "HELA SUMMAN, I TRE STEG",
+  "subtitle": "Åsa och kunden som ville betala lite i taget",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "path": "stories/hela-summan-i-tre-steg/sv-SE/",
+      "exportableOriginalAssets": 13,
+      "missingOriginalAssets": ["panel_06"],
+      "githubPublishedBinaryAssets": 0,
+      "releaseZipPublished": false
+    }
+  },
+  "originalStory": "stories/hela-summan-i-tre-steg/ORIGINAL_STORY.md",
+  "narrativeSources": {
+    "sv-SE": {
+      "path": "stories/hela-summan-i-tre-steg/source/original-story-sv-SE.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "sha256": "198c8ae20be867bf42ad589c4d3b2675b6aa1d897edfbc6db073298bcf878087"
+    },
+    "en-GB": {
+      "path": "stories/hela-summan-i-tre-steg/source/original-story-en-GB.md",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceLocale": "sv-SE",
+      "sourceStorySha256": "198c8ae20be867bf42ad589c4d3b2675b6aa1d897edfbc6db073298bcf878087",
+      "sha256": "92bf47a57978615e16d18b58e3e0eb08a4b58652e5bf24d604d3207f57a5b69c"
+    }
+  },
+  "retroBackfillV2": {
+    "status": "PARTIAL_BACKFILL",
+    "inventory": "stories/hela-summan-i-tre-steg/sv-SE/qa/retro-v2-inventory.json",
+    "packageManifest": "stories/hela-summan-i-tre-steg/sv-SE/manifest/retro-v2-package.json",
+    "canonicalAssetsExpected": 14,
+    "canonicalExactOriginalExportable": 13,
+    "canonicalSourceNotExportable": ["panel_06"],
+    "githubPublishedCanonicalBinaryAssets": 0,
+    "historicalPdf": {
+      "sourceClass": "SOURCE_NOT_EXPORTABLE",
+      "historicalQaStatus": "PASS",
+      "historicalSha256": "3d974354c0ed4f7efba2429231321663d2700c831bcc6611b2e2196c8ae92055"
+    },
+    "qaNote": "Provenance and historical QA are tracked separately. No replacement panel_06 is promoted."
+  }
+}

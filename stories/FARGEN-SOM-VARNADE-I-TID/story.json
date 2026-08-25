@@ -1,0 +1,44 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "FARGEN-SOM-VARNADE-I-TID",
+  "storyIdAuthority": "active story title and prior backfill in this chat; recreated after repository state no longer contained the story directory",
+  "title": "FÄRGEN SOM VARNADE I TID",
+  "subtitle": "Kenneth och datumen som aldrig hinner bli röda i onödan",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrative": {
+    "master": {"locale":"sv-SE","path":"stories/FARGEN-SOM-VARNADE-I-TID/ORIGINAL_STORY.md","narrativeMaster":true,"sourceClass":"EXACT_ORIGINAL","size":10926,"sha256":"f81a029cf0d4e2b5318bf463893164d7f92a7a38572b9ea8970c13dc43422285","githubReadBackVerified":true},
+    "translations": {"en-GB":{"path":"stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.md","metadataPath":"stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.meta.json","sourceLocale":"sv-SE","translationType":"faithful","narrativeMaster":false,"sourceClass":"DERIVED_TRANSLATION","sourceStorySha256":"f81a029cf0d4e2b5318bf463893164d7f92a7a38572b9ea8970c13dc43422285","size":9268,"sha256":"775e0777c4bd8c457a8bdd6aa4047cbcbf2426b1581d633001b213260ff67df1","githubReadBackVerified":true,"metadataReadBackVerified":true}}
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:38:00+02:00",
+    "sourceConversation": "active chat",
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "result": "PARTIAL_BACKFILL",
+    "runtimeExactOriginalCanonicalAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_08","panel_09","panel_10","panel_11","panel_12"],
+    "sourceNotExportableCanonicalAssets": ["panel_06","panel_07","cta_13"],
+    "historicalExactRenderFiles": 25,
+    "canonicalAssetQaStatus": {"cover_00":"UNKNOWN","panel_01":"UNKNOWN","panel_02":"UNKNOWN","panel_03":"UNKNOWN","panel_04":"UNKNOWN","panel_05":"UNKNOWN","panel_08":"UNKNOWN","panel_09":"UNKNOWN","panel_10":"UNKNOWN","panel_11":"UNKNOWN","panel_12":"UNKNOWN"},
+    "githubPublishedBinaryAssets": 0,
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryPublishReason": "The assistant runtime cannot invoke the user-side Chrome download bridge or a connected Nextcloud/router/publisher action; exact binaries were packaged without claiming GitHub publication.",
+    "archivePackageSha256": "455913ed4213c92ff8648a3fbbc1199d3dd06b0e0893bff9e559218474b79119",
+    "svSePublishPackageSha256": "c5a7324fa7873a44384025eb242e38eb8cb07022e6497dd0393b090d0b3e7431",
+    "enGbPublishPackageSha256": "4f5cb6c6277e17b5162005d8867d80d76e42a76bdb6fe2c465975aa3c9730b72"
+  },
+  "inventory": {
+    "canonicalVisualRequired": 14,
+    "canonicalExactOriginalAvailable": 11,
+    "sourceNotExportableCanonical": ["panel_06","panel_07","cta_13"],
+    "historicalExactRenderFiles": 25,
+    "locales": {
+      "sv-SE": {"status":"INCOMPLETE","canonicalExactOriginalAvailable":11,"sourceNotExportable":["panel_06","panel_07","cta_13"],"githubPublishedBinaryAssets":0,"pdfCarousel":"NOT_CREATED","socialLinkedIn":"SOURCE_NOT_EXPORTABLE","releaseZip":"NOT_CREATED"},
+      "en-GB": {"status":"INCOMPLETE","storyText":"GITHUB_VERIFIED","imageAssets":0,"note":"Faithful story-text translation only; no en-GB image build was created."}
+    }
+  },
+  "releaseEligibility": {"sv-SE":false,"en-GB":false,"reason":"Canonical panel_06, panel_07 and cta_13 original bytes are SOURCE_NOT_EXPORTABLE; no complete PDF/social/release package exists. Historical candidates were not substituted."},
+  "github": {"releasePublished":false,"localeDirectoriesPublishedAsComplete":[],"githubPublishedBinaryAssets":0,"verifiedTextPaths":["stories/FARGEN-SOM-VARNADE-I-TID/ORIGINAL_STORY.md","stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.md","stories/FARGEN-SOM-VARNADE-I-TID/source/original-story-en-GB.meta.json"],"storyJsonReadBackVerified":false,"storiesIndexReadBackVerified":false,"metadataReadBackVerified":false}
+}

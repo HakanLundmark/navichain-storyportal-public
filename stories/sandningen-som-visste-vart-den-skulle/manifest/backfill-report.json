@@ -1,0 +1,22 @@
+{
+  "schema": "navichain-storyportal-backfill-report-v1",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "performedAt": "2026-08-23T11:03:00+02:00",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exportableCanonicalAssets": 12,
+      "missing": ["panel_11", "cta_13"]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "exportableCanonicalAssets": 0,
+      "missingCount": 14
+    }
+  },
+  "releaseZipCreated": false,
+  "reason": "No COMPLETE locale exists, so no locale release and no release ZIP were published.",
+  "postWriteVerificationRequired": true
+}

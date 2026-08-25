@@ -1,0 +1,32 @@
+{
+  "schema": "navichain-chat-backfill-locale-v2",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "locale": "en-GB",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "requiredAssets": 14,
+  "currentExactHistoricalCandidates": 14,
+  "githubPublishedCanonicalBinaryAssets": 0,
+  "assets": [
+    {"assetId":"cover_00","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/cover_00.png","bytes":3020954,"sha256":"0c9c4bfb48aa11ef75ced935d3c8f3c2a675c9916ff432b09b2f83d4a0c1e063"},
+    {"assetId":"panel_01","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_01.png","bytes":3114663,"sha256":"8073377d820461561f49d9dd0b9a2e1c3b9b6ec7c762ccc65c6160a1212e5422"},
+    {"assetId":"panel_02","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_02.png","bytes":2893054,"sha256":"6ed2061544a31f4d81922694388401719a062762ccd1b1156c515357b0a6d3d7"},
+    {"assetId":"panel_03","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_03.png","bytes":2996828,"sha256":"ef287c6eb51a3c1730acde3a07a903fff4c995ebc72efe32c056e1b350241437"},
+    {"assetId":"panel_04","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_04.png","bytes":3078416,"sha256":"ed33560cd8d89d4b1ea1a53373973299044c1064c2f09ca76e774ecdf33b11e4"},
+    {"assetId":"panel_05","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_05.png","bytes":3186838,"sha256":"53ad0087b1613d8513c67eb87a6f2411e9ba3e2de87fe263ea0650c85dc2567f","comment":"Later exact historical English-locale retry; wrong/divergent render and must remain REBUILD_REQUIRED. It does not replace the unavailable earlier desired panel_05 as an approved release asset."},
+    {"assetId":"panel_06","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_06.png","bytes":3158552,"sha256":"3d7b96bdf128f4882e3eab47401e68e048fceb8e3fb91e7da9bd4a378581f9d5"},
+    {"assetId":"panel_07","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_07.png","bytes":2991807,"sha256":"a064289370b8afe94751eaa7323504200a8db1d034748c83704850718262bc85"},
+    {"assetId":"panel_08","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_08.png","bytes":2961153,"sha256":"80d5df774b6c02730268369d74756f5de206166a8edd44982095d3b856dc5492"},
+    {"assetId":"panel_09","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_09.png","bytes":3004219,"sha256":"5de83e003d26d5dea5fbdcc82e4d4fc667aeee52a76964242e06051724c90db2"},
+    {"assetId":"panel_10","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_10.png","bytes":3138024,"sha256":"922b10781cf4a33818f4107eed66e002676c4d18d44a37b444e8c5d12dc6edd5"},
+    {"assetId":"panel_11","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_11.png","bytes":3075997,"sha256":"ac408e27c34e45e55735a2604b40ce7248adcfa962d8954360477bde991c9aff"},
+    {"assetId":"panel_12","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/panel_12.png","bytes":3046306,"sha256":"fc34feca37aef19f88ca6e6349625dca6b250ebf8b7bb86fc063847fc73d1778"},
+    {"assetId":"cta_13","sourceClass":"EXACT_ORIGINAL","qaStatus":"HISTORICAL_CANDIDATE_NOT_REVALIDATED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/images/cta_13.png","bytes":2968873,"sha256":"6bc0aeeb57dcfcdc8a81bcab64ae674c019bc1db82c1fe381cc9c7fcc25d58d1"}
+  ],
+  "pdf": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","path":"stories/NC-FRAN-KAOS-TILL-MONSTER/en-GB/carousel/From-Chaos-to-Pattern-EN-GB-carousel.pdf","bytes":4874985,"sha256":"93d36d72b1a2ad60544a4e02e2f2622da53fdaec255a076a9a5efaf18693cfd0"},
+  "social": "SOURCE_NOT_EXPORTABLE",
+  "qa": "PARTIAL_HISTORICAL_STATUS_ONLY",
+  "storyTranslation": "DERIVED_TRANSLATION + GITHUB_READ_BACK_VERIFIED",
+  "binaryPublish": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "notes": "No rerendering, reconstruction, cropping or PDF extraction was used. Source class and QA are independent. Historical exact candidates may be archived without becoming release approved."
+}

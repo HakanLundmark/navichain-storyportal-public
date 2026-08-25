@@ -1,0 +1,104 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN",
+  "storyIdAuthority": "locked story-dna from local production snapshot",
+  "title": "SVARET LÅG REDAN I PORTALEN",
+  "subtitle": "Petra och frågan hon inte behövde ställa till någon",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "canonicalOriginalStory": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.md",
+  "canonicalEnglishStory": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.en-GB.md",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "expectedAssetCount": 14,
+      "runtimeExactOriginalAssetCount": 11,
+      "githubPublishedBinaryAssets": 0,
+      "exportableOriginalAssetCount": 11,
+      "exportableAssets": [
+        "cover_00.png",
+        "panel_01.png",
+        "panel_04.png",
+        "panel_06.png",
+        "panel_07.png",
+        "panel_08.png",
+        "panel_09.png",
+        "panel_10.png",
+        "panel_11.png",
+        "panel_12.png",
+        "cta_13.png"
+      ],
+      "sourceNotExportable": [
+        "panel_02.png",
+        "panel_03.png",
+        "panel_05.png"
+      ],
+      "missing": [
+        "carousel PDF"
+      ],
+      "releaseEligible": false,
+      "releaseBlocker": "panel_02, panel_03 and panel_05 cannot be recovered without prohibited rerendering/reconstruction; no carousel PDF was created"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "visualAssets": "NOT_CREATED",
+      "originalStoryTranslation": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.en-GB.md",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "e09ffc1704be11c68337df209afca2bbc5dfeff8d4eb2be05eb743fd5d23082f",
+      "translationSha256": "7087017eccd85e103578a0bd55a7ab5f87308bc7111130454180dff0126029ca",
+      "githubReadBackVerified": true
+    }
+  },
+  "sourceSnapshot": {
+    "file": "NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN-v1.0-sv-SE-production-snapshot.zip",
+    "historicalStatus": "SOURCE_NOT_EXPORTABLE_CURRENT_RUNTIME",
+    "priorReleaseStatus": "BLOCKED_INCOMPLETE_RUNTIME_SNAPSHOT"
+  },
+  "productTruth": "PASS_WITH_LIMITS",
+  "realityValidation": "PASS",
+  "qr": {
+    "expected": "https://navichain.se/signup",
+    "ctaRasterDecode": "PASS"
+  },
+  "retroBackfillV2": {
+    "performedAt": "2026-08-24T17:26:00+02:00",
+    "policy": "Historical preservation only; no rerendering, reconstruction, story-content cropping, restyling, generative fill or substitution",
+    "narrativeMaster": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "path": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.md",
+      "size": 9573,
+      "sha256": "e09ffc1704be11c68337df209afca2bbc5dfeff8d4eb2be05eb743fd5d23082f",
+      "gitBlobSha": "697d459071b4221aaa10d30b9e7162b824b09dc6",
+      "readBackVerified": true
+    },
+    "englishStory": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "path": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.en-GB.md",
+      "size": 9727,
+      "sha256": "7087017eccd85e103578a0bd55a7ab5f87308bc7111130454180dff0126029ca",
+      "gitBlobSha": "38468119aa2c3bea771c671534292d25d7b514e3",
+      "readBackVerified": true,
+      "narrativeMaster": false
+    },
+    "binaryBackfill": {
+      "status": "PARTIAL_BACKFILL",
+      "runtimeExactOriginalAssets": 11,
+      "githubPublishedBinaryAssets": 0,
+      "automaticPublishPackagesCreated": true,
+      "automaticChainReadBackObserved": false,
+      "sourceNotExportable": [
+        "panel_02.png",
+        "panel_03.png",
+        "panel_05.png"
+      ]
+    },
+    "derivedHistoricalBinaries": {
+      "rejectedCtaCandidatesExactOriginal": 2,
+      "historicalMontageExactOriginal": 1
+    },
+    "finalStatus": "PARTIAL_BACKFILL"
+  }
+}

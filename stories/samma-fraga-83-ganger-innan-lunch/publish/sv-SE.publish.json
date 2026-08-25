@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "samma-fraga-83-ganger-innan-lunch",
+  "locale": "sv-SE",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "samma-fraga-83-ganger-innan-lunch-sv-SE-retro-backfill-v2.zip",
+  "packageSha256": "500069104068d4fc267cf659c6df615c70fc0bb27fc8ad7dfb496e68db41959f",
+  "status": "PACKAGE_READY_AUTOMATIC_TRANSPORT_BLOCKED_AT_CHATGPT_TO_CHROME",
+  "fileCount": 33,
+  "note": "The complete file list with archiveName/path/size/sha256/sourceClass is in the local downloadable publish request. This repository copy records the package identity without claiming binary publication."
+}

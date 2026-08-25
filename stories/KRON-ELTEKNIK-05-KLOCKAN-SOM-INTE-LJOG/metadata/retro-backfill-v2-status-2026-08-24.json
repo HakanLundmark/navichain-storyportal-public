@@ -1,0 +1,75 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG",
+  "title": "KLOCKAN SOM INTE LJÖG",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T19:04:00+02:00",
+  "status": "PARTIAL_BACKFILL",
+  "inventory": {
+    "rows": 113,
+    "uniqueByteArtifacts": 95,
+    "exactOriginalRows": 100,
+    "derivedTranslationRows": 1,
+    "sourceNotExportableRows": 8,
+    "notCreatedRows": 4,
+    "canonicalSvSeImagesExactOriginal": 14,
+    "alternateHistoricalRendersExactOriginal": 38,
+    "derivedWorkingPackageImagesExactOriginal": 14,
+    "sourceReferenceFilesExactOriginal": 25
+  },
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 9872,
+    "sha256": "797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310",
+    "gitBlobSha": "96a4b992dcd3da176f53b68c9b787709ac3bd9d1",
+    "readBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceStorySha256": "797a314ffcab2feec6f1c32f2f86ea70e6c6da036ed63dc99649b7cc87bd4310",
+    "size": 10160,
+    "sha256": "8fb7f550a2e54d0d781b449c12870e0b4b368111178f3600d28b82d405450880",
+    "gitBlobSha": "42dcb2080b19983ab8d08b51e96cfe0c3c609f0c",
+    "readBackVerified": true
+  },
+  "preparedPackages": [
+    {
+      "file": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-canonical-v2.zip",
+      "size": 85903444,
+      "sha256": "3e8da247a22b37a421decc99075d1895e4dd952f5bc77a32d99b209bea4f7e76",
+      "fileCount": 19
+    },
+    {
+      "file": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-sv-SE-retro-history-and-sources-v2.zip",
+      "size": 163838136,
+      "sha256": "68d10aa652db021d192ee18e8af68752b1ef0de63f947c4527f621d01bc83bb8",
+      "fileCount": 77
+    },
+    {
+      "file": "KRON-ELTEKNIK-05-KLOCKAN-SOM-INTE-LJOG-en-GB-retro-text-v2.zip",
+      "size": 4394,
+      "sha256": "b927092c83c4936719636b7b1dce2f858e821b85b2e0c9b91906ebc65c96af17",
+      "fileCount": 1
+    }
+  ],
+  "github": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "publishedCanonicalImagesReadBack": 0,
+    "canonicalImagesDirectory": "NOT_FOUND",
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryFailureReason": "Downloadable local-publisher packages were created, but this ChatGPT tool environment cannot invoke the user's Chrome download/local capture/Nextcloud/hardened-router process itself. No manual --once/curl/Python publisher command was substituted. GitHub binary read-back therefore has not succeeded in this run."
+  },
+  "qa": {
+    "releaseStatus": "INCOMPLETE",
+    "historicalPublicationDoesNotImplyPass": true,
+    "linkedInSocialCopy": "NOT_CREATED"
+  }
+}

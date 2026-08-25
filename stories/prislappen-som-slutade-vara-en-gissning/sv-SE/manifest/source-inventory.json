@@ -1,0 +1,51 @@
+{
+  "storyId": "prislappen-som-slutade-vara-en-gissning",
+  "locale": "sv-SE",
+  "inventoryTime": "2026-08-23T08:49:00+02:00",
+  "classification": "INCOMPLETE",
+  "canonicalWorkingPackage": {
+    "status": "EXISTS_AND_EXPORTABLE",
+    "releaseStatus": "REBUILD_REQUIRED",
+    "assets": {
+      "cover_00": "b41d450b7d73e3ea42043724cc8e17c7f80380d30dd1b733aade2bce3bcccd4d",
+      "panel_01": "6176f334ff55d6c14fe9d97cf16368a3daec724926c104df8186d09bfa04bc4a",
+      "panel_02": "c68b6246d2d935f23e8ce307b8f20156e991ec190ad4d6a9ffa7e409a3b1da9e",
+      "panel_03": "1523875ba9acdf91c7e45c1668249a573418e37ab3203d34f8f312f22d8ed96c",
+      "panel_04": "23ae9a1550647f978d5d80fa8853fe90b70d5d7270bac6f0533260a2f7333adf",
+      "panel_05": "80e0b0c37b6067a820796f28dca0ef6141727129e068c086ad30a6a4247eceb9",
+      "panel_06": "0c6f605023788f02f81bb7c69f6fba93165064184667cc8468e9790bfedb440c",
+      "panel_07": "c81ce6a5e5a6387bbcbebc67b9c6ea8cf78eb4b9aee333d6fcd5aa735eef7f53",
+      "panel_08": "c30cfb55d56d5ddbb2b304bcb6c0afadc1dfa7af6398d06bf91c333987c39a37",
+      "panel_09": "d8f3e88784b0ba731f55cd2ff55f9e36e3c15869e85b80dc503d5fd6f4193438",
+      "panel_10": "8fbf8a818cdb36ca3581c291ddf255485876078e453663981b508f9feb8b967e",
+      "panel_11": "513f62f2ed273e9c80b1063dac38b97df715ef738a4a175f0c9ad19f361763ce",
+      "panel_12": "d48f7799df5cd8d30f507b20051f9c11dec16f5a527c60e551e75b338f6d9ccd",
+      "cta_13": "386d784d1b8bf75a15fcc40ac3c112518929ae1a45fdde6a96099304ddcbb946"
+    },
+    "pdfSha256": "42ed54188bef991ca44fc5378373e51ca880f30144f1aefc2f86a444cf2accb1",
+    "workingZipSha256": "4bb09870cb9c0121a3de75978e9c3ce8a1ee4af83c9c992c9a0c1c6403b0c445"
+  },
+  "additionalDirectlyAccessibleRenderOutputs": [
+    "a_detailed_comic_book_illustration_style_office_s.png",
+    "a_detailed_comic_illustration_style_scene_like_a_p.png",
+    "a_detailed_comic_style_illustration_poster_page_o.png",
+    "a_full_color_comic_illustration_style_scene_like.png",
+    "a_comic_book_storyboard_style_illustration_page.png",
+    "a_full_page_comic_storyboard_style_layout_like_a.png",
+    "a_full_page_comic_page_layout_in_a_clean_ligne_cla.png"
+  ],
+  "otherContent": {
+    "ORIGINAL_STORY": "EXISTS_AND_EXPORTABLE",
+    "PDF": "EXISTS_AND_EXPORTABLE",
+    "social": "MISSING",
+    "QA": "EXISTS_AND_EXPORTABLE",
+    "manifest": "EXISTS_AND_EXPORTABLE",
+    "sources": "EXISTS_AND_EXPORTABLE"
+  },
+  "githubBinaryPublish": "FAILED_UNSUPPORTED_BY_AVAILABLE_CONNECTOR_WRITE_SURFACE",
+  "incompleteReasons": [
+    "LinkedIn/social copy was never produced.",
+    "Existing QA is FAIL / REBUILD_REQUIRED.",
+    "Brand-critical official logo compositing is not release-compliant."
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "NC-LASTEN-SOM-VARNADE-SIG-SJALV",
+  "storyIdAuthority": "explicit ACTIVE STORY ID established in this chat",
+  "title": "Lasten som varnade sig själv",
+  "subtitle": "Hur Erik stoppade den farliga kombinationen innan porten ens öppnades",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "locales": {"sv-SE":"INCOMPLETE","en":"INCOMPLETE","en-GB":"TEXT_ONLY_DERIVED_TRANSLATION"},
+  "narrativeMaster": {"path":"stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/ORIGINAL_STORY.md","locale":"sv-SE","sourceClass":"EXACT_ORIGINAL","sourceRuntimeSha256":"c7c28790b67205932cb16c883d073dccf46079cf823db8ffa345ddf105feb533","qaStatus":"CANONICAL_STORY_TEXT; VISUAL_RELEASE_NOT_LOCKED"},
+  "sourceTranslations": {"en-GB":{"path":"stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/source/original-story-en-GB.md","sourceLocale":"sv-SE","translationType":"faithful","sourceClass":"DERIVED_TRANSLATION","narrativeMaster":false,"sha256":"6540466b282f583b0e9e5fe69b5fb2a3e821f7738669dd3ddbfd83587b88b194"}},
+  "verifiedOriginalAssets": {"sv-SE":11,"en":13},
+  "sourceNotExportableCanonicalAssets": {"sv-SE":["panel_07","panel_08","panel_09"],"en":["panel_09"]},
+  "pdfs": {"sv-SE":{"sourceClass":"EXACT_ORIGINAL","status":"EXISTS_AND_EXPORTABLE","sha256":"ac3d95b3532ac2628ffbd24b069526e296c6f577a556d7f7031e43f6d7ac68b9","qaStatus":"14_PAGES; CTA_QR_DECODE_PASS"},"en":{"sourceClass":"EXACT_ORIGINAL","status":"EXISTS_AND_EXPORTABLE","sha256":"7f8dde0c12ef2a6432761acfc0f927f7deac67041f9c578f708e4573696941e1","qaStatus":"14_PAGES; CURRENT_LOW_DPI_QR_DECODE_NOT_CONFIRMED"}},
+  "social": {"sv-SE":"NOT_CREATED","en":"NOT_CREATED","en-GB":"NOT_CREATED"},
+  "historicalVisuals": {"exactOriginalRejectedRebuildAttempts":13,"qaStatus":"REBUILD_REQUIRED","publicationMeaning":"historical provenance only; never upgraded to PASS/LOCKED"},
+  "githubPublishedBinaryAssets": 0,
+  "binaryBackfillRetry": {"checkedAt":"2026-08-23T23:27:00+02:00","protocol":"BINARY-BACKFILL-RETRY.md","publishStatus":"GITHUB_PUBLISH_FAILED","queueManifestWritten":false,"assemblerRun":null,"postWriteBinaryReadback":"NO_BINARY_WRITE_OCCURRED"},
+  "retroBackfillV2": {
+    "checkedAt":"2026-08-24T19:40:00+02:00","status":"PARTIAL_BACKFILL",
+    "inventory":{"records":80,"exactOriginalRecords":58,"chatRecoveredRecords":0,"derivedTranslationRecords":1,"sourceNotExportableRecords":8,"notCreatedRecords":13,"canonicalVisualExactOriginal":{"sv-SE":11,"en":13},"canonicalVisualSourceNotExportable":{"sv-SE":["panel_07","panel_08","panel_09"],"en":["panel_09"]}},
+    "automaticTransportStatus":"BLOCKED_AT_CHATGPT_TO_CHROME","binaryBackfillStatus":"PACKAGE_READY_NOT_GITHUB_PUBLISHED","nextcloudArchiveStatus":"NOT_REACHED","publisherStatus":"NOT_REACHED","githubBinaryReadbackStatus":"NO_BINARY_PUBLICATION_TO_VERIFY",
+    "localPackages":{"fullArchive":{"filename":"NC-LASTEN-SOM-VARNADE-SIG-SJALV-retro-backfill-v2-full.zip","sha256":"5fd82ebff8b217d832d96efb9d8c41b7ec61d0934f557d31620a97bb9771c519"},"sv-SE":{"filename":"NC-LASTEN-SOM-VARNADE-SIG-SJALV-sv-SE-retro-v2.zip","sha256":"f93eff2e903ecd86f2162cb98132d55fa4ef9a302f23665d076852061e46d540"},"en":{"filename":"NC-LASTEN-SOM-VARNADE-SIG-SJALV-en-retro-v2.zip","sha256":"2f45b4943c7f2452419c8def70fdac8026dbdc58dc09d5c5ca4a7c4b8ec4dfe3"},"en-GB-story":{"filename":"NC-LASTEN-SOM-VARNADE-SIG-SJALV-en-GB-story-retro-v2.zip","sha256":"e2b72e17ead7c9766a2eabf19c8cb367322b7171008b917d090c1dceb8c73490"}}
+  },
+  "releaseZipCreated": false,
+  "canonicalStoryPath":"stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/ORIGINAL_STORY.md",
+  "inventoryPath":"stories/NC-LASTEN-SOM-VARNADE-SIG-SJALV/retro-backfill-v2-inventory.json"
+}

@@ -1,0 +1,139 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "den-enda-kedjan-utan-svaga-lankar",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "DEN ENDA KEDJAN UTAN SVAGA LÄNKAR",
+  "subtitle": "En navichain story — Jonas och suveränitetsrevisionen",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "historicalBuildVersions": ["v0.9", "v0.10"],
+  "status": "INCOMPLETE",
+  "originalStory": "ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/den-enda-kedjan-utan-svaga-lankar/ORIGINAL_STORY.md",
+    "exportPath": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "gitBlobSha": "4396ccf8323364a01461ce8406cd6d1fa7c74925",
+    "byteSize": 11445,
+    "sha256": "00b0a3d32417fc3f6dc0c992be5eabc888ee8e9ffe6348b64388e4e2d64f8b40",
+    "readBackVerified": true
+  },
+  "derivedTranslations": {
+    "en-GB": {
+      "path": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-en-GB.md",
+      "metadataPath": "stories/den-enda-kedjan-utan-svaga-lankar/source/original-story-en-GB.metadata.json",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sha256": "b932811093e8e0322f5bc6d1c7f152d10f10313df94b47c2cb27f3c753373591",
+      "sourceStorySha256": "00b0a3d32417fc3f6dc0c992be5eabc888ee8e9ffe6348b64388e4e2d64f8b40",
+      "githubReadBackVerified": true
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalAssetSlots": 14,
+      "priorRunExactOriginalCanonicalAssetsAccessible": 13,
+      "currentRuntimeLaterCanonicalAssetsAccessible": 0,
+      "currentRuntimeHistoricalExactOriginalRenderFiles": 45,
+      "currentRuntimeSelectedHistorical14SlotSet": 14,
+      "sourceNotExportableLaterCanonicalAssets": ["cover_00", "panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "SOURCE_NOT_EXPORTABLE_HISTORICAL_BUILDS_V0_9_V0_10",
+      "social": "NOT_CREATED",
+      "releaseQa": "NOT_CREATED_AS_RELEASE_QA",
+      "releaseManifest": "NOT_CREATED_AS_RELEASE_MANIFEST",
+      "releaseZip": "NOT_CREATED_FOR_RELEASE"
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "visualAssets": "NOT_CREATED",
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "knownAssetQa": {
+    "cover_00": "UNKNOWN_APPROVAL",
+    "panel_01": "UNKNOWN_APPROVAL",
+    "panel_02": "REBUILD_REQUIRED_story_logo_rule_violation",
+    "panel_03": "REBUILD_REQUIRED_story_logo_rule_violation",
+    "panel_04": "REBUILD_REQUIRED_story_logo_rule_violation",
+    "panel_05": "REBUILD_REQUIRED_story_logo_rule_violation",
+    "panel_06": "REBUILD_REQUIRED_story_logo_rule_violation",
+    "panel_07": "UNKNOWN_APPROVAL",
+    "panel_08": "UNKNOWN_APPROVAL",
+    "panel_09": "UNKNOWN_APPROVAL",
+    "panel_10": "UNKNOWN_APPROVAL",
+    "panel_11": "REBUILD_REQUIRED_wrong_story_scene",
+    "panel_12": "REBUILD_REQUIRED_wrong_story_scene",
+    "cta_13": "REBUILD_REQUIRED_brand_critical_logo_not_deterministic"
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T22:03:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "provenanceQaSeparated": true,
+    "rerendered": false,
+    "reconstructed": false,
+    "chatRecovered": 0,
+    "priorRunCanonicalExactOriginalVisuals": 13,
+    "priorRunCanonicalSourceNotExportable": ["cta_13"],
+    "historicalPdfBuilds": [
+      {"version":"v0.10","size":72883282,"sha256":"9e4cc610461f373b766b4bd1d10a924c2c45b0d157f3675c662520a03f66966c","currentSourceClass":"SOURCE_NOT_EXPORTABLE"},
+      {"version":"v0.9","size":71168380,"sha256":"a751c8bdf213f20854be2aba0a6c99b799b8a3ba4c4392ff4bbb81659f726dfe","currentSourceClass":"SOURCE_NOT_EXPORTABLE"}
+    ],
+    "priorRunCanonicalVisualSha256": {
+      "cover_00":"c12dd191c503554c8c0778be0a888a442804dd4a5e357cbc4ae0c1019a048ba4",
+      "panel_01":"6ad80910903cbb574bed8a33f2518ca1dd1413c1a74c7e95f00462e40345ba5d",
+      "panel_02":"5e60a1e0982b3ef852f577de3b43a1aa948870889dbbe33ed03d97b96b71aa59",
+      "panel_03":"454fa5efaf6436a125491f12e4dc2e6dde484e36cf5c89fbfcbc78281cbad13f",
+      "panel_04":"e9015a3ef9efa06f491c78991f32edcdc1cc89311f1f5f64de5f81c0d917d719",
+      "panel_05":"01bfc27921a26e814ea71aba47a8964ad60b1188da669aa1903fb43618392f66",
+      "panel_06":"727825745a000c349cecf7755cac9b987891e5e9a039397ad0f5e6e3d13616fa",
+      "panel_07":"c5c8ae8fd4fed521f4c2ab0615df971da12f473d7f64e2c9f4a117893491cf59",
+      "panel_08":"1b51fa026e21a84318eeeea5a0112be984ccf9a1698f8b971420f4c490f07ad9",
+      "panel_09":"35189746cfba991bb9e90339c9aa129be2d1204ec1dddd1970f69e89c86dadb3",
+      "panel_10":"78e824bb1d810e25d6efe1d8b60f98b00a74b95899737a1172a3bdaf9d856545",
+      "panel_11":"e85e7a8752158a85f14de6a7fe98da6cdc313a2c8b22269a86b6932b3c7aa315",
+      "panel_12":"43422984bbb2a9df2e80926a48512894805324c41f7e57da824ada884cac0dab"
+    },
+    "currentRuntime": {
+      "exactOriginalHistoricalVisualFiles": 45,
+      "selectedHistorical14SlotSet": 14,
+      "additionalHistoricalRenderFiles": 31,
+      "laterCanonicalHashMatches": 0,
+      "laterCanonicalSourceNotExportableCount": 14,
+      "inventoryCounts": {"EXACT_ORIGINAL":54,"CHAT_RECOVERED":0,"DERIVED_TRANSLATION":1,"SOURCE_NOT_EXPORTABLE":16,"NOT_CREATED":18},
+      "svSeBackfillPackage": {
+        "filename": "den-enda-kedjan-utan-svaga-lankar-sv-SE-retro-backfill-v2.zip",
+        "size": 139778842,
+        "sha256": "bb78fb0eb941becf7f44cc5d28e04dfbb7236d72320c1b8f42f27eb621795e1b",
+        "publishFileCount": 54,
+        "zipVerified": true
+      },
+      "enGbTextPackage": {
+        "filename": "den-enda-kedjan-utan-svaga-lankar-en-GB-retro-backfill-v2.zip",
+        "size": 15059,
+        "sha256": "4a99ef785f4176bcdb52dd93acfd22434c1d8216872d4fafcd8634b8e2c76113",
+        "publishFileCount": 2,
+        "zipVerified": true
+      }
+    },
+    "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+    "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+    "binaryGitHubStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryPublishFailureReason": "The required Chrome-download/local-capture/Nextcloud write surfaces are not connected to this assistant session. The GitHub connector has no local-file binary upload parameter. Exact binaries were packaged without transcoding or reconstruction, but were not published as GitHub binaries.",
+    "textGitHubStatus": "SV_SE_AND_EN_GB_PUBLISHED_AND_READBACK_VERIFIED"
+  },
+  "missingReleaseComponents": [
+    "later canonical visual bytes currently source-not-exportable",
+    "validated 14/14 PASS/LOCKED image set",
+    "story-specific LinkedIn/social copy",
+    "release QA",
+    "release manifest",
+    "release ZIP"
+  ]
+}

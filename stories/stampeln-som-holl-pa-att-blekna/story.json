@@ -1,0 +1,48 @@
+{
+  "schema": "navichain-storyportal-story-v2",
+  "storyId": "stampeln-som-holl-pa-att-blekna",
+  "title": "STÄMPELN SOM HÖLL PÅ ATT BLEKNA",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "storyLock": "NOT_LOCKED",
+  "narrativeMasterQaStatus": "PREFLIGHT_REVISE_REQUESTED",
+  "narrativeMaster": {
+    "path": "stories/stampeln-som-holl-pa-att-blekna/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "e24f8fa7e9cca1811df306491c9ba62d7feb7de3ad0db481ca87b47b7823b0c8",
+    "mirrorPath": "stories/stampeln-som-holl-pa-att-blekna/ORIGINAL_STORY.md"
+  },
+  "translations": {
+    "en-GB": {
+      "path": "stories/stampeln-som-holl-pa-att-blekna/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "narrativeMaster": false,
+      "sourceStorySha256": "e24f8fa7e9cca1811df306491c9ba62d7feb7de3ad0db481ca87b47b7823b0c8",
+      "sha256": "3a89e4855943282aa3de5dc17585fe4bc4e234230a1b0fefdea159c3c3d1506f"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalRequired": 14,
+      "exactOriginalCanonicalAssets": ["cover_00", "panel_01", "panel_12"],
+      "notCreatedCanonicalAssets": ["panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "cta_13"],
+      "sourceNotExportableCanonicalAssets": [],
+      "chatRecoveredCanonicalAssets": [],
+      "githubPublishedBinaryAssets": 0,
+      "historicalQa": {"cover_00": "UNKNOWN", "panel_01": "UNKNOWN", "panel_12": "UNKNOWN"},
+      "currentQaRevalidation": {"cover_00": "REBUILD_REQUIRED", "panel_01": "REBUILD_REQUIRED", "panel_12": "REBUILD_REQUIRED"},
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED"
+    }
+  },
+  "historicalRejectedRenderCount": 7,
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:23:00+02:00",
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "publishPolicy": {"historicalCandidatesMayBePublished": true, "mayPublishAsCompleteRelease": false}
+}

@@ -1,0 +1,68 @@
+{
+  "schema": "navichain-retro-backfill-v2-summary",
+  "storyId": "NC-DEN-INTEGRERADE-KUNDEN",
+  "title": "Den integrerade kunden",
+  "masterVersion": "1.1.0",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "sourceClass": "EXACT_ORIGINAL",
+    "path": "stories/NC-DEN-INTEGRERADE-KUNDEN/source/original-story-sv-SE.md",
+    "sha256": "705523a3dbc270f1f4c194fb791ef953dc528fadc4873b24a3781853251652ca"
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "path": "stories/NC-DEN-INTEGRERADE-KUNDEN/source/original-story-en-GB.md",
+    "sha256": "9eb20ee61c55ad8d38320f2d21f099eb2d0afa1a414e750b25175a3723d0293e"
+  },
+  "canonicalVisualInventory": {
+    "sv-SE": {
+      "exportableExactOriginalSourceRenders": 13,
+      "sourceNotExportable": ["cta_13"],
+      "status": "INCOMPLETE"
+    },
+    "en-GB": {
+      "exportableExactOriginalSourceRenders": 12,
+      "sourceNotExportable": ["panel_05", "cta_13"],
+      "status": "INCOMPLETE"
+    },
+    "de-DE": {
+      "exportableExactOriginalSourceRenders": 4,
+      "sourceNotExportable": ["cover_00", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "status": "INCOMPLETE"
+    }
+  },
+  "historicalExactOriginalFiles": 64,
+  "derivedTranslations": 1,
+  "chatRecovered": 0,
+  "sourceNotExportableItems": 21,
+  "localPackages": {
+    "sv-SE": {
+      "filename": "NC-DEN-INTEGRERADE-KUNDEN-sv-SE-retro-backfill-v2.zip",
+      "sha256": "0a5cf37b1b3bc8946143ba1e51431e7c69319ad6930086f899d5f44c178bc5c9"
+    },
+    "en-GB": {
+      "filename": "NC-DEN-INTEGRERADE-KUNDEN-en-GB-retro-backfill-v2.zip",
+      "sha256": "ed72ce38afd2195c85e670d451ff323dda84e6398bc3d9f44936e40e73a74927"
+    },
+    "de-DE": {
+      "filename": "NC-DEN-INTEGRERADE-KUNDEN-de-DE-retro-backfill-v2.zip",
+      "sha256": "e9f9a26402771c47578cd9526e2e9ef21f1cd022a083e42c7874e906937d469b"
+    }
+  },
+  "github": {
+    "repository": "HakanLundmark/-navichain-storyportal",
+    "branch": "main",
+    "storyImagePdfZipBinariesPublished": 0,
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "textMetadataStatus": "PASS_READ_BACK_VERIFIED",
+    "indexStatus": "PASS_READ_BACK_VERIFIED"
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "checkedAt": "2026-08-24T20:00:30+02:00"
+}

@@ -1,0 +1,120 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "vatt-black-torrt-bevis",
+  "storyIdAuthority": "existing repository slug for active chat story",
+  "title": "VÅTT BLÄCK, TORRT BEVIS",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionNote": "No explicit master version was assigned in this chat.",
+  "status": "INCOMPLETE",
+  "originalStory": "stories/vatt-black-torrt-bevis/ORIGINAL_STORY.md",
+  "englishStory": {
+    "path": "stories/vatt-black-torrt-bevis/source/original-story-en-GB.md",
+    "locale": "en-GB",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "narrativeMaster": false,
+    "sourceStorySha256": "a91364e0d3773e89cd0d796c327f82ad7b5b67fd9eef773f6fed70166a97b1bf",
+    "sha256": "f66c1e5731f6f0d20f3cd22ebad6a317d047013f6525d9b8027118924d1bfe52",
+    "githubVerified": true
+  },
+  "currentChatBackfill": {
+    "date": "2026-08-23",
+    "sourceScope": "active story in this chat only",
+    "locale": "sv-SE",
+    "exportableOriginalImageAssets": 9,
+    "existsButNotExportable": ["cover_00"],
+    "missingOriginalImageAssets": ["panel_10","panel_11","panel_12","cta_13"],
+    "exportableAssets": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09"],
+    "pdf": "MISSING",
+    "socialLinkedIn": "MISSING",
+    "releaseZip": "NOT_BUILT_LOCALE_INCOMPLETE",
+    "githubBinaryPublish": "FAILED_CONNECTOR_HAS_NO_LOCAL_BINARY_FILE_PARAMETER",
+    "note": "Historical v1 snapshot retained unchanged in meaning; superseded for current recovery inventory by retroBackfillV2."
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T17:26:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "narrativeMaster": {
+      "locale": "sv-SE",
+      "path": "stories/vatt-black-torrt-bevis/ORIGINAL_STORY.md",
+      "sha256": "a91364e0d3773e89cd0d796c327f82ad7b5b67fd9eef773f6fed70166a97b1bf",
+      "sourceClass": "EXACT_ORIGINAL",
+      "githubVerified": true
+    },
+    "englishStory": {
+      "locale": "en-GB",
+      "path": "stories/vatt-black-torrt-bevis/source/original-story-en-GB.md",
+      "sha256": "f66c1e5731f6f0d20f3cd22ebad6a317d047013f6525d9b8027118924d1bfe52",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "githubVerified": true
+    },
+    "exactOriginalRuntimeBinaries": 17,
+    "exactOriginalCanonicalVisualSlots": {
+      "sv-SE": 12,
+      "en-GB": 4,
+      "de-DE": 0
+    },
+    "additionalHistoricalExactRevisions": {
+      "en-GB": ["panel_11"]
+    },
+    "chatRecoveredAssets": 0,
+    "githubPublishedBinaryAssets": 0,
+    "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryFailureReason": "Current ChatGPT runtime exposes exact local files but no callable Chrome/Nextcloud/local-router publisher surface, and the GitHub blob connector has no mounted-local-file parameter for multi-megabyte binaries.",
+    "automaticTransport": {
+      "chromeDownload": "UNAVAILABLE_FROM_CURRENT_RUNTIME",
+      "nextcloudArchive": "UNAVAILABLE_FROM_CURRENT_RUNTIME",
+      "hardenedRouter": "UNAVAILABLE_FROM_CURRENT_RUNTIME",
+      "localPublisher": "UNAVAILABLE_FROM_CURRENT_RUNTIME"
+    },
+    "localPackages": {
+      "sv-SE": {
+        "file": "vatt-black-torrt-bevis-sv-SE-retro-v2.zip",
+        "sha256": "4044648a4c7a965662d7481a1cd6a528419b9f067b63f3519ed0c6b85540c231",
+        "files": 13
+      },
+      "en-GB-panel11-rev1": {
+        "file": "vatt-black-torrt-bevis-en-GB-panel11-rev1-retro-v2.zip",
+        "sha256": "9c4de993f06f4e6c10d15a25fc76d20b2d6ef47ea980a5e36ed71574a8ede2ac",
+        "files": 1
+      },
+      "en-GB": {
+        "file": "vatt-black-torrt-bevis-en-GB-retro-v2.zip",
+        "sha256": "a06c455eaeefd7a42c9fb0f2f43fa7a8eac1059518c328511a6c52465e5c0d28",
+        "files": 5
+      }
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "exactOriginalCanonicalSlots": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12"],
+      "sourceNotExportable": ["cover_00"],
+      "notCreated": ["cta_13"],
+      "rebuildRequired": ["panel_10","panel_11","panel_12"],
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "NOT_CREATED",
+      "socialLinkedIn": "NOT_CREATED"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "exactOriginalCanonicalSlots": ["panel_09","panel_10","panel_11","panel_12"],
+      "additionalExactHistoricalRevisions": ["panel_11"],
+      "sourceNotExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","cta_13","PDF carousel"],
+      "rebuildRequired": ["panel_09","panel_10","panel_11","panel_12"],
+      "githubPublishedBinaryAssets": 0,
+      "socialLinkedIn": "NOT_CREATED"
+    },
+    "de-DE": {
+      "status": "INCOMPLETE",
+      "sourceNotExportable": ["panel_01","panel_02","panel_03"],
+      "notCreated": ["cover_00","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","PDF carousel","social/LinkedIn copy"],
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "qa": "qa/backfill-qa.md",
+  "manifest": "manifest/backfill-inventory.json",
+  "sourceValidation": "sources/current-chat-validation-sources.json"
+}

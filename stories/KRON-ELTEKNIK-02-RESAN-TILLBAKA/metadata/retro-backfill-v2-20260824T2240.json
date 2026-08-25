@@ -1,0 +1,111 @@
+{
+  "schema": "navichain-retro-backfill-v2-run-audit",
+  "storyId": "KRON-ELTEKNIK-02-RESAN-TILLBAKA",
+  "title": "RESAN TILLBAKA SOM ALDRIG BEHÖVDE SKE",
+  "executedAt": "2026-08-24T22:40:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "result": "PARTIAL_BACKFILL",
+  "rules": {
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedOrRestyled": false,
+    "provenanceSeparatedFromQa": true
+  },
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/ORIGINAL_STORY.md",
+    "githubBlobSha": "0d5903dbdf40d321ca799b2cd4a84a7f74b86ecc",
+    "currentRuntimeSourceClassForOriginalChatBytes": "SOURCE_NOT_EXPORTABLE",
+    "githubCanonicalCopyReadable": true,
+    "exactOriginalChatByteIdentityClaimed": false
+  },
+  "englishNarrative": {
+    "locale": "en-GB",
+    "path": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "ee31cb45df7792f64cfcabaf2eac0e6fd9a440a9cf57d545f16ecc48a5bcc07b",
+    "githubPublishedAndReadable": true
+  },
+  "svSE": {
+    "status": "INCOMPLETE",
+    "canonicalExactOriginalVisualCount": 14,
+    "canonicalVisuals": {
+      "cover_00": {"size":3300570,"dimensions":[1055,1491],"sha256":"5871cc8be97abe3ea7531c6603d647795057640ba61f55f04f7d5fab4a85da3f","qaStatus":"UNKNOWN"},
+      "panel_01": {"size":3065721,"dimensions":[1055,1491],"sha256":"d972e3c9687771eba603aa4e68bfc3cc3723e4e3367b8aab9b8daca012f04f75","qaStatus":"UNKNOWN"},
+      "panel_02": {"size":3085129,"dimensions":[1055,1491],"sha256":"77b08a655d30846dd4945c4ec54788b9a599932f422718b25f86a0352524c585","qaStatus":"UNKNOWN"},
+      "panel_03": {"size":2818122,"dimensions":[1055,1491],"sha256":"191f05ffe45ea4c53dc12adb33d69fcefa90d4535d59108ea7553de562e28366","qaStatus":"UNKNOWN"},
+      "panel_04": {"size":2816308,"dimensions":[1055,1491],"sha256":"2b588f2ad9e9d36476e3afab8dbf996b6a98387ac5b20bcccbf48bba409240cc","qaStatus":"UNKNOWN"},
+      "panel_05": {"size":2943431,"dimensions":[1055,1491],"sha256":"830d9e74ec4b9cb4126ef8dc68df8c230349125ef0b0a077ab011332e5f13efe","qaStatus":"UNKNOWN"},
+      "panel_06": {"size":3052507,"dimensions":[1055,1491],"sha256":"446cfd5fdb7c99867279644d8da345ef172ca87a4c249744b3dbe0a362502fa4","qaStatus":"UNKNOWN"},
+      "panel_07": {"size":2865653,"dimensions":[1055,1491],"sha256":"96e289096bcb516ea7fcdf2cf492a54dbd0208383c0000245ba7546232625ac7","qaStatus":"UNKNOWN"},
+      "panel_08": {"size":2920429,"dimensions":[1055,1491],"sha256":"b7dd8acf7306c324f471221e7cb3bb3aad98610f83e736817506ee1817803e7a","qaStatus":"UNKNOWN"},
+      "panel_09": {"size":2674141,"dimensions":[1055,1491],"sha256":"d93ad1912b177cc67ebe4337792f85c3c1f97d25aafc6e5b73b89c7f63e3af62","qaStatus":"UNKNOWN"},
+      "panel_10": {"size":2984594,"dimensions":[1402,1122],"sha256":"3f7fe759fc9f140fcab8493fda199e2e9d11ac4aeffe227a39a8fb1b0e146c29","qaStatus":"UNKNOWN"},
+      "panel_11": {"size":2771101,"dimensions":[1086,1448],"sha256":"3ac4e2b7a8807ab78e26a4387cbc60b0c00c2ca0fad93edf1d7d2b1ed1801dc5","qaStatus":"UNKNOWN"},
+      "panel_12": {"size":3441117,"dimensions":[1024,1536],"sha256":"4ba85d4e07cb818128ed1297a1b9fb49bbe892998f8a5099868f5eb9a49d3fd6","qaStatus":"UNKNOWN"},
+      "cta_13": {"size":3020619,"dimensions":[1023,1537],"sha256":"1f5b492d938f545cd68d213f271058e31794276190aec3a135e7b7d83d59e37e","qaStatus":"UNKNOWN"}
+    },
+    "pdf": {"sourceClass":"EXACT_ORIGINAL","size":67872178,"pages":14,"sha256":"4d65b1d3627366527a4bddfe3583bf7426e29ce5fc0efdd6811a9b95a4916b51","qaStatus":"UNKNOWN"},
+    "additionalExactHistoricalRenders": 11,
+    "sourceReferenceFilesExact": 7,
+    "workingArchivePackageExact": true,
+    "releaseEligible": false,
+    "releaseBlockers": [
+      "panel_10 is landscape 1402x1122",
+      "panel_11 and cta_13 use different dimensions from the main image set",
+      "LinkedIn/social copy was not created",
+      "full raster/PDF release QA was not created",
+      "release manifest was not created"
+    ]
+  },
+  "enGB": {
+    "status": "INCOMPLETE",
+    "currentRuntimeExactHistoricalArchiveCandidate": {
+      "filename": "a_detailed_comic_book_graphic_novel_style_magazi.png",
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 3527156,
+      "dimensions": [1024,1536],
+      "sha256": "626e66d5e62f1ce136379127ca7f8f4234482063c96252119620be8e9051438d",
+      "qaStatus": "UNKNOWN",
+      "intendedArchivePath": "stories/KRON-ELTEKNIK-02-RESAN-TILLBAKA/en-GB/archive/historical-renders/a_detailed_comic_book_graphic_novel_style_magazi.png"
+    },
+    "historicallyRecordedButNotByteExportableInCurrentRuntime": [
+      {"assetId":"cover_00","sourceClass":"SOURCE_NOT_EXPORTABLE","sha256":"4c93c32e498d0c7cc15a80f5fb66fae24a611a8c336887b1b80468d7a0a81ab4","qaStatus":"REJECTED/INCOMPLETE_LOCALE_SOURCE"},
+      {"assetId":"panel_01","sourceClass":"SOURCE_NOT_EXPORTABLE","sha256":"3dcd302feacb6e75f51eff594e615966e1bf7c1068876b9368dac71bf385d1eb","qaStatus":"REJECTED"}
+    ],
+    "notCreatedCanonicalAssets": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "pdf": "NOT_CREATED",
+    "social": "NOT_CREATED",
+    "formalReleaseQa": "NOT_CREATED",
+    "releaseManifest": "NOT_CREATED"
+  },
+  "preparedPackages": {
+    "svSE": {"filename":"KRON-ELTEKNIK-02-RESAN-TILLBAKA-sv-SE-retro-backfill-v2.zip","size":253235076,"sha256":"b1c8230b835c9e2d384f8369e1383e04d582541c2fa1878a447f463b114cda82","files":36},
+    "enGB": {"filename":"KRON-ELTEKNIK-02-RESAN-TILLBAKA-en-GB-retro-backfill-v2.zip","size":3527412,"sha256":"703b62e5ce104705702bb904a8a6b0da7e6db0ba3b76e8e3ce7c6ab713a84b78","files":1}
+  },
+  "automaticTransport": {
+    "chromeDownload": "BLOCKED_NO_CHATGPT_BROWSER_CONTROL",
+    "localCapture": "NOT_VERIFIED",
+    "nextcloudArchive": "NOT_VERIFIED_NO_CONNECTED_WRITE_SURFACE",
+    "hardenedRouter": "NOT_VERIFIED",
+    "publisher": "NOT_VERIFIED",
+    "githubBinaryPublish": "GITHUB_PUBLISH_FAILED",
+    "githubCanonicalSvSeImagesReadBack": "404_PATH_ABSENT"
+  },
+  "githubTextReadBack": {
+    "originalStory": true,
+    "englishTranslation": true,
+    "storyJson": true,
+    "storiesIndex": true
+  },
+  "classificationSummaryForHistoricalFileSources": {
+    "exactOriginalPreparedForPublishPackages": 37,
+    "chatRecovered": 0,
+    "derivedTranslation": 1,
+    "sourceNotExportableCoreItems": 3,
+    "notCreatedCanonicalEnGbVisuals": 12
+  }
+}

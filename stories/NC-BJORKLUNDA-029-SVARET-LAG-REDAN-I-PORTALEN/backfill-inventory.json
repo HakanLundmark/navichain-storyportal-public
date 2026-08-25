@@ -1,0 +1,75 @@
+{
+  "schema": "navichain-chat-backfill-inventory-v1",
+  "storyId": "NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN",
+  "masterVersion": "1.0",
+  "inventoryAt": "2026-08-23T08:39:00+02:00",
+  "narrativeMaster": {
+    "status": "EXISTS_AND_EXPORTABLE",
+    "githubPath": "stories/NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN/ORIGINAL_STORY.md"
+  },
+  "locales": {
+    "sv-SE": {
+      "classification": "INCOMPLETE",
+      "assets": {
+        "cover_00": "EXISTS_AND_EXPORTABLE",
+        "panel_01": "EXISTS_AND_EXPORTABLE",
+        "panel_02": "EXISTS_BUT_NOT_EXPORTABLE",
+        "panel_03": "EXISTS_BUT_NOT_EXPORTABLE",
+        "panel_04": "EXISTS_AND_EXPORTABLE",
+        "panel_05": "EXISTS_BUT_NOT_EXPORTABLE",
+        "panel_06": "EXISTS_AND_EXPORTABLE",
+        "panel_07": "EXISTS_AND_EXPORTABLE",
+        "panel_08": "EXISTS_AND_EXPORTABLE",
+        "panel_09": "EXISTS_AND_EXPORTABLE",
+        "panel_10": "EXISTS_AND_EXPORTABLE",
+        "panel_11": "EXISTS_AND_EXPORTABLE",
+        "panel_12": "EXISTS_AND_EXPORTABLE",
+        "cta_13": "EXISTS_AND_EXPORTABLE"
+      },
+      "exportableOriginalAssetCount": 11,
+      "sourceNotExportable": ["panel_02.png", "panel_03.png", "panel_05.png"],
+      "pdfCarousel": "MISSING",
+      "socialLinkedIn": "EXISTS_AND_EXPORTABLE",
+      "qa": "EXISTS_AND_EXPORTABLE",
+      "manifest": "EXISTS_AND_EXPORTABLE",
+      "sources": "EXISTS_AND_EXPORTABLE",
+      "metadata": "EXISTS_AND_EXPORTABLE",
+      "releaseZip": "NOT_CREATED_BECAUSE_INCOMPLETE"
+    }
+  },
+  "otherLocales": [],
+  "runtimeEvidence": {
+    "productionSnapshot": "NC-BJORKLUNDA-029-SVARET-LAG-REDAN-I-PORTALEN-v1.0-sv-SE-production-snapshot.zip",
+    "snapshotManifestStatus": "BLOCKED_INCOMPLETE_RUNTIME_SNAPSHOT",
+    "snapshotAvailableAssets": [
+      "cover_00.png",
+      "panel_01.png",
+      "panel_04.png",
+      "panel_06.png",
+      "panel_07.png",
+      "panel_08.png",
+      "panel_09.png",
+      "panel_10.png",
+      "panel_11.png",
+      "panel_12.png",
+      "cta_13.png"
+    ],
+    "snapshotMissingAssets": ["panel_02.png", "panel_03.png", "panel_05.png"],
+    "rasterDimensionsForAvailableAssets": "1055x1491",
+    "ctaQrPayloadVerified": "https://navichain.se/signup"
+  },
+  "publicationDecision": {
+    "publishAsCompleteRelease": false,
+    "reason": "Exactly 14 original assets are required for COMPLETE; three original rendered panel files are not exportable.",
+    "publishedInThisBackfill": [
+      "ORIGINAL_STORY.md",
+      "story.json",
+      "backfill-inventory.json",
+      "stories/index.json update"
+    ],
+    "notPublishedAsRelease": [
+      "sv-SE locale release tree",
+      "release ZIP"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "storyId": "ingen-losen-att-krava",
+  "sourceManifestStoryId": "INGEN-LOSEN-ATT-KRAVA",
+  "masterVersion": "1.0",
+  "inventoryAt": "2026-08-23T08:45:00+02:00",
+  "sv-SE": {"access":"EXISTS_AND_EXPORTABLE","releaseEligibility":"COMPLETE","assets":14,"pdf":true,"social":true,"qa":true,"manifest":true,"sources":true,"githubBinaryPublish":"FAILED"},
+  "en-GB": {"access":"EXISTS_AND_EXPORTABLE_FOR_REJECTED_ATTEMPTS_ONLY","releaseEligibility":"INCOMPLETE","releaseEligibleAssets":0,"reason":"generated attempts were rejected/underkända and cannot be canonical locale assets"},
+  "originalStory": {"access":"EXISTS_AND_EXPORTABLE","path":"stories/ingen-losen-att-krava/ORIGINAL_STORY.md"},
+  "releaseZip": {"access":"EXISTS_AND_EXPORTABLE","localFile":"/mnt/data/INGEN-LOSEN-ATT-KRAVA-v1.0-sv-SE-release-FINAL.zip","githubPublish":"FAILED"},
+  "publishFailure": "Connected GitHub write interface has no direct local-file upload parameter; multi-megabyte PNG/PDF/ZIP originals could not be transferred without forbidden reconstruction."
+}

@@ -1,0 +1,19 @@
+{
+  "expected_asset_count": 14,
+  "included_asset_count": 14,
+  "common_dimensions": "1024x1536",
+  "dimension_exceptions": [
+    {
+      "asset": "panel_10.png",
+      "source_file": "imagegen.png",
+      "width": 1055,
+      "height": 1491,
+      "sha256": "96b6d629b828bb0e2eba302b4e59a96b4bb2177b420dd6dc4d70d548a61b0b4d"
+    }
+  ],
+  "note": "The local package contains exactly 14 separate assets in canonical order. panel_10 has a different raster dimension from the other assets; no cropping or upscaling was performed.",
+  "carousel_pdf_created": true,
+  "carousel_pdf_pages": 14,
+  "carousel_pdf_sha256": "82cbc1e4760a4401333222fa40553e9158eb17a151e3070a5c839c20198b8fca",
+  "release_status": "INCOMPLETE"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "navichain-derived-translation-v1",
+  "storyId": "den-sista-touchpointen",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "3f733481f8df123b4a30f86040c28b1690f924f9afe41489099a105a91330fe6",
+  "translatedFileSha256": "64c47954d795e743f41ede73fd2bff92ca97a4eb47a544ca74e5aa854f50441b"
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "SAMMA-STRACKA-SAMMA-SVAR",
+  "title": "SAMMA STRÄCKA, SAMMA SVAR",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "checkedAt": "2026-08-24T19:36:00+02:00",
+  "finalStatus": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/SAMMA-STRACKA-SAMMA-SVAR/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "9103e944c6511e69979aa90065f3ea62aea18bea960b4961fee43a3385ce00c3",
+    "readBack": "PASS"
+  },
+  "enGBStory": {
+    "path": "stories/SAMMA-STRACKA-SAMMA-SVAR/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "0e36bd634cabd942b1f384c182b4d18f54034840fc603aa4433bfe91e937ca71",
+    "readBack": "PASS"
+  },
+  "visuals": {
+    "locale": "sv-SE",
+    "exactOriginalSlotsDirectlyAccessible": 12,
+    "exactOriginalSlots": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "sourceNotExportable": ["cover_00","panel_01"],
+    "chatRecovered": [],
+    "githubPublishedBinaryAssets": 0,
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "binaryReason": "The requested Chrome download → local capture → Nextcloud archive → hardened router → publisher transport is not available through the current ChatGPT tool environment; no Nextcloud/local-publisher connector is installed. Direct GitHub binary blob transfer also lacks an allowed local-file parameter under the connector contract. No binary success is claimed."
+  },
+  "derivedRelease": {
+    "svSECarouselPdf": "NOT_CREATED",
+    "enGBVisualLocale": "NOT_CREATED",
+    "enGBCarouselPdf": "NOT_CREATED"
+  },
+  "historicalQaPolicy": "Provenance and QA remain separate; rejected/superseded exact binaries are preserved in the downloadable historical export but are not release-approved.",
+  "metadataReadBack": "PENDING_STORY_AND_INDEX_UPDATE"
+}

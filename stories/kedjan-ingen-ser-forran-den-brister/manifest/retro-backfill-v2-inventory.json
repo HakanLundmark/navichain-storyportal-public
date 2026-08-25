@@ -1,0 +1,77 @@
+{
+  "schema": "navichain-retro-backfill-v2-inventory",
+  "storyId": "kedjan-ingen-ser-forran-den-brister",
+  "masterVersion": "1.0",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/kedjan-ingen-ser-forran-den-brister/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 9728,
+    "sha256": "621a6f421d38bc3c8dceae28dc5f1fe09c49e3ccd166f951609066ec9582e249",
+    "qaStatus": "UNKNOWN"
+  },
+  "enGbStory": {
+    "locale": "en-GB",
+    "path": "stories/kedjan-ingen-ser-forran-den-brister/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "size": 10075,
+    "sha256": "92ae34ae08d08a6aa43e0be58cf3b707679da2cd29c57f7d8669d01e2e272ed5",
+    "sourceStorySha256": "621a6f421d38bc3c8dceae28dc5f1fe09c49e3ccd166f951609066ec9582e249"
+  },
+  "canonicalAssets": [
+    {"assetId":"cover_00","locale":"sv-SE","filename":"cover_00.png","size":3041301,"dimensions":[1122,1402],"sha256":"60c94c55cc73f75b7f41b9f691eec5353ce9d6215c95245f9cee105c706a393e","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/cover_00.png"},
+    {"assetId":"panel_01","locale":"sv-SE","filename":"panel_01.png","size":2880420,"dimensions":[1122,1402],"sha256":"502908264887ef84e35b8884ce7bec5403970622d462b3d8d3c605af1ea79734","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_01.png"},
+    {"assetId":"panel_02","locale":"sv-SE","filename":"panel_02.png","size":2985297,"dimensions":[1122,1402],"sha256":"1965ba29f22be7f0d016b760e9341e53a48821812cce018e44482e9c5847cddb","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_02.png"},
+    {"assetId":"panel_03","locale":"sv-SE","filename":"panel_03.png","size":2942775,"dimensions":[1122,1402],"sha256":"c09aa26e61172c8904b51c6cccde230017c53bb656b317605cb43812159d3969","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_03.png"},
+    {"assetId":"panel_04","locale":"sv-SE","filename":"panel_04.png","size":3060055,"dimensions":[1122,1402],"sha256":"418b85bb40f7e73d6cb16ab5dd4bcc08599fabe1ee412f8763350a8c39734d52","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_04.png"},
+    {"assetId":"panel_05","locale":"sv-SE","filename":"panel_05.png","size":3042144,"dimensions":[1122,1402],"sha256":"8c9016dee86167e3faa7183982ab8bf23f5eea3ad94bd37ba94ef0521a6484a4","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_05.png"},
+    {"assetId":"panel_06","locale":"sv-SE","filename":"panel_06.png","size":2999943,"dimensions":[1122,1402],"sha256":"1452a0c3384206bdb1ab5564df5e2e1b447a8d9a06e20735b3902ce62934258b","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_06.png"},
+    {"assetId":"panel_07","locale":"sv-SE","filename":"panel_07.png","size":3015210,"dimensions":[1122,1402],"sha256":"4bf53c766e96ab0c0b12df73cbb2f77c061dfe26c6f459e55e2f6ee26d63c468","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_07.png"},
+    {"assetId":"panel_08","locale":"sv-SE","filename":"panel_08.png","size":2877245,"dimensions":[1122,1402],"sha256":"c3e7ea23241f6e6873ad0790252bea7b481227001229dab2f7c8f97355594e03","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_08.png"},
+    {"assetId":"panel_09","locale":"sv-SE","filename":"panel_09.png","size":3033074,"dimensions":[1122,1402],"sha256":"e84428a134982dd5199a928d0792f13f45f4cb020ce01e88b519d0885c346592","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_09.png"},
+    {"assetId":"panel_10","locale":"sv-SE","filename":"panel_10.png","size":3105830,"dimensions":[1122,1402],"sha256":"9f90672d1bdd1167fd2a9cc8e751750305c2bfd131e3bc469ee44687354a81b9","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_10.png"},
+    {"assetId":"panel_11","locale":"sv-SE","filename":"panel_11.png","size":2908414,"dimensions":[1122,1402],"sha256":"74d0fee4cfd6ddfa5801c8f126f39315133fa345cd959df961faf70cdf4a8ded","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_11.png"},
+    {"assetId":"panel_12","locale":"sv-SE","filename":"panel_12.png","size":2915767,"dimensions":[1122,1402],"sha256":"419ec3b73e7aa54efde585ab15f6b797c3a9b3f76497543cbb5eb4d2d20f8281","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/panel_12.png"},
+    {"assetId":"cta_13","locale":"sv-SE","filename":"cta_13.png","size":3059085,"dimensions":[1122,1402],"sha256":"9ec5eefe99639f2645ea21e461cbaa60ad5fe56e9e1a58de93dfc86ada250efa","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/images/cta_13.png"}
+  ],
+  "pdf": {"locale":"sv-SE","filename":"kedjan-ingen-ser-forran-den-brister-sv-SE.pdf","size":4852626,"sha256":"3f597cb71d843f159586ba2caa9267eae56e258053fd7c9ad979364dc5c32723","sourceClass":"EXACT_ORIGINAL","qaStatus":"EXPORT_PASS_RELEASE_QA_UNKNOWN","path":"stories/kedjan-ingen-ser-forran-den-brister/sv-SE/pdf/kedjan-ingen-ser-forran-den-brister-sv-SE.pdf"},
+  "rebuildHistory": [
+    {"filename":"a_comic_book_illustrated_infographic_scene_in_a.png","size":2922475,"dimensions":[1086,1448],"sha256":"312e1261706853e47c733a49b8d3faf61c72b2def04fade37000c61bdda7168c"},
+    {"filename":"a_comic_book_illustrated_scene_in_a_workshop_g.png","size":2972380,"dimensions":[1086,1448],"sha256":"6693ac5035d7f6931eef285310c67c123893f25e542fc1ba2c496cb1d1cf4807"},
+    {"filename":"a_comic_book_illustration_style_scene_in_an_office.png","size":2980655,"dimensions":[1086,1448],"sha256":"3285c69441b7d4248239fa96ce5bc24e021a0801881599288eb43ba1f47ce664"},
+    {"filename":"a_comic_book_infographic_style_illustration_in_a.png","size":3001235,"dimensions":[1086,1448],"sha256":"f5dce8e43f1fb0f6283e4c62e25902f72930c34aa88583aaafb42ab9bd4a0f12"},
+    {"filename":"a_comic_illustration_style_office_workshop_scene.png","size":2813499,"dimensions":[1086,1448],"sha256":"2fb8d7b037eca7f4cfb21a9ffa49d299f2e73742c726525e7208206944964982"},
+    {"filename":"a_comic_illustration_style_safety_inspection_scene.png","size":2815452,"dimensions":[1086,1448],"sha256":"29c2007c449cac015b46bd97f91563caf481c908522f1057eab7164f5068a4eb"},
+    {"filename":"a_detailed_comic_book_panel_illustration_infogra.png","size":3018060,"dimensions":[1086,1448],"sha256":"9375c16d1bc8dd60846f9d4ffc1221fe9e58fbf2a97094a914174e1b13700f7e"},
+    {"filename":"a_detailed_comic_book_style_illustration_of_a_swed.png","size":3239508,"dimensions":[1086,1448],"sha256":"9d4bfdf858a4632d5a862f3595a5afa63cdc12f0158a4d1ade3e368903e99dd0"},
+    {"filename":"a_detailed_comic_illustration_style_poster_scene_i.png","size":3009144,"dimensions":[1086,1448],"sha256":"2a51a533d3dcec0d2e44f693821e90acd5ce64a4260678e1e1d45c2ae45cda15"},
+    {"filename":"a_detailed_comic_illustration_style_scene_like_a.png","size":2835722,"dimensions":[1086,1448],"sha256":"560957c3625932a172da46b78febd8ec63ec5754e4239cfeb86729503cf3f20f"},
+    {"filename":"cover_00_kedjan_ingen_ser.png","size":2952740,"dimensions":[1086,1448],"sha256":"0d83a5ac442351569a8931f174b85028fc94a7714e7cfc564490837e20b1e4c1"}
+  ],
+  "sourceReferences": [
+    {"filename":"NAVICHAIN-OFFICIAL-LOGO.png","size":15270,"dimensions":[500,300],"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","sourceClass":"EXACT_ORIGINAL"},
+    {"filename":"Korrekt QR kod till signup.png","size":367480,"dimensions":[550,574],"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e","sourceClass":"EXACT_ORIGINAL"},
+    {"filename":"NAVICHAIN-PRODUCT-TRUTH.md","size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00","sourceClass":"EXACT_ORIGINAL"},
+    {"filename":"Navichain_Market_Truth_MASTER_v1.0.md","size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027","sourceClass":"EXACT_ORIGINAL"}
+  ],
+  "unavailableOrNotCreated": [
+    {"item":"sv-SE social copy","sourceClass":"SOURCE_NOT_EXPORTABLE","reason":"previously generated, no directly accessible standalone source bytes in current runtime"},
+    {"item":"separate Story DNA file","sourceClass":"NOT_CREATED","reason":"story DNA-like facts are embedded in Narrative Master; no separate artifact verified"},
+    {"item":"separate Continuity file","sourceClass":"NOT_CREATED","reason":"continuity note embedded in Narrative Master; no separate artifact verified"},
+    {"item":"separate cast/character lock file","sourceClass":"NOT_CREATED"},
+    {"item":"separate vehicle/environment lock file","sourceClass":"NOT_CREATED"},
+    {"item":"standalone preflight artifact","sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    {"item":"standalone Story Lock artifact","sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    {"item":"standalone correction log","sourceClass":"SOURCE_NOT_EXPORTABLE"},
+    {"item":"separate release-notes file","sourceClass":"NOT_CREATED"},
+    {"item":"separate localization-notes file","sourceClass":"NOT_CREATED"},
+    {"item":"en-GB visual assets","sourceClass":"NOT_CREATED"},
+    {"item":"en-GB PDF","sourceClass":"NOT_CREATED"},
+    {"item":"en-GB social copy","sourceClass":"NOT_CREATED"}
+  ],
+  "counts": {"exactOriginalFiles":36,"derivedTranslations":1,"chatRecovered":0,"sourceNotExportable":4,"notCreated":9},
+  "package": {"filename":"kedjan-ingen-ser-forran-den-brister-retro-backfill-v2-20260824-2223.zip","size":79957300,"sha256":"df6d8803edad842987691a14a1a7bbab021db6d600baf564300494066474fd7c","publishRequestFiles":41}
+}

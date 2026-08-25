@@ -1,0 +1,12 @@
+comicDNA:
+  storyId: vem-bar-ansvaret
+  world: modern_present
+  visualLanguage: classic_european_ligne_claire
+  mood: warm_bright_energetic_hopeful
+  palette:
+  - cream_parchment
+  - rust_red
+  - mustard_yellow
+  - petroleum_green
+  - warm_gold
+  texture: subtle_offset_grain_and_patina

@@ -1,0 +1,51 @@
+{
+  "schema": "navichain-storyportal-story-v2",
+  "storyId": "NC-BJORKLUNDA-12-GRUNDEN-VAXER",
+  "slug": "grunden-som-vaxer-med-foretaget",
+  "title": "GRUNDEN SOM VÄXER MED FÖRETAGET",
+  "masterLanguage": "sv-SE",
+  "masterVersion": "1.0",
+  "narrativeMaster": {
+    "canonicalPath": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/ORIGINAL_STORY.md",
+    "sourcePath": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "83cbea86e81b0bff0513f6a0bce1492e8215d1d2894d6d108ddd40337328af2c"
+  },
+  "translations": {
+    "en-GB": {
+      "path": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/source/original-story-en-GB.md",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceStorySha256": "83cbea86e81b0bff0513f6a0bce1492e8215d1d2894d6d108ddd40337328af2c"
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalAssetsExpected": 14,
+      "canonicalOriginalBytesAvailable": 11,
+      "historicalRejectedCandidatesAvailable": 3,
+      "acceptedMasterGaps": ["panel_09", "panel_10"],
+      "sourceNotExportable": ["cta_13", "working PDF/carousel", "prior standalone QA files", "prior release manifest"],
+      "socialPath": "stories/NC-BJORKLUNDA-12-GRUNDEN-VAXER/sv-SE/social/linkedin-sv-SE.txt",
+      "releaseEligible": false
+    },
+    "en-GB": {
+      "status": "TEXT_ONLY_DERIVED_TRANSLATION",
+      "visualLocaleCreated": false,
+      "releaseEligible": false
+    }
+  },
+  "productTruth": "PASS_REPORTED_IN_CANONICAL_RECORD",
+  "realityValidation": "PASS_REPORTED_IN_CANONICAL_RECORD",
+  "historicalQaPolicy": "provenance and QA kept separate; rejected candidates remain REBUILD_REQUIRED",
+  "binaryBackfill": {
+    "runtimeExactBinaryCount": 14,
+    "githubPublishedBinaryCount": 0,
+    "status": "PENDING_OR_FAILED_TRANSPORT_NOT_VERIFIED"
+  },
+  "overallStatus": "INCOMPLETE",
+  "lastBackfill": "RETRO_BACKFILL_V2"
+}

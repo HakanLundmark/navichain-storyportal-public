@@ -1,0 +1,12 @@
+{
+  "schema": "navichain-storyportal-source-index-v1",
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "sources": [
+    {"file":"NAVICHAIN-PRODUCT-TRUTH.md","status":"EXISTS_AND_EXPORTABLE","sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00","role":"Product Truth / claim validation"},
+    {"file":"Navichain_Market_Truth_MASTER_v1.0.md","status":"EXISTS_AND_EXPORTABLE","sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027","role":"Market Truth / problem grounding"},
+    {"file":"NAVICHAIN-OFFICIAL-LOGO.png","status":"EXISTS_AND_EXPORTABLE","sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db","role":"canonical Navichain brand reference"},
+    {"file":"VISUAL-REFERENCE-02-PANELS.png","status":"EXISTS_AND_EXPORTABLE","sha256":"04e1929de17d9484db59b061a4d1d3c8db8e691faf566a89d56438427fbcc0a2","role":"panel style calibration reference"},
+    {"file":"VISUAL-REFERENCE-03-COVER.png","status":"EXISTS_AND_EXPORTABLE","sha256":"4616a57e7a08113d7451c744d2c526cc5f00f6ec7ad457ba435864f8fc13742e","role":"cover style calibration reference"}
+  ],
+  "note": "These source files are directly accessible in the chat runtime. Because the locale is INCOMPLETE, no release package was assembled or represented as complete; this backfill records exact source identities and hashes without reconstructing files."
+}

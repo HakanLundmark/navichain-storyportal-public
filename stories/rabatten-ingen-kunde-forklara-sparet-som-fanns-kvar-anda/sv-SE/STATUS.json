@@ -1,0 +1,19 @@
+{
+  "storyId": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "historicalBackfillStatus": "PARTIAL_BACKFILL",
+  "releaseEligible": false,
+  "requiredCanonicalAssets": 14,
+  "exactOriginalCanonicalSourcesAccessible": 11,
+  "exactOriginalHistoricalCandidatesAccessible": 2,
+  "githubPublishedBinaryAssets": 0,
+  "sourceNotExportable": ["panel_05", "panel_12"],
+  "notCreated": ["cta_13"],
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED",
+  "binaryTransport": "GITHUB_PUBLISH_FAILED",
+  "narrativeMasterPublished": true,
+  "narrativeMasterReadBackVerified": true,
+  "qaPolicy": "Provenance and QA are independent; unknown visual QA remains UNKNOWN."
+}

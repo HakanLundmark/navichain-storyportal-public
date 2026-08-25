@@ -1,0 +1,10 @@
+{
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4",
+  "translationSha256": "f8c458a2a3bd1d6aaa7c065997b6f827b6ae7805d77ba708117f8371dc2d47a5"
+}

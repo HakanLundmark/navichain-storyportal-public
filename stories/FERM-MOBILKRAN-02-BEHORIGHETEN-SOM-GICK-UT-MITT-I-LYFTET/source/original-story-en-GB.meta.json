@@ -1,0 +1,13 @@
+{
+  "schema": "navichain-story-translation-v1",
+  "storyId": "FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/FERM-MOBILKRAN-02-BEHORIGHETEN-SOM-GICK-UT-MITT-I-LYFTET/source/original-story-sv-SE.md",
+  "sourceStorySha256": "99ad7dd3d9955cc017b2e66e6724d55e6674256c2623b52bf63e441e9a53c4b4",
+  "sha256": "9e392bb5c55efbc5ecf5ccdceef761a203edeb507a04bbeb149879875547e113",
+  "size": 5494
+}

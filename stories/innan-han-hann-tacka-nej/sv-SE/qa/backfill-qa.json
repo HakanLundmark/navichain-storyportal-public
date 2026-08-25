@@ -1,0 +1,50 @@
+{
+  "storyId": "innan-han-hann-tacka-nej",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "sourceInventory": {
+    "EXISTS_AND_EXPORTABLE": [
+      "ORIGINAL_STORY.md",
+      "cover_00",
+      "panel_01",
+      "panel_02",
+      "NAVICHAIN-PRODUCT-TRUTH.md",
+      "Navichain_Market_Truth_MASTER_v1.0.md",
+      "NAVICHAIN-OFFICIAL-LOGO.png"
+    ],
+    "EXISTS_BUT_NOT_EXPORTABLE": [],
+    "MISSING": [
+      "panel_03",
+      "panel_04",
+      "panel_05",
+      "panel_06",
+      "panel_07",
+      "panel_08",
+      "panel_09",
+      "panel_10",
+      "panel_11",
+      "panel_12",
+      "cta_13",
+      "PDF carousel",
+      "LinkedIn/social copy",
+      "release QA",
+      "release manifest",
+      "release ZIP"
+    ]
+  },
+  "assetQa": {
+    "cover_00": {
+      "approvalState": "REBUILD_REQUIRED",
+      "note": "generated brand-critical logo/cover does not use deterministic official source asset"
+    },
+    "panel_01": {
+      "approvalState": "REBUILD_REQUIRED",
+      "note": "story requires Navichain logo absent in panels 1–6, but rendered panel contains Navichain mug/logo"
+    },
+    "panel_02": {
+      "approvalState": "RENDERED_UNVERIFIED",
+      "note": "render exists; no explicit PASS/LOCKED record in source chat"
+    }
+  },
+  "releaseEligibility": "BLOCKED: 3/14 image assets available; exact 14 required."
+}

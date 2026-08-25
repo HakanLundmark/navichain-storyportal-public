@@ -1,0 +1,22 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "samma-fraga-83-ganger-innan-lunch",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "samma-fraga-83-ganger-innan-lunch-en-GB-retro-backfill-v2.zip",
+  "packageSha256": "eb6230b402fb5748c78dd52d2ca3ef2b86590e0259e2bb20a1f8550419f07154",
+  "files": [
+    {
+      "archiveName": "source/original-story-en-GB.md",
+      "path": "stories/samma-fraga-83-ganger-innan-lunch/source/original-story-en-GB.md",
+      "size": 10262,
+      "sha256": "f753da3549397a5d2eea87c171c53fdda43399a9a4c94d04459fd1a67f1495c8",
+      "sourceClass": "DERIVED_TRANSLATION"
+    }
+  ],
+  "status": "TEXT_ALREADY_PUBLISHED_VIA_GITHUB_CONNECTOR"
+}

@@ -1,0 +1,49 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "jobbet-ingen-kunde-bestrida",
+  "locale": "sv-SE",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "jobbet-ingen-kunde-bestrida-sv-SE-backfill-v2.zip",
+  "packageSha256": "8c5a23f4d0ccc4ffa9862f70d2966600c11b131eeeb07a6d1e727c00c4bdb0a0",
+  "files": [
+    {
+      "archiveName": "source/original-story-sv-SE.md",
+      "path": "stories/jobbet-ingen-kunde-bestrida/source/original-story-sv-SE.md",
+      "size": 11388,
+      "sha256": "0c472c7757017f003afc7342487ee84a93b5894b2ac5c8d808a282a3ac695a64",
+      "sourceClass": "EXACT_ORIGINAL"
+    },
+    {
+      "archiveName": "sv-SE/images/cover_00.png",
+      "path": "stories/jobbet-ingen-kunde-bestrida/sv-SE/images/cover_00.png",
+      "size": 3163864,
+      "sha256": "bb97460b4a691c62cd58f2393855b7c01059fac629ef4f4159fd7b83c29f6231",
+      "sourceClass": "EXACT_ORIGINAL"
+    },
+    {
+      "archiveName": "sv-SE/images/panel_01.png",
+      "path": "stories/jobbet-ingen-kunde-bestrida/sv-SE/images/panel_01.png",
+      "size": 2956380,
+      "sha256": "2a796d475a470868e03d9c66d330a202339604600d710300c8f7e81ecd82a4a4",
+      "sourceClass": "EXACT_ORIGINAL"
+    },
+    {
+      "archiveName": "sv-SE/images/panel_08.png",
+      "path": "stories/jobbet-ingen-kunde-bestrida/sv-SE/images/panel_08.png",
+      "size": 2989493,
+      "sha256": "b0bacf964fade0a5a531b0f2c237600e667e45ba2de14748c09b43ea2cf40bc1",
+      "sourceClass": "EXACT_ORIGINAL"
+    },
+    {
+      "archiveName": "sv-SE/historical/cover_00-earlier-attempt.png",
+      "path": "stories/jobbet-ingen-kunde-bestrida/sv-SE/historical/cover_00-earlier-attempt.png",
+      "size": 3346314,
+      "sha256": "5c9f56a91902f640ca3bf3c0761338938fedb43d299e56d8520589d3faeba781",
+      "sourceClass": "EXACT_ORIGINAL"
+    }
+  ]
+}

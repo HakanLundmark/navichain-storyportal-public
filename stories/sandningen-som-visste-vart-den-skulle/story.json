@@ -1,0 +1,110 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "SÄNDNINGEN SOM VISSTE VART DEN SKULLE",
+  "subtitle": "Sanna och ordern som blev tre — utan att bli tre olika historier",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "narrativeMasterStatus": "SOURCE_PRESENT_NOT_EXPLICITLY_VERSION_LOCKED",
+  "originalStoryPath": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.md",
+  "originalStorySha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+  "originalStoryGitBlobSha": "e0488893ef2b29f91966eecce9a57a708f990ded",
+  "englishStoryPath": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.en-GB.md",
+  "englishStorySourceClass": "DERIVED_TRANSLATION",
+  "englishStorySha256": "92744d0a088011399f161e539ab5136fdc701906347cfa2413e25c202a332c03",
+  "englishStoryGitBlobSha": "d6e6a8566c09da9cd45b94cad4171b89f986cb33",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredReleaseAssets": 14,
+      "historicalSourceInventory": {
+        "status": "COMPLETE_FOR_CANONICAL_VISUAL_SLOTS_IN_CURRENT_RUNTIME",
+        "exactOriginalHistoricalRendersFound": 14,
+        "chatRecovered": 0,
+        "sourceNotExportableCanonicalSlots": [],
+        "notCreatedCanonicalSlots": [],
+        "qaUnknown": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09"],
+        "qaRebuildRequired": ["panel_10","panel_11","panel_12","cta_13"]
+      },
+      "githubPublishedBinaryAssets": 0,
+      "githubBinaryStatus": "GITHUB_PUBLISH_FAILED",
+      "completeReleasePublished": false,
+      "releaseEligible": false,
+      "preparedPublisherPackage": {
+        "filename": "sandningen-som-visste-vart-den-skulle-sv-SE.retro-v2-current-package.zip",
+        "size": 203009399,
+        "sha256": "30ffb22283aaab81fc461bdb62c59b6b68540682d8d0038d12912961aa2cdc76",
+        "fileCount": 20,
+        "localIntegrity": "PASS"
+      },
+      "missingReleaseComponents": [
+        "14/14 historical candidates are not 14/14 PASS/LOCKED",
+        "release-grade 14-page PDF",
+        "LinkedIn/social copy",
+        "final raster/PDF release QA",
+        "release manifest",
+        "release ZIP",
+        "explicit Story Lock/master version"
+      ]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "storyTranslation": {
+        "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.en-GB.md",
+        "sourceLocale": "sv-SE",
+        "translationType": "faithful",
+        "sourceClass": "DERIVED_TRANSLATION",
+        "narrativeMaster": false,
+        "sourceStorySha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+        "sha256": "92744d0a088011399f161e539ab5136fdc701906347cfa2413e25c202a332c03",
+        "readBackVerified": true
+      },
+      "requiredReleaseAssets": 14,
+      "notCreatedCanonicalImageAssets": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "githubPublishedBinaryAssets": 0,
+      "completeReleasePublished": false,
+      "preparedPublisherPackage": {
+        "filename": "sandningen-som-visste-vart-den-skulle-en-GB.retro-v2-current-package.zip",
+        "size": 10103,
+        "sha256": "7bf453d87f638f899bae220417423368868d893d432308f09bc43be0cacadd72",
+        "fileCount": 1,
+        "localIntegrity": "PASS",
+        "githubTextPublication": "VERIFIED"
+      }
+    }
+  },
+  "otherContent": {
+    "originalStory": "EXACT_ORIGINAL_GITHUB_VERIFIED",
+    "englishStory": "DERIVED_TRANSLATION_GITHUB_VERIFIED",
+    "historicalPdf": "EXACT_ORIGINAL_NOT_RELEASE_READY_PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED",
+    "historicalArchiveZip": "EXACT_ORIGINAL_NOT_RELEASE_READY_PACKAGE_READY_GITHUB_BINARY_NOT_PUBLISHED",
+    "social": "NOT_CREATED",
+    "qa": "RETRO_BACKFILL_V2_CURRENT_RUNTIME_QA_PUBLISHED",
+    "manifest": "RETRO_BACKFILL_V2_CURRENT_RUNTIME_MANIFEST_PUBLISHED",
+    "sources": "PROJECT_REFERENCES_INVENTORIED",
+    "completeArchive": {
+      "filename": "sandningen-som-visste-vart-den-skulle-retro-backfill-v2-current-complete.zip",
+      "size": 417770734,
+      "sha256": "c56c140ef23049bbdc1ef09dfe355a9036194c45499ef6510a2ed751119da755",
+      "integrity": "PASS"
+    }
+  },
+  "productTruthBoundaries": {
+    "hubMultiLeg": "A new booking in multi-stop/hub mode plus hub rows can create a master booking and one child per leg; each child can be planned on a different run. Saved multi-stop/hub records are currently read-only and must be cancelled/recreated to correct them.",
+    "driverVisibility": "Do not claim a verified driver-facing '2 of 3 / same order' master-child indicator.",
+    "masterStatus": "Do not claim an automatically aggregated child-to-master completion percentage/progress rollup."
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T19:39:00+02:00",
+    "status": "PARTIAL_BACKFILL",
+    "manifestPath": "stories/sandningen-som-visste-vart-den-skulle/manifest/retro-backfill-v2-current-runtime.json",
+    "qaPath": "stories/sandningen-som-visste-vart-den-skulle/qa/retro-backfill-v2-current-runtime.md",
+    "automaticTransportRequested": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+    "automaticTransportResult": "NOT_INVOKABLE_FROM_ASSISTANT_RUNTIME",
+    "githubPublishedBinaryAssets": 0,
+    "binaryStatus": "GITHUB_PUBLISH_FAILED",
+    "completeSynced": false
+  }
+}

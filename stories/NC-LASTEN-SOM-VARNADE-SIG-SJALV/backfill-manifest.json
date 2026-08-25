@@ -1,0 +1,77 @@
+{
+  "schema": "navichain-story-backfill-v1",
+  "storyId": "NC-LASTEN-SOM-VARNADE-SIG-SJALV",
+  "title": "Lasten som varnade sig själv",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionNote": "No explicit locked master version was produced in this chat.",
+  "inventoryTimestamp": "2026-08-23T10:46:00+02:00",
+  "canonicalStory": {
+    "status": "EXISTS_AND_EXPORTABLE",
+    "source": "ORIGINAL_STORY.md",
+    "sha256": "c7c28790b67205932cb16c883d073dccf46079cf823db8ffa345ddf105feb533"
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "assets": {
+        "cover_00": {"sourceFile":"säker_last_vid_lastkajen.png","size":2831920,"sha256":"6eb1c07881e34c54e5bb34377c0417648c1baa8bc73d355b34ec5428496735a4"},
+        "panel_01": {"sourceFile":"tidspress_vid_lastkajen.png","size":2841522,"sha256":"b8a35222bc43e634bb41681ace7b0e17b54b21ea9c6fe793e0b7b2b55421a8f5"},
+        "panel_02": {"sourceFile":"säker_lastning_vid_lastkajen.png","size":2834580,"sha256":"be7eaff6b9ef6a5daed728561adba0cc6650e16074e974375a1e6c1697d2d377"},
+        "panel_03": {"sourceFile":"dold_risk_vid_lastkajen.png","size":2812177,"sha256":"0dc6035002ee4dbc2e791806691200047d8c4a80a580f2a1c1db3fff8f512f09"},
+        "panel_05": {"sourceFile":"pressad_av_radion_i_lastbilshytten.png","size":2725004,"sha256":"80a054d959b525aecf42bde1b5b6a72d6a38750919b87cf6f9ea0e4fad4c9404"},
+        "panel_06": {"sourceFile":"lastbilen_lämnar_port_4.png","size":2690834,"sha256":"7995856be108969f39c5471eea8e7ba53819070dc3bb9c12a7919ae55fba6442"},
+        "panel_10": {"sourceFile":"digital_adr_kontroll_vid_lastkajen.png","size":2885727,"sha256":"2343bfbfe6bdc6a2f290249752e8fa5f6af1ae8b9933bf474ed23e58f2f65c0f"},
+        "panel_11": {"sourceFile":"säker_avfärd_från_industriområdet.png","size":2751951,"sha256":"1a5b382e4d3637b433d9a94b91cd73f7659a3c0fdec54203c1a38bbd7c25fbe3"},
+        "panel_12": {"sourceFile":"terminalkaffe_och_trygghet_i_vardagen.png","size":2744854,"sha256":"ba3c2cf1642640dd5b9b69a27480b2c704eda312e76ee3392a8d8a88cc0136c3"},
+        "cta_13": {"sourceFile":"säker_last_i_solnedgången.png","size":2895951,"sha256":"956566e6f959fb119f8aa07f0a9b2379f4851ae837d413a34dd08128172e7d49"}
+      },
+      "missing": [],
+      "existsButNotExportable": ["panel_04","panel_07","panel_08","panel_09"],
+      "pdf": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"Navichain-Lasten-som-varnade-sig-sjalv-SV-SE-carousel.pdf","size":15077392,"sha256":"ac3d95b3532ac2628ffbd24b069526e296c6f577a556d7f7031e43f6d7ac68b9"},
+      "social": "MISSING",
+      "releaseQa": "MISSING",
+      "releaseManifest": "MISSING"
+    },
+    "en": {
+      "status": "INCOMPLETE",
+      "assets": {
+        "cover_00": {"sourceFile":"lasten_som_stoppade_faran.png","size":2786061,"sha256":"38b379a9d3a11805f771bbb4e7dde6cbd672a0a8cc889cf205dc0f156f750977"},
+        "panel_01": {"sourceFile":"regnig_morgon_vid_lastkajen.png","size":2720907,"sha256":"79259512f1dd067ec1c7f80febbb5f9d51f00fbc17414bacb62ccccc860e5247"},
+        "panel_02": {"sourceFile":"sonja_prickar_av_säkerhetslistan.png","size":2745711,"sha256":"a3addd391b667ebf62136c57ac519aab2eeffb1d521a7ef094f243d12f620ed2"},
+        "panel_03": {"sourceFile":"dold_risk_i_lastområdet.png","size":2844702,"sha256":"e66a68cc19f5761fdc3464ae7daf3ec8f3204b76ca8fc81b84445c29201f5d98"},
+        "panel_04": {"sourceFile":"erik_stänger_dörrarna_vid_kaj_4.png","size":2728254,"sha256":"4a0f20a77b934cf249e1c28773d782793a660ebe1c776e73057a69b23a9435fd"},
+        "panel_05": {"sourceFile":"lastbilshyttens_svåra_beslut.png","size":2749362,"sha256":"269e01af36d3d2c5b131e89d7d4acfdba197e717951b30b099ae78db1e9c5111"},
+        "panel_06": {"sourceFile":"lastbilsföraren_vid_port_4.png","size":2524772,"sha256":"f6709571997614339ec97363a03bb8a52599c9e5b76fda0009b7af70033d6355"},
+        "panel_07": {"sourceFile":"adr_varning_i_lastbilshytten.png","size":2665548,"sha256":"cc74a34ace23a494c9f395f99e75ba20d6373c75365bc213d4055c51681e10ca"},
+        "panel_08": {"sourceFile":"säkerhetskontroll_vid_lastkajen.png","size":2730161,"sha256":"f1549d9297a747d3831ff4e2d2aaa70fe9e675826f81ebdd6b5ce48d9c89e99c"},
+        "panel_10": {"sourceFile":"dokumenterad_och_korrekt_adr_last.png","size":2596423,"sha256":"ea2aecebe29c63af8f9a4b093cdf96b5870e302556a50f8b89fe03b62adcdec3"},
+        "panel_11": {"sourceFile":"säker_avfärd_från_terminalen.png","size":2679157,"sha256":"54042bad0d8daee09d1cb1ee74cd05f8ea7b4f545cd1d68b20d1fb0dfe694bf5"},
+        "panel_12": {"sourceFile":"trygghet_före_kaffet_kallnar.png","size":2680973,"sha256":"1c2af97bf9f578951c208a28fbf227a34c2f88056666cf691073561b71249d3c"},
+        "cta_13": {"sourceFile":"säker_lastning_vid_godkänd_rutt.png","size":2737063,"sha256":"0d5a5bfcd6f4915b26ed2d4a874d26b54a5115bf8d2bf4d80e7ff9a3fba39a90"}
+      },
+      "missing": [],
+      "existsButNotExportable": ["panel_09"],
+      "pdf": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"Navichain-The-Cargo-That-Sounded-the-Alarm-EN-carousel.pdf","size":4224464,"sha256":"7f8dde0c12ef2a6432761acfc0f927f7deac67041f9c578f708e4573696941e1"},
+      "social": "MISSING",
+      "releaseQa": "MISSING",
+      "releaseManifest": "MISSING"
+    }
+  },
+  "sources": {
+    "productTruth": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"NAVICHAIN-PRODUCT-TRUTH.md","size":89312,"sha256":"65565302cba1ee1273f0cce1f1e8157e049646de5077611ee3224582af541a00"},
+    "marketTruth": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"Navichain_Market_Truth_MASTER_v1.0.md","size":113105,"sha256":"1a87e0cb6e6ce0edd8e01e9a8cdbe3e8663c738061121f2be209c75729a23027"},
+    "officialLogo": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"NAVICHAIN-OFFICIAL-LOGO.png","size":15270,"sha256":"2ab9689a52f8d84cbc2c2cce4d022b24d1176c6a30f1988199de268caa8902db"},
+    "signupQrReference": {"status":"EXISTS_AND_EXPORTABLE","sourceFile":"Korrekt QR kod till signup.png","size":367480,"sha256":"62259a2001197057fdf39d6500caf851396c347d968b7a1fc7e493700ad3b60e"}
+  },
+  "rawAlternateArtifacts": [
+    {"purpose":"earlier sv-SE cover render","status":"EXISTS_AND_EXPORTABLE","sourceFile":"lasten_som_varnade_sig_själv.png","size":3181001,"sha256":"d0940aca6f7d31b05bab7d66efbdb0b1fa1315fad2c20551a7fb8a3c8bd7b827"},
+    {"purpose":"earlier en panel_10 render","status":"EXISTS_AND_EXPORTABLE","sourceFile":"dokumenterad_adr_last_vid_kajen.png","size":2778397,"sha256":"080cdc5a7d2c947d4b41bc118fe7caea3876370f4cb86a8896d0f3d3e8bae0ce"},
+    {"purpose":"earlier en CTA render","status":"EXISTS_AND_EXPORTABLE","sourceFile":"imagegen.png","size":2812865,"sha256":"d2d89d1dad99f1b705df70f8fb6711c1e762d53645daf5cbf42d8c456991abd3"}
+  ],
+  "releaseEligibility": {
+    "sv-SE": false,
+    "en": false,
+    "reason": "Exactly 14 exporterable original image assets are required per locale."
+  }
+}

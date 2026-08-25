@@ -1,0 +1,18 @@
+{
+  "locale": "en-GB",
+  "masterVersion": "1.0.0",
+  "status": "INCOMPLETE",
+  "verifiedOriginalAssetCount": 2,
+  "requiredAssetCount": 14,
+  "available": ["cover_00", "panel_01"],
+  "missing": ["panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+  "existsButNotExportable": [],
+  "otherContent": {
+    "ORIGINAL_STORY": "USES_SHARED_CANONICAL_SV_SE_MASTER",
+    "PDF": "MISSING",
+    "social": "MISSING",
+    "QA": "MISSING",
+    "manifest": "MISSING",
+    "sources": "MISSING"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema": "navichain-storyportal-upload-v1",
+  "storyId": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+  "storySlug": "rabatten-ingen-kunde-forklara-sparet-som-fanns-kvar-anda",
+  "title": "Rabatten ingen kunde förklara — spåret som fanns kvar ändå",
+  "masterLanguage": "sv-SE",
+  "masterVersion": null,
+  "exportedAt": "2026-08-24T17:29:00+02:00",
+  "source": "chatgpt-current-story-chat",
+  "originalStory": {
+    "path": "source/original-story-sv-SE.md",
+    "status": "present",
+    "sourceClass": "EXACT_ORIGINAL",
+    "narrativeMaster": true
+  },
+  "englishStory": {
+    "path": "source/original-story-en-GB.md",
+    "status": "present",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceLocale": "sv-SE",
+    "narrativeMaster": false
+  },
+  "locales": ["sv-SE", "en-GB"],
+  "assets": {
+    "sv-SE": {
+      "exactOriginalCanonicalSlots": 11,
+      "exactOriginalHistoricalCandidates": 2,
+      "sourceNotExportable": ["panel_05", "panel_12"],
+      "notCreated": ["cta_13"]
+    },
+    "en-GB": {
+      "textOnly": true,
+      "visualAssetsCreated": 0
+    }
+  },
+  "pdfs": {},
+  "social": {},
+  "qa": {
+    "export": "PASS_FOR_HISTORICAL_PACKAGE",
+    "releaseStatusKnown": false,
+    "localeReleaseEligible": false
+  },
+  "publishPolicy": {
+    "portalMayImportIncompletePackage": true,
+    "portalMayPublishIncompleteStory": false,
+    "githubSyncAfterSuccessfulPortalImport": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "utgangen-besiktning-den-som-aldrig-lamnade-garden",
+  "storyIdAuthority": "backfill-derived-from-title",
+  "title": "Utgången besiktning — den som aldrig lämnade gården",
+  "masterLocale": "sv-SE",
+  "masterVersion": "wip-2026-08-17",
+  "status": "INCOMPLETE",
+  "originalStory": {
+    "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/ORIGINAL_STORY.md",
+    "status": "EXISTS_AND_EXPORTABLE",
+    "note": "Exact source brief supplied in this chat. A separately persisted fully corrected Narrative Master was not available as a standalone source file."
+  },
+  "sourceNarrative": {
+    "narrativeMaster": {
+      "locale": "sv-SE",
+      "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/source/original-story-sv-SE.md",
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "ee2a40a7d23cc3f9a945cbcd0f5bd4dc35f126f7514401d999ac06215d7b02fe",
+      "gitBlobSha": "17973b23cc52d3ae1a6b20def4261ce081b38d38",
+      "githubReadBack": "PASS"
+    },
+    "translations": {
+      "en-GB": {
+        "path": "stories/utgangen-besiktning-den-som-aldrig-lamnade-garden/source/original-story-en-GB.md",
+        "sourceLocale": "sv-SE",
+        "translationType": "faithful",
+        "narrativeMaster": false,
+        "sourceClass": "DERIVED_TRANSLATION",
+        "sourceStorySha256": "ee2a40a7d23cc3f9a945cbcd0f5bd4dc35f126f7514401d999ac06215d7b02fe",
+        "sha256": "dc13a729624365d1807887c1caa77c3c1c65c945d25f371e4084912bf2f67e21",
+        "gitBlobSha": "a5521207728613b997c87a5a4fa9b0323412e51f",
+        "githubReadBack": "PASS"
+      }
+    }
+  },
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "requiredAssetCount": 14,
+      "exactOriginalCanonicalAssetsAccessible": 13,
+      "sourceNotExportable": [
+        "images/panel_04.png",
+        "carousel/utgangen_besiktning_den_som_aldrig_lamnade_garden_sv-SE.pdf"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "qaState": "BLOCKED",
+      "releaseEligible": false
+    }
+  },
+  "retroBackfillV2": {
+    "performedAt": "2026-08-24T17:29:00+02:00",
+    "binarySourceState": "13_CANONICAL_EXACT_ORIGINAL_BYTES_ACCESSIBLE; PANEL_04_SOURCE_NOT_EXPORTABLE",
+    "historicalPdfState": "SOURCE_NOT_EXPORTABLE",
+    "binaryGitHubState": "NOT_PUBLISHED_FROM_CURRENT_RUNTIME",
+    "automaticTransportState": "CHROME_NEXTCLOUD_ROUTER_PUBLISHER_NOT_EXPOSED_AS_CALLABLE_RUNTIME_TOOL",
+    "packageFile": "utgangen-besiktning-den-som-aldrig-lamnade-garden-storyportal-export-20260824-1729.zip",
+    "packageSha256": "2fff5db017cbb85148cb7579ba442390b58a391bf9b9d8e3c4e28d6d364dd228",
+    "provenanceQaSeparated": true,
+    "releaseStatusUnchanged": "INCOMPLETE"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "JA-SOM-BLEV-BOKAT-DIREKT",
+  "title": "JA SOM BLEV BOKAT, DIREKT",
+  "subtitle": "Susanne och offerten som blir en bokning i samma ögonblick kunden säger ja",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "protagonist": "Susanne Dahl",
+  "company": "Björklunda Åkeri AB",
+  "status": "PARTIAL_BACKFILL",
+  "narrativeMaster": {
+    "path": "stories/JA-SOM-BLEV-BOKAT-DIREKT/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "6bdf4920a3eff5cd3d9231c857932261bdbb40d4f37d1d6d1ba1e0049a4c5ad8",
+    "qaStatus": "CANONICAL_NARRATIVE_MASTER",
+    "narrativeMaster": true
+  },
+  "englishStory": {
+    "path": "stories/JA-SOM-BLEV-BOKAT-DIREKT/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "translationType": "faithful",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceStorySha256": "6bdf4920a3eff5cd3d9231c857932261bdbb40d4f37d1d6d1ba1e0049a4c5ad8",
+    "sha256": "b29cd0633d6ec4ece7589dc22ff4433e65aec46ecafd4d9de6e88fed6ef6fd01",
+    "narrativeMaster": false,
+    "githubPublished": true
+  },
+  "locales": {
+    "sv-SE": {
+      "historicalSourceStatus": "COMPLETE",
+      "historicalQaStatus": "PASS",
+      "historicalExactOriginalVisualAssets": 14,
+      "canonicalAssetIds": [
+        "cover_00", "panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06",
+        "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"
+      ],
+      "githubPublishedBinaryAssets": 0,
+      "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+      "pdf": {
+        "sourceClass": "EXACT_ORIGINAL",
+        "qaStatus": "PASS",
+        "exportable": true,
+        "githubPublished": false,
+        "sha256": "0ee87ca06d736ca99f510c2daed35e32a5897755299d535ea146b2ac5604915d"
+      },
+      "githubPublishedTextArtifacts": [
+        "source/original-story-sv-SE.md",
+        "sv-SE/social/linkedin-sv-SE.txt",
+        "sv-SE/qa/raster-qa.txt",
+        "sv-SE/qa/release-qa.txt",
+        "sv-SE/manifest/release-manifest.json",
+        "retro-v2/inventory.json"
+      ]
+    },
+    "en-GB": {
+      "textOnlyDerivedTranslation": true,
+      "textTranslationGithubPublished": true,
+      "approvedVisualAssets": 0,
+      "sourceNotExportableRejectedVisualAttempts": [
+        "cover_00", "panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08"
+      ],
+      "notCreatedVisualAssets": ["panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "qa": "NOT_CREATED",
+      "releaseManifest": "NOT_CREATED"
+    }
+  },
+  "standaloneProductionStateArtifacts": {
+    "storyDNA": "SOURCE_NOT_EXPORTABLE",
+    "continuityContract": "SOURCE_NOT_EXPORTABLE",
+    "castLock": "SOURCE_NOT_EXPORTABLE",
+    "characterLock": "SOURCE_NOT_EXPORTABLE",
+    "vehicleEnvironmentLock": "SOURCE_NOT_EXPORTABLE",
+    "preflightReport": "SOURCE_NOT_EXPORTABLE",
+    "storyLockRecord": "SOURCE_NOT_EXPORTABLE",
+    "realityValidationReport": "SOURCE_NOT_EXPORTABLE",
+    "correctionLog": "SOURCE_NOT_EXPORTABLE",
+    "localizationNotes": "SOURCE_NOT_EXPORTABLE"
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "packages": {
+    "sv-SE": {
+      "filename": "JA-SOM-BLEV-BOKAT-DIREKT-sv-SE-retro-v2.zip",
+      "sha256": "e01d8cf77a4d9b4255929378c9ae53967d337e36d21f700eebd43d44c7ae629b"
+    },
+    "en-GB": {
+      "filename": "JA-SOM-BLEV-BOKAT-DIREKT-en-GB-retro-v2.zip",
+      "sha256": "0f56b624edfbe31cc400c114ef94c42f46186386c57e9f6db32405b240779253"
+    }
+  },
+  "publishRequests": {
+    "sv-SE": {
+      "filename": "JA-SOM-BLEV-BOKAT-DIREKT-sv-SE.publish.json",
+      "sha256": "2967700427949e529d8421447ed76d206311f060097d0f68c02ce36712c0d8a9"
+    },
+    "en-GB": {
+      "filename": "JA-SOM-BLEV-BOKAT-DIREKT-en-GB.publish.json",
+      "sha256": "5e5320332c08ced3428431f8aa78737122f4255809d5f2acadb5df968d373d5f"
+    }
+  },
+  "checkedAt": "2026-08-24T22:21:00+02:00"
+}

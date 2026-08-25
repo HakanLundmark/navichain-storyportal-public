@@ -1,0 +1,20 @@
+{
+  "schema": "navichain-local-publish-request-v1",
+  "autoPublish": true,
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "storyId": "lappen-som-antligen-har-en-agare",
+  "locale": "en-GB",
+  "testMode": false,
+  "metadataMode": "story",
+  "packageFile": "lappen-som-antligen-har-en-agare-en-GB-retro-backfill-v2.zip",
+  "packageSha256": "0c0e9ee0e3d433c51dbf7612ddcbdc3e35df924de9ac78343cfb0ee49ddb3d46",
+  "files": [
+    {"archiveName":"source/original-story-en-GB.md","path":"stories/lappen-som-antligen-har-en-agare/source/original-story-en-GB.md","size":10693,"sha256":"a2599e3b5ca716e36d9656108fd4a123782ad014933457d4161ad95a32004c80","sourceClass":"DERIVED_TRANSLATION"},
+    {"archiveName":"en-GB/images/cover_00.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/cover_00.png","size":1675026,"sha256":"32601cb2ce16f738f155c50da03116bebc12a126e8a68fb1d7777e03e83a1018","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"en-GB/images/panel_01.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_01.png","size":2470944,"sha256":"751da8cbd591ab63b2f6adc5f4d89e1257e076bc2648c1031dde3c8c503d0aee","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"en-GB/images/panel_05.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_05.png","size":1881020,"sha256":"bd5ae48e650448bc41f5fff60da2d54de5db3cb2dea863976dbd2c67e6120a80","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"en-GB/images/panel_06.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_06.png","size":2403486,"sha256":"73258ab7fa86c4ef9d61dfb04463a53915f63dc0078a887161eb4237481686d3","sourceClass":"EXACT_ORIGINAL"},
+    {"archiveName":"en-GB/images/panel_07.png","path":"stories/lappen-som-antligen-har-en-agare/en-GB/images/panel_07.png","size":2074918,"sha256":"e708b91241a933660b9422d1bc13443605aeeb33e2a6e140ab33d34425974117","sourceClass":"EXACT_ORIGINAL"}
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema": "navichain-retro-backfill-v2-execution-summary",
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "executionStatus": "PARTIAL_BACKFILL",
+  "releaseStatus": "INCOMPLETE",
+  "narrativeMaster": {
+    "path": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "acd66f041f370043b8b694facc747e9355546a3e46e9672f9d865ed11614e558",
+    "readBackVerified": true
+  },
+  "enGbStory": {
+    "path": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "3c747df90f39404842430891cef2e0cb22e60b14c073609ffcc1fed491acc3d5",
+    "readBackVerified": true
+  },
+  "social": {
+    "canonicalHistoricalPath": "stories/KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN/sv-SE/social/linkedin-sv-SE.txt",
+    "uniqueHistoricalRevisionsPublishedAsText": 3,
+    "readBackVerified": true
+  },
+  "canonicalSvSeImageBytesAccessible": 14,
+  "historicalAdditionalRenderBytesAccessibleInLocalRuntime": 44,
+  "historicalPdfBytesAccessible": 4,
+  "historicalArchivePackagesAccessible": 6,
+  "archiveExtractedExactTextMetadataMembers": 24,
+  "githubPublishedCanonicalBinaryImages": 0,
+  "binaryPublishStatus": "GITHUB_PUBLISH_FAILED",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME_IN_CURRENT_RUNTIME",
+  "nextcloudStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "localPackage": {
+    "filename": "KRON-ELTEKNIK-04-retro-backfill-v2.zip",
+    "size": 1111823779,
+    "sha256": "96a1d9100cb3271b644759eb0a32e3e6df4972887e48333222d5c03f88aef0f1"
+  },
+  "publishRequest": {
+    "filename": "KRON-ELTEKNIK-04-retro-backfill-v2.publish.json",
+    "sha256": "5db27a1f51f8b061744779122987610b432738ffaaa7d196928fd5eb962b8414",
+    "wrapperFilename": "KRON-ELTEKNIK-04-retro-backfill-v2.publish.zip",
+    "wrapperSha256": "dac317036675d01c411f1dae8e97922ff6c12ccd31626735336bcb7305bf15cf",
+    "autoPublish": true,
+    "transportExecuted": false
+  },
+  "notes": [
+    "No visual was rerendered, reconstructed, cropped, restyled, filled in or replaced.",
+    "Provenance and historical QA status were kept separate.",
+    "Historical exact-byte availability does not promote any asset to PASS/LOCKED.",
+    "stories/index.json already contains this story as INCOMPLETE/PARTIAL_BACKFILL and was read back from main during this execution."
+  ]
+}

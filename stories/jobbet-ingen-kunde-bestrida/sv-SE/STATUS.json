@@ -1,0 +1,40 @@
+{
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "completeReleasePublished": false,
+  "canonicalReleaseAssetsRequired": 14,
+  "historicalCanonicalCandidatesFound": 3,
+  "historicalExtraCandidatesFound": 1,
+  "githubPublishedBinaryAssets": 0,
+  "exactOriginalLocalBinaries": {
+    "cover_00": {
+      "qaStatus": "REBUILD_REQUIRED",
+      "sha256": "bb97460b4a691c62cd58f2393855b7c01059fac629ef4f4159fd7b83c29f6231"
+    },
+    "panel_01": {
+      "qaStatus": "REBUILD_REQUIRED",
+      "sha256": "2a796d475a470868e03d9c66d330a202339604600d710300c8f7e81ecd82a4a4"
+    },
+    "panel_08": {
+      "qaStatus": "REBUILD_REQUIRED",
+      "sha256": "b0bacf964fade0a5a531b0f2c237600e667e45ba2de14748c09b43ea2cf40bc1"
+    }
+  },
+  "historicalExtra": {
+    "cover_00-earlier-attempt": {
+      "qaStatus": "REBUILD_REQUIRED",
+      "sha256": "5c9f56a91902f640ca3bf3c0761338938fedb43d299e56d8520589d3faeba781"
+    }
+  },
+  "notCreated": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_09","panel_10","panel_11","panel_12","cta_13"],
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED",
+  "releaseQa": "NOT_CREATED",
+  "releaseManifest": "NOT_CREATED",
+  "sourceText": {
+    "sv-SE": "EXACT_ORIGINAL",
+    "en-GB": "DERIVED_TRANSLATION"
+  },
+  "binaryBackfillStatus": "GITHUB_BINARY_NOT_VERIFIED",
+  "finalStatus": "PARTIAL_BACKFILL"
+}

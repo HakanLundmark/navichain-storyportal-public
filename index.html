@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="theme-color" content="#f5eedf" />
+  <meta name="robots" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+  <meta name="googlebot" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+  <meta name="bingbot" content="noindex,nofollow,noarchive,nosnippet,noimageindex" />
+  <title>Navichain Story Portal</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="recovery.css" />
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="Navichain Story Portal, home">
+      <span><strong>NAVICHAIN</strong><small>Story Portal</small></span>
+    </a>
+    <div class="topbar-meta" id="topbarMeta">Loading library…</div>
+  </header>
+
+  <main id="app" class="shell" aria-live="polite">
+    <section class="hero">
+      <p class="eyebrow">COMIC STUDIO LIBRARY</p>
+      <h1>Every story. Every language. Every asset.</h1>
+      <p>Browse Swedish master stories, localized editions, current images, QA and recovery provenance — even while a story is still incomplete.</p>
+    </section>
+    <div class="loading-card">Loading story catalog…</div>
+  </main>
+
+  <template id="storyCardTemplate">
+    <article class="story-card">
+      <button class="story-card-button" type="button">
+        <div class="cover-frame"><div class="cover-placeholder">NAVICHAIN<br><span>STORY</span></div></div>
+        <div class="story-card-body">
+          <div class="badge-row"></div>
+          <h2></h2>
+          <p class="story-id"></p>
+          <div class="tag-row"></div>
+          <div class="card-footer"></div>
+        </div>
+      </button>
+    </article>
+  </template>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

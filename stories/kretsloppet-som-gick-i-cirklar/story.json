@@ -1,0 +1,84 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "kretsloppet-som-gick-i-cirklar",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "KRETSLOPPET SOM GICK I CIRKLAR",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "PARTIAL_BACKFILL",
+  "locales": {
+    "sv-SE": {
+      "status": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+      "canonicalAssets": 14,
+      "exactOriginalCanonicalAssetsAccessible": 14,
+      "githubPublishedBinaryAssets": 0,
+      "pdf": "NOT_CREATED",
+      "social": "NOT_CREATED",
+      "path": "stories/kretsloppet-som-gick-i-cirklar/sv-SE"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "canonicalReleaseAssets": 0,
+      "historicalVisualArtifactsAccessible": 5,
+      "derivedStoryTranslation": "GITHUB_VERIFIED",
+      "path": "stories/kretsloppet-som-gick-i-cirklar/en-GB"
+    }
+  },
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/kretsloppet-som-gick-i-cirklar/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "sha256": "58e32ea6c5be96901d5e5853dbaf462c615b733c0f967c438905594872887044",
+    "githubReadBackVerified": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/kretsloppet-som-gick-i-cirklar/source/original-story-en-GB.md",
+    "metadataPath": "stories/kretsloppet-som-gick-i-cirklar/source/original-story-en-GB.metadata.json",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sourceClass": "DERIVED_TRANSLATION",
+    "sourceStorySha256": "58e32ea6c5be96901d5e5853dbaf462c615b733c0f967c438905594872887044",
+    "sha256": "f794bc73c4d63ac74b8f3053c75dc0ae15a577b728841846330125ef1976de16",
+    "githubReadBackVerified": true
+  },
+  "retroBackfillV2": {
+    "checkedAt": "2026-08-24T17:27:00+02:00",
+    "inventoryItems": 83,
+    "sourceClassCounts": {
+      "EXACT_ORIGINAL": 63,
+      "DERIVED_TRANSLATION": 2,
+      "SOURCE_NOT_EXPORTABLE": 10,
+      "NOT_CREATED": 8,
+      "CHAT_RECOVERED": 0
+    },
+    "canonicalSvSeImagesAccessible": 14,
+    "canonicalSvSeImagesGithubVerified": 0,
+    "automaticTransport": {
+      "requestedChain": "ChatGPT -> Chrome download -> local capture -> Nextcloud archive -> hardened router -> publisher -> GitHub",
+      "status": "UNAVAILABLE_IN_CURRENT_CHAT_RUNTIME",
+      "nextcloudVerified": false,
+      "publisherVerified": false
+    },
+    "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+    "metadataStatus": "PARTIAL_VERIFY_PASS"
+  },
+  "localPackages": {
+    "sv-SE": {
+      "filename": "kretsloppet-som-gick-i-cirklar-sv-SE-retro-v2-package.zip",
+      "size": 114318150,
+      "sha256": "248b1b06662d1e7feecafde9943691b3f8df9d28214c2503a7cc93e12a0adbd5"
+    },
+    "en-GB": {
+      "filename": "kretsloppet-som-gick-i-cirklar-en-GB-retro-v2-package.zip",
+      "size": 16321500,
+      "sha256": "13a81074d96058d540f668f1f412b850f49f19ddbc854a8183299a63dc6df1ba"
+    },
+    "archives": {
+      "filename": "kretsloppet-som-gick-i-cirklar-archives-retro-v2-package.zip",
+      "size": 223326757,
+      "sha256": "d8ae1191ce1fb105e1cc50a0ed3ca4b9bbba556c44951c09503d4f9cc33692af"
+    }
+  },
+  "githubPublishFailure": "All 14 canonical sv-SE image originals are directly accessible in the source runtime, but the currently exposed ChatGPT GitHub connector does not accept a local binary file and transferring the multi-megabyte originals through inline base64 tool arguments is not feasible within the connector/model context. The requested Chrome/local-capture/Nextcloud/router/publisher chain is not exposed as an invokable integration in this chat runtime. No binary is therefore claimed as GitHub-synced without read-back."
+}

@@ -1,0 +1,10 @@
+{
+  "storyId": "KRON-ELTEKNIK-04-MANNEN-SOM-SKULLE-VARA-PA-TVA-STÄLLEN",
+  "locale": "sv-SE",
+  "sourceLocale": "sv-SE",
+  "narrativeMaster": true,
+  "sourceClass": "EXACT_ORIGINAL",
+  "sha256": "acd66f041f370043b8b694facc747e9355546a3e46e9672f9d865ed11614e558",
+  "size": 9846,
+  "sourceEvidence": "Exact canonical story text supplied in the original ChatGPT story conversation; byte-identical UTF-8 copy of repository ORIGINAL_STORY.md content used for the source artifact."
+}

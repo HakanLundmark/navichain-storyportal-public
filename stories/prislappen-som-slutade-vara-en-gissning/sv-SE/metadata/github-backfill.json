@@ -1,0 +1,13 @@
+{
+  "storyId": "prislappen-som-slutade-vara-en-gissning",
+  "locale": "sv-SE",
+  "backfillStatus": "INCOMPLETE",
+  "publishedStoryFiles": 8,
+  "updatedIndex": true,
+  "totalGitHubFilesWrittenOrUpdated": 9,
+  "publishedBinaryFiles": 0,
+  "binaryPublishFailure": "Available GitHub connector has no local-file upload parameter; binary originals were not reconstructed or substituted.",
+  "verifiedOriginalAssetsLocal": 14,
+  "social": "MISSING",
+  "releaseQA": "FAIL_REBUILD_REQUIRED"
+}

@@ -1,0 +1,12 @@
+{
+  "storyId": "NC-FEM-MINUTER-TILL-GRANSEN",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "1d6c7e518e07205563fae843d2cd700874ac768655433421b2d58ca7cf667f20",
+  "translationSha256": "9951fa3d95fec7cb4574002e3ebee1df28f4b3c391c13e3bf9a78c3b870d133b",
+  "sourcePath": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-sv-SE.md",
+  "path": "stories/NC-FEM-MINUTER-TILL-GRANSEN/source/original-story-en-GB.md"
+}

@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-derived-story-translation-v1",
+  "storyId": "KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/ORIGINAL_STORY.md",
+  "translationPath": "stories/KRON-ELTEKNIK-08-RATT-DEL-TILL-RATT-BIL/source/original-story-en-GB.md",
+  "sourceStoryGitBlobSha": "c00de13e7510cfa25bc33a1d5979b909d77f5116",
+  "translationGitBlobShaAtBackfill": "18755642b476655a2060a8e6875515d90dfd44f4",
+  "sourceStorySha256": null,
+  "comment": "Faithful text translation only. The sv-SE ORIGINAL_STORY.md remains the Narrative Master. No image locale render is implied by this file."
+}

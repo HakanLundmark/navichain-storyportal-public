@@ -1,0 +1,30 @@
+{
+  "storyId": "sandningen-som-visste-vart-den-skulle",
+  "locale": "en-GB",
+  "sourceLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "historicalBackfillStatus": "PARTIAL_BACKFILL",
+  "storyTranslation": {
+    "path": "stories/sandningen-som-visste-vart-den-skulle/ORIGINAL_STORY.en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "sha256": "92744d0a088011399f161e539ab5136fdc701906347cfa2413e25c202a332c03",
+    "sourceStorySha256": "ffc700b8020cc19acd132db78a182501e8e27a61a8aacd60d3267a0d0cbb8f90",
+    "githubReadBackVerified": true
+  },
+  "visuals": {
+    "requiredCanonicalVisualSlots": 14,
+    "notCreated": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+    "githubPublishedBinaryAssets": 0
+  },
+  "pdf": "NOT_CREATED",
+  "social": "NOT_CREATED",
+  "releaseQa": "NOT_CREATED",
+  "releaseManifest": "NOT_CREATED",
+  "releaseZip": "NOT_CREATED",
+  "releaseEligible": false,
+  "currentRuntimeManifest": "stories/sandningen-som-visste-vart-den-skulle/manifest/retro-backfill-v2-current-runtime.json",
+  "checkedAt": "2026-08-24T19:39:00+02:00"
+}

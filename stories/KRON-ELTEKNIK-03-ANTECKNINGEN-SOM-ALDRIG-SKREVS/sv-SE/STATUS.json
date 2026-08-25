@@ -1,0 +1,17 @@
+{
+  "storyId": "KRON-ELTEKNIK-03-ANTECKNINGEN-SOM-ALDRIG-SKREVS",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "exportableSourceRenderFiles": 22,
+  "canonicalSlotLatestRenderCount": 14,
+  "passLockedCanonicalAssets": 0,
+  "missingReleaseComponents": [
+    "14 PASS/LOCKED release images",
+    "PDF carousel",
+    "LinkedIn/social copy",
+    "release QA",
+    "release manifest",
+    "release ZIP"
+  ],
+  "existsButNotExportable": []
+}

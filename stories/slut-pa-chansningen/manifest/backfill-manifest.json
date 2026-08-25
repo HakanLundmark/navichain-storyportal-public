@@ -1,0 +1,16 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "slut-pa-chansningen",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "SLUT PÅ CHANSNINGEN",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "backfilledAt": "2026-08-23T08:49:00+02:00",
+  "source": "current-chat-and-directly-accessible-files",
+  "locales": {
+    "sv-SE": {"status": "INCOMPLETE", "verifiedExportableCanonicalAssets": 12, "requiredAssets": 14, "missing": [], "existsButNotExportable": ["cover_00", "panel_11"]},
+    "en-GB": {"status": "INCOMPLETE", "verifiedExportableCanonicalAssets": 9, "requiredAssets": 14, "missing": ["cta_13"], "existsButNotExportable": ["cover_00", "panel_07", "panel_08", "panel_09"]}
+  },
+  "otherContent": {"ORIGINAL_STORY": "present_from_chat_source", "sv-SE_PDF": "present_14_pages", "sv-SE_social": "present_from_chat_source", "QA": "export_qa_generated_during_backfill"},
+  "githubPublication": {"binaryAssetsPlanned": 0, "reason": "No locale is COMPLETE; partial binaries are inventoried but not published as a complete release."}
+}

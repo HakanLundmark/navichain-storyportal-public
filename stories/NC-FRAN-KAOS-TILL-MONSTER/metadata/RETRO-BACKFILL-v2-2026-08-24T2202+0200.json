@@ -1,0 +1,181 @@
+{
+  "schema": "navichain-retro-backfill-v2-report",
+  "storyId": "NC-FRAN-KAOS-TILL-MONSTER",
+  "title": "FRÅN KAOS TILL MÖNSTER",
+  "masterVersion": "1.0",
+  "checkedAt": "2026-08-24T22:02:00+02:00",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "result": "PARTIAL_BACKFILL",
+  "rules": {
+    "rerendered": false,
+    "reconstructed": false,
+    "croppedOrRestyled": false,
+    "provenanceSeparatedFromQa": true
+  },
+  "narrative": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "sha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb",
+      "githubPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-sv-SE.md",
+      "githubReadBack": "PASS",
+      "narrativeMaster": true
+    },
+    "en-GB": {
+      "sourceClass": "DERIVED_TRANSLATION",
+      "translationType": "faithful",
+      "sourceStorySha256": "dca7e0fb89c1c203f9619c085878f0c521461e11b513fcb931fe3b5eaa91efbb",
+      "sha256": "109a9e09ab0f8fd6cd76ef19fc265fc3dfa6ca35a92dbd3706588beee0b01f0d",
+      "githubPath": "stories/NC-FRAN-KAOS-TILL-MONSTER/source/original-story-en-GB.md",
+      "githubReadBack": "PASS",
+      "narrativeMaster": false
+    }
+  },
+  "canonicalVisualInventory": {
+    "sv-SE": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "count": 14,
+      "assetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "qaStatus": "HISTORICAL_PASS_NOT_REVALIDATED",
+      "githubPublishedCanonicalBinaryAssets": 0
+    },
+    "en-GB": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "count": 14,
+      "assetIds": [
+        "cover_00",
+        "panel_01",
+        "panel_02",
+        "panel_03",
+        "panel_04",
+        "panel_05",
+        "panel_06",
+        "panel_07",
+        "panel_08",
+        "panel_09",
+        "panel_10",
+        "panel_11",
+        "panel_12",
+        "cta_13"
+      ],
+      "qaStatus": {
+        "panel_05": "REBUILD_REQUIRED",
+        "otherAssets": "HISTORICAL_CANDIDATE_NOT_REVALIDATED"
+      },
+      "panel05Note": "The current exact panel_05 candidate is a later failed English-locale retry and remains REBUILD_REQUIRED; publishing it historically would not make it PASS or release-eligible.",
+      "githubPublishedCanonicalBinaryAssets": 0
+    }
+  },
+  "canonicalHashes": {
+    "sv-SE": {
+      "cover_00": "3cfd300af423063b5fbed8c9ec116223f35dedb67c411fde94635374434f52d3",
+      "panel_01": "1bd0457d807a3d905c57ffd01e751e0a05ad3522cec91fdb5f3067b18e0d9479",
+      "panel_02": "293fbbe44fd248b4210c8542216f6e964e9849f6482aff2e1e7ec2ce6591fae7",
+      "panel_03": "c7b6323f9e39ceeb5652a4eae513f3c5a82be47ca7ffc1dc13f6cb41019df240",
+      "panel_04": "d3a092f84e3e64f5006e6cf3c382bed88789e6b7f14735d300b6cd9c600d0596",
+      "panel_05": "879c6424df9c886fe82b7ab2d5122eb9a408b9fd8511096e5a6453be39b193af",
+      "panel_06": "f274c9ab754902a0b7adef3d65182aa833844281a3e75d648c95aafeb12a58c3",
+      "panel_07": "791ec44e1457d9f3923405be1b99a708eabe73bd285211a5b5889cbed479303d",
+      "panel_08": "504907d3f70a2f4bb559981b574a2eb8b05f6ff3e4f3acad490cfce0d122de58",
+      "panel_09": "4a2e794f19d4d994fb8e0e15dc605f1059d4e48f8003cdcd1931794e194cbfd7",
+      "panel_10": "d28a8cc7b37c62abf68bb658fc600e7d293d8e181aca1e97d2dc608011c4a0a5",
+      "panel_11": "cf71fbf7eaadc0dbadc2d6eea267d62522e462e5e0ca025787cbf47609aac2e9",
+      "panel_12": "55df391875652538ebfb9ad6b7784365553109dda3ca7d30a2dcf9d70da6d44b",
+      "cta_13": "3b8f040b0fb7884477c1af684c75588ba119a4ea3138afa7b446972f8bd39496"
+    },
+    "en-GB": {
+      "cover_00": "0c9c4bfb48aa11ef75ced935d3c8f3c2a675c9916ff432b09b2f83d4a0c1e063",
+      "panel_01": "8073377d820461561f49d9dd0b9a2e1c3b9b6ec7c762ccc65c6160a1212e5422",
+      "panel_02": "6ed2061544a31f4d81922694388401719a062762ccd1b1156c515357b0a6d3d7",
+      "panel_03": "ef287c6eb51a3c1730acde3a07a903fff4c995ebc72efe32c056e1b350241437",
+      "panel_04": "ed33560cd8d89d4b1ea1a53373973299044c1064c2f09ca76e774ecdf33b11e4",
+      "panel_05": "53ad0087b1613d8513c67eb87a6f2411e9ba3e2de87fe263ea0650c85dc2567f",
+      "panel_06": "3d7b96bdf128f4882e3eab47401e68e048fceb8e3fb91e7da9bd4a378581f9d5",
+      "panel_07": "a064289370b8afe94751eaa7323504200a8db1d034748c83704850718262bc85",
+      "panel_08": "80d5df774b6c02730268369d74756f5de206166a8edd44982095d3b856dc5492",
+      "panel_09": "5de83e003d26d5dea5fbdcc82e4d4fc667aeee52a76964242e06051724c90db2",
+      "panel_10": "922b10781cf4a33818f4107eed66e002676c4d18d44a37b444e8c5d12dc6edd5",
+      "panel_11": "ac408e27c34e45e55735a2604b40ce7248adcfa962d8954360477bde991c9aff",
+      "panel_12": "fc34feca37aef19f88ca6e6349625dca6b250ebf8b7bb86fc063847fc73d1778",
+      "cta_13": "6bc0aeeb57dcfcdc8a81bcab64ae674c019bc1db82c1fe381cc9c7fcc25d58d1"
+    }
+  },
+  "derivedHistoricalBinaries": {
+    "sv-SE-PDF": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 18817530,
+      "sha256": "aec9595e5edd88c60711b90792385faade7b7c188e185d142f47064698c2242b"
+    },
+    "en-GB-PDF-current": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 4874985,
+      "sha256": "93d36d72b1a2ad60544a4e02e2f2622da53fdaec255a076a9a5efaf18693cfd0",
+      "qaStatus": "REBUILD_REQUIRED"
+    },
+    "sv-SE-historical-release-ZIP": {
+      "sourceClass": "EXACT_ORIGINAL",
+      "size": 57627684
+    },
+    "historicalGeneratedRootPNGsArchived": 42,
+    "sourceAndRuleReferencesArchived": 16
+  },
+  "localPackages": {
+    "sv-SE": {
+      "filename": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.package.zip",
+      "size": 115196773,
+      "sha256": "a0e2666a32f85c399a4fb466f9078ab81fcdf782a396bdd2286d85d0368668bd",
+      "publishFileCount": 16,
+      "publishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.publish.json",
+      "wrappedRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-sv-SE.publish.zip"
+    },
+    "en-GB": {
+      "filename": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.package.zip",
+      "size": 93902114,
+      "sha256": "421c716718b75a40455b6ef4534be1cf3765204611738e8866e2bba825da1fce",
+      "publishFileCount": 16,
+      "publishRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.publish.json",
+      "wrappedRequest": "NC-FRAN-KAOS-TILL-MONSTER-retro-v2-en-GB.publish.zip"
+    },
+    "combined": {
+      "filename": "NC-FRAN-KAOS-TILL-MONSTER-retro-backfill-v2-complete.zip",
+      "size": 351302589,
+      "sha256": "2e3c7078479ef50ffbef5c84340b322ed31e7a925d2b2925ac5c95f404129640"
+    }
+  },
+  "packageIntegrity": {
+    "sv-SE": "PASS: request packageSha256 matches actual ZIP and all 16 declared archive members match size+sha256",
+    "en-GB": "PASS: request packageSha256 matches actual ZIP and all 16 declared archive members match size+sha256",
+    "combinedZip": "PASS: ZIP test completed without errors"
+  },
+  "automaticTransport": {
+    "chromeDownloadTriggeredByAssistant": false,
+    "nextcloudArchiveVerified": false,
+    "hardenedRouterVerified": false,
+    "publisherVerified": false,
+    "githubCanonicalBinaryReadBackVerified": false,
+    "githubPublishedBinaryAssets": 0,
+    "status": "BLOCKED_AT_CHATGPT_TO_CHROME",
+    "reason": "No current tool surface exposes control of the user's Chrome download bridge, local capture, Nextcloud archive, hardened launchd router or local publisher. No manual --once, curl or direct-publisher substitute was used."
+  },
+  "githubPrePublicationReadBack": {
+    "sv-SE-imagesDirectory": "ABSENT",
+    "en-GB-imagesDirectory": "ABSENT"
+  },
+  "sync": false,
+  "finalStatus": "PARTIAL_BACKFILL"
+}

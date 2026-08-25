@@ -1,0 +1,32 @@
+{
+  "story": "INGEN TÄCKNING, INGET TAPPAT",
+  "locale": "sv-SE",
+  "asset_count": 14,
+  "order": [
+    "cover_00.png",
+    "panel_01.png",
+    "panel_02.png",
+    "panel_03.png",
+    "panel_04.png",
+    "panel_05.png",
+    "panel_06.png",
+    "panel_07.png",
+    "panel_08.png",
+    "panel_09.png",
+    "panel_10.png",
+    "panel_11.png",
+    "panel_12.png",
+    "cta_13.png"
+  ],
+  "master_dimensions": {
+    "width": 1024,
+    "height": 1536
+  },
+  "qr_payload": "https://navichain.se/signup",
+  "cleartext_url": "navichain.se/signup",
+  "official_logo_source": "NAVICHAIN-OFFICIAL-LOGO.png",
+  "pdf": "ingen_tackning_inget_tappat_sv-SE_carousel.pdf",
+  "pdf_sha256": "6019aabc3203eaf99f77e5f8e40b150209d8ba90def48814d6c962c340e32d65",
+  "created_at": "2026-08-21T05:30:35.680327+00:00",
+  "updated_at": "2026-08-21T05:32:59.946776+00:00"
+}

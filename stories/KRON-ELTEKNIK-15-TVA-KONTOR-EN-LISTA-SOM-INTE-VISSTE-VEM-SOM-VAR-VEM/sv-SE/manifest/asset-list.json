@@ -1,0 +1,32 @@
+{
+  "schema": "navichain-retro-backfill-v2-asset-list",
+  "storyId": "KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM",
+  "locale": "sv-SE",
+  "classification": "PARTIAL_BACKFILL",
+  "canonicalAssets": [
+    {"assetId":"cover_00","sourceFilename":"a_comic_book_illustrated_poster_cover_scene_in_a_v.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":[1024,1536],"size":3560727,"sha256":"34d50be5e378e9880fc3210b779a3ae422c565f1c5b862b00c61499e4098b227","githubPath":"stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/images/cover_00.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_01","sourceFilename":"a_full_color_comic_book_panel_illustration_in_a_cl.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","dimensions":[1024,1536],"size":3419836,"sha256":"8697a3f8ea991f04693ed1ddf53ba9f67da1561344b0bcdf4f4d23d8b4c9c37f","githubPath":"stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/images/panel_01.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_02","sourceFilename":"a_full_color_comic_panel_illustration_in_a_clean_l.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":[1048,1501],"size":2853913,"sha256":"5d0a0cfdc2ccd969dcc1b794b82be6f96ec46509664984f0c8d8b4ac754fef4b","githubPath":"stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/images/panel_02.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_03","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"},
+    {"assetId":"panel_04","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"},
+    {"assetId":"panel_05","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"},
+    {"assetId":"panel_06","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"},
+    {"assetId":"panel_07","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"},
+    {"assetId":"panel_08","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"},
+    {"assetId":"panel_09","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"},
+    {"assetId":"panel_10","sourceFilename":"a_comic_book_style_illustration_poster_page._overa.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":[1024,1536],"size":3380381,"sha256":"94b90ba93ca3a27938885965a6deeb2df309114a73269e9e01875210f8d1ffa8","githubPath":"stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/images/panel_10.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_11","sourceFilename":"a_comic_book_vintage_illustrative_panel_page_wit.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":[1024,1536],"size":3484925,"sha256":"3b540294c98c833b22b38838169b55f34e56ea83f2738db8e8d9074a07d14780","githubPath":"stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/images/panel_11.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"panel_12","sourceFilename":"a_detailed_comic_style_illustration_vintage_ligne.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":[1024,1536],"size":3502258,"sha256":"9b4e1156258dc376121ddaf6f7f54d72bbae308cde16d484502345676983c585","githubPath":"stories/KRON-ELTEKNIK-15-TVA-KONTOR-EN-LISTA-SOM-INTE-VISSTE-VEM-SOM-VAR-VEM/sv-SE/images/panel_12.png","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"assetId":"cta_13","sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE","githubPublishStatus":"NOT_CREATED"}
+  ],
+  "historicalRawRenders": [
+    {"sourceFilename":"a_vintage_comic_cover_style_illustration_tintin_h.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","dimensions":[1024,1536],"size":3574722,"sha256":"b824ab62ec05fb1984fe401051255345429e65cb16524bd56dd14fd789b7e7ca","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"sourceFilename":"a_detailed_comic_book_cover_page_layout_in_a_clean.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED","dimensions":[1168,1347],"size":2782898,"sha256":"a32312dd721a71b0dfd5c8d881b96fd24e59ac77c89316a95c71647ea76529c6","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"sourceFilename":"a_full_comic_page_storyboard_layout_in_a_clear_l.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED","dimensions":[1536,1024],"size":3180977,"sha256":"e6064028a404b203d8d73ced0934c6c544378f3026e62cb7681af2a167008022","githubPublishStatus":"GITHUB_PUBLISH_FAILED"},
+    {"sourceFilename":"a_full_page_comic_illustration_poster_in_a_ligne_c.png","sourceClass":"EXACT_ORIGINAL","qaStatus":"REJECTED","dimensions":[1024,1536],"size":3369631,"sha256":"5e93cfe5d72d04e9f3257e3a5d89bd20fd5cde6b29f74bd10cffccba2e694302","githubPublishStatus":"GITHUB_PUBLISH_FAILED"}
+  ],
+  "canonicalExactOriginalCount": 6,
+  "canonicalNotCreatedCount": 8,
+  "githubPublishedCanonicalBinaryAssets": 0,
+  "provenanceQaSeparation": true
+}

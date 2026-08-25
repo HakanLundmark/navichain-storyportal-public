@@ -1,0 +1,118 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "tjugo-samtal-blev-ett",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "TJUGO SAMTAL BLEV ETT",
+  "subtitle": "Kaj och morgonen då ingen behövde ringa runt",
+  "masterLocale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "INCOMPLETE",
+  "source": "retro_backfill_v2_2026-08-24",
+  "originalStory": "ORIGINAL_STORY.md",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "path": "stories/tjugo-samtal-blev-ett/ORIGINAL_STORY.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 9716,
+    "sha256": "d61b52e4e47a4320b6d5d8d19b649be33ca329f0371defcc43119dbb26a76064",
+    "githubReadBackVerified": true
+  },
+  "englishOriginalStory": {
+    "sourceLocale": "sv-SE",
+    "locale": "en-GB",
+    "path": "stories/tjugo-samtal-blev-ett/source/original-story-en-GB.md",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 9972,
+    "sha256": "018e02a9507e7050949da8da7452741d07e1e530e38f95d7232f6a32952711e8",
+    "sourceStorySha256": "d61b52e4e47a4320b6d5d8d19b649be33ca329f0371defcc43119dbb26a76064",
+    "githubReadBackVerified": true
+  },
+  "preflightArtifact": {
+    "path": "stories/tjugo-samtal-blev-ett/source/PREFLIGHT.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "size": 3916,
+    "sha256": "acc1c720461bd56cdded0b6e7b44558e8dbf793c2d5e74d4525fbd71f731b9ce",
+    "githubReadBackVerified": true,
+    "storyLock": "NOT_CREATED"
+  },
+  "historicalInventory": {
+    "totalItems": 88,
+    "exactOriginal": 62,
+    "derivedTranslation": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 7,
+    "notCreated": 18
+  },
+  "verifiedOriginalAssets": {
+    "sv-SE": 14,
+    "en-GB": 2
+  },
+  "runtimeDirectlyAccessibleCanonicalAssets": {
+    "sv-SE": 14,
+    "en-GB": 2
+  },
+  "githubPublishedBinaryAssets": 0,
+  "githubPublishedTextArtifacts": [
+    "stories/tjugo-samtal-blev-ett/ORIGINAL_STORY.md",
+    "stories/tjugo-samtal-blev-ett/source/original-story-en-GB.md",
+    "stories/tjugo-samtal-blev-ett/source/original-story-en-GB.meta.json",
+    "stories/tjugo-samtal-blev-ett/source/PREFLIGHT.md",
+    "stories/tjugo-samtal-blev-ett/retro-backfill/v2/status.json"
+  ],
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T19:06:00+02:00",
+  "binaryBackfillRetryStatus": "GITHUB_PUBLISH_FAILED",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "binaryBackfillRetryReason": "Current ChatGPT runtime exposes no Chrome-control/download action and no Nextcloud connector or mount. Downloadable packages and valid publish requests were created, but the ChatGPT -> Chrome -> local capture -> Nextcloud -> hardened router -> publisher handoff cannot be triggered from this runtime.",
+  "localExportPackages": [
+    {"filename":"tjugo-samtal-blev-ett-retro-backfill-v2-20260824-1906.zip","size":256870126,"sha256":"7f5ea2a284904117e97f6354a038d346d004db34dd0df8e71e01dc823143ecf3"},
+    {"filename":"tjugo-samtal-blev-ett-sv-SE-retro-v2-package.zip","size":249668476,"sha256":"178ff22b07c9c6803d6bc27e7fc9c55d61ea2e7d41032e3907d8349d218f1fa9","request":"tjugo-samtal-blev-ett-sv-SE.publish.json","requestSha256":"33469e18a4a0e2f237b640e09309d05f158bcc4c535931e2cd205662f054091d"},
+    {"filename":"tjugo-samtal-blev-ett-en-GB-retro-v2-package.zip","size":7192906,"sha256":"03340218bfd224265cb7df050d28108e28f595975911d022a02c330e0c7262e5","request":"tjugo-samtal-blev-ett-en-GB.publish.json","requestSha256":"0164f79c116aee8fade7e2774ffcd338b80a6dc382f60517f1fd884a1b8636a6"}
+  ],
+  "locales": {
+    "sv-SE": {
+      "status": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED",
+      "narrativeMaster": true,
+      "canonicalAssetSlots": 14,
+      "existsAndExportable": ["cover_00","panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "missing": [],
+      "githubPublishedBinaryAssets": 0,
+      "historicalRasterQa": "PASS",
+      "pdf": "EXISTS_AND_EXPORTABLE",
+      "social": "EXISTS_AND_EXPORTABLE",
+      "releaseQa": "EXISTS_AND_EXPORTABLE",
+      "releaseManifest": "EXISTS_AND_EXPORTABLE",
+      "historicalReleaseZip": "EXISTS_AND_EXPORTABLE"
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "narrativeMaster": false,
+      "textArtifactPublished": true,
+      "translationType": "faithful",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "imageAssetsCreated": 2,
+      "historicalCoverQa": "UNKNOWN",
+      "panel01Qa": "REBUILD_REQUIRED",
+      "missing": ["panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13","PDF carousel","LinkedIn/social copy","locale QA","release manifest","release ZIP"],
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "sourceNotExportable": [
+    "kaj_och_morgonen_utan_samtal.png",
+    "a_detailed_comic_style_illustration_in_a_vintage_r.png",
+    "a_detailed_comic_illustration_scene_like_a_mid_cen.png",
+    "a_vintage_comic_illustration_style_office_scene_c.png",
+    "a_comic_book_style_illustrated_cover_scene_overal.png",
+    "a_warm_toned_comic_illustration_scene_in_a_retro_l.png",
+    "tjugo-samtal-blev-ett-v1.0-sv-SE-release.zip"
+  ],
+  "storyLock": "NOT_CREATED",
+  "notes": [
+    "No rerender, reconstruction, crop, restyle, fill or replacement was performed.",
+    "Provenance and QA remain separate. Historical sv-SE release QA is preserved as PASS because that is the QA recorded in the exact historical release package.",
+    "en-GB visual attempts remain historical candidates only; panel_01 remains REBUILD_REQUIRED.",
+    "No binary is marked GitHub-published or SYNCED because canonical binary paths are absent on main after read-back."
+  ]
+}

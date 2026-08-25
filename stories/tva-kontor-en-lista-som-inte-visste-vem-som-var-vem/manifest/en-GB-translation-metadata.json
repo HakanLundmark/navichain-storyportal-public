@@ -1,0 +1,15 @@
+{
+  "schema": "navichain-story-translation-v1",
+  "storyId": "tva-kontor-en-lista-som-inte-visste-vem-som-var-vem",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/ORIGINAL_STORY.md",
+  "sourceStorySha256": "4df2cb06cf6f7a74f5842f86c1f114ad47da1aaa1c77122dfb69acb5d61da0b9",
+  "path": "stories/tva-kontor-en-lista-som-inte-visste-vem-som-var-vem/sources/original-story-en-GB.md",
+  "sha256": "77993a013f9e495808d983d71ca5213d69aa273775aa09955c05a890dce5a4b2",
+  "qaStatus": "SOURCE_QA_INHERITED_NOT_LOCKED",
+  "githubReadBackVerified": true
+}

@@ -1,0 +1,14 @@
+{
+  "storyId": "ORD-MOT-ORD",
+  "locale": "sv-SE",
+  "status": "INCOMPLETE",
+  "canonicalAssets": {
+    "required": 14,
+    "exportable": 13,
+    "missing": ["panel_07"]
+  },
+  "completeReleaseAllowed": false,
+  "reason": "Canonical panel_07 is missing. Existing failed panel_07 attempts are not substituted.",
+  "pdfStatus": "MISSING",
+  "releaseZipStatus": "NOT_CREATED_FOR_INCOMPLETE_LOCALE"
+}

@@ -1,0 +1,63 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "undantaget-som-aldrig-ar-tyst",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "UNDANTAGET SOM ALDRIG ÄR TYST",
+  "subtitle": "Görel och låset som kräver en anledning, inte bara en knapptryckning",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrativeMasterPath": "stories/undantaget-som-aldrig-ar-tyst/ORIGINAL_STORY.md",
+  "narrativeMasterSourceCopyPath": "stories/undantaget-som-aldrig-ar-tyst/source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "64374c28cb845ff7a6bfad5e54917bb5ef768307ab2cfa8ed1a30d7ef9bd2624",
+  "enGbStoryPath": "stories/undantaget-som-aldrig-ar-tyst/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "fca21ed7f1a330598b37d9396c5bb54c87dc3c767fcbd380358f1b7716b926e1",
+  "protagonist": "Görel Ask",
+  "supportingCharacters": ["Sara Lund"],
+  "company": "Björklunda Åkeri AB",
+  "primaryCapability": "BookingLockOverride with mandatory reason recorded in booking history",
+  "productTruthStatus": "VERIFIED",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+  },
+  "canonicalHistoricalCandidates": {
+    "sv-SE": ["cover_00","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_10","panel_11","panel_12"]
+  },
+  "sourceNotExportableCanonicalAssets": {
+    "sv-SE": ["panel_01","panel_09","cta_13"]
+  },
+  "historicalExactOriginalVisualFiles": 30,
+  "canonicalExactOriginalVisualAssets": 11,
+  "historicalAlternativeOrRejectedExactVisualFiles": 19,
+  "githubPublishedBinaryAssets": 0,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:14:00+02:00",
+  "historicalInventory": {
+    "exactOriginalNarrativeMasters": 1,
+    "derivedTranslations": 1,
+    "exactOriginalVisualFiles": 30,
+    "canonicalExactOriginalVisualAssets": 11,
+    "sourceNotExportableCanonicalAssets": 3,
+    "chatRecovered": 0,
+    "qaVisualArtifacts": 2,
+    "pdf": "NOT_CREATED",
+    "social": "NOT_CREATED"
+  },
+  "localRetroPackage": {
+    "filename": "undantaget-som-aldrig-ar-tyst-retro-backfill-v2-20260824-2214.zip",
+    "size": 95290167,
+    "sha256": "f7b4ac21cb29ca8c09a88e3d0b0d2c08f8bbc5bca6aa8ef39bed78ea60806ae2",
+    "zipEntryCount": 61,
+    "publishRequestFileCount": 40
+  },
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "GITHUB_PUBLISH_FAILED",
+  "binaryPublishFailureReason": "Automatic Chrome/local-capture/Nextcloud transport is not invokable from this runtime, and the connected GitHub write surface has no local-file binary parameter for the multi-megabyte historical PNG set. No source bytes were altered or substituted.",
+  "pipelineVersion": "6.1.7a"
+}

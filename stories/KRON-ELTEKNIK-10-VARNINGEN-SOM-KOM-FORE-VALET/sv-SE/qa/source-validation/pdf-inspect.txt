@@ -1,0 +1,24 @@
+PDF: /mnt/data/varningen_som_kom_fore_valet_sv-SE_release/carousel/varningen_som_kom_fore_valet_sv-SE.pdf
+Pages: 14
+Encrypted: False
+Page sizes (pt, rounded):
+  - 528 x 746 (14 page(s))
+Metadata:
+  /Author: anonymous
+  /CreationDate: D:20260821133041+00'00'
+  /Creator: anonymous
+  /Keywords: 
+  /ModDate: D:20260821133041+00'00'
+  /Producer: ReportLab PDF Library - (opensource)
+  /Subject: unspecified
+  /Title: untitled
+  /Trapped: /False
+Outline items: 0
+Form fields: 0
+Attachments: 0
+Annotations: 0
+
+Fonts (pdffonts, first 25 lines):
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+Helvetica                            Type 1            WinAnsi          no  no  no       2  0

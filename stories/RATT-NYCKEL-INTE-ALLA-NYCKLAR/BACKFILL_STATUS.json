@@ -1,0 +1,67 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "RATT-NYCKEL-INTE-ALLA-NYCKLAR",
+  "locale": "sv-SE",
+  "masterVersion": "1.0",
+  "status": "PARTIAL_BACKFILL",
+  "sourceInventory": {
+    "requiredCanonicalImages": 14,
+    "exactOriginalCanonicalImages": 12,
+    "chatRecoverableCanonicalImages": 0,
+    "sourceNotExportableCanonicalImages": ["panel_02", "panel_07"],
+    "historicalAlternativeOrRejectedExactBinaries": 12
+  },
+  "narrative": {
+    "svSE": {
+      "status": "GITHUB_VERIFIED",
+      "sourceClass": "EXACT_ORIGINAL",
+      "narrativeMaster": true,
+      "path": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/source/original-story-sv-SE.md",
+      "sha256": "cffc930ff4034f7d7c1dba6052f120f3c823ddbcf72cf28db32bb0c5ce665161"
+    },
+    "enGB": {
+      "status": "GITHUB_VERIFIED",
+      "sourceClass": "DERIVED_TRANSLATION",
+      "sourceLocale": "sv-SE",
+      "translationType": "faithful",
+      "narrativeMaster": false,
+      "path": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/source/original-story-en-GB.md",
+      "sha256": "4549fdb6e2844da64cadcb4e9570c7752a6c28e995dcdf3c953981415a9c31c6"
+    }
+  },
+  "binaryBackfill": {
+    "recoveredLocalHistoricalBinaries": 24,
+    "recoveredCanonicalBinaries": 12,
+    "recoveredAlternativeOrRejectedBinaries": 12,
+    "githubPublishedCanonicalAssets": 0,
+    "githubReadBackVerifiedCanonicalAssets": 0,
+    "status": "PARTIAL_BACKFILL",
+    "package": {
+      "file": "RATT-NYCKEL-INTE-ALLA-NYCKLAR-sv-SE-retro-v2-binaries.zip",
+      "size": 68944121,
+      "sha256": "573b62e9c01da86da6ce207593e50ea8894713f912c946905bfc8f7a27d6221a",
+      "fileCount": 24
+    },
+    "reason": "Exact recovered binaries and valid publish requests were created. This execution has no controllable Chrome-download or Nextcloud connector, so the external local capture/router/publisher chain cannot be claimed as executed until an actual download occurs and GitHub read-back confirms the canonical paths."
+  },
+  "historicalQa": {
+    "panel_12": "REBUILD_REQUIRED",
+    "cta_13": "REBUILD_REQUIRED"
+  },
+  "automaticTransport": {
+    "fullArchiveCreated": true,
+    "binaryPublishPackageCreated": true,
+    "publishRequestCreated": true,
+    "publishRequestWrapperCreated": true,
+    "chromeDownloadTriggeredByAssistant": false,
+    "nextcloudArchiveVerified": false,
+    "hardenedRouterVerified": false,
+    "publisherVerified": false
+  },
+  "release": {
+    "status": "INCOMPLETE",
+    "pdf": "SOURCE_NOT_EXPORTABLE_HISTORICAL_BLOCKED_DRAFT",
+    "releaseEligible": false
+  },
+  "inventory": "stories/RATT-NYCKEL-INTE-ALLA-NYCKLAR/metadata/retro-backfill-v2-2026-08-24-r2.json"
+}

@@ -1,0 +1,23 @@
+{
+  "story": "RESAN TILLBAKA SOM ALDRIG BEHÖVDE SKE",
+  "locale": "sv-SE",
+  "asset_count": 14,
+  "order": ["cover_00.png","panel_01.png","panel_02.png","panel_03.png","panel_04.png","panel_05.png","panel_06.png","panel_07.png","panel_08.png","panel_09.png","panel_10.png","panel_11.png","panel_12.png","cta_13.png"],
+  "assets": [
+    {"asset":"cover_00.png","source_file":"den_långa_returresan_till_lagret.png","width":1055,"height":1491,"sha256":"5871cc8be97abe3ea7531c6603d647795057640ba61f55f04f7d5fab4a85da3f"},
+    {"asset":"panel_01.png","source_file":"imagegen.png","width":1055,"height":1491,"sha256":"d972e3c9687771eba603aa4e68bfc3cc3723e4e3367b8aab9b8daca012f04f75"},
+    {"asset":"panel_02.png","source_file":"stressad_elektriker_vid_servicebilen.png","width":1055,"height":1491,"sha256":"77b08a655d30846dd4945c4ec54788b9a599932f422718b25f86a0352524c585"},
+    {"asset":"panel_03.png","source_file":"lagerräkningens_motsägelse.png","width":1055,"height":1491,"sha256":"191f05ffe45ea4c53dc12adb33d69fcefa90d4535d59108ea7553de562e28366"},
+    {"asset":"panel_04.png","source_file":"en_onödig_tur_i_arbetsbilen.png","width":1055,"height":1491,"sha256":"2b588f2ad9e9d36476e3afab8dbf996b6a98387ac5b20bcccbf48bba409240cc"},
+    {"asset":"panel_05.png","source_file":"tomt_lager_utebliven_leverans.png","width":1055,"height":1491,"sha256":"830d9e74ec4b9cb4126ef8dc68df8c230349125ef0b0a077ab011332e5f13efe"},
+    {"asset":"panel_06.png","source_file":"stressig_omplanering_på_kron_elteknik.png","width":1055,"height":1491,"sha256":"446cfd5fdb7c99867279644d8da345ef172ca87a4c249744b3dbe0a362502fa4"},
+    {"asset":"panel_07.png","source_file":"bokningar_och_delar_i_fokus.png","width":1055,"height":1491,"sha256":"96e289096bcb516ea7fcdf2cf492a54dbd0208383c0000245ba7546232625ac7"},
+    {"asset":"panel_08.png","source_file":"lagerordning_i_verkstaden.png","width":1055,"height":1491,"sha256":"b7dd8acf7306c324f471221e7cb3bb3aad98610f83e736817506ee1817803e7a"},
+    {"asset":"panel_09.png","source_file":"servicebil_med_smart_reservdelslista.png","width":1055,"height":1491,"sha256":"d93ad1912b177cc67ebe4337792f85c3c1f97d25aafc6e5b73b89c7f63e3af62"},
+    {"asset":"panel_10.png","source_file":"a_detailed_comic_style_panel_scene_tintin_hergé_l.png","width":1402,"height":1122,"sha256":"3f7fe759fc9f140fcab8493fda199e2e9d11ac4aeffe227a39a8fb1b0e146c29"},
+    {"asset":"panel_11.png","source_file":"beställningen_väntar_på_godkännande.png","width":1086,"height":1448,"sha256":"3ac4e2b7a8807ab78e26a4387cbc60b0c00c2ca0fad93edf1d7d2b1ed1801dc5"},
+    {"asset":"panel_12.png","source_file":"ett_komplett_schema_nästa_berättelse.png","width":1024,"height":1536,"sha256":"4ba85d4e07cb818128ed1297a1b9fb49bbe892998f8a5099868f5eb9a49d3fd6"},
+    {"asset":"cta_13.png","source_file":"cta_13_final.png","width":1023,"height":1537,"sha256":"1f5b492d938f545cd68d213f271058e31794276190aec3a135e7b7d83d59e37e"}
+  ],
+  "carousel_pdf": {"file":"carousel/resan_tillbaka_som_aldrig_behovde_ske_sv-SE.pdf","pages":14,"sha256":"4d65b1d3627366527a4bddfe3583bf7426e29ce5fc0efdd6811a9b95a4916b51"}
+}

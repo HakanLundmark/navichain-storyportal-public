@@ -1,0 +1,10 @@
+{
+  "schema": "navichain-story-translation-v1",
+  "storyId": "kretsloppet-som-gick-i-cirklar",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "58e32ea6c5be96901d5e5853dbaf462c615b733c0f967c438905594872887044"
+}

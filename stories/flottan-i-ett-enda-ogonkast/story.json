@@ -1,0 +1,57 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "flottan-i-ett-enda-ogonkast",
+  "title": "FLOTTAN, I ETT ENDA ÖGONKAST",
+  "masterLocale": "sv-SE",
+  "masterVersion": "v1.0",
+  "status": "INCOMPLETE",
+  "canonicalStory": "ORIGINAL_STORY.md",
+  "narrativeMasterPath": "source/original-story-sv-SE.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "91cf0e3902e72253c840be91d3e7d7fc1d5f1064b2fc95f65336ac5f7b05f4df",
+  "enGbStoryPath": "source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbSourceStorySha256": "91cf0e3902e72253c840be91d3e7d7fc1d5f1064b2fc95f65336ac5f7b05f4df",
+  "enGbStorySha256": "4d076088972b7d81f62a1def38f76966115d1f64f368a0c16010a484ea651171",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "canonicalExactOriginalAssets": 13,
+      "requiredOriginalAssets": 14,
+      "sourceNotExportableCanonicalAssets": ["cta_13"],
+      "historicalExactOriginalVisualFilesIncludingAlternates": 36,
+      "pdf": "EXACT_ORIGINAL",
+      "githubPublishedBinaryAssets": 0
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "textStatus": "DERIVED_TRANSLATION_PUBLISHED",
+      "canonicalExactOriginalAssets": 1,
+      "requiredOriginalAssets": 14,
+      "notCreatedCanonicalAssets": ["panel_01","panel_02","panel_03","panel_04","panel_05","panel_06","panel_07","panel_08","panel_09","panel_10","panel_11","panel_12","cta_13"],
+      "githubPublishedBinaryAssets": 0
+    }
+  },
+  "historicalInventory": {
+    "exactOriginalVisualFiles": 37,
+    "canonicalSvSeExactOriginalAssets": 13,
+    "historicalSvSeOrUnclassifiedExactVisualFiles": 23,
+    "canonicalEnGbExactOriginalAssets": 1,
+    "exactOriginalPdfFiles": 1,
+    "exactOriginalSourceReferenceFiles": 7,
+    "exactOriginalNarrativeFiles": 1,
+    "derivedTranslations": 1,
+    "chatRecovered": 0,
+    "sourceNotExportable": 8,
+    "notCreated": 14
+  },
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "retroBackfillV2CheckedAt": "2026-08-24T22:27:00+02:00",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_EXECUTED_NO_CONNECTED_WRITE_SURFACE",
+  "binaryBackfillStatus": "PACKAGE_READY_NOT_GITHUB_PUBLISHED",
+  "binaryBackfillReason": "Exact binary files and checksums were recovered locally, but this assistant runtime exposes neither a Chrome-download control nor a connected Nextcloud write surface; large local binaries were not reconstructed or re-encoded into GitHub text calls.",
+  "historicalQaPolicy": "Provenance is independent of QA. Exact historical bytes are preserved without upgrading unknown or failed visual QA states."
+}

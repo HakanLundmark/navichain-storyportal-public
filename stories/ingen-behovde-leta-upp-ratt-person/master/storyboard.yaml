@@ -1,0 +1,16 @@
+storyboard:
+  cover: {assetId: cover_00}
+  panels:
+    - {assetId: panel_01, caption: "Fel person svarade. Men telefonen ringde där hon satt."}
+    - {assetId: panel_02, caption: "Det gamla svaret hade varit att koppla vidare. Och hoppas att någon var ledig."}
+    - {assetId: panel_03, caption: "Sara var mitt i något annat. Att avbryta skulle bara flytta problemet."}
+    - {assetId: panel_04, caption: "Hon visste inte var leveransen var. Men hon behövde inte heller be kunden vänta."}
+    - {assetId: panel_05, caption: "Tracker-ID:t. Det var allt hon behövde be om."}
+    - {assetId: panel_06, caption: "Ett fält. Ett nummer. Inget kontonamn eller lösenord att komma ihåg."}
+    - {assetId: panel_07, caption: "Under transport. Beräknad ankomst 14:20. Precis där, i klartext."}
+    - {assetId: panel_08, caption: "Den är under transport, beräknad ankomst 14:20. Rakt av, utan att koppla ett enda samtal."}
+    - {assetId: panel_09, caption: "Kundens röst ändrades på en enda mening."}
+    - {assetId: panel_10, caption: "Sara visste inte ens att samtalet hade kommit in."}
+    - {assetId: panel_11, caption: "Ingenting att koppla. Ingenting att vänta på."}
+    - {assetId: panel_12, caption: "Nästa samtal ringde. Den här gången visste hon redan att hon skulle klara det."}
+  cta: {assetId: cta_13, primaryAction: signup}

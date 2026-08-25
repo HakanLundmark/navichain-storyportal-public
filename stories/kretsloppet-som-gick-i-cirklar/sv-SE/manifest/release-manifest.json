@@ -1,0 +1,46 @@
+{
+  "storyId": "kretsloppet-som-gick-i-cirklar",
+  "masterVersion": null,
+  "locale": "sv-SE",
+  "createdAt": "2026-08-23T11:01:00+02:00",
+  "visualMasterRevisionMap": {
+    "cover_00.png": null,
+    "panel_01.png": null,
+    "panel_02.png": null,
+    "panel_03.png": null,
+    "panel_04.png": null,
+    "panel_05.png": null,
+    "panel_06.png": null,
+    "panel_07.png": null,
+    "panel_08.png": null,
+    "panel_09.png": null,
+    "panel_10.png": null,
+    "panel_11.png": null,
+    "panel_12.png": null,
+    "cta_13.png": null
+  },
+  "outputs": {
+    "images": ["cover_00.png","panel_01.png","panel_02.png","panel_03.png","panel_04.png","panel_05.png","panel_06.png","panel_07.png","panel_08.png","panel_09.png","panel_10.png","panel_11.png","panel_12.png","cta_13.png"],
+    "pdf": null,
+    "linkedin": null
+  },
+  "qr": {
+    "payload": "https://navichain.se/signup",
+    "rasterDecode": "https://navichain.se/signup",
+    "pdfDecode": "not_applicable_no_pdf"
+  },
+  "qa": {
+    "raster": "local_inventory_pass",
+    "pdf": "not_applicable_no_pdf",
+    "release": "COMPLETE_LOCAL_SOURCE_GITHUB_FAILED"
+  },
+  "github": {
+    "binaryAssetsPublished": 0,
+    "binaryPublicationStatus": "FAILED"
+  },
+  "notes": [
+    "This backfill did not regenerate creative assets.",
+    "The local source package contains exactly 14 sv-SE raster assets.",
+    "GitHub sync is not claimed because the connected GitHub actions exposed in this chat do not accept mounted local binary files."
+  ]
+}

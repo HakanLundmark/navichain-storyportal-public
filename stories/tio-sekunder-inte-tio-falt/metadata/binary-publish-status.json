@@ -1,0 +1,23 @@
+{
+  "schema": "navichain-storyportal-binary-publish-status-v1",
+  "storyId": "tio-sekunder-inte-tio-falt",
+  "repository": "HakanLundmark/-navichain-storyportal",
+  "branch": "main",
+  "status": "GITHUB_PUBLISH_FAILED_FOR_BINARY_FILES",
+  "reason": "The connected GitHub interface available in this chat exposes UTF-8 text writes and Git blob/tree primitives but no local-file upload parameter. The multi-megabyte original PNG files cannot be transferred through the available connector without embedding/reconstructing binary content in a textual payload, which is not an acceptable source-preserving export path.",
+  "verifiedLocalAssets": {
+    "cover_00.png": {"size":3074171,"sha256":"7f412c5b210deb532821dbe62d873fcfb010eda944915fc5aef22394d63f1bed"},
+    "panel_01.png": {"size":3031303,"sha256":"bf9b54b1545bdb9c78b4f3f42466c6e22c2085ea2cb9a3f21d23076b70718e43"},
+    "panel_02.png": {"size":2944343,"sha256":"6a70eb23cef71b27224df283b347d8357318ebf2fe138f4debc9caed6e64a194"},
+    "panel_03.png": {"size":2816699,"sha256":"32f2747466fa6f4c8e80b4e665f43e4b70e4ef232349cdbb36c2b0fde6692558"},
+    "panel_04.png": {"size":2985253,"sha256":"3150049ada689994b083ce1c695314427432c1af8a867ee43dc37c367318b9e7"},
+    "panel_05.png": {"size":2977465,"sha256":"b74df80b88f1ec00b9c2b2197fdb19d7f8f5f00576dd9f42649abaa904f81cca"},
+    "panel_06.png": {"size":3130719,"sha256":"7fcbad8a69005f95e5d4994182931445459218303c2bc470ee8de23553671441"},
+    "panel_07.png": {"size":3486343,"sha256":"e70eb690be24c5d1e9e20761054c735ff8a466b6dc29a9c8758444028b934efb"},
+    "panel_08.png": {"size":3074378,"sha256":"54f6ec229bfdc41c71dc32109cbd54c08b062decf03a69f47f97dba8c34cce1b"}
+  },
+  "otherLocalBinaries": {
+    "workingPdf": {"path":"/mnt/data/tio_sekunder_inte_tio_falt_sv-SE_working_package/carousel/tio_sekunder_inte_tio_falt_sv-SE_carousel_WORKING.pdf","size":64001752,"releaseEligible":false},
+    "workingZip": {"path":"/mnt/data/tio_sekunder_inte_tio_falt_sv-SE_working_package.zip","size":91507395,"releaseEligible":false}
+  }
+}

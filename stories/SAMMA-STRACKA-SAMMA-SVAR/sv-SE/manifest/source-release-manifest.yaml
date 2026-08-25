@@ -1,0 +1,26 @@
+storyId: SAMMA-STRACKA-SAMMA-SVAR
+locale: sv-SE
+state: working_package_release_blocked
+requiredAssetCount: 14
+persistedAssetCount: 11
+missingAssets:
+  - cover_00
+  - panel_01
+  - panel_07
+images:
+  - panel_02.png
+  - panel_03.png
+  - panel_04.png
+  - panel_05.png
+  - panel_06.png
+  - panel_08.png
+  - panel_09.png
+  - panel_10.png
+  - panel_11.png
+  - panel_12.png
+  - cta_13.png
+qr:
+  payload: https://navichain.se/signup
+  rasterDecode: PASS
+brandAsset: brand/NAVICHAIN-OFFICIAL-LOGO.png
+carouselPdf: not_built_missing_assets

@@ -1,0 +1,41 @@
+{
+  "schema": "navichain-retro-backfill-v2",
+  "storyId": "DEN-RADERING-SOM-ALDRIG-FICK-SKE",
+  "title": "DEN RADERING SOM ALDRIG FICK SKE",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "historicalReleaseStatus": "INCOMPLETE",
+  "narrative": {
+    "sv-SE": {"sourceClass":"EXACT_ORIGINAL","qaStatus":"CANONICAL_NARRATIVE_MASTER","size":8089,"sha256":"2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-sv-SE.md"},
+    "en-GB": {"sourceClass":"DERIVED_TRANSLATION","qaStatus":"FAITHFUL_TRANSLATION","narrativeMaster":false,"size":8115,"sha256":"f8c458a2a3bd1d6aaa7c065997b6f827b6ae7805d77ba708117f8371dc2d47a5","sourceStorySha256":"2e763d3dadd3040219e7f360d1a2059a2efa67affcdb7e43143fa8350ce70ae4","path":"stories/DEN-RADERING-SOM-ALDRIG-FICK-SKE/source/original-story-en-GB.md"}
+  },
+  "sv-SE": {
+    "canonicalImageCount": 14,
+    "exactOriginalBytesAvailable": 13,
+    "sourceNotExportable": ["panel_02"],
+    "assets": {
+      "cover_00":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"REBUILD_REQUIRED","size":3717815,"dimensions":"1024x1536","sha256":"5decbd80854040789e780409dbd5d2bebe18741cb0fb97069c54358380fac309"},
+      "panel_01":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3184729,"dimensions":"1055x1491","sha256":"a216570b3a96702c65deb2be82b57d001a02ceff12cbc77a95e595675cd9965d"},
+      "panel_02":{"sourceClass":"SOURCE_NOT_EXPORTABLE","qaStatus":"REBUILD_REQUIRED","size":null,"dimensions":null,"sha256":null},
+      "panel_03":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":2929833,"dimensions":"1055x1491","sha256":"104e46dc367cf9d71fc08c8bef1859fbcd7c97dc64522503883eb224ffa713c7"},
+      "panel_04":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3129027,"dimensions":"1055x1491","sha256":"1f923ef08192c7bc73277ba3be1dc4e7cb1aecfc7459b81771f1d570cac3a92a"},
+      "panel_05":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3096049,"dimensions":"1055x1491","sha256":"4fbbdb897a212003b40e19035b8e5c1c74bf8699691bb2992b2242d78f7fa9eb"},
+      "panel_06":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3115809,"dimensions":"1055x1491","sha256":"f236b164b3f5bdadbb03ecd0c4641ae912952bcd19ef1bde13065c1e136c1e43"},
+      "panel_07":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3125811,"dimensions":"1055x1491","sha256":"d36a4c08a844f0599a17da9701af4ca748bbf98975338bceed1434cb17537500"},
+      "panel_08":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":2927043,"dimensions":"1055x1491","sha256":"8f7e11b37c95662f26db89cf6c70bc458b1bf6256e868390b2bda9c178e2cced"},
+      "panel_09":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3144917,"dimensions":"1122x1402","sha256":"1ac3863dd892a3d4ff36281656ae2478a5b186b72325037733cd98a02a9041ee"},
+      "panel_10":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3132734,"dimensions":"1055x1491","sha256":"3b4b8f08cb18a60affa08e58df9b8ee621a0152ede3ba1f290938982ce8289ab"},
+      "panel_11":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3036724,"dimensions":"1055x1491","sha256":"212c028fb25b301f93285b84886aac076310d2879e53faf96a4b4fd30493f296"},
+      "panel_12":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":3140197,"dimensions":"1055x1491","sha256":"4853fbaa8a40bc209b2079893e6953405a4c945a217e38b2f875c3cffdd62b1b"},
+      "cta_13":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"UNKNOWN","historicalAssessment":"usable","size":2025210,"dimensions":"1055x1491","sha256":"4ec0654f91ddba26deacfb84b225e1d8843a49302889326b8e6ce801c8ce500f"}
+    },
+    "partialPdf":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"PARTIAL_ONLY_12_PAGES","size":4157591,"sha256":"bd4e9f4e58f35e506dabae1a2efe7b17971d3ad77c67baa453043cf032c833d0"},
+    "partialArchive":{"sourceClass":"EXACT_ORIGINAL","qaStatus":"PARTIAL_PACKAGE","size":39950022,"sha256":"c52257074ab17cf529469db88b0100fe1a811595c80d4cf8c41c3021c682d973"},
+    "social":{"sourceClass":"NOT_CREATED","qaStatus":"NOT_APPLICABLE"}
+  },
+  "en-GB": {"images":"NOT_CREATED","pdf":"NOT_CREATED","social":"NOT_CREATED"},
+  "embeddedNarrativeComponents": {"storyboard":"EXACT_ORIGINAL_EMBEDDED","continuity":"EXACT_ORIGINAL_EMBEDDED","castLock":"EXACT_ORIGINAL_EMBEDDED"},
+  "separateHistoricalArtifacts": {"storyDNA":"NOT_CREATED","vehicleEnvironmentLock":"NOT_CREATED","preflight":"SOURCE_NOT_EXPORTABLE","storyLockRecord":"SOURCE_NOT_EXPORTABLE","realityValidation":"NOT_CREATED","correctionLog":"NOT_CREATED","releaseNotes":"NOT_CREATED","localizationNotes":"NOT_CREATED"},
+  "binaryPublication": {"status":"NOT_PUBLISHED_IN_THIS_RUN","reason":"The connected GitHub tool accepts binary data only as inline base64 blob content and exposes no mounted local-file parameter; the automatic Chrome/Nextcloud/local publisher chain is not invokable from this runtime. No binary was substituted or reconstructed."},
+  "releaseEligible": false
+}

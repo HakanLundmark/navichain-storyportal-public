@@ -1,0 +1,37 @@
+{
+  "schema": "navichain-storyportal-backfill-v1",
+  "storyId": "innan-han-hann-tacka-nej",
+  "title": "INNAN HAN HANN TACKA NEJ",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "localeStatus": {
+    "sv-SE": "INCOMPLETE"
+  },
+  "exportableAssets": [
+    "cover_00",
+    "panel_01",
+    "panel_02"
+  ],
+  "missingAssets": [
+    "panel_03",
+    "panel_04",
+    "panel_05",
+    "panel_06",
+    "panel_07",
+    "panel_08",
+    "panel_09",
+    "panel_10",
+    "panel_11",
+    "panel_12",
+    "cta_13"
+  ],
+  "publishPolicy": {
+    "completeReleasePublished": false,
+    "partialBackfillAllowed": true
+  },
+  "notes": [
+    "No image regeneration performed.",
+    "No PDF extraction used as source for images.",
+    "Only directly accessible source files are inventoried."
+  ]
+}

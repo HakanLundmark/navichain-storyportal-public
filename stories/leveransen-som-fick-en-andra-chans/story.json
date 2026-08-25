@@ -1,0 +1,81 @@
+{
+  "storyId": "leveransen-som-fick-en-andra-chans",
+  "storyIdAuthority": "backfill-derived-from-canonical-title",
+  "title": "LEVERANSEN SOM FICK EN ANDRA CHANS",
+  "subtitle": "Robban och dörren som var stängd — men aldrig historien",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "masterVersionAuthority": "not explicitly set in chat",
+  "status": "INCOMPLETE",
+  "locales": {
+    "sv-SE": {
+      "status": "INCOMPLETE",
+      "verifiedExportableCanonicalAssets": 14,
+      "missingCanonicalAssets": [],
+      "existsButNotExportable": [],
+      "missingOther": ["LinkedIn/social copy", "release QA/PASS"],
+      "blockers": [
+        "panel_10 is 1055x1491 while the other canonical images are 1024x1536, so the required common ratio/dimensions are not satisfied",
+        "LinkedIn/social copy was not produced in this chat",
+        "release QA/PASS was not established"
+      ],
+      "pdf": {
+        "status": "EXISTS_AND_EXPORTABLE_LOCAL",
+        "pages": 14,
+        "size": 71794607,
+        "sha256": "82cbc1e4760a4401333222fa40553e9158eb17a151e3070a5c839c20198b8fca"
+      },
+      "releaseZip": {
+        "status": "EXISTS_AND_EXPORTABLE_LOCAL",
+        "size": 105815231,
+        "sha256": "0bbcef7e436a8fd4a7bd509ec877a21572225b30b727661a5aab6534071854ab"
+      },
+      "githubPublishedBinaryAssets": 0,
+      "canonicalAssets": [
+        {"assetId":"cover_00","size":3748855,"sha256":"b83d1e41a5cfea1c92ab3b6abcc803c9236b5f95f01dfb5ca1299f1144a66cd8","dimensions":"1024x1536"},
+        {"assetId":"panel_01","size":3485090,"sha256":"d5f219095704b89e5f012da00193d8024a0812746bf4621e08cc72400682ad30","dimensions":"1024x1536"},
+        {"assetId":"panel_02","size":3424466,"sha256":"5cb60881bd0b116e5bd684f23fde22a6864a5dbd468913e399438185129da906","dimensions":"1024x1536"},
+        {"assetId":"panel_03","size":3684567,"sha256":"cfd12d65a70dd7ffffdc20d547239a36bdeeb5dccb7c052fe858132c8229e920","dimensions":"1024x1536"},
+        {"assetId":"panel_04","size":3435765,"sha256":"ab52afe10675b0e4eaf3a38289d49684f8fc7d3381bd55ad27747ad9c1f3c2dc","dimensions":"1024x1536"},
+        {"assetId":"panel_05","size":3430723,"sha256":"534d65e91dd8c94f77011898a0623999ef591cb6a76eae653b1b066fe2b06a1e","dimensions":"1024x1536"},
+        {"assetId":"panel_06","size":3445383,"sha256":"9d40480d89530ffa01ebe84f7d73f97ac3cd1ba7377e559425a2bcc1a4cc384d","dimensions":"1024x1536"},
+        {"assetId":"panel_07","size":3459167,"sha256":"7c6c4ff6a806cb1e06bdc6350f9fdec02364011a8f7cdda8db12a63036ed437a","dimensions":"1024x1536"},
+        {"assetId":"panel_08","size":3391675,"sha256":"7d3c39cd6ee94042d17a39743131570ec29f876b3c42937c2354d38241b28a25","dimensions":"1024x1536"},
+        {"assetId":"panel_09","size":3303044,"sha256":"9acf45a2bb145e10d170dfabc5befc25b58c2e0d2abf76e697164c8b4d9aee35","dimensions":"1024x1536"},
+        {"assetId":"panel_10","size":3136008,"sha256":"96b6d629b828bb0e2eba302b4e59a96b4bb2177b420dd6dc4d70d548a61b0b4d","dimensions":"1055x1491"},
+        {"assetId":"panel_11","size":3543415,"sha256":"bcffc2ff004eb63449aba5837baac6148e0418389d6adbf592895d3750795ea0","dimensions":"1024x1536"},
+        {"assetId":"panel_12","size":3528540,"sha256":"4ae7a6bb212bdd44e44660bc14eff00370b9a563f018fff72f28c78cbd2d8aed","dimensions":"1024x1536"},
+        {"assetId":"cta_13","size":2965419,"sha256":"464074e8b19d3eccbd882c9553d0c66ea08ce121925d7f6226e47e7c159448bf","dimensions":"1024x1536"}
+      ]
+    },
+    "en-GB": {
+      "status": "INCOMPLETE",
+      "verifiedExportableCanonicalAssets": 0,
+      "missingCanonicalAssets": ["cover_00", "panel_01", "panel_02", "panel_03", "panel_04", "panel_05", "panel_06", "panel_07", "panel_08", "panel_09", "panel_10", "panel_11", "panel_12", "cta_13"],
+      "missingOther": ["PDF", "LinkedIn/social copy", "release QA", "release manifest"],
+      "githubPublishedBinaryAssets": 0,
+      "directlyAccessibleRejectedPanel05Candidates": [
+        {"size":3330468,"sha256":"787820acb4b104e6ecb55dc9b02f55f617db70abe59298b3ae544d3455346e56","approval":"REBUILD_REQUIRED"},
+        {"size":3349787,"sha256":"506e7de45dd1d26c2f5b327a0c9b15f39dc2254d95f6459d21af99a9cad70898","approval":"REBUILD_REQUIRED"},
+        {"size":3812711,"sha256":"879c00cd035bbc8a4f3f2f197823f11a777021a9337909615ba0530c3f9ce6b0","approval":"REBUILD_REQUIRED"},
+        {"size":3733710,"sha256":"34936e7b6b49e34ba9c6dee7f9c25d825ca68edf4717f9c82d827b289b41b70a","approval":"REBUILD_REQUIRED"},
+        {"size":3339914,"sha256":"76dd51208b578e43d45063268b11019e4ff028f329e62614b9f3d07b09a27d39","approval":"REBUILD_REQUIRED"}
+      ]
+    }
+  },
+  "originalStory": {
+    "status": "EXISTS_AND_EXPORTABLE",
+    "path": "ORIGINAL_STORY.md"
+  },
+  "binaryBackfillRetry": {
+    "attemptedAt": "2026-08-24T00:28:00+02:00",
+    "protocol": "BINARY-BACKFILL-RETRY.md",
+    "sourceReinventory": "PASS",
+    "githubDestinationReadback": "PASS_NO_BINARY_PATHS_PRESENT",
+    "publishStatus": "GITHUB_PUBLISH_FAILED",
+    "failure": "The connected GitHub create_blob action accepts only supplied string content and exposes no mounted local-file parameter. The directly accessible original PNG/PDF/ZIP bytes are multi-megabyte binaries; transferring them exactly into create_blob through the available tool/context interface cannot be completed without reconstructing or risking alteration. No queue manifest was submitted for any binary whose exact blob bytes could not be verified.",
+    "githubPublishedBinaryAssetsAfterReadback": 0
+  },
+  "githubPublishedBinaryAssets": 0,
+  "backfilledAt": "2026-08-24T00:28:00+02:00"
+}

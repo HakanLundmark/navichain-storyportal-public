@@ -1,0 +1,53 @@
+{
+  "schema": "navichain-retro-backfill-v2-status",
+  "storyId": "hyllan-som-haller-isar",
+  "checkedAt": "2026-08-24T17:25:00+02:00",
+  "masterVersion": "v1.0",
+  "narrativeMaster": {
+    "locale": "sv-SE",
+    "canonicalPath": "stories/hyllan-som-haller-isar/ORIGINAL_STORY.md",
+    "exactRuntimeArchivePath": "stories/hyllan-som-haller-isar/source/original-story-sv-SE.md",
+    "sourceClass": "EXACT_ORIGINAL",
+    "runtimeSize": 13329,
+    "runtimeSha256": "1f8132c3af7086d449ff8d91d29f9c07bbb9c417eb65c3181b82e06c980e9e39",
+    "gitBlobSha": "1b1922e3ab37cf49d5cf23e4e6d0430f34880ec1",
+    "githubReadBack": true,
+    "byteIdentityVerifiedByGitBlobSha": true
+  },
+  "englishStory": {
+    "locale": "en-GB",
+    "path": "stories/hyllan-som-haller-isar/source/original-story-en-GB.md",
+    "sourceLocale": "sv-SE",
+    "sourceClass": "DERIVED_TRANSLATION",
+    "translationType": "faithful",
+    "narrativeMaster": false,
+    "size": 13557,
+    "sha256": "94613b7c21101a56a11c2f625727045acf60d04e8531f2ba2f20a41d5f547e3f",
+    "sourceStorySha256": "1f8132c3af7086d449ff8d91d29f9c07bbb9c417eb65c3181b82e06c980e9e39",
+    "gitBlobSha": "58f59514460e499e8255580b4b34e64c757e4a8a",
+    "githubReadBack": true,
+    "byteIdentityVerifiedByGitBlobSha": true
+  },
+  "canonicalVisualInventory": {
+    "sv-SE": {"exactOriginal": 14, "sourceNotExportable": 0, "notCreated": 0, "releaseQa": "NOT_ASSERTED", "ctaQa": "REJECTED"},
+    "en-GB": {"exactOriginal": 13, "sourceNotExportable": 1, "notCreated": 0, "releaseQa": "INCOMPLETE", "sourceNotExportableAssets": ["panel_04"], "ctaQa": "REBUILD_REQUIRED"},
+    "de-DE": {"exactOriginal": 3, "sourceNotExportable": 0, "notCreated": 11, "releaseQa": "INCOMPLETE", "rebuildRequiredAssets": ["panel_01", "panel_02"]}
+  },
+  "derivedHistorical": {
+    "sv-SE-pdf": {"sourceClass": "EXACT_ORIGINAL", "size": 70041818, "sha256": "87f554521a5c34cd0e2bf886f6310f42225c650984ef3a7640c7a2dd65420a6e"},
+    "historicalExtraExactVisualCandidatesArchived": 19
+  },
+  "preparedAutomaticTransport": {
+    "fullArchive": {"file": "hyllan-som-haller-isar-retro-backfill-v2-full.zip", "size": 208777655, "sha256": "0a30f4a06190bcd8240b3b154c0364cbd5aa1ee5e5cfacafed1d33f1ce0889f8"},
+    "sv-SE": {"package": "hyllan-som-haller-isar-sv-SE-retro-backfill-v2.zip", "sha256": "878e70d54338908259682649623459d000c4f30961c65ee7606411a96486b40c", "publishRequest": "hyllan-som-haller-isar-sv-SE.publish.json", "files": 16},
+    "en-GB": {"package": "hyllan-som-haller-isar-en-GB-retro-backfill-v2.zip", "sha256": "478a967436ec48c7abf378df733ebd9c1128507febd66849efb385789101e607", "publishRequest": "hyllan-som-haller-isar-en-GB.publish.json", "files": 14},
+    "de-DE": {"package": "hyllan-som-haller-isar-de-DE-retro-backfill-v2.zip", "sha256": "5e18f58a3bd91123e012372ea0d556afba30d93f273ffe967b54726aaaec0b4b", "publishRequest": "hyllan-som-haller-isar-de-DE.publish.json", "files": 3}
+  },
+  "transport": {
+    "chromeControlAvailableInCurrentChatRuntime": false,
+    "nextcloudConnectorAvailableInCurrentChatRuntime": false,
+    "binaryGithubReadBackVerified": 0,
+    "status": "PARTIAL_BACKFILL",
+    "reason": "Exact historical packages and validated local publish requests were created without rerendering or reconstruction. The current ChatGPT tool surface cannot initiate the user's Chrome-download/local-capture/Nextcloud/router chain itself; binary GitHub completion therefore remains pending and no SYNCED claim is made."
+  }
+}

@@ -1,0 +1,8 @@
+QA STATUS: PARTIAL PACKAGE
+
+CTA QR raster decode: PASS -> https://navichain.se/signup
+Expected story assets: 14
+Available/materialized assets: 10
+Missing from active runtime: panel_04, panel_05, panel_08, panel_10
+
+No placeholder images were inserted and no missing panel was silently regenerated.

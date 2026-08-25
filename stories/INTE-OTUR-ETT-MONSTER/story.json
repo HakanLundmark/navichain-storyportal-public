@@ -1,0 +1,36 @@
+{
+  "schema": "navichain-storyportal-story-v1",
+  "storyId": "INTE-OTUR-ETT-MONSTER",
+  "title": "INTE OTUR. ETT MÖNSTER.",
+  "masterLocale": "sv-SE",
+  "masterVersion": null,
+  "status": "INCOMPLETE",
+  "narrativeMasterPath": "stories/INTE-OTUR-ETT-MONSTER/ORIGINAL_STORY.md",
+  "narrativeMasterSourceClass": "EXACT_ORIGINAL",
+  "narrativeMasterSha256": "f1cc6739aff8a4881656aff0067e355dc8bf44ee02f509dc3253497b6fccc685",
+  "enGbStoryPath": "stories/INTE-OTUR-ETT-MONSTER/source/original-story-en-GB.md",
+  "enGbTranslationType": "faithful",
+  "enGbSourceClass": "DERIVED_TRANSLATION",
+  "enGbNarrativeMaster": false,
+  "enGbStorySha256": "ec38afc2f8d2b297cf905f869933920aba95dadfae631e59a09ab76cbe8eba7c",
+  "protagonist": "Sara Lund",
+  "company": "Björklunda Åkeri AB",
+  "primaryCapability": "Bookings filtering plus transparent carrier matching and user selection",
+  "locales": {
+    "sv-SE": "INCOMPLETE",
+    "en-GB": "TEXT_ONLY_DERIVED_TRANSLATION"
+  },
+  "canonicalHistoricalAssets": {
+    "sv-SE": 10
+  },
+  "sourceNotExportableCanonicalAssets": {
+    "sv-SE": ["panel_04", "panel_05", "panel_08", "panel_10"]
+  },
+  "githubPublishedBinaryAssets": 0,
+  "historicalCandidateBinariesDirectlyAvailableInChatRuntime": 7,
+  "retroBackfillV2Status": "PARTIAL_BACKFILL",
+  "automaticTransportStatus": "BLOCKED_AT_CHATGPT_TO_CHROME",
+  "nextcloudArchiveStatus": "NOT_VERIFIED_FROM_THIS_RUNTIME",
+  "pipelineVersion": "6.1.7a",
+  "notes": "Historical backfill keeps provenance separate from QA. Missing canonical panels were not regenerated or reconstructed. The English file is a faithful text translation only and is not a Narrative Master."
+}

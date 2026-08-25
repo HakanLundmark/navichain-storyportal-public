@@ -1,0 +1,13 @@
+{
+  "schema": "navichain-story-translation-v1",
+  "storyId": "SAMMA-KUND-TVA-VARLDAR",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStoryPath": "stories/SAMMA-KUND-TVA-VARLDAR/ORIGINAL_STORY.md",
+  "sourceStorySha256": "61a5b45408be5276d0df02047e340f47176d8232da41181d9b9a70df25a9d965",
+  "translationSha256": "58fd53574281dc90200f2bba10167f4166267d03d1880b22f85625be3d835d1b",
+  "createdAt": "2026-08-24T17:25:00+02:00"
+}

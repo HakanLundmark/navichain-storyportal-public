@@ -1,0 +1,7 @@
+En faktura ska inte behöva skrivas två gånger.
+
+För Siv på Kron Elteknik blev den manuella återinmatningen mellan Navichain och bokföringen ett återkommande dubbelarbete - och en liten felskrivning räckte för att skapa timmar av avstämning.
+
+När den redan anslutna bokföringskopplingen väl började användas kunde fakturor och kreditnotor skickas vidare med en uttrycklig, användarinitierad åtgärd. Samma siffror, färre manuella steg och bättre kontroll.
+
+Navichain är verktyget. Människan behåller kontrollen.

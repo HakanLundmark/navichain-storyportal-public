@@ -1,0 +1,13 @@
+{
+  "storyId": "facit-kom-en-manad-for-sent",
+  "canonicalTextPath": "stories/facit-kom-en-manad-for-sent/ORIGINAL_STORY.en-GB.md",
+  "sourceLocale": "sv-SE",
+  "locale": "en-GB",
+  "translationType": "faithful",
+  "narrativeMaster": false,
+  "sourceClass": "DERIVED_TRANSLATION",
+  "sourceStorySha256": "c936c52debffefd467f86386bdef6ae8d6e1e5ceb50f10da114db96911eafe2e",
+  "sha256": "bab79e61a97da9ea7bf850025ebd3961b4791008c49dfb1e077c20a467bdccae",
+  "size": 11296,
+  "githubReadBackVerified": true
+}
